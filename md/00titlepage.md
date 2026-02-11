@@ -17,10 +17,9 @@ Rights: CC BY-NC 4.0
 ...
 
 ---
-title: |
-    The Many Faces of Data Access
+# The Many Faces of Data Access
 
-    Legal and Policy implications for research
+##     Legal and Policy implications for research
 ---
 
 

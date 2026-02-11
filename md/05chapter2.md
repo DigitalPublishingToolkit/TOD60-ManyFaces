@@ -19,12 +19,12 @@ Rights: CC BY-NC 4.0
 
 # Re-Conceptualizing Governance Policies on Data Access for Research 
 
-# *Carolina Aguerre*
+### Carolina Aguerre
 
 The last decade has seen an expansion of scholars who are increasingly
 interested in questioning the current data governance arrangements, its
 politics, and the very foundations of knowledge and power against the
-dominance of Big Tech platforms.^1^ Much of this literature has claimed
+dominance of Big Tech platforms.[^05chapter2_1] Much of this literature has claimed
 that the power harnessed by these organizations should be addressed
 practically and politically, through resistance strategies as well as
 through policies, including regulation. Yet often it claims that this is
@@ -33,9 +33,9 @@ power deserves a special epistemological status.
 
 The notion of ‘data interest’ as one that constitutes a need and value
 of data as a resource is found in different sectors, including the
-scientific, and involves design and governance practices.^2^ Access to
+scientific, and involves design and governance practices.[^05chapter2_2] Access to
 data has been a crucial and longstanding concern of academia to fulfill
-its mission towards advancing science and achieving research goals.^3^
+its mission towards advancing science and achieving research goals.[^05chapter2_3]
 The development of the internet in the 1990s and the expansion of
 digital networked technologies and artificial intelligence (AI) became
 game changers for the practices of the scientific community in different
@@ -43,22 +43,22 @@ disciplinary domains.
 
 The possibility of amassing large data troves of big data has been
 possible due to the internet and the platforms and applications that
-have connected layers of individuals and devices.^4^ The control of
+have connected layers of individuals and devices.[^05chapter2_4] The control of
 these data troves has been well guarded in many of the large internet
 platforms that have trained their algorithms with these machine learning
 (ML) models. The emergence of even larger data sets that train the
 algorithms of most generative AI applications is based on larger volumes
 of data that are collected and analyzed from the open internet,
-including platforms.^5^ Without the complementarities between different
+including platforms.[^05chapter2_5] Without the complementarities between different
 technologies and open infrastructures, the current disruptions of
 generative AI applications fostered by the private sector and many
-legacy digital platforms would not have been achieved.^6^
+legacy digital platforms would not have been achieved.[^05chapter2_6]
 
 It is well known that the tensions between data access and the interests
-of global corporations are a pressing issue^7^ for governments, civil
+of global corporations are a pressing issue[^05chapter2_7] for governments, civil
 society, researchers, and small companies, as legitimacy concerns backed
-by an idea of access to data as a justice issue^8^ continue to build
-up.^9^ While the Digital Services Act, 2022 (DSA), and in particular
+by an idea of access to data as a justice issue[^05chapter2_8] continue to build
+up.[^05chapter2_9] While the Digital Services Act, 2022 (DSA), and in particular
 Article 40 have played a relevant role in the debate of access to very
 large platforms’ data for research over the last years, this policy
 remains a regional instrument. The Digital Markets Act (DMA), 2022, and
@@ -67,9 +67,9 @@ control of Big Tech and large and relevant data sets for society at
 large. Yet it is an instrument that is notably absent in countries
 outside the European Union (EU), and even more so in global majority
 contexts. Despite this, it may have implications for researchers beyond
-the EU and thence transnational and extraterritorial effects,^10^ as
+the EU and thence transnational and extraterritorial effects,[^05chapter2_10] as
 evidenced from recent examples with EU regulation on data and
-digitization.^11^
+digitization.[^05chapter2_11]
 
 For stakeholders outside of the potential scope of these measures, there
 are different initiatives which have treated data access issues for
@@ -91,13 +91,13 @@ approaches do not always facilitate these objectives. This is largely
 because they are still disconnected policy instruments, but also because
 in many countries in global majority contexts, research and innovation
 is still an aspiration rather than a well-defined and consistent
-policy.^12^ Though the general objectives and the actors for both OS and
-(national) AI strategies are different, there are some overlaps and a
-notorious common interest in having access to data.
+policy.[^05chapter2_12] Though the general objectives and the actors for both OS
+and (national) AI strategies are different, there are some overlaps and
+a notorious common interest in having access to data.
 
 The dispersed features around digital data policies are characteristics
 of polycentric governance and governing. Polycentric theories address
-how scattered sites of governance function, or not.^13^ The first
+how scattered sites of governance function, or not.[^05chapter2_13] The first
 theoretical developments concerning polycentric governance occurred with
 Michael Polanyi in 1951, when he studied science and the evolution of
 species along the lines of selforganization. Science as such was one of
@@ -107,19 +107,19 @@ developed by Vincent and Elinor Ostrom, which addressed the different
 types of goods, mainly those of a public good nature that tend not to
 exclude its uses. Many of these are related with natural resource
 management. This provides a relevant analogy with the recent but
-contentious analogies of data as a natural resource.^14^ Yet it is still
-relevant to acknowledge since it underscores the factiousness around
-data governance, including issues of data ownership, access,
+contentious analogies of data as a natural resource.[^05chapter2_14] Yet it is
+still relevant to acknowledge since it underscores the factiousness
+around data governance, including issues of data ownership, access,
 appropriation, protection, and management, which are all central to the
 tensions of natural resources.
 
-In the context of the consolidated power of Big Tech,^15^ it seems
+In the context of the consolidated power of Big Tech,[^05chapter2_15] it seems
 counterintuitive to ascertain digital data governance as polycentric.
 Yet, as developed by Kate Crawford, ‘this large-scale capture (of data)
 has become so fundamental to the AI field that it is unquestioned. So
 how did we get here? What ways of conceiving data have facilitated this
 stripping of context, meaning, and specificity? … What forms of power do
-these approaches enhance and enable?’^16^ How are these data-capture
+these approaches enhance and enable?’[^05chapter2_16] How are these data-capture
 practices enabling certain forms of knowledge? What would expanding
 access to data mean for researchers in the context of increasing
 expansion of AI and more centres of power, authority, and legitimacy?
@@ -146,7 +146,7 @@ would also potentially touch upon this concern, their focus is on
 increasing government transparency and citizen and business engagement
 with mostly open-sector data. As the last decade has shown in terms of
 the open data movement, it is not enough for the public sector to open
-data, as the private sector holds the key to the largest data sets.^17^
+data, as the private sector holds the key to the largest data sets.[^05chapter2_17]
 States in different parts of the world and different political regimes
 are concerned with the asymmetries between local actors’ capacity to
 develop data-driven products on the one hand and develop innovation and
@@ -154,7 +154,7 @@ economic growth on the other. That is, they have a competitive
 motivation to help firms in their countries develop the production of
 data-driven goods and services, and sometimes this is only possible with
 the integration of science and research synergies with the local
-business environment^18^ in the EU and also beyond it.^19^
+business environment[^05chapter2_18] in the EU and also beyond it.[^05chapter2_19]
 
 The research here is based on different data sources, including analysis
 of national and international policy documents concerning OS and
@@ -169,7 +169,7 @@ The first section discusses the state of the art of the policy
 developments concerning data access for research in the OS movement and
 AI strategies and plans. The second section develops the conceptual
 framework that will be used based on polycentric governance theorizing
-in the digital field.^20^ The third elaborates on the landscape of
+in the digital field.[^05chapter2_20] The third elaborates on the landscape of
 initiatives and themes against polycentric governing. The final section
 addresses knowledge and power concerns and the way forward for this
 debate.
@@ -193,7 +193,7 @@ fundamental models and generative AI applications.
 OS rests on several definitions which embrace different scopes and
 practices. New demands are emerging from academia and civil society in
 relation to data access to achieve socio-economic development, advance
-science beyond a corporate agenda, and address cognitive justice.^21^
+science beyond a corporate agenda, and address cognitive justice.[^05chapter2_21]
 Ultimately, these different approaches share a common denominator in
 making knowledge development processes as open and accessible as
 possible.
@@ -204,7 +204,7 @@ possible.
 > increase scientific collaborations and sharing of information for the
 > benefits of science and society, and to open the processes of
 > scientific knowledge creation, evaluation and communication to
-> societal actors beyond the traditional scientific community.^22^
+> societal actors beyond the traditional scientific community.[^05chapter2_22]
 
 According to the UNESCO (United Nations Educational, Scientific, and
 Cultural Organization) Recommendation on Open Science, this concept
@@ -216,21 +216,21 @@ open access to scientific publications, research data, metadata, open
 educational resources, software, and source code and hardware that are
 available in the public domain or under copyright and licensed under an
 open licence that allows access, reuse, repurpose, adaptation, and
-distribution under specific conditions, provided to all actors.^23^
+distribution under specific conditions, provided to all actors.[^05chapter2_23]
 
 Other definitions based on literature reviews define OS as ‘transparent
 and accessible knowledge that is shared and developed through
-collaborative networks’.^24^ The term ‘knowledge’ includes code, data,
+collaborative networks’.[^05chapter2_24] The term ‘knowledge’ includes code, data,
 ideas, information, scientific outputs, scientific publications, and
-scientific results.^25^ Sh. Moradi and S. Abdi conceive ‘open science’
+scientific results.[^05chapter2_25] Sh. Moradi and S. Abdi conceive ‘open science’
 as a novel approach to science and the process of its generation,
 monitoring, and dissemination, covering three sectors affected by the
 notion of ‘openness’ – that which should be incorporated in research
-data, in scholarly communication, and in access.^26^
+data, in scholarly communication, and in access.[^05chapter2_26]
 
 The EU’s OS policy is defined as an ‘approach to the scientific process
 that focuses on spreading knowledge as soon as it is available using
-digital and collaborative technology’.^27^ Concerning the data
+digital and collaborative technology’.[^05chapter2_27] Concerning the data
 component, the European Commission requires research and innovation
 funding beneficiaries to make their publications available in open
 access and ‘make their data as open as possible and as closed as
@@ -238,40 +238,40 @@ necessary’, acknowledging a perennial tension of the debate concerning
 intellectual property and commercialization tensions. The EU’s approach
 stresses timeliness as a key attribute and added value of OS data access
 policies. In the case of Latin America, the COVID-19 pandemic enhanced
-the need to embrace a regional scope for OS policies.^28^ The region has
-countries with strong policies concerning scientific data and access to
-publications (Mexico, Peru, Argentina) and recommendations on different
-OS dimensions in Chile, Brazil, Colombia, and Uruguay, particularly
-within their national research agencies but which have not become
-consolidated policies.^29^ Africa has the Africa Open Science Platform
-(AOSP), established in 2017, which is supported by several scientific
-and research authorities in South Africa and the region, such as
-Bibliotheca Alexandrina. For many African countries, OS remains confined
-to scientists and research networks rather than being a state
-policy.^30^
+the need to embrace a regional scope for OS policies.[^05chapter2_28] The region
+has countries with strong policies concerning scientific data and access
+to publications (Mexico, Peru, Argentina) and recommendations on
+different OS dimensions in Chile, Brazil, Colombia, and Uruguay,
+particularly within their national research agencies but which have not
+become consolidated policies.[^05chapter2_29] Africa has the Africa Open Science
+Platform (AOSP), established in 2017, which is supported by several
+scientific and research authorities in South Africa and the region, such
+as Bibliotheca Alexandrina. For many African countries, OS remains
+confined to scientists and research networks rather than being a state
+policy.[^05chapter2_30]
 
 Data governance practices in OS are enshrined in two sets of principles:
 FAIR and CARE. The FAIR principles, meaning that data should be
 findable, accessible, interoperable, and re-usable, are a cross-cutting
 standard for all the data produced within the OS umbrella since they
-were adopted in 2016.^31^ The publication of these principles helped
+were adopted in 2016.[^05chapter2_31] The publication of these principles helped
 encourage practices that made OS values more visible and applicable for
 data access for scientific research, and they have also been included in
 open data strategies. CARE (collective benefit, authority to control,
 responsibility, and ethics) principles were approved in 2019 and are
 broader than FAIR but allow to frame the context and purpose of data
-governance for indigenous data sovereignty,^32^ which includes
+governance for indigenous data sovereignty,[^05chapter2_32] which includes
 recognizing the different conceptions around science, technology, and
 culture. Indigenous data sovereignty ‘refers to the right of Indigenous
 Peoples to govern the collection, ownership, and application of data
-about Indigenous communities, peoples, lands, and resources’.^33^ Though
-the CARE principles are not invoked in the pastoralists’ struggle in
-Ghana to secure their data rights (see chapter 3), they are struggling
-for their own self-determination concerning their data politics and
-practices.
+about Indigenous communities, peoples, lands, and resources’.[^05chapter2_33]
+Though the CARE principles are not invoked in the pastoralists’ struggle
+in Ghana to secure their data rights (see chapter 3), they are
+struggling for their own self-determination concerning their data
+politics and practices.
 
 OS has had significant effects on open access publications during the
-last 20 years.^34^ Open access and open data publications are becoming
+last 20 years.[^05chapter2_34] Open access and open data publications are becoming
 increasingly mandatory in research environments with public funding,
 notably in the EU, Latin America, and Canada. Two broad approaches may
 be identified in the different policies concerning the availability of
@@ -279,18 +279,18 @@ open scientific knowledge: publication in open access formats and
 repositories and open data initiatives for scientific endeavours. There
 are more nuanced interpretations with regard to the publication of
 accessible and open data emerging from research. For example, the
-Organization for Economic Co-Operation and Development (OECD)^35^ mapped
-15 open data initiatives for open science and 6 for publications, most
-of them concentrated in Europe and Latin America, the two regions where
-OS is more heavily discussed and practised.^36^ There are fewer
+Organization for Economic Co-Operation and Development (OECD)[^05chapter2_35]
+mapped 15 open data initiatives for open science and 6 for publications,
+most of them concentrated in Europe and Latin America, the two regions
+where OS is more heavily discussed and practised.[^05chapter2_36] There are fewer
 incentives to publish open data emerging from scientific research
 compared with defining the outlets for publishing in open access across
 the different national and regional initiatives that have been assessed
-in Latin America, Europe, and Canada.^37^
+in Latin America, Europe, and Canada.[^05chapter2_37]
 
 Several studies suggest that there is a lack of incentives for open
 science. Even though a vast majority of scientists support open science,
-few practise it, and there is a call for better enforcement.^38^ The
+few practise it, and there is a call for better enforcement.[^05chapter2_38] The
 Registry of Open Access Repositories Mandatory Archiving Policies
 (ROARMAP) is an example to redress this issue where policymakers and
 funders have developed certain policies requiring that the research they
@@ -302,14 +302,14 @@ but also within stakeholders and institutions. The COVID-19 pandemic has
 underscored the need for much greater collaboration among scientists,
 and a shared understanding of the policies and practices, including
 those related to data access, has become more urgent to help address
-future global crises.^39^ The mix of concerns at the heart of the OS
+future global crises.[^05chapter2_39] The mix of concerns at the heart of the OS
 movement expose the different interests, actors’ values, and normative
 understandings. Research on this issue underscores the different policy
 objectives on how OS is framed, ranging from open data and open access
 as facilitators of OS to scientific efficiency, infrastructure enablers,
 strategic advantages, the role of the private sector, beneficiaries of
 OS, socio-economic progress as a response to global development and as a
-model to reduce dependencies on current structures.^40^ These different
+model to reduce dependencies on current structures.[^05chapter2_40] These different
 issues have multiple centres of decision-making and authority that span
 national and regional science agencies, data protection authorities,
 government open data policies, the private sector, academic publishers,
@@ -323,12 +323,12 @@ openness in scientific practices.
 
 The integration of AI systems in society has become a concern and a
 priority for many governments which steer these debates in their
-national contexts and embed their own vision.^41^ The so-called AI gap
+national contexts and embed their own vision.[^05chapter2_41] The so-called AI gap
 is characterized by those who have the capacity to design and implement
 AI applications which are largely based on computational capacity and
-power, access to relevant data, and skills and knowledge in AI.^42^
+power, access to relevant data, and skills and knowledge in AI.[^05chapter2_42]
 Access to large amounts of high-quality data provides one of the
-greatest competitive advantages under the AI paradigm.^43^
+greatest competitive advantages under the AI paradigm.[^05chapter2_43]
 
 During the second half of the 2010s, a growing number of countries and
 regions developed AI strategies, plans, or agendas as policy
@@ -338,7 +338,7 @@ artefacts that have helped frame, prioritize, and steer actions
 concerning the development, use, and regulation of AI systems in
 specific contexts. The first of these policy instruments emerged in
 Canada, but it was closely followed by both consolidated and emerging
-economies, mostly from Asia and Latin America from 2018.^44^ In most
+economies, mostly from Asia and Latin America from 2018.[^05chapter2_44] In most
 cases, a ‘first generation’ of strategies may be identified between the
 first period between 2017 and 2020 that aimed to address many needs:
 (*a*) clarification of the fastpaced changes that were being brought
@@ -355,7 +355,7 @@ differs from the first wave in that they are more comprehensive and
 involve ethics, regulation, and development issues in the policy
 repertoire of these strategies in more explicit terms. Many countries
 with an existing AI strategy are embarking on a revision of these
-terms.^45^
+terms.[^05chapter2_45]
 
 As data plays such a pivotal role in ML models, its access and sharing
 are key considerations for sectors involved in the development and
@@ -367,11 +367,11 @@ It is becoming increasingly evident that national strategies are
 focusing on open data access policies and strategies not only for the
 original purposes of transparency, research, and innovation, but also
 more forcefully to promote the development of AI systems in those
-contexts.^46^ Examples mapped by the OECD range from provision of access
-to weather, climate, and marine data following the example of the Danish
-Meteorological Institute; European co-operation on space data; the
-production of public data available in an open, reusable, and accessible
-format for ML in several countries across different regions
+contexts.[^05chapter2_46] Examples mapped by the OECD range from provision of
+access to weather, climate, and marine data following the example of the
+Danish Meteorological Institute; European co-operation on space data;
+the production of public data available in an open, reusable, and
+accessible format for ML in several countries across different regions
 (consolidated and emerging economies); the creation of several national
 AI policies plan to develop centralized, accessible repositories of open
 public data; and the creation of special agencies and institutions
@@ -392,18 +392,18 @@ developed in partnership with other local actors (governments,
 universities, and civil society) mostly attending climate change and
 environment issues, followed by AI to achieve the Sustainable
 Development Goals (SDGs) and healthcare as the three main sectors in
-different national contexts.^47^
+different national contexts.[^05chapter2_47]
 
 Two recent events have spurred the debates concerning data access for
 science and AI: the COVID-19 pandemic and the widespread emergence of
 generative AI applications for the larger public, with commercial
 applications such as ChatGPT, Midjourney, and Gemini. In the first case,
 AI systems proved to be instrumental in some areas, such as vaccine
-development.^48^ However, despite the many diagnostic and predictive
-tools, most of them were flawed for various reasons.^49^ These
+development.[^05chapter2_48] However, despite the many diagnostic and predictive
+tools, most of them were flawed for various reasons.[^05chapter2_49] These
 weaknesses concerned data that was of poor quality, not standardized,
 mislabeled, biased, and frequently from unknown sources. Another issue
-identified in the UNESCO report^50^ was ‘that frequently neither data
+identified in the UNESCO report[^05chapter2_50] was ‘that frequently neither data
 nor training models were shared since academic researchers have commonly
 few career incentives to do so’. The gap in terms of access to vaccines
 and relevant treatments that could be developed with AI based on large
@@ -430,12 +430,12 @@ governance. This chapter expands on the theorizing of polycentric
 governance of digital data as one that provides a set of lenses that
 help tie together the wide range of actors, issues, and processes that
 are involved in access to digital data for research as a specific and
-contentious issue concerning digital data governance more broadly.^51^
+contentious issue concerning digital data governance more broadly.[^05chapter2_51]
 Polycentrism reveals multiple power centres and connections, including
 formal and informal arrangements, multiple scales (local-to-global), and
 different sectors (governmental, commercial, civil society, technical,
-academic).^52^ The polycentric condition involves both dispersion and
-structure.^53^ Polycentrism sheds light on both formal and informal
+academic).[^05chapter2_52] The polycentric condition involves both dispersion and
+structure.[^05chapter2_53] Polycentrism sheds light on both formal and informal
 attempts to address concerns surrounding data at different levels of
 activity and across sectors. It enables the identification and
 assessment of highly fluid arrangements emerging in global digital data
@@ -464,16 +464,16 @@ authority that shape both data and its governance at a macro level.
 While data may not be fully considered a pure common good, the tensions
 surrounding its governance lie in the lowering of barriers to its access
 that has been part of a process of expansion of digitalization,
-datafication, and radical productive transformation.^54^ The corporate
+datafication, and radical productive transformation.[^05chapter2_54] The corporate
 sector, mainly the platformbased technological companies, have managed
-to capture the largest amounts of data globally.^55^
+to capture the largest amounts of data globally.[^05chapter2_55]
 
 Up until a decade ago, polycentric governance theory was mainly related
 with the institutional perspectives from the Bloomington School and
 Elinor and Vincent Ostrom’s work on common-pool resources, which have
 influenced the studies concerning digital data governance from a data
 commons approach and related institutional and normative practices,
-including data trusts and ‘data sovereignty’.^56^ With an international
+including data trusts and ‘data sovereignty’.[^05chapter2_56] With an international
 and complexity lens on polycentric governance, a more explicit focus
 emerges on the dynamics of power, legitimacy, authority, cooperation, as
 well as more day-to-day dispersed forms of technical coordination by
@@ -489,13 +489,13 @@ property, though other functionalities of data, particularly those that
 concern research and innovation, are involved in more fluid notions
 where the dispersion of interests, actors, and regulatory possibilities
 at the national and international levels are much more debatable.
-Regulatory polycentric regimes^57^ are defined similarly to how recent
+Regulatory polycentric regimes[^05chapter2_57] are defined similarly to how recent
 theoretical developments have expanded on polycentric theorizing to
-address transnational issues.^58^ A crucial difference is that
+address transnational issues.[^05chapter2_58] A crucial difference is that
 regulatory polycentric regimes as approached by Julia Black are
 developed as a set of sustained events to modify the behaviour of
-others,^59^ while polycentric theorizing on digital data governance
-specifically^60^ is at an earlier stage in the construction of a
+others,[^05chapter2_59] while polycentric theorizing on digital data governance
+specifically[^05chapter2_60] is at an earlier stage in the construction of a
 normativity for a regime, probably because of the need for further
 analysis on existence, overlap, and tensions of multiple regimes that
 operate on the spectrum of digital data. Polycentric governance involves
@@ -515,12 +515,12 @@ have the capacity to change other actors’ behaviours, and those of
 authority as those that have influence on others based on some
 legitimacy claims, rooted in the Weberian distinction that is critical
 for polycentric governance theories from the Ostrom legacy to newer
-approaches.^61^ This classification is relevant for this work as the
+approaches.[^05chapter2_61] This classification is relevant for this work as the
 policies that are examined – OS and AI strategies – are not binding laws
 and must navigate different levels, actors, ambiguous hierarchies, and
 diffused authorities, all of which are typical attributes of polycentric
-governance^62^ which needs some form of legitimacy as a minimum baseline
-from which to influence behaviours, norms, and expectations.
+governance[^05chapter2_62] which needs some form of legitimacy as a minimum
+baseline from which to influence behaviours, norms, and expectations.
 
 Against a polycentric governance framework, these disparate arrangements
 are examined by connecting three different systemic organizing forces
@@ -531,16 +531,17 @@ ontological characterization of data governance through a lens of
 polycentric attributes to one where the relations between these three
 forces and their interconnections are rendered. Norms may be defined as
 principles that inform the process of governing, and they guide ideas
-and behaviours on what is correct.^63^ As a specific analytical point of
-entry, normative approaches take into account both ethical orientations
-and legal foundations. Practices are what people do with varying degrees
-of consciousness in their everyday routines and the regulating effects
-of these actions on how ‘things are done’.^64^ Finally, ‘underlying
-orders’ are the most invisible and deeply embedded systemic forces that
-ultimately shape many of the conscious adoption of norms and unconscious
-practices in a polycentric arrangement. Underlying orders are systemic
-in that they permeate different connections in a polycentric governance
-regime.^65^ They are powerful driving forces for practices and norms.
+and behaviours on what is correct.[^05chapter2_63] As a specific analytical point
+of entry, normative approaches take into account both ethical
+orientations and legal foundations. Practices are what people do with
+varying degrees of consciousness in their everyday routines and the
+regulating effects of these actions on how ‘things are done’.[^05chapter2_64]
+Finally, ‘underlying orders’ are the most invisible and deeply embedded
+systemic forces that ultimately shape many of the conscious adoption of
+norms and unconscious practices in a polycentric arrangement. Underlying
+orders are systemic in that they permeate different connections in a
+polycentric governance regime.[^05chapter2_65] They are powerful driving forces for
+practices and norms.
 
 Table 2.1 summarizes the findings in the respective approaches with a
 polycentric framework. Both OS and AI strategies configure specific data
@@ -603,7 +604,7 @@ governance. Yet the OS movement faces strong challenges concerning the
 application of FAIR principles, ‘particularly in the Global South, as
 countries need to transform the normative incentives within government
 bodies and funding agencies, as well as the evaluation models for
-researchers, institutions, and research programs’.^66^ OS and data
+researchers, institutions, and research programs’.[^05chapter2_66] OS and data
 governance approaches in many of these countries need not only to update
 existing practices but also to change long-standing approaches on how
 data is conceptualized, including intellectual property issues. On the
@@ -613,7 +614,7 @@ is also unequivocally polycentric as claimed by their authors: ‘The
 resulting data ecosystem, therefore, appears to be moving away from
 centralization, is becoming more diverse, and less integrated, thereby
 exacerbating the discovery and re-usability problem for both human and
-computational stakeholders.’^67^ While there are inherent tensions that
+computational stakeholders.’[^05chapter2_67] While there are inherent tensions that
 aim to centralize data for historical reasons motivated by intellectual
 property concerns and even security, greater demands placed on
 transparency and democratization principles invoke a different
@@ -627,26 +628,26 @@ distinctive features of the scientific community of the country in
 question should be considered. Realizing such a systemic change involves
 an internationally coordinated effort of researchers, universities,
 research institutes, publishers, research councils, and
-policymakers.^68^
+policymakers.[^05chapter2_68]
 
 Ghislaine Chartron spelled out three different and convergent orders of
 values and beliefs that underly the OS paradigm: ‘the *ethical values*
 of science as defined by Merton (1942 \[1973\]), *data science* as a new
 scientific paradigm, and *innovation* as a source of economic
-growth’.^69^ According to this vision, the innovation system is at the
+growth’.[^05chapter2_69] According to this vision, the innovation system is at the
 heart of the promotion of OS. Knowledge production must cross-fertilize
-scientific fields, companies, and governments.^70^ Possible transfers
+scientific fields, companies, and governments.[^05chapter2_70] Possible transfers
 between science, the economic fabric, and civil society to gain growth
 and confidence in science become the basic motivation. ‘When these three
 regimes come face to face, a certain confusion gradually sets in. Hardly
 reconcilable visions are being projected, such as the defense of the
 common good of science and the quest to create value for the
-socio-economic world.’^71^ These visions underscore the inherent
+socio-economic world.’[^05chapter2_71] These visions underscore the inherent
 tensions in a polycentric domain with different underlying orders.
 
 Moradi and Abdi’s research focused on European OS policies found that
 these prioritized open access publications, followed by open research
-data.^72^ Their work also noted the conflation of the notion of open
+data.[^05chapter2_72] Their work also noted the conflation of the notion of open
 access to data included in publications, rather than data for research.
 Part of the normative underpinnings of access to data by the OS movement
 concerns different framings around intellectual property provisions and
@@ -654,12 +655,12 @@ privacy regulations when personal data is involved, but most relevantly
 the incentives for researchers to generate open data repositories. While
 Latin America aims to increase uptake and foster open access indexed
 journal repositories, the application of the FAIR principles to data has
-not yet been substantively accomplished.^73^
+not yet been substantively accomplished.[^05chapter2_73]
 
 ### AI Strategies and Plans
 
 AI strategies tend to approach data governance as a vital resource for
-local AI development.^74^ The creation of large datasets is essential
+local AI development.[^05chapter2_74] The creation of large datasets is essential
 for the development of AI, sector-specific innovation, and capacity
 creation. Local research communities have been shown to be key actors in
 many contexts in the formulation of these policy instruments, but their
@@ -670,13 +671,13 @@ AI plans that formulate access to data for research have a strong
 competitive incentive. Practically all strategies address access to data
 for research with a utilitarian and geopolitical understanding,
 concerning the ‘AI race’ where indicators about number of standards,
-conference papers, and the like are routinely compared.^75^ There are
+conference papers, and the like are routinely compared.[^05chapter2_75] There are
 few interdisciplinary approaches or concerns in AI strategies for
 non-computer approaches to data and AI. Access to data for research is
 not even considered as part of the repertoire of many AI strategies, and
 these interests are included in other policy instruments, notably in the
-science sector.^76^ In a recent regional AI index covering 12 countries
-in Latin America,^77^ access to relevant data is confined to the
+science sector.[^05chapter2_76] In a recent regional AI index covering 12 countries
+in Latin America,[^05chapter2_77] access to relevant data is confined to the
 dimensions of the Global Data Barometer which are more relevant for an
 open government strategy rather than for comprehensive national data
 strategies that are needed in AI and OS.
@@ -691,11 +692,11 @@ trustworthy AI that includes digital technologies and infrastructure
 ‘and mechanisms for sharing AI knowledge, as appropriate. In this
 regard, governments should consider promoting mechanisms, such as data
 trusts, to support the safe, fair, legal, and ethical sharing of
-data’.^78^ Karen Yeung assesses the OECD recommendation as treading
+data’.[^05chapter2_78] Karen Yeung assesses the OECD recommendation as treading
 between two underlying forces with normative approaches: the ethical
 imperative to provide safeguards to the rise of AI risks but also as
 enablers ‘to avoid killing the golden goose of technological
-innovation’.^79^
+innovation’.[^05chapter2_79]
 
 The UNESCO Recommendation on the Ethics of AI has spurred a more
 specific normative orientation on the ethics of AI as the centrepiece of
@@ -712,9 +713,9 @@ are promoting a normative orientation towards AI systems that fully
 incorporates binding legal measures.
 
 From an underlying orders perspective, utilitarian perspectives
-predominate in AI strategies as their socio-technical imaginaries^80^
+predominate in AI strategies as their socio-technical imaginaries[^05chapter2_80]
 are imbued by notions of supremacy in AI capacity, the AI race, and
-cybernetic futures.^81^ Utilitarian approaches look at the maximization
+cybernetic futures.[^05chapter2_81] Utilitarian approaches look at the maximization
 of benefits for ‘a majority’, which have greater difficulty in matching
 these expectations on the consequences and outcomes of data-driven AI
 systems at broader social levels. The solutionist approach of national
@@ -722,7 +723,7 @@ and regional AI strategies is another fundamental underlying order that
 is aligned with utilitarian values. ‘Solutionist beliefs are a
 particularly important part of the spirit of digital capitalism, which
 we define as those normative beliefs that play a legitimizing,
-motivating and orienting role for today’s tech companies.’^82^ These
+motivating and orienting role for today’s tech companies.’[^05chapter2_82] These
 beliefs are present in AI strategies and inform not only how tech and AI
 firms see themselves but also how they are perceived by others, notably
 governments which steer the developments of these national plans. While
@@ -751,7 +752,7 @@ A polycentric lens enabled the connection of different sites of power
 and authority, as well as different normative, practical, and underlying
 orders of these arrangements. The different policy and regulatory
 initiatives involving access to digital data are a manifestation of
-broader theoretical, political, and sociotechnical intersections.^83^
+broader theoretical, political, and sociotechnical intersections.[^05chapter2_83]
 Currently, available policy initiatives should address these different
 centres of power and authority from these specialized fields and build
 bridges as access claims are shared. This recommendation is not
@@ -786,10 +787,10 @@ will require adjustments and redefinitions of governance structures,
 including reviewing or formulating policies that are critical drivers
 for implementations in the OS domain, in the AI policies space, and in
 the complementary strategies that should be considered to address a
-polycentric issue.^84^ Some of these policies will become legally coded,
-but others will be addressed through practices, as has been the case of
-the expansion of the FAIR and CARE principles for data and the open
-repository initiatives that rely on organic processes and different
+polycentric issue.[^05chapter2_84] Some of these policies will become legally
+coded, but others will be addressed through practices, as has been the
+case of the expansion of the FAIR and CARE principles for data and the
+open repository initiatives that rely on organic processes and different
 timings.
 
 Polycentric governance theorizing proved to be a relevant lens to frame
@@ -818,7 +819,7 @@ for the wider ecosystem and governance sites. AI strategies, on the
 other hand, are more inclined to develop a tactical approach towards
 data concerned with conditions ‘for’ research. The provocation is
 extended to rethink beyond a framing of OS in relation to science
-policy^85^ and to develop a triangular dialogue between OS, science
+policy[^05chapter2_85] and to develop a triangular dialogue between OS, science
 policy, and AI policy to advance access to data for research, among
 other objectives. This is a vital link where the research community
 should play an active role in the reconfiguration of norms, practices,
@@ -835,7 +836,7 @@ reification of data and datafication processes should also be examined
 against more thorough philosophical positions concerning the
 construction of legitimacy of certain types of knowledge, as the
 introduction to this volume by Jef Ausloos and Siddharth Peter de Souza
-has highlighted.^86^ Further studies could also address the different
+has highlighted.[^05chapter2_86] Further studies could also address the different
 disciplinary stakes on the issue of access to data for research,
 including a global majority perspective that situates practices of
 science and innovation policies.
@@ -845,11 +846,11 @@ science and innovation policies.
 The following public forums and events informed this research through a
 modality of participant observation: (*a*) 4 May 2023: virtual
 discussion organized by UNESCO on the readiness assessment methodology
-(RAM) published by this organization;^87^ (*b*) 10–11 May 2023: workshop
-convened by the National Endowment for Democracy (NED) (Buenos Aires) as
-part of a consultation on AI and its impact on democracy and human
-rights; and (*c*) 28–30 June 2023: roundtables organized by the Agency
-for Electronic Government and Information and Knowledge Society
+(RAM) published by this organization;[^05chapter2_87] (*b*) 10–11 May 2023:
+workshop convened by the National Endowment for Democracy (NED) (Buenos
+Aires) as part of a consultation on AI and its impact on democracy and
+human rights; and (*c*) 28–30 June 2023: roundtables organized by the
+Agency for Electronic Government and Information and Knowledge Society
 (AGESIC), the national agency for digital government of Uruguay, as part
 of the revision of the national AI strategy. These spaces were nurtured
 by the presence of policymakers, experts, and advocates from Argentina,
@@ -883,25 +884,25 @@ Secretariat for open data, Argentina (in person), March 2023.
 
 ## Notes
 
-1.  O. Nachtwey and T. Seidl, ‘The Solutionist Ethic and the Spirit of
+[^05chapter2_1]: O. Nachtwey and T. Seidl, ‘The Solutionist Ethic and the Spirit of
     Digital Capitalism’, 13 March 2020,
     https://osf.io/preprints/socarxiv/sgjzq (accessed 25 June 2023);
     Robert Gorwa, ‘What Is Platform Governance?’ *Information,
     Communication and Society* 22, no. 6, DOI:
     https://doi.org/10.1080/13691 18X.2019.1573914; S. Zuboff, *The Age
     of Surveillance Capitalism: The Fight for a Human Future at the New
-    Frontier of Power* (PublicAffairs, 2019); E. Ruppert, E. Isin,
-    and D. Bigo, ‘Data Politics’, *Big Data and Society* 4 (2017),
+    Frontier of Power* (PublicAffairs, 2019); E. Ruppert, E. Isin, and
+    D. Bigo, ‘Data Politics’, *Big Data and Society* 4 (2017),
 
-> DOI: https://doi.org/10.1177/2053951717717749; Danah Boyd and K.
-> Crawford, ‘Critical Questions for Big Data: Provocations for a
-> Cultural, Technological, and Scholarly Phenomenon’, *Information,
-> Communication and Society* 15, no. 662 (2012): 662–679.
+    DOI: https://doi.org/10.1177/2053951717717749; Danah Boyd and K.
+    Crawford, ‘Critical Questions for Big Data: Provocations for a
+    Cultural, Technological, and Scholarly Phenomenon’, *Information,
+    Communication and Society* 15, no. 662 (2012): 662–679.
 
-1.  Gry Hasselbalch, *Data Ethics of Power* (Edward Elgar Publishing,
+[^05chapter2_2]: Gry Hasselbalch, *Data Ethics of Power* (Edward Elgar Publishing,
     2021), 2.
 
-2.  J. Brase and A. Farquhar, ‘Access to Research Data’, *D-Lib
+[^05chapter2_3]: J. Brase and A. Farquhar, ‘Access to Research Data’, *D-Lib
     Magazine* 17, nos. 1–2 (2011),
     http://www.dlib.org/dlib/january11/brase/01brase.html (accessed 3
     March 2024); A. Nagaraj, E. Shears, and M. de Vaan, ‘Improving Data
@@ -909,7 +910,7 @@ Secretariat for open data, Argentina (in person), March 2023.
     National Academy of Sciences* 23490 (2020), DOI:
     https://doi.org/10.1073/ pnas.2001682117.
 
-3.  S. A. Aaronson, ‘Data Is Dangerous: Comparing the Risks that the
+[^05chapter2_4]: S. A. Aaronson, ‘Data Is Dangerous: Comparing the Risks that the
     United States, Canada and Germany See in Data Troves’, Working
     Papers, 2020, https://ideas.repec.org//p/gwi/wpaper/2020-5.html
     (accessed 16 June 2021); Kai-Fu Lee, *AI Superpowers* (Houghton
@@ -917,7 +918,7 @@ Secretariat for open data, Argentina (in person), March 2023.
     Orders and Jurisdictional Conflicts* (Oxford University Press,
     2023).
 
-4.  Benj Edwards, ‘Sites Scramble to Block ChatGPT Web Crawler after
+[^05chapter2_5]: Benj Edwards, ‘Sites Scramble to Block ChatGPT Web Crawler after
     Instructions Emerge’, *Ars Technica*, 12 August 2023,
     https://arstechnica.
     com/information-technology/2023/08/openai-details-how-to-keep-chatgptfrom-gobbling-up-website-data
@@ -926,37 +927,37 @@ Secretariat for open data, Argentina (in person), March 2023.
     https://finance.yahoo.com/news/york-times-may-sueopenai-150048157.html
     (accessed 12 October 2023).
 
-5.  A. Haleem, M. Javaid, and R. P. Singh, ‘An Era of ChatGPT as a
+[^05chapter2_6]: A. Haleem, M. Javaid, and R. P. Singh, ‘An Era of ChatGPT as a
     Significant Futuristic Support Tool: A Study on Features, Abilities,
     and Challenges’, *BenchCouncil Transactions on Benchmarks, Standards
     and Evaluations* 2, no. 4 (2022), DOI:
     https://doi.org/10.1016/j.tbench.2023.100089.
 
-6.  J. Ausloos, P. Leerssen, and Pim ten Thije, ‘Operationalizing
+[^05chapter2_7]: J. Ausloos, P. Leerssen, and Pim ten Thije, ‘Operationalizing
     Research Access in Platform Governance: What to Learn from Other
     Industries?’ Algorithm Watch,
     https://algorithmwatch.org/de/wp-content/uploads/2020/06/
     GoverningPlatforms\_IViR\_study\_June2020-AlgorithmWatch-2020-06-24.
     pdf (accessed 2 February 2023).
 
-7.  J. Black, ‘Constructing and Contesting Legitimacy and Accountability
-    in Polycentric Regulatory Regimes’, *Regulation and Governance* 137,
-    no. 2 (2008): 137–164, DOI:
+[^05chapter2_8]: J. Black, ‘Constructing and Contesting Legitimacy and
+    Accountability in Polycentric Regulatory Regimes’, *Regulation and
+    Governance* 137, no. 2 (2008): 137–164, DOI:
     https://doi.org/10.1111/j.1748-5991.2008.00034.x.
 
-8.  L. Taylor, ‘What Is Data Justice? The Case for Connecting Digital
+[^05chapter2_9]: L. Taylor, ‘What Is Data Justice? The Case for Connecting Digital
     Rights and Freedoms Globally’, *Big Data and Society* 4, no. 2
     (2017), DOI: https:// doi.org/10.1177/2053951717736335; Joan Lopez
     Solano, Aaron Martin, Siddharth de Souza, and Linnet Taylor,
     *Governing Data and Artificial Intelligence for All: Models for
     Sustainable and Just Data Governance* (European Parliament, 2022).
 
-9.  M. Husovec, ‘How to Facilitate Data Access under the Digital
+[^05chapter2_10]: M. Husovec, ‘How to Facilitate Data Access under the Digital
     Services Act’, 19 May 2023, https://papers.ssrn.com/abstract=4452940
     (accessed 8 July 2023).
 
-10. A. J. Carrillo and M. Jackson, ‘Follow the Leader? A Comparative Law
-    Study of the EU’s General Data Protection Regulation’s Impact in
+[^05chapter2_11]: A. J. Carrillo and M. Jackson, ‘Follow the Leader? A Comparative
+    Law Study of the EU’s General Data Protection Regulation’s Impact in
     Latin America’, *Vienna Journal on International Constitutional Law
     (ICL Journal)* 177, no. 16 (2022): 177–262, DOI:
     https://doi.org/10.1515/icl-2021-0037; T. M. Bueno and R. G. Canaan,
@@ -965,49 +966,50 @@ Secretariat for open data, Argentina (in person), March 2023.
     Bill’, *Telecommunications Policy* 48, no. 5 (2024), DOI: https://
     doi.org/10.1016/j.telpol.2024.102757.
 
-11. E. G. Pacchioni, W. Maloney, and X. Cirera, ‘Why Poor Countries
+[^05chapter2_12]: E. G. Pacchioni, W. Maloney, and X. Cirera, ‘Why Poor Countries
     Invest Too Little in R&D’, Centre for Economic Policy Research
     (CEPR), 29 November 2017,
     https://cepr.org/voxeu/columns/why-poor-countries-invest-too-littlerd
     (accessed 4 June 2023).
 
-12. Frank Gadinger and Jan Aart Scholte, *Polycentrism: How Governing
+[^05chapter2_13]: Frank Gadinger and Jan Aart Scholte, *Polycentrism: How Governing
     Works Today* (Oxford University Press, 2023).
 
-13. Lisa Gitelman (ed.), *‘Raw Data’ Is an Oxymoron* (MIT Press, 2013).
+[^05chapter2_14]: Lisa Gitelman (ed.), *‘Raw Data’ Is an Oxymoron* (MIT Press,
+    2013).
 
-14. Joan López, Aaron Martin, Franklyn Ohai, Siddharth Peter De Souza,
-    and Linnet Taylor, ‘Digital Disruption or Crisis Capitalism?
+[^05chapter2_15]: Joan López, Aaron Martin, Franklyn Ohai, Siddharth Peter De
+    Souza, and Linnet Taylor, ‘Digital Disruption or Crisis Capitalism?
     Technology, Power and the Pandemic’, Global Data Justice, 11 May
     2022, https:// globaldatajustice.org/gdj/2649 (accessed 8 June
     2023).
 
-15. K. Crawford, ‘Data: From the Atlas of AI’, Missing Links in AI
+[^05chapter2_16]: K. Crawford, ‘Data: From the Atlas of AI’, Missing Links in AI
     Governance, UNESCO, 2021,
     https://www.unesco.org/en/articles/missing-links-aigovernance
     (accessed 6 June 2023).
 
-16. T. Boellstorff, ‘Making Big Data, in Theory’, *First Monday* 18, no.
-    10 (2013), DOI: https://doi.org/10.5210/fm.v18i10.4869; J. van
+[^05chapter2_17]: T. Boellstorff, ‘Making Big Data, in Theory’, *First Monday* 18,
+    no. 10 (2013), DOI: https://doi.org/10.5210/fm.v18i10.4869; J. van
     Dijck, D. Nieborg, and T. Poell, ‘Reframing Platform Power’,
     *Internet Policy Review* 8 (2019),
     https://policyreview.info/node/1414 (accessed 13 November 2022);
     Zuboff, *The Age of Surveillance Capitalism*; S. Baack,
     ‘Datafication
 
-> and Empowerment: How the Open Data Movement Re-Articulates Notions of
-> Democracy, Participation, and Journalism’, *Big Data and Society* 2,
-> no. 2 (2015), DOI: https://doi.org/10.1177/2053951715594634.
+    and Empowerment: How the Open Data Movement Re-Articulates Notions
+    of Democracy, Participation, and Journalism’, *Big Data and Society*
+    2, no. 2 (2015), DOI: https://doi.org/10.1177/2053951715594634.
 
-1.  UNESCO, ‘Recommendation on the Ethics of Artificial Intelligence:
+[^05chapter2_18]: UNESCO, ‘Recommendation on the Ethics of Artificial Intelligence:
     UNESCO Biblioteca Digital’, 2021,
     https://unesdoc.unesco.org/ark:/48223/ pf0000380455 (accessed 10
     April 2023).
 
-2.  Índice Latinoamericano de Inteligencia Artificial (ILIA), ‘Índice
+[^05chapter2_19]: Índice Latinoamericano de Inteligencia Artificial (ILIA), ‘Índice
     Latinoamericano de Inteligencia Artificial’ (ILIA, 2023).
 
-3.  Maria Koinova, Maryam Zarnegar Deloffre, Frank Gadinger, Zeynep
+[^05chapter2_20]: Maria Koinova, Maryam Zarnegar Deloffre, Frank Gadinger, Zeynep
     Sahin Mencutek, Jan Aart Scholte, and Jens Steffek, ‘It’s Ordered
     Chaos: What Really Makes Polycentrism Work’, *International Studies
     Review* 1988, no. 23 (2021): 1988–2018, DOI:
@@ -1015,156 +1017,147 @@ Secretariat for open data, Argentina (in person), March 2023.
     Campbell-Verduyn, and Jan Aart Scholte, *Digital Data Governance:
     Polycentric Perspectives* (Routledge, 2024).
 
-4.  Leslie Chan, Angela Okune, Rebecca Hillyer, Denisse Albornoz,
+[^05chapter2_21]: Leslie Chan, Angela Okune, Rebecca Hillyer, Denisse Albornoz,
     Alejandro Posada, ‘Contextualizing Openness: Situating Open Science’
     (University of Ottawa Press, 2019), DOI:
     https://doi.org/10.20381/ruor-24088.
 
-5.  ‘UNESCO Recommendation on Open Science’, UNESCO, 2021, https://
+[^05chapter2_22]: ‘UNESCO Recommendation on Open Science’, UNESCO, 2021, https://
     unesdoc.unesco.org/ark:/48223/pf0000379949 (accessed 15 February
     2023), 7.
 
-6.  ‘UNESCO Recommendation on Open Science’, 8.
+[^05chapter2_23]: ‘UNESCO Recommendation on Open Science’, 8.
 
-7.  R. Vicente-Saez and C. Martinez-Fuentes, ‘Open Science Now: A
+[^05chapter2_24]: R. Vicente-Saez and C. Martinez-Fuentes, ‘Open Science Now: A
     Systematic Literature Review for an Integrated Definition’, *Journal
     of Business Research* 428, no. 88 (2018): 428–436.
 
-8.  Alejandra Manco, ‘A Landscape of Open Science Policies Research’,
+[^05chapter2_25]: Alejandra Manco, ‘A Landscape of Open Science Policies Research’,
     *SAGE Open* 12, no. 4, DOI:
     https://doi.org/10.1177/21582440221140358.
 
-9.  Sh. Moradi and S. Abdi, ‘Open Science–Related Policies in Europe’,
-    *Science and Public Policy* 50 (2023): 521–530, DOI:
+[^05chapter2_26]: Sh. Moradi and S. Abdi, ‘Open Science–Related Policies in
+    Europe’, *Science and Public Policy* 50 (2023): 521–530, DOI:
     https://doi.org/10.1093/scipol/ scac082.
 
-10. ‘Open Science’, European Commission, 10 February 2023,
+[^05chapter2_27]: ‘Open Science’, European Commission, 10 February 2023,
     https://researchand-innovation.ec.europa.eu/strategy/strategy-2020-2024/our-digitalfuture/open-science\_en
     (accessed 1 March 2023).
 
-11. D. Babini and L. Rovelli, ‘Tendencias Recientes En Las Políticas
+[^05chapter2_28]: D. Babini and L. Rovelli, ‘Tendencias Recientes En Las Políticas
     Científicas de Ciencia Abierta y Acceso Abierto En Iberoamérica on
     JSTOR’, Latin American Council of Social Sciences (CLACSO), 2020,
     https://www-jstororg.eza.udesa.edu.ar/stable/j.ctv1gm02tq (accessed
     31 May 2023).
 
-12. Babini and Rovelli, ‘Tendencias Recientes’.
+[^05chapter2_29]: Babini and Rovelli, ‘Tendencias Recientes’.
 
-13. E. R. T. Chiware and L. Skelly, ‘Open Science in Africa: What
+[^05chapter2_30]: E. R. T. Chiware and L. Skelly, ‘Open Science in Africa: What
     Policymakers Should Consider’, *Frontiers in Research Metrics and
     Analytics* 7, https://www.
     frontiersin.org/articles/10.3389/frma.2022.950139 (accessed 21
     October 2023).
 
-14. Mark D. Wilkinson, Michel Dumontier, IJsbrand Jan Aalbersberg,
+[^05chapter2_31]: Mark D. Wilkinson, Michel Dumontier, IJsbrand Jan Aalbersberg,
     Gabrielle Appleton, Myles Axton, Arie Baak, Niklas Blomberg,
     Jan-Willem Boiten, Luiz Bonino da Silva Santos, Philip E. Bourne,
     Jildau Bouwman, Anthony J. Brookes, Tim Clark, Mercè Crosas, Ingrid
-    Dillo, Olivier Dumon, Scott
+    Dillo, Olivier Dumon, Scott Edmunds, Chris T. Evelo, Richard Finkers, Alejandra Gonzalez-Beltran, Alasdair J.G. Gray, Paul Groth, Carole Goble, Jeffrey S. Grethe, and Barend Mons, ‘The FAIR Guiding Principles for Scientific Data Management and Stewardship’, *Scientific Data* 7, no. 3 (2016), DOI: https://doi. org/10.1038/sdata.2016.18.
 
-> Edmunds, Chris T. Evelo, Richard Finkers, Alejandra Gonzalez-
->
-> Beltran, Alasdair J.G. Gray, Paul Groth, Carole Goble, Jeffrey S.
-> Grethe, and Barend Mons, ‘The FAIR Guiding Principles for Scientific
-> Data Management and Stewardship’, *Scientific Data* 7, no. 3 (2016),
-> DOI: https://doi. org/10.1038/sdata.2016.18.
+[^05chapter2_32]: Stephanie Russo Carroll, Ibrahim Garba, Oscar L.
+    Figueroa-Rodríguez, Jarita Holbrook, Raymond Lovett, Simeon
+    Materechera, Mark Parsons Kay Raseroka, Desi Rodriguez-Lonebear,
+    Robyn Rowe, Rodrigo Sara, Jennifer D. Walker, Jane Anderson, and
+    Maui Hudson, ‘The CARE Principles for Indigenous Data Governance’,
+    *Data Science Journal* 19, DOI: https://doi.org/10.5334/dsj-2020-043.
 
-1.  Stephanie Russo Carroll, Ibrahim Garba, Oscar L. Figueroa-Rodríguez,
-    Jarita Holbrook, Raymond Lovett, Simeon Materechera, Mark Parsons
-    Kay Raseroka, Desi Rodriguez-Lonebear, Robyn Rowe, Rodrigo Sara,
-    Jennifer D. Walker, Jane Anderson, and Maui Hudson, ‘The CARE
-    Principles for Indigenous Data Governance’, *Data Science Journal*
-    19, DOI: https://doi.
+[^05chapter2_33]: S. Rainie, T. Kukutai, M. Walter, O. Figueroa-Rodriguez, J.
+    Walker, and P. Axelsson, ‘Issues in Open Data: Indigenous Data
+    Sovereignty’, in *State of Open Data: Histories and Horizons*, ed.
+    Tim Davies, Stephen B. Walker, Mor Rubinstein, and Fernando Perini,
+    300–319 (African Minds and International Development Research
+    Center, 2019), 301.
 
-> org/10.5334/dsj-2020-043.
-
-1.  S. Rainie, T. Kukutai, M. Walter, O. Figueroa-Rodriguez, J. Walker,
-    and P. Axelsson, ‘Issues in Open Data: Indigenous Data Sovereignty’,
-    in *State of Open Data: Histories and Horizons*, ed. Tim Davies,
-    Stephen B. Walker, Mor Rubinstein, and Fernando Perini, 300–319
-    (African Minds and International Development Research Center,
-    2019), 301.
-
-2.  Janne Pölönen, Mikael Laakso, Raf Guns, Emanuel Kulczycki, and
+[^05chapter2_34]: Janne Pölönen, Mikael Laakso, Raf Guns, Emanuel Kulczycki, and
     Gunnar Sivertsen, ‘Open Access at the National Level: A
     Comprehensive Analysis of Publications by Finnish Researchers’,
     *Quantitative Science Studies* 1 (2020): 1396–1428, DOI:
     https://doi.org/10.1162/qss\_a\_00084.
 
-3.  A. Paic, ‘Open Science: Enabling Discovery in the Digital Age’,
+[^05chapter2_35]: A. Paic, ‘Open Science: Enabling Discovery in the Digital Age’,
     OECD, 20 July 2021,
     https://www.oecd-ilibrary.org/science-and-technology/openscience-enabling-discovery-in-the-digital-age\_81a9dcf0-en
     (accessed 11 June 2023).
 
-4.  Manco, ‘A Landscape of Open Science Policies Research’.
+[^05chapter2_36]: Manco, ‘A Landscape of Open Science Policies Research’.
 
-5.  Paic, ‘Open Science’.
+[^05chapter2_37]: Paic, ‘Open Science’.
 
-6.  Moradi and Abdi, ‘Open Science–Related Policies in Europe’; Manco,
-    ‘A Landscape of Open Science Policies Research’; M.D. de Rosnay and
+[^05chapter2_38]: Moradi and Abdi, ‘Open Science–Related Policies in Europe’;
+    Manco, ‘A Landscape of Open Science Policies Research’; M.D. de Rosnay and F. Stalder, ‘Digital Commons’, *Internet Policy Review* 9, no. 4,
+    DOI: 10.14763/2020.4.1530.
 
-> F. Stalder, ‘Digital Commons’, *Internet Policy Review* 9, no. 4, DOI:
->
-> 10.14763/2020.4.1530.
-
-1.  ‘G7 Science and Technology Ministers Commit to Open Science’, Ouvrir
-    la Science, 15 May 2023,
+[^05chapter2_39]: ‘G7 Science and Technology Ministers Commit to Open Science’,
+    Ouvrir la Science, 15 May 2023,
     https://www.ouvrirlascience.fr/g7-science-andtechnology-ministers-commit-to-open-science
     (ACCESSED 12 June 2023).
 
-2.  Denisse Albornoz, Maggie Huang, Issra Marie Martin, Maria Mateus,
+[^05chapter2_40]: Denisse Albornoz, Maggie Huang, Issra Marie Martin, Maria Mateus,
     Aicha Yasmine Touré, and Leslie Chan, ‘Framing Power: Tracing Key
     Discourses in Open Science Policies’, in *22nd International
     Conference on Electronic Publishing*, 1–21 (OpenEdition Press,
     2018).
 
-3.  J. Bareis and C. Katzenbach, ‘Talking AI into Being: The Narratives
-    and Imaginaries of National AI Strategies and Their Performative
-    Politics’, *Science, Technology, and Human Values* 855, no. 47
-    (2022), DOI: https://doi. org/10.1177/01622439211030007.
+[^05chapter2_41]: J. Bareis and C. Katzenbach, ‘Talking AI into Being: The
+    Narratives and Imaginaries of National AI Strategies and Their
+    Performative Politics’, *Science, Technology, and Human Values* 855,
+    no. 47 (2022), DOI: https://doi. org/10.1177/01622439211030007.
 
-4.  ‘IDRC Global Symposium on AI & Inclusion Outputs’, International
+[^05chapter2_42]: ‘IDRC Global Symposium on AI & Inclusion Outputs’, International
     Development Research Centre, January 2018, https://idl-bnc-idrc.
     dspacedirect.org/handle/10625/56851?locale-attribute=en (accessed 9
     February 2023).
 
-5.  Lee, *AI Superpowers*.
+[^05chapter2_43]: Lee, *AI Superpowers*.
 
-6.  ‘OECD’s Live Repository of AI Strategies & Policies: OECD.AI’, OECD,
-    https://oecd.ai/en/dashboards/overview (accessed 23 February 2023).
+[^05chapter2_44]: ‘OECD’s Live Repository of AI Strategies & Policies: OECD.AI’,
+    OECD, https://oecd.ai/en/dashboards/overview (accessed 23 February
+    2023).
 
-7.  R. Jorge Ricart, V. Van Roy, F. Rossetti, and L. Tangi, ‘AI Watch:
-    National Strategies on Artificial Intelligence – A European
+[^05chapter2_45]: R. Jorge Ricart, V. Van Roy, F. Rossetti, and L. Tangi, ‘AI
+    Watch: National Strategies on Artificial Intelligence – A European
     Perspective: 2022 Edition’, JRC Publications Repository, 31 May
-    2022, https://publications.jrc.
+    2022,
+    https://publications.jrc.ec.europa.eu/repository/handle/JRC129123
+    (accessed 6 June 2023).
 
-> ec.europa.eu/repository/handle/JRC129123 (accessed 6 June 2023).
+[^05chapter2_46]: Intergovernmental representative, personal communication, May
+    2023.
 
-1.  Intergovernmental representative, personal communication, May 2023.
-
-2.  V. Aula and J. Bowles, ‘Stepping Back from Data and AI for Good:
+[^05chapter2_47]: V. Aula and J. Bowles, ‘Stepping Back from Data and AI for Good:
     Current Trends and Ways Forward’, *Big Data and Society* 10, no. 1
     (2023), DOI: https://doi.org/10.1177/20539517231173901.
 
-3.  Y. Bengio and A. Oh, ‘AI for Public Domain Drug Discovery’, Global
-    Partnership on Artificial Intelligence, November 2021,
+[^05chapter2_48]: Y. Bengio and A. Oh, ‘AI for Public Domain Drug Discovery’,
+    Global Partnership on Artificial Intelligence, November 2021,
     https://gpai.ai/
     projects/ai-and-pandemic-response/public-domain-drug-discovery/ai-forpublic-domain-drug-discovery.pdf
     (accessed 4 June 2023).
 
-4.  S. Ziesche, ‘Open Data for AI: What Now?’, UNESCO, 2023, https://
+[^05chapter2_49]: S. Ziesche, ‘Open Data for AI: What Now?’, UNESCO, 2023, https://
     unesdoc.unesco.org/ark:/48223/pf0000385841 (accessed 4 June 2023).
 
-5.  Ziesche, ‘Open Data for AI.
+[^05chapter2_50]: Ziesche, ‘Open Data for AI.
 
-6.  Aguerre, Campbell-Verduyn, and Scholte, *Digital Data Governance*.
+[^05chapter2_51]: Aguerre, Campbell-Verduyn, and Scholte, *Digital Data
+    Governance*.
 
-7.  Koinova, Deloffre, Gadinger, Mencutek, Scholte, and Steffek ‘It’s
+[^05chapter2_52]: Koinova, Deloffre, Gadinger, Mencutek, Scholte, and Steffek ‘It’s
     Ordered Chaos’.
 
-8.  Gadinger and Scholte, *Polycentrism*.
+[^05chapter2_53]: Gadinger and Scholte, *Polycentrism*.
 
-9.  S. A. Aaronson, ‘Data Is Different: Why the World Needs a New
+[^05chapter2_54]: S. A. Aaronson, ‘Data Is Different: Why the World Needs a New
     Approach to Governing Cross-Border Data Flows’, CIGI Paper No. 197,
     Centre for International Governance Innovation (CIGI), 2018; M.
     Flyverbom, R. Deibert, and D. Matten, ‘The Governance of Digital
@@ -1172,15 +1165,15 @@ Secretariat for open data, Argentina (in person), March 2023.
     Responsibilities for Business’, *Business and Society* 3, no. 58
     (2019): 3–19, DOI: https://doi. org/10.1177/0007650317727540.
 
-10. V. Lehdonvirta, *Cloud Empires: How Digital Platforms Are Overtaking
-    the State and How We Can Regain Control* (MIT Press, 2022).
+[^05chapter2_55]: V. Lehdonvirta, *Cloud Empires: How Digital Platforms Are
+    Overtaking the State and How We Can Regain Control* (MIT Press,
+    2022).
 
-11. S. Delacroix and N. D. Lawrence, ‘Bottom-up Data Trusts: Disturbing
-    the “One Size Fits All” Approach to Data Governance’, *International
-    Data Privacy Law* 236, no. 9 (2019): 236–252, DOI:
+[^05chapter2_56]: S. Delacroix and N. D. Lawrence, ‘Bottom-up Data Trusts:
+    Disturbing the “One Size Fits All” Approach to Data Governance’,
+    *International Data Privacy Law* 236, no. 9 (2019): 236–252, DOI:
     https://doi.org/10.1093/ idpl/ipz014; ‘Participatory Data
-    Governance’, Ada Lovelace Institute,
-    https://www.adalovelaceinstitute.org/project/participatory-data-governance
+    Governance’, Ada Lovelace Institute, https://www.adalovelaceinstitute.org/project/participatory-data-governance
     (accessed 6 June 2023); Anouk Ruhaak, Greg Bloom, Angie Raymond,
     Willa Tavernier, Divya Siddarth, Gary Motz, and Melanie Dulong de
     Rosnay, ‘A Practical Framework for Applying Ostrom’s Principles to
@@ -1193,85 +1186,87 @@ Secretariat for open data, Argentina (in person), March 2023.
     2020, https://papers.ssrn.com/abstract=3624782 (accessed 6 June
     2023).
 
-12. Black, ‘Constructing and Contesting Legitimacy and
+[^05chapter2_57]: Black, ‘Constructing and Contesting Legitimacy and
     Accountability’, 138.
 
-13. Gadinger and Scholte, *Polycentrism*; Koinova, Deloffre, Gadinger,
-    Mencutek, Scholte, and Steffek, ‘It’s Ordered Chaos’.
+[^05chapter2_58]: Gadinger and Scholte, *Polycentrism*; Koinova, Deloffre,
+    Gadinger, Mencutek, Scholte, and Steffek, ‘It’s Ordered Chaos’.
 
-14. Black, ‘Constructing and Contesting Legitimacy and
+[^05chapter2_59]: Black, ‘Constructing and Contesting Legitimacy and
     Accountability’, 39.
 
-15. Aguerre, Campbell-Verduyn, and Scholte, *Digital Data Governance*.
+[^05chapter2_60]: Aguerre, Campbell-Verduyn, and Scholte, *Digital Data
+    Governance*.
 
-16. Gadinger and Scholte, *Polycentrism*.
+[^05chapter2_61]: Gadinger and Scholte, *Polycentrism*.
 
-17. J. A. Scholte, ‘Polycentrism and Democracy in Internet Governance’,
-    in *The Net and the Nation State: Multidisciplinary Perspectives on
-    Internet Governance*, ed. Uta Kohl, 165–184 (Cambridge University
-    Press, 2017).
+[^05chapter2_62]: J. A. Scholte, ‘Polycentrism and Democracy in Internet
+    Governance’, in *The Net and the Nation State: Multidisciplinary
+    Perspectives on Internet Governance*, ed. Uta Kohl, 165–184
+    (Cambridge University Press, 2017).
 
-18. Koinova, Deloffre, Gadinger, Mencutek, Scholte, and Steffek ‘It’s
+[^05chapter2_63]: Koinova, Deloffre, Gadinger, Mencutek, Scholte, and Steffek ‘It’s
     Ordered Chaos’.
 
-19. Koinova, Deloffre, Gadinger, Mencutek, Scholte, and Steffek ‘It’s
+[^05chapter2_64]: Koinova, Deloffre, Gadinger, Mencutek, Scholte, and Steffek ‘It’s
     Ordered Chaos’.
 
-20. Gadinger and Scholte, *Polycentrism*.
+[^05chapter2_65]: Gadinger and Scholte, *Polycentrism*.
 
-21. Former government advisor, personal communication, May 2023.
+[^05chapter2_66]: Former government advisor, personal communication, May 2023.
 
-22. Wilkinson, Dumontier, Aalbersberg, Appleton, Axton, Baak, Blomberg,
-    Boiten, Santos, Bourne, Bouwman, Brookes, Clark, Crosas, Dillo,
-    Dumon, Edmunds, Evelo, Finkers, Gonzalez-Beltran, Gray, Groth,
-    Goble, Grethe, and Mons, ‘The FAIR Guiding Principles for Scientific
-    Data Management and Stewardship’.
+[^05chapter2_67]: Wilkinson, Dumontier, Aalbersberg, Appleton, Axton, Baak,
+    Blomberg, Boiten, Santos, Bourne, Bouwman, Brookes, Clark, Crosas,
+    Dillo, Dumon, Edmunds, Evelo, Finkers, Gonzalez-Beltran, Gray,
+    Groth, Goble, Grethe, and Mons, ‘The FAIR Guiding Principles for
+    Scientific Data Management and Stewardship’.
 
-23. Moradi and Abdi, ‘Open Science–Related Policies in Europe’, 529.
+[^05chapter2_68]: Moradi and Abdi, ‘Open Science–Related Policies in Europe’, 529.
 
-24. G. Chartron, ‘L’Open science au prisme de la Commission européenne’,
-    *Éducation et sociétés* 177, no. 41 (2018): 177–193 (emphasis
-    added).
+[^05chapter2_69]: G. Chartron, ‘L’Open science au prisme de la Commission
+    européenne’, *Éducation et sociétés* 177, no. 41 (2018): 177–193
+    (emphasis added).
 
-25. Chartron, ‘L’Open science au prisme de la Commission européenne’.
+[^05chapter2_70]: Chartron, ‘L’Open science au prisme de la Commission européenne’.
 
-26. Chartron, ‘L’Open science au prisme de la Commission européenne’.
+[^05chapter2_71]: Chartron, ‘L’Open science au prisme de la Commission européenne’.
 
-27. Moradi and Abdi, ‘Open Science–Related Policies in Europe’.
+[^05chapter2_72]: Moradi and Abdi, ‘Open Science–Related Policies in Europe’.
 
-28. Government agency representative, personal communication,
-    March 2023.
+[^05chapter2_73]: Government agency representative, personal communication, March
+    2023.
 
-29. C. Aguerre, ‘National AI Strategies and Data Governance’, in
+[^05chapter2_74]: C. Aguerre, ‘National AI Strategies and Data Governance’, in
     *Artificial Intelligence in Latin America: Ethics, Governance and
     Policies*, vol. 1, ed. C. Aguerre (CETYS, Universidad de San Andres,
     2020).
 
-30. Lee, *AI Superpowers*.
+[^05chapter2_75]: Lee, *AI Superpowers*.
 
-31. Intergovernmental representative, personal communication, 4
-    May 2023.
+[^05chapter2_76]: Intergovernmental representative, personal communication, 4 May
+    2023.
 
-32. ILIA, ‘Índice Latinoamericano de Inteligencia Artificial’.
+[^05chapter2_77]: ILIA, ‘Índice Latinoamericano de Inteligencia Artificial’.
 
-33. ‘OECD Recommendation on Competition Assessment: OECD’, OECD, 2019,
-    https://www.oecd.org/daf/competition/oecdrecommendation
+[^05chapter2_78]: ‘OECD Recommendation on Competition Assessment: OECD’, OECD,
+    2019, https://www.oecd.org/daf/competition/oecdrecommendation
     oncompetitionassessment.htm (5 June 2023).
 
-34. K. Yeung, ‘Algorithmic Regulation: A Critical Interrogation’,
+[^05chapter2_79]: K. Yeung, ‘Algorithmic Regulation: A Critical Interrogation’,
     *Regulation and Governance* 12, no. 4 (2017): 17.
 
-35. S. Jasanoff and S. H. Kim, ‘Sociotechnical Imaginaries and National
-    Energy Policies’, *Science as Culture* 189, no. 22 (2013): 189–196.
+[^05chapter2_80]: S. Jasanoff and S. H. Kim, ‘Sociotechnical Imaginaries and
+    National Energy Policies’, *Science as Culture* 189, no. 22 (2013):
+    189–196.
 
-36. Bareis and Katzenbach, ‘Talking AI into Being’.
+[^05chapter2_81]: Bareis and Katzenbach, ‘Talking AI into Being’.
 
-37. Nachtwey and Seidl, ‘The Solutionist Ethic and the Spirit of Digital
-    Capitalism’, 3.
+[^05chapter2_82]: Nachtwey and Seidl, ‘The Solutionist Ethic and the Spirit of
+    Digital Capitalism’, 3.
 
-38. Aula and Bowles, ‘Stepping Back from Data’.
+[^05chapter2_83]: Aula and Bowles, ‘Stepping Back from Data’.
 
-39. Moradi and Abdi, ‘Open Science–Related Policies in Europe’; C.
+[^05chapter2_84]: Moradi and Abdi, ‘Open Science–Related Policies in Europe’; C.
     Djeffal, M. B. Siewert, and S. Wurster, ‘Role of the State and
     Responsibility in Governing Artificial Intelligence: A Comparative
     Analysis of AI Strategies’, *Journal of European Public Policy*
@@ -1281,12 +1276,12 @@ Secretariat for open data, Argentina (in person), March 2023.
     *Policy and Society* 178, no. 40 (2021): 178–193, DOI:
     https://doi.org/10.1080/14494035.202 1.1929728.
 
-40. Manco, ‘A Landscape of Open Science Policies Research’.
+[^05chapter2_85]: Manco, ‘A Landscape of Open Science Policies Research’.
 
-41. P. Ricaurte, ‘Data Epistemologies, the Coloniality of Power, and
+[^05chapter2_86]: P. Ricaurte, ‘Data Epistemologies, the Coloniality of Power, and
     Resistance’, *Television and New Media* 350, no. 20 (2019), DOI:
     https://doi. org/10.1177/1527476419831640.
 
-42. UNESCO, *Readiness Assessment Methodology: A Tool of the
+[^05chapter2_87]: UNESCO, *Readiness Assessment Methodology: A Tool of the
     Recommendation on the Ethics of Artificial Intelligence*, DOI:
     https://doi.org/10.54678/ YHAA4429.

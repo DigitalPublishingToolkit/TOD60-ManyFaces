@@ -17,32 +17,30 @@ Rights: CC BY-NC 4.0
 ...
 
 
-**A Subject Access Request, Then What?**
+# A Subject Access Request, Then What? (Un)structuring Online Analytics for Data Institutions
 
-> (Un)structuring Online Analytics for Data Institutions
-
-*Jake Stein and Reuben Binns*
+### Jake Stein and Reuben Binns
 
 Collecting, storing, analysing, and distributing information derived
 from disparate data sources have become radically easier in the past
 decade. The proliferation of big data analytics and algorithmic
 technologies is thanks to advances at every stage in the data analytics
 pipeline from ingestion to visualization, and at each layer of the data
-analytics stack from hardware to user interface.^1^ Organizations with
+analytics stack from hardware to user interface.[^10chapter7_1] Organizations with
 access to sufficient capital have access to tools which quickly and
 reliably convert upfront investment into valuable insights and system
 optimizations. Indeed, a vast and growing set of systems have themselves
 been progressively optimized to the needs of large organizations –
 resulting in generalizable workflows and plugand-play architectures for
 turning big data into material gains for enterprises with access to
-valuable troves of data.^2^
+valuable troves of data.[^10chapter7_2]
 
 At the same time, it has become increasingly apparent that resisting the
 (mis) use of big data and algorithmic technologies requires the use of
 sophisticated data analytics too. Advocates seeking transparency,
 privacy, or agency with respect to these systems often analyse the very
 same data that platform corporations rely on for their own
-operations.^3^ For efforts that resist platform information asymmetries
+operations.[^10chapter7_3] For efforts that resist platform information asymmetries
 through collecting and analysing data in pursuit of algorithmic
 transparency or regulatory action, achieving sufficient scale is not
 straightforward. The cost of technologies and contracted expertise
@@ -59,41 +57,41 @@ One approach to mitigating the inherent gulf of resources between
 platforms and advocates who seek transparency and agency within
 corporate systems is to pool resources or form coalitions across civil
 society and academia under novel data governance models – what the Open
-Data Institute (ODI) has called ‘Data Institutions’.^4^ The ODI defines
+Data Institute (ODI) has called ‘Data Institutions’.[^10chapter7_4] The ODI defines
 these broadly as ‘organizations whose purpose involves stewarding data
 on behalf of others, often towards public, educational or charitable
-aims’.^5^ Similarly, participatory action research (PAR) has allowed
+aims’.[^10chapter7_5] Similarly, participatory action research (PAR) has allowed
 academia to become an important host for infrastructures supporting
 adversarial data aggregation, working with advocates to audit
 algorithmic systems or create tools capable of computationally mediating
-solidarity against overreaching algorithmic control.^6^ These functions
+solidarity against overreaching algorithmic control.[^10chapter7_6] These functions
 align closely with the ODI’s specification of ‘Bottom-up Data
 Institutions’, referring to organizations containing ‘processes that
 enable people – usually those that have generated the data or that the
 data is about – to actively take part in those data governance
-processes’.^7^
+processes’.[^10chapter7_7]
 
 However, the academy faces a platformization crisis of its own, with
 universities increasingly supplanted as centres of computational power
 by cloud-computing providers that offer cheap flexible compute, while
 academic research budgets are meagre compared to those of corporations
 and university administrations closely guard valuable intellectual
-property.^8^ While of course the flexibility of cloud computing can also
-accelerate computation-heavy research, the institutional power granted
-by a standing reserve of computational power is a card now held closely
-by industry.^9^ Furthermore, access to enormous datasets generated on
-platforms leaves academic research at a disadvantage in data access.
-Data subjects, activists acting in their behalf, and academics all find
-themselves in similarly undesirable positions vis-à-vis platform
-hegemons, but also possess complementary resources for developing
-alternatives to serve the public interest.
+property.[^10chapter7_8] While of course the flexibility of cloud computing can
+also accelerate computation-heavy research, the institutional power
+granted by a standing reserve of computational power is a card now held
+closely by industry.[^10chapter7_9] Furthermore, access to enormous datasets
+generated on platforms leaves academic research at a disadvantage in
+data access. Data subjects, activists acting in their behalf, and
+academics all find themselves in similarly undesirable positions
+vis-à-vis platform hegemons, but also possess complementary resources
+for developing alternatives to serve the public interest.
 
 Regulators have begun to recognize and address information asymmetries,
 but provide only meagre tools for data subjects or data institutions to
 combat asymmetries in practice. In many jurisdictions, data access
 rights face headwinds as they wrongfully pit data subject rights as
 restraints against governments’ efforts to energize the development of
-artificial intellience (AI) and boost their constituent economies.^10^
+artificial intellience (AI) and boost their constituent economies.[^10chapter7_10]
 Individual data access regimes contained in data protection regulations
 like the General Data Protection Regulation (GDPR), 2018, and the
 California Consumer Privacy Act (CCPA), 2018, and aggregate data access
@@ -108,11 +106,11 @@ door, allowing activists and researchers to access data without facing
 the costs of constructing net-new data collection infrastructure
 themselves. Indeed, scholarship and litigation both have made
 significant progress in asserting the collective use of subject access
-rights for this purpose.^11^ Data collection (or access) is, however,
+rights for this purpose.[^10chapter7_11] Data collection (or access) is, however,
 only the first step. Information asymmetries can only be counteracted
 when subjects have access to *information* contained in their data too,
 requiring suitable data analytics systems to complement their
-access.^12^ Financing, creating, and governing these systems require
+access.[^10chapter7_12] Financing, creating, and governing these systems require
 navigating the incentives, constraints, and priorities of all of the
 parties involved, ranging from data subjects themselves to civil society
 funders, advocacy organizations, and academic researchers.
@@ -121,7 +119,7 @@ We examine the politics of this coordination as we navigate the
 challenges of co-constructing data pipelines alongside activists from
 Worker Info Exchange (WIE) which seek to use data subject access
 requests (DSARs) to afford workers transparency and agency within
-algorithmic management by platform work apps.^13^ In particular, we
+algorithmic management by platform work apps.[^10chapter7_13] In particular, we
 address the obstacles that arise while contending with the structure
 that DSAR data contains in order to draw attention to the conflicting
 epistemologies layered in the schemas, ontologies, and metric
@@ -133,7 +131,7 @@ platform control. Our engagement with WIE is partly supported by the
 ‘Ethical Web and Data Infrastructure in the Age of AI’ project – a
 research programme funded by the Oxford Martin School to design new web
 protocols and data architectures which can better promote data subject
-autonomy in the platform-dominated web.^14^ We benefit from the
+autonomy in the platform-dominated web.[^10chapter7_14] We benefit from the
 collaboration as a rich case study in which to prototype and test our
 designs.
 
@@ -147,18 +145,18 @@ association with the ADCU means it is also active in collective
 advocacy. In a landmark finding, one of WIE’s suits with the ADCU
 established the precedent that DSARs can be used for the purpose of
 sourcing aggregate data in favour of collective advocacy in addition to
-privacy.^15^ At the time of our collaboration, the law firm AWO was
+privacy.[^10chapter7_15] At the time of our collaboration, the law firm AWO was
 engaged with WIE in investigating algorithmic pricing and work
 assignment for platform workers. AWO is a UK ‘law firm and consultancy
 that empowers individuals and organizations to uphold data rights,
 comply with the law and effect change in data protection and digital
-policy’.^16^ Finally, the most critical stakeholders are the data
+policy’.[^10chapter7_16] Finally, the most critical stakeholders are the data
 subjects themselves – workers who use gig economy apps. Workers
 participate in this institution by requesting access to their data via
 WIE. WIE then processes the request with Uber on the driver’s behalf, in
 exchange pooling that data in aggregate form. Driver data is held by WIE
 and has been shared with us for the purpose of conducting research and
-providing insights.^17^ Workers stand to gain both in terms of greater
+providing insights.[^10chapter7_17] Workers stand to gain both in terms of greater
 transparency into their own data and from the results of collective
 advocacy that aggregate analyses of their data supports.
 
@@ -177,12 +175,12 @@ simultaneously serve numerous purposes or communicate divergent
 interpretations depending on its structure (how data is categorized in
 fields, organized into tables, and aggregated into metrics). By
 ‘infrastructure’, we mean the technical systems, databases, and
-organizational processes through which this data flows.^18^
+organizational processes through which this data flows.[^10chapter7_18]
 
 To capture the polysemous quality of data, we borrow Slavoj Žižek’s term
 ‘parallax view’ to analogize how data staged in a unified underlying
 architecture can support many (even conflicting) pursuits and
-epistemologies.^19^ Put simply, a parallax effect occurs when two
+epistemologies.[^10chapter7_19] Put simply, a parallax effect occurs when two
 observations of the same event differ due to perspective. By borrowing
 the concept of the parallax, we explain that despite having access to
 the same underlying data (the *observed* *event*), the structure in
@@ -213,11 +211,11 @@ technical implementations can simultaneously support conflicting
 interests and epistemologies that different parties bring to the data,
 without engineering a single perspective into the data’s structure.
 
-# The Implications of Data Structure on Meaningful Data Access
+## The Implications of Data Structure on Meaningful Data Access
 
 Though any data pipeline may contain a similar mix of technologies,
 their configuration depends on the volume, velocity, sensitivity, and
-target uses of data.^20^ This section aims to illustrate how decisions
+target uses of data.[^10chapter7_20] This section aims to illustrate how decisions
 about *where* structure is added along the data analytics pipeline and
 *what* structure is added (or left out) can obfuscate meaning in the
 data we have processed with WIE. Further, by evaluating the ways data is
@@ -225,14 +223,14 @@ obscured in the structure returned by Uber, we demonstrate the
 importance of avoiding imparting restrictive structures of our own when
 designing technical architectures for data institutions.
 
-## Unpacking Obfuscation
+### Unpacking Obfuscation
 
 The most straightforward ways data structures can impede meaningful
 access for subjects is through *obfuscation*. Finn Brunton and Helen Fay
 Nissenbaum famously define obfuscation as a tactic for data subjects to
 resist surveillance by making data ‘more difficult to act on, and
 therefore less valuable . . . adding to the cost, trouble, and
-difficulty of doing the looking’.^21^ In the context of analysing DSAR
+difficulty of doing the looking’.[^10chapter7_21] In the context of analysing DSAR
 responses, obfuscation acts in the reverse, with advocates and academics
 ‘doing the looking’ into the behaviours of algorithmic systems on behalf
 of data subjects and platforms making analysis more difficult for them.
@@ -240,7 +238,7 @@ of data subjects and platforms making analysis more difficult for them.
 Well-documented examples of obfuscation may be as simple as returning
 data in non-machine-readable formats like PDFs (Portable Document
 Format) or providing too little contextualizing information for data to
-be interpreted.^22^ Here we briefly inventory some of the obstacles to
+be interpreted.[^10chapter7_22] Here we briefly inventory some of the obstacles to
 analysing data we encountered in data structures. The motivation of this
 analysis is two-fold: First, it demonstrates that access, human or
 machine readability, interoperability, and portability are all concepts
@@ -261,7 +259,7 @@ file errors when processing data – such as extra commas included in CSV
 thus preventing files from being immediately readable, or the
 inconsistent use of data fields with the same names.
 
-## Identifying Problem Structures
+### Identifying Problem Structures
 
 The structures that impeded our analysis of data occurred at three
 levels: the schema (or table), field (or column), and value (or cell)
@@ -293,11 +291,11 @@ requirement of interoperability and portability that should require
 **Figure 9.1** Schema, field, and data levels of data structure
 *Source*: Prepared by the authors.
 
-little marginal effort.^23^ One could even go as far as attributing some
-obfuscating data structures provided by Uber as good-faith yet misguided
-attempts to provide drivers with the metrics they may more easily
-interpret. Intended or not, inconsistencies in data structure had the
-effect of obfuscating some of the most contested and controversial
+little marginal effort.[^10chapter7_23] One could even go as far as attributing
+some obfuscating data structures provided by Uber as good-faith yet
+misguided attempts to provide drivers with the metrics they may more
+easily interpret. Intended or not, inconsistencies in data structure had
+the effect of obfuscating some of the most contested and controversial
 aspects of Uber’s algorithmic management practices and ultimately
 demonstrate the need for greater specificity in data standards or access
 provisions, while emphasizing the valuable lesson that
@@ -364,7 +362,7 @@ ability to independently audit the behaviour of algorithms which are
 essential to data subjects should fall within the realm of transparency
 expected from data access provisions. This is precisely the grounds
 argued for and won by WIE in the Netherlands and continues to be
-pursued.^24^ The goal of this article, however, is not to draw
+pursued.[^10chapter7_24] The goal of this article, however, is not to draw
 conclusions about which structure should be lawfully provided by data
 controllers in DSAR responses. Rather, we aim to highlight the role of
 data structure in limiting and enabling different analyses with the goal
@@ -446,9 +444,9 @@ actual formula used to generate the fare changing over time. This is
 supported by announcements by Uber that they switched from fares
 calculated according to rates to a ‘dynamic pricing’ system and that
 drivers can access their take-home payments through their app
-directly.^25^
+directly.[^10chapter7_25]
 
-## Coping with Obfuscating Structures
+### Coping with Obfuscating Structures
 
 The structure of data in Uber’s request responses illustrates how one
 can gain access to data without necessarily gaining access to all of the
@@ -514,7 +512,7 @@ thus the misguided assumption that we can impose one-size-fitsall
 
 Rather than rehash that there is no such thing as raw data or that ‘all
 data are local’, we take this analysis as the design prompt for our own
-data architectures.^26^ In data institutions functioning as
+data architectures.^2^[^10chapter7_26]^6^ In data institutions functioning as
 public-service data architectures or counterarchitectures, should we
 strive for data to occupy the role of reflecting the ground truth – an
 honest, unadulterated witness to the events it records – or is it more
@@ -526,7 +524,7 @@ disposal for creating architectures which may support a diverse set of
 stakeholder needs without imparting structure which itself obfuscates or
 narrows the information available in the data it holds.
 
-# Mapping Data Structures and Their Politics 
+## Mapping Data Structures and Their Politics 
 
 Now that we have grappled with some examples of how data structure
 restricts and enables the potential information one can extract from
@@ -576,7 +574,7 @@ Furthermore, encoding rigid definitions (like Uber’s and WIE’s competing
 definitions of pay-per-hour) into the structures inherently narrows the
 interpretation of the data. DigiPower academy provides an example of
 this approach, producing polished and digestible figures for individuals
-based on DSAR data.^27^ The advantages of a highly structured
+based on DSAR data.[^10chapter7_27] The advantages of a highly structured
 environment lie in the convenience and accessibility of outputs to data
 subjects. However, highly structured databases’ sensitivity to changes
 in data sources makes them labour- and resource-intensive for
@@ -605,18 +603,18 @@ stewardship and their individual agency. Britt S. Paris, Corinne Cath,
 and Sarah Myers West have highlighted the penchant for technological
 solutions to tack towards value ethics prioritizing efficiency and
 perceived good from the top down in place of an approach based in care
-ethics which might honour the individual autonomy of data subjects.^28^
-Dubal’s ethnographic work, likewise, warns about placing perceived
-collective gains ahead of individual agency in gig work.^29^ In our
-case, privileging aggregate analysis ahead of individual data access
-risks making qualifying all workers as a homogenous set, rather than
-empowering them with information directly. On the other hand, though an
-algorithmic audit requires diversion of resources from immediate data
-analytics outputs directed at data subjects, it could lead to much more
-impactful legal victories or proof of algorithmic coercion,
-exploitation, or discrimination when completed. Ultimately, any
-sustained effort requires both forms of advocacy, at which point the
-question becomes: how might we support both?
+ethics which might honour the individual autonomy of data
+subjects.^28^[^10chapter7_28] Dubal’s ethnographic work, likewise, warns about
+placing perceived collective gains ahead of individual agency in gig
+work.[^10chapter7_29] In our case, privileging aggregate analysis ahead of
+individual data access risks making qualifying all workers as a
+homogenous set, rather than empowering them with information directly.
+On the other hand, though an algorithmic audit requires diversion of
+resources from immediate data analytics outputs directed at data
+subjects, it could lead to much more impactful legal victories or proof
+of algorithmic coercion, exploitation, or discrimination when completed.
+Ultimately, any sustained effort requires both forms of advocacy, at
+which point the question becomes: how might we support both?
 
 Dilemmas like these force introspection about the role of researchers in
 PAR and as infrastructure developers. Should researchers concentrate
@@ -645,7 +643,7 @@ and agency within poor working conditions. Building infrastructure that
 does not overtly set priorities in pursuit of allowing both stakeholders
 to access and analyze data autonomously also runs the risk of failing to
 execute fully on either goal, potentially leading the effort astray from
-the immediate needs of data subjects.^30^
+the immediate needs of data subjects.[^10chapter7_30]
 
 The process of building infrastructures necessitates difficult
 trade-offs: should these infrastructures seek to help data subjects
@@ -664,13 +662,13 @@ make them and their governance as resource-efficient before also
 critically considering what underlying politics we ourselves are at risk
 of encoding into our own data infrastructures.
 
-# Parallax 
+## Parallax 
 
 Nick Srnicek points to a peculiarity that sets platform firms apart from
 their predecessors: cross-subsidization – the unique ability of platform
 companies to internally hedge individually unprofitable services on the
 knowledge gained through the data they generate or other services they
-facilitate.^31^ Gmail, Facebook, and of course Uber all fit this design
+facilitate.[^10chapter7_31] Gmail, Facebook, and of course Uber all fit this design
 pattern. Gmail offers free email hosting in exchange for data used for
 marketing or AI training. Facebook’s social network is likewise the
 façade of a web-wise AdTech empire, while Uber consistently posts losses
@@ -706,12 +704,12 @@ contradictory nature of proposing a data analytics infrastructure
 detached from any one analytical aim, while also supporting two
 epistemic readings of the same information. In order to unpack this, we
 borrow Žižek’s concept of the ‘parallax’ to account for both the
-inherent conflicts that arise in designing this system.^32^ In optics
+inherent conflicts that arise in designing this system.[^10chapter7_32] In optics
 parlance, parallax refers to the phenomenon of observing equally
 accurate movements of an object in the opposite directions caused by the
 displacement between two points of view. In this sense, two measurements
 can be both entirely accurate yet conflicting with one another only
-because they are taken from two distinct perspectives.^33^
+because they are taken from two distinct perspectives.[^10chapter7_33]
 
 In Žižek’s *The Parallax View*, he reconsiders a basic Hegelian tenet –
 the notion that analyses approaching the truth through a see-saw action
@@ -722,12 +720,12 @@ incompatible phenomena on the same level’ where ‘the illusion of being
 able to use the same language for phenomena which are mutually
 untranslatable and can be grasped only in a kind of parallax view,
 constantly shifting perspective between two points between which no
-synthesis or mediation is possible’.^34^ Drawing examples from history
+synthesis or mediation is possible’.[^10chapter7_34] Drawing examples from history
 like those between economic conditions and political movements, or
 between individual psychoanalysis and social dynamics, Žižek points his
 readers’ attention to the ‘parallax gap, the confrontation of two
 closely linked perspectives between which no neutral common ground is
-possible’.^35^ For some truths or relationships taken as fact – such as
+possible’.[^10chapter7_35] For some truths or relationships taken as fact – such as
 the relationship between individual psychoanalytic conditions and social
 movements or between economic conditions and political conflicts – our
 understanding exists in a certain tensile stasis. Each perspective is
@@ -786,7 +784,7 @@ require. In the next section, we describe the features of the
 architecture we find best approximates this function given the technical
 tools we possess today and the regulatory climate we operate within.
 
-# Ways Forward: Architectures and Policy
+## Ways Forward: Architectures and Policy
 
 You cannot buy a parallax data architecture from Amazon Web Services
 (AWS) or fork one from GitHub (at least in name). We put forward,
@@ -811,34 +809,35 @@ needs, but may also lead to conflicting demands on data infrastructures.
 
 In our designs, we theorize that unstructured data analytics
 infrastructures could provide a suitable technical basis to
-simultaneously support the diverse analytical needs.^36^ When maintained
-exclusively by a single academic or publicinterest institution, these
-infrastructures may closely resemble current corporate practice, and
-their cost might likewise become unjustifiable. In a shared setting,
-however, the flexibility of unstructured architectures could allow
-parties with common interests in underlying data but conflicting data
-structures to still pool their resources and make them available as a
-collective resource. This approach constitutes a departure from much of
-the existing literature, which calls for strict data interoperability
-standards from the outset.^37^ Instead, having considered
-interoperability as something deeply contextual in its definition,
-rather than a single objective format, we advocate for data institutions
-to take up an unstructured approach to underlying data storage,
-facilitating the maximum possibilities to query the same data resources,
-without putting in place structures which obstruct other analyses.
+simultaneously support the diverse analytical needs.[^10chapter7_36] When
+maintained exclusively by a single academic or publicinterest
+institution, these infrastructures may closely resemble current
+corporate practice, and their cost might likewise become unjustifiable.
+In a shared setting, however, the flexibility of unstructured
+architectures could allow parties with common interests in underlying
+data but conflicting data structures to still pool their resources and
+make them available as a collective resource. This approach constitutes
+a departure from much of the existing literature, which calls for strict
+data interoperability standards from the outset.[^10chapter7_37] Instead, having
+considered interoperability as something deeply contextual in its
+definition, rather than a single objective format, we advocate for data
+institutions to take up an unstructured approach to underlying data
+storage, facilitating the maximum possibilities to query the same data
+resources, without putting in place structures which obstruct other
+analyses.
 
 Unstructured or NoSQL data architectures like Elasticsearch have a
 variety of features which make them suitable for the demands of data
 institutions. Most relevant to our discussion is their natural
-orientation towards ‘schema on read’ (SoR) analytics strategies.^38^ SoR
-systems stipulate that the greatest part of data structure is added at
-time of analysis, rather than upon ingestion, while persistent data
+orientation towards ‘schema on read’ (SoR) analytics strategies.[^10chapter7_38]
+SoR systems stipulate that the greatest part of data structure is added
+at time of analysis, rather than upon ingestion, while persistent data
 remains in its unstructured form. While SoR is by no means a new idea,
 it is rarely considered with a view respect to its potential impacts on
 data stewardship and collective governance.
 
 Pushshift is an excellent example of how unstructured data analytics can
-be used at scale in the public service.^39^ The site maintains massive
+be used at scale in the public service.[^10chapter7_39] The site maintains massive
 repositories of comments and posts from Reddit and other social media
 outlets as a research resource. Using an Elasticsearch architecture,
 Pushshift makes data available via a search API. Elasticsearch’s
@@ -854,7 +853,7 @@ case, it is easy to imagine sharing a definitive query among
 organizations for common metrics like pay-per-hour. Though Pushshift
 demonstrates how a vast volume of data can be made available for many
 purposes with relatively low overhead and maintenance cost (it is
-maintained almost entirely by one person),^40^ its use case does not
+maintained almost entirely by one person),[^10chapter7_40] its use case does not
 contain sensitive personal data, and thus has not required the
 implementation of collective or personal data governance controls as
 platform worker data does.
@@ -872,7 +871,7 @@ multiple parties to simultaneously access the same data. The ‘horizontal
 scalability’ lent by the distributed nature of these data stores means
 different organizations, researchers, or even platforms could
 independently contribute their data without fully relinquishing
-governance over it.^41^ For example, WIE might maintain an index of
+governance over it.[^10chapter7_41] For example, WIE might maintain an index of
 worker data controlled as a data trust through agreements with drivers
 as they do today. WIE could make their index searchable by data
 protection regulators in the UK, while an EU-based equivalent of WIE
@@ -908,7 +907,7 @@ subjects for use in research and compliance also produce similar
 artifacts. The Open-Source Data Donation Framework or (OSD2F) elicits
 scripts from researchers to be tested in the private environment of a
 data subject’s browser before allowing data donors to elect to
-contribute their data to research.^42^ The scripts contributed by
+contribute their data to research.[^10chapter7_42] The scripts contributed by
 researchers both play a similar role to logs we produced, showing the
 necessary transformations to make data interoperable, and the queries we
 mentioned earlier, by providing open-source or shared resources for
@@ -920,7 +919,7 @@ semi-decentralized when compared to other, fully decentralized
 alternative data architectures. Tim BernersLee’s Solid project (to which
 our team actively contributes) facilitates one-off permissions to data
 held by subjects, making it possible for data to be accessed by services
-without ever leaving the data subject’s personal data store.^43^ Solid
+without ever leaving the data subject’s personal data store.[^10chapter7_43] Solid
 envisions a future in which data stored in a decentralized setting is
 organized according to a common semantic format (Resource Description
 Framework, or RDF), allowing for perfect interoperability. The price of
@@ -937,7 +936,7 @@ configuration when they describe ‘a plurality of bottom-up data trusts’,
 meant to suit the highly heterogeneous sets of data subject preferences
 – something they viewed as an obstacle to the initial data trust model
 proposed by Lilian Edwards and championed by Dame Wendy Hall and Jérôme
-Pesenti.^44^
+Pesenti.[^10chapter7_44]
 
 One of the inherent disadvantages to the model we propose is its
 reliance on DSARs for its data. Much of our earlier sections covered
@@ -947,39 +946,39 @@ becomes even more critical in the context of new regulations that grant
 more direct research access to platform data for researchers. The added
 access granted by Article 40 of the EU’s DSA constitutes a significant
 advance in data access for evaluating systemic harms and risks of the
-type we examine in our work with WIE.^45^ This provision of the DSA is
+type we examine in our work with WIE.[^10chapter7_45] This provision of the DSA is
 unfortunately not applicable to Uber as it does not break the
-45-million-user thresholds set by the policy.^46^ With laws like the DSA
-opening new avenues to aggregate data access and recent cases won by WIE
-establishing a precedent in which Uber cannot deny data access for the
-purpose of aggregation, we might expect obfuscation through the use of
-data structure to become an even more common tactic of data controllers.
-Remaining optimistic, however, the added access researchers may be able
-to achieve for other platforms via the DSA could also become a critical
-resource to enhance data institutions drawing from aggregated DSAR
-responses. The vastly different nature of this data – likely aggregate,
-higher velocity (more regularly refreshed), and hopefully more readily
-machine readable – only strengthens the need of architectures that can
-quickly accommodate the combination or comparison of differing data
-structures with existing data collected directly by data subjects
-through their own self-tracking or through DSARs.
+45-million-user thresholds set by the policy.[^10chapter7_46] With laws like the
+DSA opening new avenues to aggregate data access and recent cases won by
+WIE establishing a precedent in which Uber cannot deny data access for
+the purpose of aggregation, we might expect obfuscation through the use
+of data structure to become an even more common tactic of data
+controllers. Remaining optimistic, however, the added access researchers
+may be able to achieve for other platforms via the DSA could also become
+a critical resource to enhance data institutions drawing from aggregated
+DSAR responses. The vastly different nature of this data – likely
+aggregate, higher velocity (more regularly refreshed), and hopefully
+more readily machine readable – only strengthens the need of
+architectures that can quickly accommodate the combination or comparison
+of differing data structures with existing data collected directly by
+data subjects through their own self-tracking or through DSARs.
 
 In the absence of greater legal tools to access data, grassroots efforts
 have also been successful in sourcing data to give workers immediate
 insights and audit the behaviour of algorithms. Dan Calacci and Alex
 Pentland creatively combined a chatbot with computer vision techniques
 to collect and process screenshots of workers for the US platform
-Shipt.^47^ Through this technique, the authors worked with data subjects
-and activists to reveal how alterations to the design of dynamic pay
-systems on the part of the platform resulted in changes to the wages of
-workers. Commercial implementations that source data directly from
-individual workers have also emerged such as Argyle, a service that uses
-workers’ credentials to fetch their data and build verifiable labour
-records across platforms. Rodeo, an app that allows workers to compare
-gig-work offers across platforms, uses Argyle to source data, but is
-ultimately at risk of losing access to data should platforms cut off
-data flows as Deliveroo, a UK-based food delivery platform, has recently
-done.^48^
+Shipt.[^10chapter7_47] Through this technique, the authors worked with data
+subjects and activists to reveal how alterations to the design of
+dynamic pay systems on the part of the platform resulted in changes to
+the wages of workers. Commercial implementations that source data
+directly from individual workers have also emerged such as Argyle, a
+service that uses workers’ credentials to fetch their data and build
+verifiable labour records across platforms. Rodeo, an app that allows
+workers to compare gig-work offers across platforms, uses Argyle to
+source data, but is ultimately at risk of losing access to data should
+platforms cut off data flows as Deliveroo, a UK-based food delivery
+platform, has recently done.[^10chapter7_48]
 
 # Conclusion
 
@@ -1017,17 +1016,16 @@ to participate in shifting power.
 
 # Notes
 
-1.  Rob Kitchin and Gavin McArdle, ‘What Makes Big Data, Big Data?
+[^10chapter7_1]: Rob Kitchin and Gavin McArdle, ‘What Makes Big Data, Big Data?
     Exploring the Ontological Characteristics of 26 Datasets’, *Big Data
-    and Society* 3, no. 1 (2016), DOI:
-    https://doi.org/10.1177/2053951716631130.
+    and Society* 3, no. 1 (2016), DOI: https://doi.org/10.1177/2053951716631130.
 
-2.  A whole sub-industry has sprung up not only offering data analytics
-    as a service but also in the optimization of organizational
-    structures surrounding analytics development in ‘AI operations’
-    (AIOps). So-called process-mining tools have also become widely
-    available to streamline data structuring, pipeline building, and
-    exploratory analysis by non-technical users. See Yingnong Dang,
+[^10chapter7_2]: A whole sub-industry has sprung up not only offering data
+    analytics as a service but also in the optimization of
+    organizational structures surrounding analytics development in ‘AI
+    operations’ (AIOps). So-called process-mining tools have also become
+    widely available to streamline data structuring, pipeline building,
+    and exploratory analysis by non-technical users. See Yingnong Dang,
     Qingwei Lin, and Peng Huang, *AIOps: Real-World Challenges and
     Research Innovations*, 2019 IEEE/ACM 41st International Conference
     on Software Engineering: Companion Proceedings (ICSE-Companion)
@@ -1035,56 +1033,56 @@ to participate in shifting power.
     https://ieeexplore. ieee.org/document/8802836 (accessed 28 February
     2023).
 
-3.  Dan Calacci, ‘Organizing in the End of Employment: Information
+[^10chapter7_3]: Dan Calacci, ‘Organizing in the End of Employment: Information
     Sharing, Data Stewardship, and Digital Workerism’, 2022 Symposium on
     HumanComputer Interaction for Work, Durham, NH, 2022.
 
-4.  Jack Hardinges and Jared Robert Keller, ‘What Are Data Institutions
-    and Why Are They Important?’ Open Data Institute, 29 January 2021,
-    https://
+[^10chapter7_4]: Jack Hardinges and Jared Robert Keller, ‘What Are Data
+    Institutions and Why Are They Important?’ Open Data Institute, 29
+    January 2021, https://
     theodi.org/article/what-are-data-institutions-and-why-are-they-important
     (accessed 7 November 2022).
 
-5.  Hardinges and Keller, ‘What Are Data Institutions’.
+[^10chapter7_5]: Hardinges and Keller, ‘What Are Data Institutions’.
 
-6.  Lilly C. Irani and M. Six Silberman, ‘Turkopticon: Interrupting
+[^10chapter7_6]: Lilly C. Irani and M. Six Silberman, ‘Turkopticon: Interrupting
     Worker Invisibility in Amazon Mechanical Turk’, Proceedings of the
     SIGCHI Conference on Human Factors in Computing Systems, Association
     for Computing Machinery, 2013, https://dl.acm.org/
     doi/10.1145/2470654.2470742 (accessed 13 July 2022).
 
-7.  Jack Hardinges and Jared Robert Keller, ‘What Are “Bottom-Up” Data
+[^10chapter7_7]: Jack Hardinges and Jared Robert Keller, ‘What Are “Bottom-Up” Data
     Institutions and How Do They Empower People? – the ODI’, Open Data
     Institute, 25 June 2021,
     https://theodi.org/article/what-are-bottom-up-datainstitutions-and-how-do-they-empower-people
     (accessed 7 July 2021).
 
-8.  Tobias Fiebig, Seda Gürses, Carlos H. Gañán, Erna Kotkamp, Fernando
-    Kuipers, Martina Lindorfer, Menghua Prisse, and Taritha Sari, ‘Heads
-    in the Clouds: Measuring the Implications of Universities Migrating
-    to Public Clouds’, 27 July 2021, http://arxiv.org/abs/2104.09462
-    (accessed 20 June 2022).
+[^10chapter7_8]: Tobias Fiebig, Seda Gürses, Carlos H. Gañán, Erna Kotkamp,
+    Fernando Kuipers, Martina Lindorfer, Menghua Prisse, and Taritha
+    Sari, ‘Heads in the Clouds: Measuring the Implications of
+    Universities Migrating to Public Clouds’, 27 July 2021,
+    http://arxiv.org/abs/2104.09462 (accessed 20 June 2022).
 
-9.  Fiebig, Gürses, Gañán, Kotkamp, Kuipers, Lindorfer, Prisse, and
+[^10chapter7_9]: Fiebig, Gürses, Gañán, Kotkamp, Kuipers, Lindorfer, Prisse, and
     Sari, ‘Heads in the Clouds’.
 
-10. Wendy Hall and Jérôme Pesenti, ‘Growing the Artificial Intelligence
-    Industry in the UK’, Department for Digital, Culture, Media and
-    Sport and Department for Business, Energy and Industrial Strategy,
-    GOV.UK, 2017,
+[^10chapter7_10]: Wendy Hall and Jérôme Pesenti, ‘Growing the Artificial
+    Intelligence Industry in the UK’, Department for Digital, Culture,
+    Media and Sport and Department for Business, Energy and Industrial
+    Strategy, GOV.UK, 2017,
     https://www.gov.uk/government/publications/growing-the-artificialintelligence-industry-in-the-uk
     (accessed 11 November 2024).
 
-11. René Mahieu and Jef Ausloos, ‘Recognising and Enabling the
+[^10chapter7_11]: René Mahieu and Jef Ausloos, ‘Recognising and Enabling the
     Collective Dimension of the GDPR and the Right of Access’, preprint,
     29 April 2020, https://osf.io/b5dwm (accessed 29 October 2021).
 
-12. Dan Calacci and Jake Stein, ‘From Access to Understanding:
+[^10chapter7_12]: Dan Calacci and Jake Stein, ‘From Access to Understanding:
     Collective Data Governance for Workers’, *European Labour Law
     Journal* 14, no. 2 (2023), DOI:
     https://doi.org/10.1177/20319525231167981.
 
-13. Worker Info Exchange (WIE) is a non-profit data rights and worker
+[^10chapter7_13]: Worker Info Exchange (WIE) is a non-profit data rights and worker
     advocacy organization in the United Kingdom (UK). The organization
     assists workers with individual claims, including algorithmic
     discrimination, data access, unfair working conditions, and unjust
@@ -1094,7 +1092,7 @@ to participate in shifting power.
     UK and the European Union (EU). For information about WIE, visit
     workerinfoexchange.org.
 
-14. Our project regards data autonomy first and foremost as data
+[^10chapter7_14]: Our project regards data autonomy first and foremost as data
     subjects’ ability to control, manage, and maintain their personal
     data encompassing both personal data privacy and transparency into
     how data is used and processed. We also consider data autonomy to go
@@ -1103,94 +1101,92 @@ to participate in shifting power.
     subjects to understand data in the same contexts (aggregate and
     individual) as data collectors.
 
-15. *Applicants 1-4 v. UBER BV* \[2023\] Rechtbank Amsterdam
+[^10chapter7_15]: *Applicants 1-4 v. UBER BV* \[2023\] Rechtbank Amsterdam
     200.295.742/01; *Applicants 1-6 v. UBER BV* \[2023\] Rechtbank
     Amsterdam 200.295.747/01.
 
-16. ‘AWO’, https://awo.agency (accessed 31 May 2023).
+[^10chapter7_16]: ‘AWO’, https://awo.agency (accessed 31 May 2023).
 
-17. This research project has been approved by the Departmental Research
-    Ethics Committee for Computer Science, University of Oxford, under
-    reference CS\_C1A\_23\_016\_001.
+[^10chapter7_17]: This research project has been approved by the Departmental
+    Research Ethics Committee for Computer Science, University of
+    Oxford, under reference CS\_C1A\_23\_016\_001.
 
-18. Britt S. Paris, Corinne Cath, and Sarah Myers West, ‘Radical
+[^10chapter7_18]: Britt S. Paris, Corinne Cath, and Sarah Myers West, ‘Radical
     Infrastructure: Building beyond the Failures of Past Imaginaries for
     Networked Communication’, *New Media and Society* 26, no. 11 (2023),
     DOI: https:// doi.org/10.1177/14614448231152546.
 
-19. Slavoj Žižek, *The Parallax View* (paperback) (MIT Press, 2009
+[^10chapter7_19]: Slavoj Žižek, *The Parallax View* (paperback) (MIT Press, 2009
     \[2006\]).
 
-20. See Tyler Akidau, Robert Bradshaw, Craig Chambers, Slava Chernyak,
-    Rafael J. Fernández-Moctezuma, Reuven Lax, Sam McVeety, Daniel
-    Mills, Frances Perry, Eric Schmidt, and Sam Whittle, ‘The Dataflow
-    Model: A
+[^10chapter7_20]: See Tyler Akidau, Robert Bradshaw, Craig Chambers, Slava
+    Chernyak, Rafael J. Fernández-Moctezuma, Reuven Lax, Sam McVeety,
+    Daniel Mills, Frances Perry, Eric Schmidt, and Sam Whittle, ‘The
+    Dataflow Model: A Practical Approach to Balancing Correctness, Latency, and Cost in
+    MassiveScale, Unbounded, Out-of-Order Data Processing’, *Proceedings
+    of the VLDB Endowment* 8, no. 12 (2015): 1792–1803. For example, an
+    analytics system to evaluate the performance of a jetliner will
+    introduce structure early on in the pipeline in order to monitor
+    complex machine-generated data in real time whereas social media
+    analytics systems might introduce structure later in the pipeline to
+    allow for inductive analysis.
 
-> Practical Approach to Balancing Correctness, Latency, and Cost in
-> MassiveScale, Unbounded, Out-of-Order Data Processing’, *Proceedings
-> of the VLDB Endowment* 8, no. 12 (2015): 1792–1803. For example, an
-> analytics system to evaluate the performance of a jetliner will
-> introduce structure early on in the pipeline in order to monitor
-> complex machine-generated data in real time whereas social media
-> analytics systems might introduce structure later in the pipeline to
-> allow for inductive analysis.
-
-1.  Finn Brunton and Helen Fay Nissenbaum, *Obfuscation*: *A User’s
+[^10chapter7_21]: Finn Brunton and Helen Fay Nissenbaum, *Obfuscation*: *A User’s
     Guide for Privacy and Protest* (MIT Press, 2015),
     http://public.eblib.com/choice/ publicfullrecord.aspx?p=4093096
     (accessed 3 December 2020).
 
-2.  Jef Ausloos and Pierre Dewitte, ‘Shattering One-Way Mirrors: Data
+[^10chapter7_22]: Jef Ausloos and Pierre Dewitte, ‘Shattering One-Way Mirrors: Data
     Subject Access Rights in Practice’, *International Data Privacy Law*
     4, no. 8 (2018): 4–28.
 
-3.  EU General Data Protection Regulation (GDPR), 2016, Article 4.
+[^10chapter7_23]: EU General Data Protection Regulation (GDPR), 2016, Article 4.
 
-4.  *Applicants 1-4 v. UBER B.V.; Applicants 1-6 v*. *UBER B.V*; Paris,
-    Cath, and West, ‘Radical Infrastructure’. Please note the research
-    described in this article occurred prior to the conclusion of these
-    cases.
+[^10chapter7_24]: *Applicants 1-4 v. UBER B.V.; Applicants 1-6 v*. *UBER B.V*;
+    Paris, Cath, and West, ‘Radical Infrastructure’. Please note the
+    research described in this article occurred prior to the conclusion
+    of these cases.
 
-5.  Jessica Phillips, ‘How Uber’s Dynamic Pricing Model Works’, *Uber
+[^10chapter7_25]: Jessica Phillips, ‘How Uber’s Dynamic Pricing Model Works’, *Uber
     Blog*, 21 January 2019,
     https://www.uber.com/en-GB/blog/uber-dynamic-pricing (accessed 31
     May 2023).
 
-6.  Geoffrey C. Bowker, *Memory Practices in the Sciences* (MIT Press,
-    2005); Yanni A Loukissas, *All Data Are Local: Thinking Critically
-    in a Data-Driven Society* (MIT Press, 2019).
+[^10chapter7_26]: Geoffrey C. Bowker, *Memory Practices in the Sciences* (MIT
+    Press, 2005); Yanni A Loukissas, *All Data Are Local: Thinking
+    Critically in a Data-Driven Society* (MIT Press, 2019).
 
-7.  Alex Bowyer, Jessica Pidoux, Jacob Gursky, and Paul-Olivier Dehaye,
-    ‘Digipower Technical Reports: Auditing the Data Economy through
-    Personal Data Access’, Zenodo, https://zenodo.org/record/6554178
-    (accessed 7 October 2022).
+[^10chapter7_27]: Alex Bowyer, Jessica Pidoux, Jacob Gursky, and Paul-Olivier
+    Dehaye, ‘Digipower Technical Reports: Auditing the Data Economy
+    through Personal Data Access’, Zenodo,
+    https://zenodo.org/record/6554178 (accessed 7 October 2022).
 
-8.  Paris, Cath, and West, ‘Radical Infrastructure’.
+[^10chapter7_28]: Paris, Cath, and West, ‘Radical Infrastructure’.
 
-9.  Veena Dubal, ‘Wage Slave or Entrepreneur? Contesting the Dualism of
-    Legal Worker Identities’, *California Law Review* no. 105 (2017):
+[^10chapter7_29]: Veena Dubal, ‘Wage Slave or Entrepreneur? Contesting the Dualism
+    of Legal Worker Identities’, *California Law Review* no. 105 (2017):
     65–123.
 
-10. Paris, Cath, and West, ‘Radical Infrastructure’.
+[^10chapter7_30]: Paris, Cath, and West, ‘Radical Infrastructure’.
 
-11. Nick Srnicek and Laurent De Sutter, *Platform Capitalism* (Polity
+[^10chapter7_31]: Nick Srnicek and Laurent De Sutter, *Platform Capitalism* (Polity
     Press, 2017).
 
-12. Žižek, *The Parallax View*.
+[^10chapter7_32]: Žižek, *The Parallax View*.
 
-13. Kaj Strand, ‘Parallax’, *Encyclopedia Britannica*, 2023,
+[^10chapter7_33]: Kaj Strand, ‘Parallax’, *Encyclopedia Britannica*, 2023,
     https://www.britannica.
 
-> com/science/parallax (accessed 12 December 2024).
+    com/science/parallax (accessed 12 December 2024).
 
-1.  Žižek, *The Parallax View*.
+[^10chapter7_34]: Žižek, *The Parallax View*.
 
-2.  Žižek, *The Parallax View*.
+[^10chapter7_35]: Žižek, *The Parallax View*.
 
-3.  Rick Cattell, ‘Scalable SQL and NoSQL Data Stores’, *ACM SIGMOD
+[^10chapter7_36]: Rick Cattell, ‘Scalable SQL and NoSQL Data Stores’, *ACM SIGMOD
     Record* 12, no. 39 (2011): 12–27.
 
-4.  Gianclaudio Malgieri and Frank Pasquale, ‘From Transparency to
+[^10chapter7_37]: Gianclaudio Malgieri and Frank Pasquale, ‘From Transparency to
     Justification: Toward Ex Ante Accountability for AI’, Brooklyn Law
     School, Legal Studies Paper 712, 2022, 27; Milagros Miceli, Tianling
     Yang, Adriana Alvarado Garcia, Julian Posada, Sonja Mei Wang, Marc
@@ -1198,58 +1194,55 @@ to participate in shifting power.
     Participatory Approach for Data Work’, 9 August 2022,
     http://arxiv.org/abs/2207.04958 (accessed 12 August 2022).
 
-5.  Sladjana Jankovic, Snezana Mladenovic, Dušan Miodrag, and Mladenović
-    Slavko Vesković, ‘Schema on Read Modeling Approach as a Basis of Big
-    Data Analytics Integration in EIS’, *Enterprise Information Systems*
-    1180, no. 12 (2018): 1–22.
+[^10chapter7_38]: Sladjana Jankovic, Snezana Mladenovic, Dušan Miodrag, and
+    Mladenović Slavko Vesković, ‘Schema on Read Modeling Approach as a
+    Basis of Big Data Analytics Integration in EIS’, *Enterprise
+    Information Systems* 1180, no. 12 (2018): 1–22.
 
-6.  Jason Baumgartner, Savvas Zannettou, Brian Keegan, Megan Squire, and
-    Jeremy Blackburn, ‘The Pushshift Reddit Dataset’, *Proceedings of
-    the International AAAI Conference on Web and Social Media* 14, no. 1
-    (2020): 830–839.
+[^10chapter7_39]: Jason Baumgartner, Savvas Zannettou, Brian Keegan, Megan Squire,
+    and Jeremy Blackburn, ‘The Pushshift Reddit Dataset’, *Proceedings
+    of the International AAAI Conference on Web and Social Media* 14,
+    no. 1 (2020): 830–839.
 
-7.  ‘Contributors to Pushshift/Api’,
+[^10chapter7_40]: ‘Contributors to Pushshift/Api’,
     https://github.com/pushshift/api/graphs/ contributors (accessed 31
     May 2023).
 
-8.  Venkat N. Gudivada, Dhana Rao, and Vijay V. Raghavan, ‘NoSQL Systems
-    for Big Data Management’, 2014 IEEE World Congress on Services,
-    Institute of Electrical and Electronics Engineers, 2014,
+[^10chapter7_41]: Venkat N. Gudivada, Dhana Rao, and Vijay V. Raghavan, ‘NoSQL
+    Systems for Big Data Management’, 2014 IEEE World Congress on
+    Services, Institute of Electrical and Electronics Engineers, 2014,
     https://ieeexplore.ieee.org/ document/6903264 (accessed 28 February
     2023).
 
-9.  Slađana Janković, Snežana Mladenović, Dušan Mladenović, Slavko
+[^10chapter7_42]: Slađana Janković, Snežana Mladenović, Dušan Mladenović, Slavko
     Vesković, and Draženko Glavić, ‘Schema on read Modeling Approach as
     a Basis of Big Data Analytics Integration in EIS’, *Enterprise
     Information Systems* 12, no. 8–9 (2018): 1180–1201.
 
-10. Essam Mansour, Andrei Vlad Sambra, Sandro Hawke, Maged Zereba,
-    Sarven
+[^10chapter7_43]: Essam Mansour, Andrei Vlad Sambra, Sandro Hawke, Maged Zereba,
+    Sarven Capadisli, Abdurrahman Ghanem, Ashraf Aboulnaga, and Tim
+    BernersLee, ‘A Demonstration of the Solid Platform for Social Web
+    Applications’, Proceedings of the 25th International Conference
+    Companion on World Wide Web, 2016, 223–226.
 
-> Capadisli, Abdurrahman Ghanem, Ashraf Aboulnaga, and Tim BernersLee,
-> ‘A Demonstration of the Solid Platform for Social Web Applications’,
-> Proceedings of the 25th International Conference Companion on World
-> Wide Web, 2016, 223–226.
-
-1.  Sylvie Delacroix and Neil D. Lawrence, ‘Bottom-Up Data Trusts:
+[^10chapter7_44]: Sylvie Delacroix and Neil D. Lawrence, ‘Bottom-Up Data Trusts:
     Disturbing the “One Size Fits All” Approach to Data Governance’,
     *International Data Privacy Law* 9, no. 4 (2019): 236–252; Lilian
     Edwards, ‘The Problem with Privacy’, *International Review of Law
     Computers and Technology* 18, no. 3 (2004): 263–294; Hall and
     Pesenti, ‘Growing the Artificial Intelligence Industry in the UK’.
 
-2.  Martin Husovec and Irene Roche Laguna, ‘Digital Services Act: A
+[^10chapter7_45]: Martin Husovec and Irene Roche Laguna, ‘Digital Services Act: A
     Short Primer’, 2022, DOI: https://dx.doi.org/10.2139/ssrn.4153796.
 
-3.  ‘Uber’, https://www.uber.com/legal/de/document (accessed 31 May
-    2023).
+[^10chapter7_46]: ‘Uber’, https://www.uber.com/legal/de/document (accessed 31 May 2023).
 
-4.  Dan Calacci and Alex Pentland, ‘Bargaining with the Black-Box:
+[^10chapter7_47]: Dan Calacci and Alex Pentland, ‘Bargaining with the Black-Box:
     Designing and Deploying Worker-Centric Tools to Audit Algorithmic
     Management’, *Proceedings of the ACM on Human-Computer Interaction*
     1, no. 6 (2022): 1–24.
 
-5.  Oscar Hornstein, ‘Deliveroo Accused of Blocking Courier Access to
+[^10chapter7_48]: Oscar Hornstein, ‘Deliveroo Accused of Blocking Courier Access to
     Gig Economy Finance App’, *UKTN*, 21 March 2023,
     https://www.uktech.news/ mobility/deliveroo-blocks-rodeo-20230321
     (accessed 31 May 2023).

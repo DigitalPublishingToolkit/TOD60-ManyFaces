@@ -17,33 +17,29 @@ Rights: CC BY-NC 4.0
 ...
 
 
-**Violent Plains**
+# Violent Plains 
+## Challenges and Strategies for Pastoralists’ Data Access in Ghana [^06chapter3_1]
 
-Challenges and Strategies for Pastoralists’
-
-Data Access in Ghana[^06chapter3_1]
-
-*Frank Kwaku Agyei, Lawrence Kwabena Brobbey, Paul Osei-Tutu, and
-Boateng Kyereh*
+### Frank Kwaku Agyei, Lawrence Kwabena Brobbey, Paul Osei-Tutu, and Boateng Kyereh
 
 The conflict between pastoralists (cattle farmers) and crop farmers
 constitutes a major source of natural resource conflict in Africa. It
 was initially thought that the declining availability of grass and water
 resources and the complex land tenure system in Africa drive the
-conflict.^1^ The depletion of grasslands – to feed cattle – results in
+conflict.[^06chapter3_2] The depletion of grasslands – to feed cattle – results in
 competition between farmers and cattle herders for control over grass
 and farmlands, and that results in intense clashes and violent
-confrontations.^2^ Several instances of the conflict have been reported
+confrontations.[^06chapter3_3] Several instances of the conflict have been reported
 to show its growing intensity, geographic scope, and effects of
-displacements, losses, and deaths.^3^ Subsequent works in the humanities
-and social sciences have suggested that the violent clashes between
-farmers and herders are a result of differences in their ethnic and
-identity backgrounds – typical in Nigeria where the conflict occurs
-between Muslim or Fulani herders and Christian farmers.^4^ More recent
+displacements, losses, and deaths.[^06chapter3_4] Subsequent works in the
+humanities and social sciences have suggested that the violent clashes
+between farmers and herders are a result of differences in their ethnic
+and identity backgrounds – typical in Nigeria where the conflict occurs
+between Muslim or Fulani herders and Christian farmers.[^06chapter3_5] More recent
 studies suggest political marginalization through land use politics
 favouring crop farming over pastoralism creates power imbalances and
 sustains tensions between farmers and herders to increase the prevalence
-of the conflict.^5\ ^
+of the conflict.[^06chapter3_6]
 
 In Ghana, the conflict has gained considerable media attention and
 engendered continuing public debate. Despite ongoing efforts by the
@@ -52,12 +48,12 @@ forced population displacements, losses, and destructive reactions. In
 2016, youth in southern Ghana killed 80 cattle belonging to Fulani
 herdsmen when the cattle invaded their farms, and two farmers were shot
 dead in their farms by Fulani herdsmen in Agogo. Between 2009 and 2012,
-a total of 12 people were killed in Agogo town.^6^ In Berekum (southern
+a total of 12 people were killed in Agogo town.[^06chapter3_7] In Berekum (southern
 Ghana), hundreds of armed residents attacked and evicted herdsmen from
 their homes, which resulted in the death of 13 herdsmen and 4
-farmers.^7^ In northern Ghana, a series of fights between Konkomba
+farmers.[^06chapter3_8] In northern Ghana, a series of fights between Konkomba
 farmers and nomadic herders resulted in over 562 families becoming
-homeless as well as loss of livestock, money, and other properties.^8^
+homeless as well as loss of livestock, money, and other properties.[^06chapter3_9]
 The trauma and psychological effects of experiences with conflicts
 hinder farmers and herders from rebuilding their lives and livelihoods
 as the skirmish weakens the social capital of communities, and these
@@ -70,10 +66,10 @@ stigmatization. Journalists covering the majority of Fulani
 pastoralists’ stories rely on secondary accounts and rumoured data. Most
 journalists are not eyewitnesses to the issues they raise, and there is
 homogenization of Fulani ethnic groups with herdsmen when individual
-herdsmen are being referred to.^9^ Often, pastoralists are portrayed as
-‘foreigners’ and ‘treacherous’ by news media outlets, and that has
+herdsmen are being referred to.[^06chapter3_10] Often, pastoralists are portrayed
+as ‘foreigners’ and ‘treacherous’ by news media outlets, and that has
 contributed to an unfriendly and unfair discussion against herders and
-perpetuated an unfavourable opinion of them in Ghanaian society.^10^
+perpetuated an unfavourable opinion of them in Ghanaian society.[^06chapter3_11]
 Through the use of the language of alienation and frames that
 stigmatize, herders are put at the margins of Ghanaian society.
 Pastoralist communities are being marginalized, and this has resulted in
@@ -90,14 +86,14 @@ evidence indicates that transhumance and nomadic herders are the main
 culprits of the conflict. They live in camps in bushy areas and engage
 in grazing of cattle at night. Further, studies suggest that many
 herdsmen and their families speak Fulbe and/or other non-Ghanaian
-languages,^11^ and hence poorly integrate with local Ghanaian
+languages,[^06chapter3_12] and hence poorly integrate with local Ghanaian
 households. The need to integrate perspectives of nomadic and
 transhumance herders in conflict management initiatives is widely
 recognized. Yet pastoralism literature has not systematically accounted
 for the challenges associated with getting access to pastoralists’ data.
 Data access denotes having access rights in a legal or political sense
 as well as activities relating to collecting, storing, and acting on
-data housed in a database.^12^ Understanding the challenges as well as
+data housed in a database.[^06chapter3_13] Understanding the challenges as well as
 the strategies and opportunities associated with pastoralism-related
 data access is an important starting point for improving the well-being
 and peace among farmers and herders in Ghana and beyond. In this
@@ -108,7 +104,7 @@ pastoralists’ data access. The next section outlines the methods used
 for data collection and analysis. This is followed by sections on the
 results and discussion.
 
-# Methods
+## Methods
 
 The study targeted six categories of people for data collection:
 researchers (universities), non-governmental organizations (NGOs),
@@ -163,11 +159,11 @@ refers to a cattle and other livestock farmer, but in this chapter it
 specifically denotes a cattle farmer. ‘Herdsman’ and ‘herder’ are used
 interchangeably to mean a person looking after a cattle herd.
 Pastoralism literature identifies three distinct categories of herders
-in Ghana: settled, nomadic, and transhumance.^13^ The settled herders
+in Ghana: settled, nomadic, and transhumance.[^06chapter3_14] The settled herders
 live among the indigenous agricultural population while the nomadic
 herders live in mobile camps located in isolated bush areas. The
 transhumance herders are also nomadic but engage in regular and seasonal
-movement.^14^ Efforts were made to obtain settled, nomadic, and
+movement.[^06chapter3_15] Efforts were made to obtain settled, nomadic, and
 transhumance respondents when sampling the herdsmen. The sampled
 herdsmen raised cattle in Agogo in the Asante Akim North district and in
 Sekyere Afram Plains (Ashanti Region) and Kwahu Afram Plains (Eastern
@@ -199,7 +195,7 @@ according to common reasons such as social relations of friendship. The
 findings have been presented in themes and relevant quotes have been
 used to support explanations.
 
-# Results 
+## Results 
 
 We present findings for the study structured under four themes: (*a*)
 pastoralists’ environment, (*b*) challenges associated with
@@ -207,7 +203,7 @@ pastoralists’ data access, (*c*) strategies enabling access to
 pastoralists’ data, and (*d*) opportunities to access pastoralists’
 data.
 
-## Pastoralists’ Environment
+### Pastoralists’ Environment
 
 The pastoralists engaged in the study narrated their work environment to
 constitute a dynamic and extreme terrain. Generally, the settled herders
@@ -365,7 +361,7 @@ There are instances where conflict actors employ objective means – for
 instance, through the documented conflict cases at the local government
 and police services offices – to predict the outcomes of conflicts.
 Subjective accuracy, on the other hand, is rooted in imagination and is
-based on intuition.^15^ The use of a subjective accuracy lens in
+based on intuition.[^06chapter3_16] The use of a subjective accuracy lens in
 imagining what is going to happen in a conflict environment dominates in
 the case we investigate. Perhaps it is practically impossible to
 separate prediction and imagination in the farmer–herder conflict; yet
@@ -497,7 +493,7 @@ In Ghana, chieftaincy is an important cultural heritage and institution,
 which has strong ethnic support and provides the structures for
 leadership and exercise of authority. It denotes sacred and
 sociopolitical power conferred on chiefs and priests in many parts of
-Ghana.^16^ Before colonial rule in Ghana, the customary structure had
+Ghana.[^06chapter3_17] Before colonial rule in Ghana, the customary structure had
 been the local political leaders acting as chiefs governing the people
 and resources. In contemporary Ghana, chieftaincy has strong legal and
 constitutional status. The 1992 constitution of Ghana (article 270\[1\])
@@ -641,17 +637,17 @@ and ethnic lines to obtain data. The positionality, trustworthiness, and
 experiences from the field also play a role in the data analysis. In a
 broader sense, the researcher always influences how the data is
 analysed. This starts when making decisions about how to transcribe and
-what parts to leave out as being not relevant to the research topic.^17^
-Based on the observation that not all researchers can easily get access
-to pastoral data, our analysis seems to suggest that processes of data
-collection will always comprise voluntary or forced choices and will
-never be able to capture the full extent of reality. Therefore, based on
-the findings, this chapter argues that the real world cannot be fully
-captured by data; this could lead to potential biases and problematic
-outcomes if field data is relied upon excessively. While there is a need
-to accept this unavoidable reality, our account demonstrates that
-researchers should always be looking for new and better ways of data
-collection and analysis.
+what parts to leave out as being not relevant to the research
+topic.[^06chapter3_18] Based on the observation that not all researchers can easily
+get access to pastoral data, our analysis seems to suggest that
+processes of data collection will always comprise voluntary or forced
+choices and will never be able to capture the full extent of reality.
+Therefore, based on the findings, this chapter argues that the real
+world cannot be fully captured by data; this could lead to potential
+biases and problematic outcomes if field data is relied upon
+excessively. While there is a need to accept this unavoidable reality,
+our account demonstrates that researchers should always be looking for
+new and better ways of data collection and analysis.
 
 ## Power Relations and Politics of Identity
 
@@ -662,7 +658,7 @@ indicating an inability to understand languages used by researchers to
 communicate with them. Such non-participatory behaviour reflects their
 desire to exercise autonomy over data. Related ideas are shared by the
 Global Indigenous Data Alliance, which advocates six rights concerning
-data that indigenous people have.^18^ These are the right to
+data that indigenous people have.[^06chapter3_19] These are the right to
 self-determination, the right to use, the right to possess, the right to
 consent, the right to refuse, and the right to reclaim. Indigenous
 peoples’ right to self-determination entails the ability to organize and
@@ -695,7 +691,7 @@ actors and create barriers to entry into the pastoralism landscape. This
 monopoly threatens the political economy of pastoral societies and
 pastoralism. The problems associated with our empirical data access
 resonate with documented biases and monopolization linked to digital
-data access.^19^ In Ghana, the state institutions dealing with
+data access.[^06chapter3_20] In Ghana, the state institutions dealing with
 pastoralists’ data (district assemblies and police services) are legally
 mandated to grant public access to documented data. While access to data
 from public institutions could be entwined with data biases, retrieving
@@ -752,13 +748,18 @@ institutions and their traditional role in mediating land access, the
 local government and police services, NGOs, and pastoralist
 associations.
 
-# Notes
+# Notes 
 
-1.  T. A. Benjaminsen, F. P. Maganga, and J. M. Abdallah, ‘The Kilosa
+[^06chapter3_1]: This study forms a part of the project ‘Access–Authority Nexus in
+    Farmer–Herder Conflicts’ (AAN), funded by the Danish Research
+    Council for Development Research (Danida) under grant number
+    18-14-GHA.
+
+[^06chapter3_2]: T. A. Benjaminsen, F. P. Maganga, and J. M. Abdallah, ‘The Kilosa
     Killings: Political Ecology of a Farmer–Herder Conflict in
     Tanzania’, *Development and Change* 40, no. 3 (2009): 423–445.
 
-2.  A. Olaniyan, M. Francis, and U. Okeke-Uzodike, ‘The Cattle are
+[^06chapter3_3]: A. Olaniyan, M. Francis, and U. Okeke-Uzodike, ‘The Cattle are
     “Ghanaians” but the Herders are Strangers: Farmer–Herder Conflicts,
     Expulsion Policy, and Pastoralist Question in Agogo, Ghana’,
     *African Studies Quarterly* 15, no. 2 (2015): 53–68; S. Soeters, R.
@@ -766,88 +767,83 @@ associations.
     Pastoralist Conflict in West African Drylands: A Northern Ghanaian
     Case Study’, *Sustainability* 9, no. 11 (2017): 1–19.
 
-3.  M. D. Turner, ‘Political Ecology and the Moral Dimensions of
+[^06chapter3_4]: M. D. Turner, ‘Political Ecology and the Moral Dimensions of
     “Resource Conflicts”: The Case of Farmer–Herder Conflicts in the
     Sahel’, *Political Geography* 23, no. 7 (2004): 863–889.
 
-4.  B. Maiangwa, ‘“Conflicting Indigeneity” and Farmer–Herder Conflicts
-    in Postcolonial Africa’, *Peace Review* 29, no. 3 (2017):
+[^06chapter3_5]: B. Maiangwa, ‘“Conflicting Indigeneity” and Farmer–Herder
+    Conflicts in Postcolonial Africa’, *Peace Review* 29, no. 3 (2017):
     282–288; N. Mikailu, ‘Making Sense of Nigeria’s Fulani–Farmer
     Conflict’, BBC News, 5 May 2016,
     https://www.bbc.com/news/world-africa-36139388 (accessed 20
 
-> December 2018); M. Moritz, ‘Changing Contexts and Dynamics of Farmer–
-> Herder Conflicts across West Africa’, *Canadian Journal of African
-> Studies /* *Revue canadienne des études africaines* 40, no. 1 (2006):
-> 1–40.
+    December 2018); M. Moritz, ‘Changing Contexts and Dynamics of
+    Farmer– Herder Conflicts across West Africa’, *Canadian Journal of
+    African Studies /* *Revue canadienne des études africaines* 40, no.
+    1 (2006): 1–40.
 
-1.  K. N. Bukari and N. Schareika, ‘Stereotypes, Prejudices and
+[^06chapter3_6]: K. N. Bukari and N. Schareika, ‘Stereotypes, Prejudices and
     Exclusion of Fulani Pastoralists in Ghana’, *Pastoralism: Research,
     Policy and Practice* 5, no. 20 (2015): 1–12; R. Yembilah and M.
     Grant, ‘The Political Ecology of Territoriality: Territorialities in
     Farmer–Herder Relationships in Northern Ghana’*, GeoJournal* 79, no.
     3 (2014): 385–400.
 
-2.  S. K. Dary, H. S. James, and A. S. Mohammed, ‘Triggers of
+[^06chapter3_7]: S. K. Dary, H. S. James, and A. S. Mohammed, ‘Triggers of
     Farmer–Herder Conflicts in Ghana: A Non-Parametric Analysis of
     Stakeholders’ Perspectives’, *Sustainable Agriculture Research* 6,
     no. 526 (2017): 141–151.
 
-3.  K. Kyei-Poakwah, ‘Understanding Farmers and Herdsmen Conflict: The
+[^06chapter3_8]: K. Kyei-Poakwah, ‘Understanding Farmers and Herdsmen Conflict: The
     Case of Crop Farmers and Fulani Herders in the Asante Akim North
     District’, doctoral dissertation, University of Ghana, 2018.
 
-4.  ‘Fulanis Flee Konkomba Farmers Attack at Sene’, *Daily Guide*, www.
-    dailyguidenetwork.com/fulanis-flee-konkomba-farmers-attach-sene
+[^06chapter3_9]: ‘Fulanis Flee Konkomba Farmers Attack at Sene’, *Daily Guide*,
+    www. dailyguidenetwork.com/fulanis-flee-konkomba-farmers-attach-sene
     (accessed 4 January 2022).
 
-5.  I. Abubakar, ‘Portrayal of Ethnic Minorities in Ghanaian Newspapers:
-    A Case Study of the Fulani’, MA thesis, University of Ghana,
-    Legon, 2016.
+[^06chapter3_10]: I. Abubakar, ‘Portrayal of Ethnic Minorities in Ghanaian
+    Newspapers: A Case Study of the Fulani’, MA thesis, University of
+    Ghana, Legon, 2016.
 
-6.  M. Nartey and H. J. Ladegaard, ‘Constructing Undesirables: A
+[^06chapter3_11]: M. Nartey and H. J. Ladegaard, ‘Constructing Undesirables: A
     Critical Discourse Analysis of Othering of Fulani Nomads in the
     Ghanaian News Media’, *Discourse and Communication* 15, no. 2
     (2021):184–199.
 
-7.  S. Tonah, ‘Migration and Farmer–Herder Conflicts in Ghana’s Volta
+[^06chapter3_12]: S. Tonah, ‘Migration and Farmer–Herder Conflicts in Ghana’s Volta
     Basin’, *Canadian Journal of African Studies / Revue canadienne des
     études africaines* 40, no. 1 (2006): 152–178.
 
-8.  T. Desai, F. Ritchie, and R. Welpton, ‘Five Safes: Designing Data
+[^06chapter3_13]: T. Desai, F. Ritchie, and R. Welpton, ‘Five Safes: Designing Data
     Access for Research’, Economics Working Paper Series, 1601,
     University of the West of England, Bristol, 2006, 28.
 
-9.  J. Kaiser, ‘Good Herder, Bad Herder: Understanding the Construction
-    of Fulani Herders’ Identities by the Local Community in Agogo,
-    Ghana’, master’s thesis, University of Zurich, 2019.
+[^06chapter3_14]: J. Kaiser, ‘Good Herder, Bad Herder: Understanding the
+    Construction of Fulani Herders’ Identities by the Local Community in
+    Agogo, Ghana’, master’s thesis, University of Zurich, 2019.
 
-10. Olaniyan, Francis, and Okeke-Uzodike, ‘The Cattle are “Ghanaians”’;
-    Tonah, ‘Migration and Farmer–Herder Conflicts’.
+[^06chapter3_15]: Olaniyan, Francis, and Okeke-Uzodike, ‘The Cattle are
+    “Ghanaians”’; Tonah, ‘Migration and Farmer–Herder Conflicts’.
 
-11. G. Pransky, S. Finkelstein, E. Berndt, M. Kyle, J. Mackell, and D.
-    Tortorice, ‘Objective and Self-Report Work Performance Measures: A
-    Comparative Analysis’, *International Journal of Productivity and
+[^06chapter3_16]: G. Pransky, S. Finkelstein, E. Berndt, M. Kyle, J. Mackell, and
+    D. Tortorice, ‘Objective and Self-Report Work Performance Measures:
+    A Comparative Analysis’, *International Journal of Productivity and
     Performance Management* *55*, no. 5 (2006): 390–399.
 
-12. B. Bulley, ‘Our Chiefs, Their Land Management, and Our Custom: A
+[^06chapter3_17]: B. Bulley, ‘Our Chiefs, Their Land Management, and Our Custom: A
     Case Study of Juaben, Ashanti’, MPhil dissertation, University of
     Ghana, 2014.
 
-13. M. Hammersley, ‘Reproducing or Constructing? Some Questions about
+[^06chapter3_18]: M. Hammersley, ‘Reproducing or Constructing? Some Questions about
     Transcription in Social Research’, *Qualitative Research* 10, no. 5
     (2010): 553–569.
 
-14. ‘Care Principles for Indigenous Data Governance’, Global Indigenous
-    Data Alliance, 2023, https://www.gida-global.org/care (accessed 10
-    December 2023).
+[^06chapter3_19]: ‘Care Principles for Indigenous Data Governance’, Global
+    Indigenous Data Alliance, 2023, https://www.gida-global.org/care
+    (accessed 10 December 2023).
 
-15. M. Khan, X. Wu, X. Xu, and W. Dou, ‘Big Data Challenges and
+[^06chapter3_20]: M. Khan, X. Wu, X. Xu, and W. Dou, ‘Big Data Challenges and
     Opportunities in the Hype of Industry 4.0’, paper presented at IEEE
     International Conference on Communications (ICC), Institute of
     Electrical and Electronics Engineers, 2017, 1–6.
-
-[^06chapter3_1]: This study forms a part of the project ‘Access–Authority Nexus in
-    Farmer–Herder Conflicts’ (AAN), funded by the Danish Research
-    Council for Development Research (Danida) under grant number
-    18-14-GHA.

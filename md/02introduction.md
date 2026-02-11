@@ -29,11 +29,10 @@ with the editing of the book. We are also grateful to the University of
 Amsterdam and the Institute for Information Law for their support of the
 workshop.
 
-> **The Many Faces of Data Access**
->
-> ***Legal and Policy implications for research***
+# The Many Faces of Data Access
+## Legal and Policy implications for research
 
-The Many Faces of Data Access : Legal and Policy implications for
+The Many Faces of Data Access: Legal and Policy implications for
 research provides a rich and interdisciplinary critique of regulation
 and, in the process, opens the ‘black box’ of technology companies to
 researchers. It brings together scholars from across the globe, working
@@ -53,4 +52,4 @@ institutional contexts in data access regimes.
 Law, University of Amsterdam.
 
 **Siddharth Peter de Souza** is Assistant Professor of AI and Society at
-the Centre for Interdisciplinary Methods, University of Warwick, C
+the Centre for Interdisciplinary Methods, University of Warwick, Coventry

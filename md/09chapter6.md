@@ -17,58 +17,57 @@ Rights: CC BY-NC 4.0
 ...
 
 
-> **Digging into EU Data Laws and Their Impact on African
-> Researchers**[^09chapter6_1]
+# Digging into EU Data Laws and Their Impact on African Researchers[^09chapter6_1]
 
-*Paul Esselaar*
+### Paul Esselaar
 
 There is a well-known saying that when the United States (US) sneezes,
 the rest of the world catches a cold. While this used to be true for
 Africa, the European Union (EU) has become the single most important
 market for African goods, with Africa exporting 33 per cent of its goods
-to the EU and importing 31 per cent of its goods from the continent.^1^
+to the EU and importing 31 per cent of its goods from the continent.[^09chapter6_2]
 In addition, the EU is the largest source of foreign direct investment
-in South Africa,^2^ and legislative changes to the EU have an inevitable
-and significant impact on African countries. This has been referred to
-as the ‘Brussels effect’ and essentially shows how the EU effectively
-exports norms and regulations to other countries. Anu Bradford^3^ sets
-out three main preconditions for the Brussels effect, namely (*a*)
-market size, (*b*) laws that are precise, comprehensive, available in
-multiple languages, and easy to copy, and (*c*) flexible drafting which
-allows the laws to work across different legal systems.
+in South Africa,[^09chapter6_3] and legislative changes to the EU have an
+inevitable and significant impact on African countries. This has been
+referred to as the ‘Brussels effect’ and essentially shows how the EU
+effectively exports norms and regulations to other countries. Anu
+Bradford[^09chapter6_4] sets out three main preconditions for the Brussels effect,
+namely (*a*) market size, (*b*) laws that are precise, comprehensive,
+available in multiple languages, and easy to copy, and (*c*) flexible
+drafting which allows the laws to work across different legal systems.
 
 While the Brussels effect refers to the influence of Europe on other
 countries, it has been particularly noticeable in the digital space,
 where African countries have been in a flurry of activity to enact
 legislation to protect personal data, most of which has been published
-in the last 10 years.^4^ A good deal of the motivation for this has been
-to harmonize their laws with the EU’s General Data Protection Regulation
-(GDPR), 2016, to the extent that ‘of the 60 countries that have enacted
-new data protection laws over the last decade, almost all modelled their
-approach in full or in part on the GDPR’.^5^
+in the last 10 years.[^09chapter6_5] A good deal of the motivation for this has
+been to harmonize their laws with the EU’s General Data Protection
+Regulation (GDPR), 2016, to the extent that ‘of the 60 countries that
+have enacted new data protection laws over the last decade, almost all
+modelled their approach in full or in part on the GDPR’.[^09chapter6_6]
 
 The Brussels effect has influenced not only the laws the African
 countries but also their regulators, and even court decisions have
-followed the approach of the Court of Justice of the EU.^6^ Regional
+followed the approach of the Court of Justice of the EU.[^09chapter6_7] Regional
 organizations such as the Economic Community of West African States
 (WAEMU) and the Common Market for Easter and Southern Africa (COMESA)
 have also been modelled on the EU, to such an extent that the Court of
 Justice for WAEMU ruled that the Treaty of Dakar (which established
 WAEMU) should be interpreted with reference to the Treaty of Rome (which
 founded the European Community and the jurisprudence of the Court of
-Justice of the EU).^7^
+Justice of the EU).[^09chapter6_8]
 
 The Brussels effect refers not only to the *de jure* influence of
 Europe, but also a *de facto* influence. An example of this effect is
 African farmers’ food safety practices which are largely determined by
-the EU.^8^ Another example was the EU decision to prevent the South
+the EU.[^09chapter6_9] Another example was the EU decision to prevent the South
 African company De Beers from buying rough diamonds from the Russian
-company Alrosa^9^ – effectively resulting in an international
+company Alrosa[^09chapter6_10] – effectively resulting in an international
 prohibition even though neither company was located in Europe. Indeed,
 if an international merger is prohibited in the EU, then it is
 effectively banned worldwide, even if it is deemed acceptable by
-regulators in other jurisdictions.^10^ In short, when the EU changes its
-laws relating to data, there is a good chance that African countries
+regulators in other jurisdictions.[^09chapter6_11] In short, when the EU changes
+its laws relating to data, there is a good chance that African countries
 will be forced to follow suit sooner or later.
 
 Bearing in mind the Brussels effect, the remainder of this chapter
@@ -78,27 +77,27 @@ impact assessment to include countries outside of it and, in so doing,
 acknowledge the de facto and de jure Brussels effect on African
 researchers.
 
-# The EU Strategy for Data
+## The EU Strategy for Data
 
 In 2020, the European Commission released a European strategy for
-data^11^ in which it outlined its vision for the regulation of data. The
-strategy referenced existing legislation – such as the regulation of the
-free flow of non-personal data (FFD)^12^ which focuses on preventing EU
-members from implementing data localization – and outlined a strategy to
-create a single European market for data, which would hold not only data
-from the EU but also from around the world and include personal data,
-non-personal data, and sensitive business data, including high-quality
-product data.^13^ In particular, the strategy focused on the flow of
-data and the incorporation of European values, particularly personal
-data protection, consumer protection, and competition law.
+data[^09chapter6_12] in which it outlined its vision for the regulation of data.
+The strategy referenced existing legislation – such as the regulation of
+the free flow of non-personal data (FFD)[^09chapter6_13] which focuses on
+preventing EU members from implementing data localization – and outlined
+a strategy to create a single European market for data, which would hold
+not only data from the EU but also from around the world and include
+personal data, non-personal data, and sensitive business data, including
+high-quality product data.[^09chapter6_14] In particular, the strategy focused on
+the flow of data and the incorporation of European values, particularly
+personal data protection, consumer protection, and competition law.
 
 The strategy further noted that ‘sensitive data (e.g. health data) in
 public databases is often not made available for research purposes, in
 the absence of capacity of mechanisms that allow specific research
 actions to be taken in a manner compliant with personal data protection
-rules’.^14^ The European Open Science Cloud is an example of an
+rules’.[^09chapter6_15] The European Open Science Cloud is an example of an
 initiative that provides access to *European* researchers; the creation
-of the common European Health Data Space^15^ aims to assist with
+of the common European Health Data Space[^09chapter6_16] aims to assist with
 preventing, detecting, and curing diseases, as well as allowing for
 informed, evidence-based decisions to improve the accessibility,
 effectiveness, and sustainability of healthcare systems.
@@ -111,19 +110,20 @@ protection or privacy perspective, and (*b*) the EU is open to receiving
 data from around the world but is less focused on providing access to
 the data for non-European researchers.
 
-## Putting the EU Strategy for Data into Law
+### Putting the EU Strategy for Data into Law
 
 Since the publication of the EU strategy for Data, there have been
 several EU laws focusing on data regulation that have been published,
-namely the Digital Services Act (DSA), 2022;^16^ the Digital Markets Act
-(DMA), 2022;^17^ and the recent Artificial Intelligence Act (AIA),
-2024,^18^ as well as the Data Act (DA), 2023^19^ (collectively referred
-to as the EU data laws). Each of these Acts is discussed briefly in
-order to contextualize the EU’s holistic approach to data regulation.
+namely the Digital Services Act (DSA), 2022;[^09chapter6_17] the Digital Markets
+Act (DMA), 2022;[^09chapter6_18] and the recent Artificial Intelligence Act (AIA),
+2024,[^09chapter6_19] as well as the Data Act (DA), 2023[^09chapter6_20] (collectively
+referred to as the EU data laws). Each of these Acts is discussed
+briefly in order to contextualize the EU’s holistic approach to data
+regulation.
 
 At a high level, the *DSA* seeks to manage illegal content, ensure
 advertising is transparent, and combat disinformation in large (over 45
-million users) platforms,^20^ which are designated as very large online
+million users) platforms,[^09chapter6_21] which are designated as very large online
 platforms (VLOPs) and very large online search engines (VLOSEs). It does
 this by placing obligations on social media platforms and search engines
 to address illegal content, disclose how their algorithms work to the
@@ -133,7 +133,7 @@ content and how advertisers target users. It was fully implemented in
 regard to digital services.
 
 The *DMA* is a sister piece of legislation that aims at preventing large
-companies (gatekeepers^21^) from abusing their market power by
+companies (gatekeepers[^09chapter6_22]) from abusing their market power by
 preventing self-preferencing (providing prominence to its own products),
 reuse of personal data, providing business rights to smaller companies,
 prohibiting contractual requirements to offer the best deals exclusively
@@ -142,21 +142,21 @@ pre-installed applications can be deleted), and prohibiting the bundling
 of products. In short, the DMA is focused on encouraging competition in
 digital markets.
 
-The *AIA*^22^ is a relatively groundbreaking piece of legislation and
+The *AIA*[^09chapter6_23] is a relatively groundbreaking piece of legislation and
 seeks not only to articulate the principles of artificial intelligence
 (AI) regulation but also to amend various other EU laws to bring them in
 line with the AIA. The AIA creates and defines ‘high-risk’ AI
-systems,^23^ provides standards for risk management^24^ and data
-governance,^25^ and, interestingly, explicitly mandates the use of human
-oversight, including the ability to stop the AI using ‘a “stop”
-button’.^26^ The AIA also requires that each EU member country have a
-notifying authority,^27^ national supervisory authority,^28^ and market
-surveillance authority^29^ to monitor and manage AI use. Generative
-content created by AI systems – including so-called deepfakes – must be
-labelled, and summaries of the data used to train the AI must be
-provided to users.^30^
+systems,[^09chapter6_24] provides standards for risk management[^09chapter6_25] and data
+governance,[^09chapter6_26] and, interestingly, explicitly mandates the use of
+human oversight, including the ability to stop the AI using ‘a “stop”
+button’.[^09chapter6_27] The AIA also requires that each EU member country have a
+notifying authority,[^09chapter6_28] national supervisory authority,[^09chapter6_29] and
+market surveillance authority[^09chapter6_30] to monitor and manage AI use.
+Generative content created by AI systems – including so-called deepfakes
+– must be labelled, and summaries of the data used to train the AI must
+be provided to users.[^09chapter6_31]
 
-Finally, the *DA*^31^ is designed to regulate the Internet of Things
+Finally, the *DA*[^09chapter6_32] is designed to regulate the Internet of Things
 (IoT). It aims to do the following:
 
 *Facilitate access to data* by consumers and businesses by creating
@@ -181,7 +181,7 @@ could be based on predetermined conditions set up by the user.
 
 *Integrate the DA with other EU legislation*, particularly the GDPR, and
 respect the confidentiality of all data in equipment used by the user
-(terminal equipment).^32^
+(terminal equipment).[^09chapter6_33]
 
 These EU data laws are the natural progression of the EU strategy for
 data and illustrate a holistic approach to managing data, rather than
@@ -189,7 +189,7 @@ focusing exclusively on personal data. At a fundamental level, these EU
 data laws rely on data categorization in order to regulate the operation
 of data, and it is to how data is categorized that we now turn.
 
-# One Concept to Rule them All: Data Categorization
+## One Concept to Rule them All: Data Categorization
 
 A careful look at the legislation governing data reveals that each of
 the EU Acts governing data relies on data categorization. For example,
@@ -209,10 +209,10 @@ which is surprising, considering how entrenched the concept of personal
 data was thought to be. One particular development occurred on 26 April
 2023 in the case of *Single Resolution Board v. European Data Protection
 Supervisor* in the General Court (Eighth Chamber, Extended
-Composition)^33^ Pwhere the court was required to provide guidance on
+Composition)[^09chapter6_34] Pwhere the court was required to provide guidance on
 whether pseudonymized data was ‘data’ or ‘personal data’. Up until this
 case, it was considered to be settled law that ‘pseudonymized data’ was
-always ‘personal data’.^34^
+always ‘personal data’.[^09chapter6_35]
 
 In this matter, a central resolution authority within the banking union
 in Europe provided data to Deloitte. The information was pseudonymized
@@ -222,8 +222,8 @@ subjects who submitted personal data to the Single Resolution Board
 (SRB) that their data had been provided to Deloitte, and they duly laid
 complaints with the European Data Protection Supervisor (EDPS) that the
 SRB had breached its duties in terms of Article 15 of Regulation
-2018/1725^35^ by failing to indicate that it was providing personal data
-to third parties in its privacy statement. The SRB refuted this
+2018/1725[^09chapter6_36] by failing to indicate that it was providing personal
+data to third parties in its privacy statement. The SRB refuted this
 complaint and argued that, in the hands of Deloitte, the data was not
 personal data as the company had no reasonable prospect of
 re-identifying the data.
@@ -243,7 +243,7 @@ re-identification was not reasonably possible if ‘the identification of
 the data subject was prohibited by law or practically impossible on
 account of the fact that it requires a disproportionate effort in terms
 of time, cost and man-power, so that the risk of identification appears
-in reality to be insignificant.’^36^
+in reality to be insignificant.’[^09chapter6_37]
 
 The SRB case is a critical watershed in data protection law in that it
 provides some assistance in how personal data could be differentiated
@@ -259,13 +259,13 @@ Board (EDPB) on the grounds that the court misdirected itself when it
 required that the EDPB assess whether the data was personal or not,
 misinterpreted whether pseudonymized data was personal or not, and
 placed the onus on the EDPS to prove that the SRB had effectively
-anonymized the data it was processing.^37^
+anonymized the data it was processing.[^09chapter6_38]
 
 While the definitive text on personal data is the GDPR, it could be
 argued that the DA should be confined to non-personal data or ‘product
 data’. While this seems to be mostly the intention, the DA itself does
 not do this and deals with both personal data and non-personal data
-which emanates from ‘connected products’.^38^ The definition of
+which emanates from ‘connected products’.[^09chapter6_39] The definition of
 ‘connected product’ in Article 2(5) is clearly a critical definition on
 which the DA hinges and is defined thus:
 
@@ -273,7 +273,7 @@ which the DA hinges and is defined thus:
 > or environment and that is able to communicate product data via an
 > electronic communications service, physical connection or on-device
 > access, and whose primary function is not the storing, processing or
-> transmission of data on behalf of any party other than the user.^39^
+> transmission of data on behalf of any party other than the user.[^09chapter6_40]
 
 From this definition, it is possible to extrapolate that ‘product data’
 is data which (*a*) emanates from a product, (*b*) is about the product
@@ -283,22 +283,22 @@ platforms and server farms.
 
 Logically, this definition also means that the DA creates a distinction
 between ‘product data’ and ‘non-product data’, which some commentators
-have described as both artificial and confusing.^40^ This is not the end
-of the difficulties as there is now a new category of ‘exportable data’,
-which refers to input and output data (including data which is
+have described as both artificial and confusing.[^09chapter6_41] This is not the
+end of the difficulties as there is now a new category of ‘exportable
+data’, which refers to input and output data (including data which is
 co-generated by the customer and the data holder) but excludes data
 which is protected by intellectual property rights or constitutes a
-trade secret.^41^ Two further new definitions are introduced of ‘related
-service data’: (*a*) data generated by the use of the product and (*b*)
-‘readily available data’ which refers to data which can obtained without
-disproportionate effort.^42^
+trade secret.[^09chapter6_42] Two further new definitions are introduced of
+‘related service data’: (*a*) data generated by the use of the product
+and (*b*) ‘readily available data’ which refers to data which can
+obtained without disproportionate effort.[^09chapter6_43]
 
 On a practical level, these definitions demand that data holders –
 holders of product data – need to undertake a significant amount of work
 to restructure their underlying framework for data in order to place it
 into the various categories as required by the DA. An example of these
 ‘categories’ which a data holder would be required to implement would be
-(*a*) product data (data generated by the use of the product)^43^ which
+(*a*) product data (data generated by the use of the product)[^09chapter6_44] which
 is personal, (*b*) product data which is personal and exportable, (*c*)
 product data which is personal and readily available, (*d*) non-product
 data which is personal, (*e*) non-product data which is personal and
@@ -316,32 +316,32 @@ that the manner in which they do so will be consistent with the DA.
 In the section that follows, we discuss how difficulties with data
 categorization affect African researchers.
 
-# Barriers to International Data Transfer of Data to African Researchers 
+## Barriers to International Data Transfer of Data to African Researchers 
 
 African researchers have been highlighted in this chapter as they are
 less numerous, poorly resourced, and have a greater workload as compared
 to their peers in the rest of the world. For example, a Malawian
 qualitative study into the challenges facing African researchers found
 that lack of funds, mentorship, interest by policymakers, and a heavy
-workload all contribute to the challenge for African scientists.^44^
+workload all contribute to the challenge for African scientists.[^09chapter6_45]
 Although some real progress has been made to develop African
 researchers, this comes off a very low base. In its report on a decade
 of development in Sub-Saharan African research, the World Bank noted
 that international collaboration (and thus access to international data)
-was a key requirement for African research.^45^ Even more telling was
+was a key requirement for African research.[^09chapter6_46] Even more telling was
 the fact that collaboration with extra-regional partners outside of the
 Sub-Saharan African region amounted to 42 per cent to 79 per cent of
 research, far exceeding the inter-regional collaboration at 0.9 per cent
-to 2.9 per cent.^46^ This, in turn, results in a tendency for African
+to 2.9 per cent.[^09chapter6_47] This, in turn, results in a tendency for African
 researchers to have an asymmetric relationship with their international
 partners and for them to adopt the research agenda of international
-partners.^47^
+partners.[^09chapter6_48]
 
 In short, African researchers rely on access to the Global North for
 funding, collaboration, and access to data. It is against this
 background that the impact of the EU data legislation is considered.
 
-## Lack of Clarity on Data Categorization
+### Lack of Clarity on Data Categorization
 
 As illustrated earlier, the DA creates a new category of ‘product data’,
 which, in turn, creates a knock-on effect on organizations who will need
@@ -355,19 +355,19 @@ Even what was considered to be the settled concept of pseudonymized data
 being personal data has been called into question. Additionally, as
 technology and mathematical approaches are developed, previously
 de-identified data may become identifiable, making pseudonymization and
-anonymization techniques obsolete or ineffective.^48^
+anonymization techniques obsolete or ineffective.[^09chapter6_49]
 
 This lack of certainty means that it becomes difficult for researchers
 to place the data they need in a category and so be able to determine
 what rules apply to it.
 
-# Lack of Clarity on Adequate Measures 
+### Lack of Clarity on Adequate Measures 
 
 In its explanatory memorandum to the earlier version of the proposed DA,
 the European Commission notes that 76 per cent of its respondents were
 concerned about access by foreign authorities to non-personal data based
 on foreign legislation, with 19 per cent indicating that it was a major
-risk.^49^ This is understandable bearing in mind that there are various
+risk.[^09chapter6_50] This is understandable bearing in mind that there are various
 countries – such as Russia – which are actively antagonistic towards the
 EU. While EU data laws have the potential to facilitate access to data
 by EU member states, it is quite possible – even likely – that they will
@@ -393,7 +393,7 @@ country, rather than researchers or their organization. But what about
 local legal and political interference with regard to African
 researchers?
 
-## Political Interference with African Researchers
+### Political Interference with African Researchers
 
 If an African researcher enters into an agreement with their European
 counterpart to engage in a joint research project, it would be much
@@ -405,16 +405,16 @@ and legislative climate of the country in which the African researcher
 resides that is of concern. This seems borne out by the Scholars at Risk
 (SAR) network which found that of the 285 reported attacks on higher
 education in 2021, 76 of these (or 26 per cent) came from African
-countries.^50^ A specific example can be found in Egypt where four
+countries.[^09chapter6_51] A specific example can be found in Egypt where four
 members of the intellectual community – two professors, a human rights
 activist, and a novelist – were also arrested for demanding that the
-state take measures to guard against COVID-19 outbreaks in prison.^51^
+state take measures to guard against COVID-19 outbreaks in prison.[^09chapter6_52]
 This then raises the – unfortunately realistic – fear that it is not
 only the integrity of the African researcher that is of concern but also
 the likelihood of state or political interference that must be
 considered before deciding to share data with an African researcher.
 
-# Administrative Burden
+##Administrative Burden
 
 Starting with the DA, the administrative burden on African researchers
 to get access to data is similar to obtaining a Schengen visa for data.
@@ -422,12 +422,12 @@ While this may not seem to be a large obstacle, this can amount to a
 significant barrier for African researchers and could well result in
 EU–African collaboration becoming undesirable. Certainly, it is less
 than clear that the claimed benefits of the DA will ‘far outweigh the
-associated administrative costs’^52^ for African researchers. On the
+associated administrative costs’[^09chapter6_53] for African researchers. On the
 contrary, it seems likely that the introduction of the EU data laws will
 amount to something akin to a non-tariff trade barrier for African
 researchers.
 
-Similarly, the DSA refers to ‘vetted’ researchers,^53^ and it is only a
+Similarly, the DSA refers to ‘vetted’ researchers,[^09chapter6_54] and it is only a
 researcher who has achieved this status who has the right to access data
 from the VLOPs (such as Google). Article 40(8) sets out seven
 requirements for a researcher to be granted the status of a ‘vetted’
@@ -436,7 +436,7 @@ that African researchers may struggle to achieve. However, a more
 serious obstacle facing an African researcher is the requirement that
 ‘the sole purpose of conducting research \[must be\] that \[it\]
 contributes to the detection, identification and understanding of
-systemic risks *in the Union*’.^54^ This suggests that an African
+systemic risks *in the Union*’.[^09chapter6_55] This suggests that an African
 researcher requesting access to data to investigate systemic risks in an
 African country would never be considered to be ‘vetted’ as the research
 does not relate to the EU, which, in turn, suggests that African
@@ -450,56 +450,56 @@ to Meta’s data about election interference in the EU in terms of the
 DSA, but an African researcher has no similar law to ask Meta for data
 about election interference in Tanzania.
 
-# Agreement Template for Data
+##Agreement Template for Data
 
 One of the key aspects of the GDPR was the guideline on when to share
 personal data and how to manage the sharing if you, as the data
 controller, decide to do so. Over the years, this has become relatively
 mature, and tools, such as those provided by the United Kingdom’s
-Information Commissioner’s Office,^55^ have become quite sophisticated.
+Information Commissioner’s Office,[^09chapter6_56] have become quite sophisticated.
 In contrast, there is no template for the safe transfer of product data
 outside of the EU, and this uncertainty as to what should form part of
 such an agreement will inevitably result in a reluctance to share
 product data outside of the EU. While personal product data is already
-protected by the crossborder restrictions in the GDPR,^56^ Article 32 of
-the DA now introduces similar protection for non-personal product data.
-Indeed, the DA itself has changed substantially from its original
+protected by the crossborder restrictions in the GDPR,[^09chapter6_57] Article 32
+of the DA now introduces similar protection for non-personal product
+data. Indeed, the DA itself has changed substantially from its original
 proposal to now include multiple references to ‘model contractual
 terms’, but whether these will include ‘model contractual terms’ to be
-able to send data to an African researcher is unclear.^57^ On the
+able to send data to an African researcher is unclear.[^09chapter6_58] On the
 positive side, the duty of the commission to provide the ‘non-binding’
-model contractual terms now has a deadline of 12 September 2025.^58^ A
+model contractual terms now has a deadline of 12 September 2025.[^09chapter6_59] A
 similar argument can be made for data made available in terms of the
 other EU Data Laws.
 
 ## Lack of Hegemony in African Legal Systems
 
 As the initial version of the proposed DA’s explanatory memorandum
-notes,^59^ regulating data at an EU member level is simply not effective
-and would lead to higher transactional costs, lack of transparency,
-legal uncertainty, and undesirable forum shopping.^60^ This is equally
-true for approaching the regulation of data at an African Union (AU)
-level, rather than country level, where the differences in legislation
-are even more pronounced, despite the recent advent of the African
-Continental Free Trade Area (AfCFTA).^61^ Unfortunately, the AU is
-nowhere close to the type of hegemony that the EU took decades to
-create. For example, the Convention on Cyber Security and Personal Data
-Protection^62^ seeks to create a common vision of personal data
-protection and cyber security. While this convention is, with all its
-flaws,^63^ a welcome development, some nine years after it was adopted,
-it only received the 15 ratifications required for it to come into
-force.^64^ Instead, individual countries have adopted their own data
-protection laws which have resulted in some odd variations in data
-protection laws. This disharmony is illustrated by the DS-I Africa (Data
-Science for Health Discovery and Innovation in Africa) group tool^65^
-which compares the data protection laws of 12 English-speaking African
-countries in an attempt to assist a data controller to navigate their
-way through the disparate data protection laws. Some examples of the
-differences are as follows: (*a*) 3 of the 12 have a definition for
+notes,[^09chapter6_60] regulating data at an EU member level is simply not
+effective and would lead to higher transactional costs, lack of
+transparency, legal uncertainty, and undesirable forum shopping.[^09chapter6_61]
+This is equally true for approaching the regulation of data at an
+African Union (AU) level, rather than country level, where the
+differences in legislation are even more pronounced, despite the recent
+advent of the African Continental Free Trade Area (AfCFTA).[^09chapter6_62]
+Unfortunately, the AU is nowhere close to the type of hegemony that the
+EU took decades to create. For example, the Convention on Cyber Security
+and Personal Data Protection[^09chapter6_63] seeks to create a common vision of
+personal data protection and cyber security. While this convention is,
+with all its flaws,[^09chapter6_64] a welcome development, some nine years after it
+was adopted, it only received the 15 ratifications required for it to
+come into force.[^09chapter6_65] Instead, individual countries have adopted their
+own data protection laws which have resulted in some odd variations in
+data protection laws. This disharmony is illustrated by the DS-I Africa
+(Data Science for Health Discovery and Innovation in Africa) group
+tool[^09chapter6_66] which compares the data protection laws of 12 English-speaking
+African countries in an attempt to assist a data controller to navigate
+their way through the disparate data protection laws. Some examples of
+the differences are as follows: (*a*) 3 of the 12 have a definition for
 pseudonymization, (*b*) personal data is sometimes referred to as
-‘personal information’ and in some cases includes juristic persons,^66^
+‘personal information’ and in some cases includes juristic persons,[^09chapter6_67]
 and (*c*) ‘consent’ is not a defined term in Ghana’s Data Protection Act
-of 2012.^67^
+of 2012.[^09chapter6_68]
 
 While this illustrates the problem in the area of data protection, it is
 worth emphasizing that none of this work has been done from a holistic
@@ -507,7 +507,7 @@ data regulation perspective as most African countries simply do not have
 laws that deal with data holistically, let alone tools which facilitate
 multinational comparisons in data regulation.
 
-# Omission of Researcher Rights to Access Data 
+## Omission of Researcher Rights to Access Data 
 
 Unlike the Digital Services Act, the Digital Markets Act simply omits
 any reference to research or researchers completely, which in turn means
@@ -517,7 +517,7 @@ acknowledge the useful work provided by researchers is a surprising
 omission in the Digital Markets Act, particularly in the context of its
 sister legislation.
 
-# No Exemption for African Researcher Access to African Data
+## No Exemption for African Researcher Access to African Data
 
 While the DA does make allowances for the user to receive his or her
 data from the data holder, it does not facilitate access by African
@@ -536,7 +536,7 @@ considerable product data from its Ghanian users which is repatriated to
 France. Once the product data is in France, it is unclear if Ghanian
 researchers would be able to get access to this product data.
 
-# Unfair Access by EU Authorities to Data Produced Outside of the EU
+## Unfair Access by EU Authorities to Data Produced Outside of the EU
 
 While the DA does require data holders to provide information to EU
 public sector bodies, it is not clear that the data must emanate from
@@ -544,7 +544,7 @@ within the EU. Consider a situation where EU health authorities are
 concerned that there is an outbreak of foot-and-mouth disease in Rwanda,
 but this is denied by the local Rwandan public authority. The EU health
 authority may well want to requisition product data from German vaccine
-producers^68^ in order to discover that the number of requests for
+producers[^09chapter6_69] in order to discover that the number of requests for
 vaccines in Rwanda has increased substantially, supporting a move by the
 EU health authorities to ban Rwandan meat products. Even more pernicious
 is the fact that this product data may have no personal data component,
@@ -566,10 +566,10 @@ danger that data governance is considered solely from the perspective of
 the privacy of individuals, rather than from a more complex
 multidimensional legal approach. Not only does data have privacy
 considerations, but it also raises questions relating to other areas of
-law,^69^ including competition law, consumer law, intellectual property
+law,[^09chapter6_70] including competition law, consumer law, intellectual property
 law, and taxation.
 
-The DA^70^ has the potential to have a similar impact on African
+The DA[^09chapter6_71] has the potential to have a similar impact on African
 countries which have a demonstrable difficulty in keeping up with the
 regulation of technology. Put simply, the DA has the potential to
 regulate a sector of the (data) economy which African countries have not
@@ -584,68 +584,68 @@ of, and access to, data by researchers in Africa.
 While African countries have not yet caught up with the developments in
 data regulation, it is heartening that the recent African Union Data
 Policy Framework (AUDPF), which was released in February 2022, is fully
-aware of the multidimensional nature of data.^71^ The AUDPF notes that
+aware of the multidimensional nature of data.[^09chapter6_72] The AUDPF notes that
 there are no global examples of umbrella laws which regulate every
 aspect of data, but rather data is regulated in data protection law,
 competition law, cyber security law, electronic communications and
-transactions law, and intellectual property law,^72^ and so regulatory
-bodies in these areas need to coordinate their actions.^73^ While
+transactions law, and intellectual property law,[^09chapter6_73] and so regulatory
+bodies in these areas need to coordinate their actions.[^09chapter6_74] While
 acknowledging that African countries have less developed laws on
 competition, data, and intellectual property, the AUDPF sees this as an
-opportunity to harmonize legislation between African states.^74^
+opportunity to harmonize legislation between African states.[^09chapter6_75]
 
 The AUDPF also confirms the Brussels effect and notes that African
-countries are largely standard takers, rather than standard makers,^75^
+countries are largely standard takers, rather than standard makers,[^09chapter6_76]
 and that data-rich and data-intensive developed countries tend to create
-regulatory precedence.^76^ Despite this, the AUDPF does not suggest any
+regulatory precedence.[^09chapter6_77] Despite this, the AUDPF does not suggest any
 method to categorize data, but merely states that this should be done.
 Indeed, categorization of data is so important that the AUDPF recommends
 that one of the first actions by the data Information Regulator (IR) is
-the categorization of data^77^ and the establishment of a common data
-categorization and sharing framework.^78^ The AUDPF also recommends that
-the AU should be actively lobbying the EU regarding standards and laws
-relating to data.^79^ Thus, despite being aware of the importance of
-data categorization as it is the foundation upon which all controlling
-regulation is based, Africa still seems set to accept that the
-categorization of data will be imposed on it by the EU.
+the categorization of data[^09chapter6_78] and the establishment of a common data
+categorization and sharing framework.[^09chapter6_79] The AUDPF also recommends
+that the AU should be actively lobbying the EU regarding standards and
+laws relating to data.[^09chapter6_80] Thus, despite being aware of the importance
+of data categorization as it is the foundation upon which all
+controlling regulation is based, Africa still seems set to accept that
+the categorization of data will be imposed on it by the EU.
 
 The AUDPF also recognizes that there has been little restraint from
 competition or data regulators on the rise of monopolistic global
 platforms which are producing and extracting massive amounts of private
 data which has been commodified with seemingly little regard for the
-negative impacts on data subjects,^80^ effectively making competition
-impossible for smaller players.^81^
+negative impacts on data subjects,[^09chapter6_81] effectively making competition
+impossible for smaller players.[^09chapter6_82]
 
 In order to combat this, the AUDPF provides some recommendations on
 steps that can be taken by African countries, including:
 
 1.  The AU should be actively lobbying the EU regarding standards and
-    laws relating to data.^82^
+    laws relating to data.[^09chapter6_83]
 
 2.  Fair contractual standards for public organizations should be
-    created.^83^
+    created.[^09chapter6_84]
 
-3.  Codes of practice for using data need to be developed.^84^
+3.  Codes of practice for using data need to be developed.[^09chapter6_85]
 
 4.  Data protection rights should be considered more important than
-    intellectual property rights,^85^ and contracts that give up digital
-    rights, ignore personal data protection, and inhibit competition
-    should be unenforceable.^86^
+    intellectual property rights,[^09chapter6_86] and contracts that give up
+    digital rights, ignore personal data protection, and inhibit
+    competition should be unenforceable.[^09chapter6_87]
 
 5.  Novel regulatory ideas could be tested in ‘regulatory
-    sandboxes’.^87^
+    sandboxes’.[^09chapter6_88]
 
 6.  Data trusts should be created to manage control of data rather than
-    cede complete control to the collecting entity.^88^
+    cede complete control to the collecting entity.[^09chapter6_89]
 
 7.  Universities should be included as relevant policy stakeholders to
     help establish a knowledge base from which the local data economy
-    can draw scientific and technological knowledge.^89^
+    can draw scientific and technological knowledge.[^09chapter6_90]
 
 8.  The competition chapter of AfCFTA negotiations should set minimum
     standards to ensure that putative proprietary non-personal data is
     available to innovators, entrepreneurs, and others in the value
-    chain to encourage competition across the continent.^90^
+    chain to encourage competition across the continent.[^09chapter6_91]
 
 In short, what the AUDPF has done is begin the conversation about
 regulating other aspects of data aside from the perspective of privacy,
@@ -661,17 +661,17 @@ countries taking the wrong path.
 Consider, for example, the South African IR, which is the implementation
 mechanism of the South African Protection of Personal Information Act
 (POPIA) of 2020. In 2021–2022, the IR had a budget of approximately EUR
-4.3 million^91^ while the French data protection agency, Commission
+4.3 million[^09chapter6_92] while the French data protection agency, Commission
 nationale de l’informatique et des libertés (National Commission on
-Informatics and Liberty, CNIL), had a budget of EUR 24 million.^92^ What
-is particularly startling about this disparity is that France and South
-Africa have a very similar population size (approximately 63 million
-people), and yet the IR is expected to do the same work as the CNIL but
-with a fifth of the budget. Even a cursory look at each of the EU data
-laws already dealt with makes it clear that a crucial role is played by
-the regulatory bodies tasked with enforcing them. How precisely should
-African countries implement similar data laws if they will never have
-the funds to enforce them?
+Informatics and Liberty, CNIL), had a budget of EUR 24 million.[^09chapter6_93]
+What is particularly startling about this disparity is that France and
+South Africa have a very similar population size (approximately 63
+million people), and yet the IR is expected to do the same work as the
+CNIL but with a fifth of the budget. Even a cursory look at each of the
+EU data laws already dealt with makes it clear that a crucial role is
+played by the regulatory bodies tasked with enforcing them. How
+precisely should African countries implement similar data laws if they
+will never have the funds to enforce them?
 
 # Cutting through the Red Tape: Enabling African Researcher Access
 
@@ -686,11 +686,11 @@ these laws outside EU borders.
 # Standard Contractual Clauses for Transfers of Data
 
 Despite there being considerable notice of the transition from Directive
-95/46/ EC^93^ to the GDPR in 2018, the standard contractual clauses for
-data transfers were only updated three years later.^94^ Thereafter, in
+95/46/ EC[^09chapter6_94] to the GDPR in 2018, the standard contractual clauses for
+data transfers were only updated three years later.[^09chapter6_95] Thereafter, in
 2023, the first model template for the sharing of personal data by
 researchers, which combines the GDPR and the POPIA, was published in
-February 2023 by the DS-I Africa Law project.^95^ While this effort is
+February 2023 by the DS-I Africa Law project.[^09chapter6_96] While this effort is
 to be commended, this template does not, understandably, even attempt to
 either define or deal with the concept of ‘product data’ or ‘exportable
 data’ which researchers may need to access. In order to facilitate
@@ -702,7 +702,7 @@ clauses for the transfer of product data would be made available by the
 EU in a much shorter time frame, in order to provide some assistance to
 African researchers wishing to access data.
 
-# Code of Conduct for Researchers
+## Code of Conduct for Researchers
 
 One way to ease the burden on African researchers would be for the EU to
 provide a guideline that researchers, governed by an approved code of
@@ -718,28 +718,28 @@ relevant Member State’*. *
 At present there are not many codes of conduct, and those that do exist
 are intended to address data protection, rather than data holistically.
 One such example is the draft Code of Conduct for Research promulgated
-in terms of the POPIA.^96^ While this code does introduce concepts that
+in terms of the POPIA.[^09chapter6_97] While this code does introduce concepts that
 are not present in its enabling legislation (such as
-pseudonymization),^97^ it is clearly focused on personal data^98^ and
+pseudonymization),[^09chapter6_98] it is clearly focused on personal data[^09chapter6_99] and
 does not consider other data and how this would be managed for the
 purposes of research. As with the standard contractual clauses mentioned
 earlier, this may well be the time to start considering a holistic code
 of conduct that deals with all data types.
 
-# AU Conventions Dealing with Data 
+## AU Conventions Dealing with Data 
 
 The AUDPF is a very useful and necessary step in the development of
 African policy on data, but it does come several years after the same
 step was taken by the European strategy for data. In a manner similar to
 the Malabo Convention, it may be useful for the AU to propose a
 convention which would incorporate the concepts put forth in the
-DSA,^99^ the DMA,^100^ the AIA,^101^ and the DA.^102^ That said, the
-pace of the ratification of the Malabo Convention would suggest that it
-would take decades before conventions of this nature would be adopted
+DSA,[^09chapter6_100] the DMA,[^09chapter6_101] the AIA,[^09chapter6_102] and the DA.[^09chapter6_103] That said,
+the pace of the ratification of the Malabo Convention would suggest that
+it would take decades before conventions of this nature would be adopted
 and ratified.
 
 Interestingly, the AUDPF suggests that the use of a ‘regulatory sandbox’
-could be appropriate for situations such as these.^103^ Regulatory
+could be appropriate for situations such as these.[^09chapter6_104] Regulatory
 sandboxes are a regulatory approach, typically summarized in writing and
 published, that allow live, timebound testing of innovations under a
 regulator’s oversight. Novel financial products, technologies, and
@@ -748,20 +748,18 @@ requirements, and appropriate safeguards. This has the benefit of
 encouraging experimentation, reducing barriers to entry, and allowing
 regulators to get valuable insight into how to regulate the sector. In
 2018, approximately 20 countries were actively exploring the concept of
-regulatory sandboxes.^104^
+regulatory sandboxes.[^09chapter6_105]
 
-**Evaluation of Impact of Data Laws on African **
-
-# Countries
+## Evaluation of Impact of Data Laws on African Countries
 
 Bearing in mind the novelty of the data laws, the EU wisely commissioned
 impact assessments and conducted participant studies and questionnaires
 over several years – for example, on the impact of the DA – but all of
-these were from an EU member country’s perspective.^105^ Unsurprisingly,
-this impact assessment did not meaningfully address the possible impact
-that the EU data laws could have on Africa and on African
-researchers.^106^ This does not mean that EU data laws will not have an
-impact on Africa – just that there is no plan to measure it.
+these were from an EU member country’s perspective.[^09chapter6_106]
+Unsurprisingly, this impact assessment did not meaningfully address the
+possible impact that the EU data laws could have on Africa and on
+African researchers.[^09chapter6_107] This does not mean that EU data laws will not
+have an impact on Africa – just that there is no plan to measure it.
 
 The EU also created a mechanism of ex-post evaluations in order to
 assess whether the objectives of EU data laws were, in fact, being
@@ -788,14 +786,14 @@ would facilitate data transfer. Indeed, the implications of failing to
 consider and implement similar laws within African countries could well
 lead to a missed opportunity, particularly when, for example, the EU
 estimates that unused product data has the potential to unlock EUR 1.5
-trillion (USD 15.842 trillion)^107^ of value by 2027.^108^ To put this
+trillion (USD 15.842 trillion)[^09chapter6_108] of value by 2027.[^09chapter6_109] To put this
 in some perspective, the country with the highest gross domestic product
-(GDP) in Africa is Nigeria at USD 441 billion,^109^ and the combined GDP
-of all African countries in 2021 amounted to USD 2.7 trillion. This
+(GDP) in Africa is Nigeria at USD 441 billion,[^09chapter6_110] and the combined
+GDP of all African countries in 2021 amounted to USD 2.7 trillion. This
 means that the value of unused product data in Europe is equal to
 approximately half the GDP of the African continent.
 
-# Conclusion
+## Conclusion
 
 By pioneering the need to unlock the value of data, the EU has a
 first-mover advantage over African countries. African countries, on the
@@ -804,12 +802,12 @@ changes in the regulation of data. The EU should have, at least, some
 empathy for Africa because it was the EU that suffered from not being
 the first mover when it came to technical innovations, which may account
 for so many US tech companies and so few EU tech companies in the top 20
-global tech companies.^110^
+global tech companies.[^09chapter6_111]
 
 The introduction of EU data laws seems to have the potential to have the
 (unintended) consequence of further alienating African researchers and
 creating new barriers to cooperation with their EU counterparts.
-Moreover, their EU counterparts will have greater (if not perfect)^111^
+Moreover, their EU counterparts will have greater (if not perfect)[^09chapter6_112]
 access to data. This means that EU researchers are likely to feel the
 benefits of EU data laws while the African researchers are likely to
 suffer the detrimental effects. This is ironic, particularly in light of
@@ -837,133 +835,140 @@ give her access to data and you help her solve problems for a lifetime.
 
 # Notes
 
-1.  Eurostat Statistics Explained, ‘Archive: Africa–EU – International
+[^09chapter6_1]: This work was supported by the United States’s National Institute
+    of Mental Health and the National Institutes of Health (award number
+    U01MH127690) under the Harnessing Data Science for Health Discovery
+    and Innovation in Africa (DS-I Africa) programme. The content of
+    this chapter is solely the author’s responsibility and does not
+    necessarily represent the official views of the aforementioned
+    institutes.
+
+[^09chapter6_2]: Eurostat Statistics Explained, ‘Archive: Africa–EU – International
     Trade in Goods Statistics’, February 2022,
     https://ec.europa.eu/eurostat/statisticsexplained/index.php?title=Archive:Africa-EU\_-\_international\_trade\_in\_
     goods\_statistics (accessed 25 February 2023).
 
-2.  European Commission, ‘EU Trade Relations with South Africa: Facts,
+[^09chapter6_3]: European Commission, ‘EU Trade Relations with South Africa: Facts,
     Figures and Latest Developments’, EU Directorate-General for Trade,
     https://policy.trade.ec.europa.eu/eu-trade-relationships-country-andregion/countries-and-regions/south-africa\_en\#:\~:text=The%20EU%20
     represents%20the%20most,country’s%20industrialisation%20and%20
     transformation%20agenda (accessed 25 February 2023).
 
-3.  Anu Bradford, *The Brussels Effect: How the European Union Rules the
-    World* (Oxford University Press, 2020).
+[^09chapter6_4]: Anu Bradford, *The Brussels Effect: How the European Union Rules
+    the World* (Oxford University Press, 2020).
 
-4.  ‘Data Protection and Privacy Legislation Worldwide’, UN Trade and
+[^09chapter6_5]: ‘Data Protection and Privacy Legislation Worldwide’, UN Trade and
     Development, 14 December 2021,
     https://unctad.org/page/data-protectionand-privacy-legislation-worldwide
     (accessed on 25 February 2023).
 
-5.  Michael Pisa, Pam Dixon, and Ugonma Nwankwo, ‘Why Data UNCTAD
+[^09chapter6_6]: Michael Pisa, Pam Dixon, and Ugonma Nwankwo, ‘Why Data UNCTAD
     Protection Matters for Development: The Case for Strengthening
     Inclusion and Regulatory Capacity’, Centre for Global Development,
     December 2021,
     https://www.cgdev.org/sites/default/files/why-data-protection-matters-fordevelopment.pdf
     (accessed 25 February 2023).
 
-6.  Bradford, *The Brussels Effect*, 80.
+[^09chapter6_7]: Bradford, *The Brussels Effect*, 80.
 
-7.  Bradford, *The Brussels Effect*, 80.
+[^09chapter6_8]: Bradford, *The Brussels Effect*, 80.
 
-8.  Bradford, *The Brussels Effect*, 94.
+[^09chapter6_9]: Bradford, *The Brussels Effect*, 94.
 
-9.  See, for example, Commission Decision in Case No. COMP/B-2/38.381
+[^09chapter6_10]: See, for example, Commission Decision in Case No. COMP/B-2/38.381
     (De Beers), C(2006) 521 final (22 February 2006), cited in 2006 O.J.
     (L 205) 24.
 
-10. Bradford, *The Brussels Effect*, 80.
+[^09chapter6_11]: Bradford, *The Brussels Effect*, 80.
 
-11. ‘A European Strategy for Data’, European Commission, 19 February
+[^09chapter6_12]: ‘A European Strategy for Data’, European Commission, 19 February
     2020, https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A
     52020DC0066 (accessed 7 June 2023).
 
-12. Regulation (EU) 2018/1807.
+[^09chapter6_13]: Regulation (EU) 2018/1807.
 
-13. Bradford, *The Brussels Effect*, 4–5.
+[^09chapter6_14]: Bradford, *The Brussels Effect*, 4–5.
 
-14. ‘A European Strategy for Data’, 7.
+[^09chapter6_15]: ‘A European Strategy for Data’, 7.
 
-15. ‘A European Strategy for Data’, 22.
+[^09chapter6_16]: ‘A European Strategy for Data’, 22.
 
-16. ‘Regulation (EU) 2022/2065 of the European Parliament and of the
+[^09chapter6_17]: ‘Regulation (EU) 2022/2065 of the European Parliament and of the
     Council of 19 October 2022 on a Single Market for Digital Services
     and Amending Directive 2000/31/EC (Digital Services Act)’,
     https://eur-lex.europa.eu/
     legal-content/en/TXT/?uri=CELEX%3A32022R2065 (accessed 8 June 2023).
 
-17. ‘Regulation (EU) 2022/1925 of the European Parliament and of the
+[^09chapter6_18]: ‘Regulation (EU) 2022/1925 of the European Parliament and of the
     Council of 14 September 2022 on Contestable and Fair Markets in the
     Digital Sector and Amending Directives (EU) 2019/1937 and (EU)
     2020/1828 (Digital Markets Act)’,
     https://eur-lex.europa.eu/legal-content/EN/
     TXT/?uri=CELEX%3A32022R1925 (accessed 8 June 2023).
 
-18. ‘European Parliament Legislative Resolution of 13 March 2024 on the
-    Proposal for a Regulation of the European Parliament and of the
+[^09chapter6_19]: ‘European Parliament Legislative Resolution of 13 March 2024 on
+    the Proposal for a Regulation of the European Parliament and of the
     Council to Lay Down Harmonised Rules on Artificial Intelligence
     (Artificial Intelligence Act) and to Amend Certain Union Legislative
     Acts (COM(2021)0206 –
 
-> C9-0146/2021 – 2021/0106 (COD)) Regulation (EU) 2021/206 of the
-> European Parliament and of the Council Laying Down Harmonized Rules on
-> Artificial Intelligence (Artificial Intelligence Act) and Amending
-> Certain Union Legislative Acts’,
-> https://www.europarl.europa.eu/doceo/document/ TA-9-2024-0138\_EN.pdf
-> (accessed 8 April 2024).
+    C9-0146/2021 – 2021/0106 (COD)) Regulation (EU) 2021/206 of the
+    European Parliament and of the Council Laying Down Harmonized Rules
+    on Artificial Intelligence (Artificial Intelligence Act) and
+    Amending Certain Union Legislative Acts’,
+    https://www.europarl.europa.eu/doceo/document/
+    TA-9-2024-0138\_EN.pdf (accessed 8 April 2024).
 
-1.  ‘Regulation (EU) 2023/2854 of the European Parliament and of the
+[^09chapter6_20]: ‘Regulation (EU) 2023/2854 of the European Parliament and of the
     Council of 13 December 2023 on Harmonized Rules for Fair Access to
     and Use of Data and Amending Regulation (EU) 2017/2394 and Directive
     (EU) 2020/1828 (Data Act)’,
     https://eur-lex.europa.eu/legal-content/EN/
     TXT/?uri=celex%3A32023R2854 (accessed 28 March 2024).
 
-2.  A list of the very large online platforms (VLOPs) and very large
+[^09chapter6_21]: A list of the very large online platforms (VLOPs) and very large
     online search engines (VLOSEs) was published on 23 April 2023.
     European Commission, *Digital Services Act: Commission Designates
     First Set of Very Large Online Platforms and Search Engines*,
     https://ec.europa.eu/commission/presscorner/ detail/en/IP\_23\_2413
     (accessed 24 October 2023).
 
-3.  On 6 September 2023, the European Commission determined that six
+[^09chapter6_22]: On 6 September 2023, the European Commission determined that six
     companies – Alphabet, Amazon, Apple, ByteDance, Meta, and Microsoft
     – were gatekeepers in terms of the DMA. ‘Digital Markets Act:
     Commission Designates Six Gatekeepers’, European Commission, 6
     September 2023, https://perma.cc/KR8U-JQ8D (accessed 22 October
     2023).
 
-4.  ‘European Parliament Legislative Resolution of 13 March 2024 on the
-    Proposal for a Regulation of the European Parliament and of the
-    Council on Laying Down Harmonized Rules on Artificial Intelligence
-    (Artificial Intelligence Act) and Amending Certain Union Legislative
-    Acts (COM (2021) 0206 – C9-0146/2021 – 2021/0106 (COD))’,
-    https://www.europarl.europa.eu/
-    doceo/document/TA-9-2024-0138-FNL-COR01\_EN.pdf (accessed 8 April
-    2024).
+[^09chapter6_23]: On 6 September 2023, the European Commission determined that six
+    companies – Alphabet, Amazon, Apple, ByteDance, Meta, and Microsoft
+    – were gatekeepers in terms of the DMA. ‘Digital Markets Act:
+    Commission Designates Six Gatekeepers’, European Commission, 6
+    September 2023, https://perma.cc/KR8U-JQ8D (accessed 22 October
+    2023).
 
-5.  AIA, Article 6.
+[^09chapter6_24]: AIA, Article 6.
 
-6.  AIA, Article 9.
+[^09chapter6_25]: AIA, Article 9.
 
-7.  AIA, Articles 10-12.
+[^09chapter6_26]: AIA, Articles 10-12.
 
-8.  AIA, Article 14(4)(e).
+[^09chapter6_27]: AIA, Article 14(4)(e).
 
-9.  AIA, Article 28.
+[^09chapter6_28]: AIA, Article 28.
 
-10. AIA, Article 70.
+[^09chapter6_29]: AIA, Article 70.
 
-11. AIA, Article 74. The national authority carrying out the activities
-    and taking the measures pursuant to Regulation (EU) 2019/1020.
+[^09chapter6_30]: AIA, Article 74. The national authority carrying out the
+    activities and taking the measures pursuant to Regulation (EU)
+    2019/1020.
 
-12. AIA, Article 13(3)(b)(v).
+[^09chapter6_31]: AIA, Article 13(3)(b)(v).
 
-13. ‘Regulation (EU) 2023/2854 of the European Parliament and of the
+[^09chapter6_32]: ‘Regulation (EU) 2023/2854 of the European Parliament and of the
     Council of 13 December 2023’.
 
-14. ‘Proposal for a Regulation of the European Parliament and of the
+[^09chapter6_33]: ‘Proposal for a Regulation of the European Parliament and of the
     Council on Harmonised Rules on Fair Access to and Use of Data (Data
     Act) COM/2022/68’, https://eur-lex.europa.eu/legal-content/EN/TXT/?
     uri=COM%3A2022%3A68%3AFIN (accessed 8 June 2023); Regulation (EU)
@@ -972,12 +977,12 @@ give her access to data and you help her solve problems for a lifetime.
     rather than its final version, this vision of the DA remains
     apposite.
 
-15. Case T-557/20 *Single Resolution Board v. European Data Protection
-    Supervisor* \[2023\] ECLI:EU:2023”219,
+[^09chapter6_34]: Case T-557/20 *Single Resolution Board v. European Data
+    Protection Supervisor* \[2023\] ECLI:EU:2023”219,
     https://eur-lex.europa.eu/legal-content/EN/
     TXT/?uri=CELEX%3A62020TJ0557 (accessed 15 December 2024).
 
-16. See, for example, the statement by Thomas Zerdick, head of
+[^09chapter6_35]: See, for example, the statement by Thomas Zerdick, head of
     technology and privacy at the EDPS: ‘Unlike anonymised data,
     pseudonymised data qualifies as personal data under the General Data
     Protection Regulation (GDPR)’. Thomas Zerdick, ‘Pseudonoymous Data:
@@ -990,20 +995,20 @@ give her access to data and you help her solve problems for a lifetime.
     *Frontiers in Pharmacology*, 23 November 2023, DOI:
     https://doi.org/10.3389/fphar.2023.1238749.
 
-17. ‘Regulation (EU) 2018/1725 of the European Parliament and of the
+[^09chapter6_36]: ‘Regulation (EU) 2018/1725 of the European Parliament and of the
     Council of 23 October 2018 on the Protection of Natural Persons with
     Regard to the Processing of Personal Data by the Union Institutions,
     Bodies, Offices and
 
-> Agencies and on the Free Movement of Such Data, and Repealing
-> Regulation (EC) No 45/2001 and Decision No 1247/2002/EC’, \[2018\] OJ
-> L 295, https://eur-lex.europa.eu/eli/reg/2018/1725/oj (accessed 15
-> December 2024).
+    Agencies and on the Free Movement of Such Data, and Repealing
+    Regulation (EC) No 45/2001 and Decision No 1247/2002/EC’, \[2018\]
+    OJ L 295, https://eur-lex.europa.eu/eli/reg/2018/1725/oj (accessed
+    15 December 2024).
 
-1.  ‘Regulation (EU) 2018/1725 of the European Parliament and of the
+[^09chapter6_37]: ‘Regulation (EU) 2018/1725 of the European Parliament and of the
     Council of 23 October 2018’.
 
-2.  ‘Appeal Brought on 5 July 2023 by the European Data Protection
+[^09chapter6_38]: ‘Appeal Brought on 5 July 2023 by the European Data Protection
     Supervisor against the Judgment of the General Court (Eighth
     Chamber, Extended Composition) Delivered on 26 April 2023 in Case
     T-557/20, *Single Resolution Board v European Data Protection
@@ -1011,208 +1016,211 @@ give her access to data and you help her solve problems for a lifetime.
     https://eurlex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:62023CN0413
     (accessed 15 December 2024).
 
-3.  DA, Article 2(5,15).
+[^09chapter6_39]: DA, Article 2(5,15).
 
-4.  DA, Article 2(5).
+[^09chapter6_40]: DA, Article 2(5).
 
-5.  Bertin Martens, ‘How to Fix the European Union’s Proposed Data Act’,
-    Bruegel, 4 December 2022,
+[^09chapter6_41]: Bertin Martens, ‘How to Fix the European Union’s Proposed Data
+    Act’, Bruegel, 4 December 2022,
     https://www.bruegel.org/blog-post/how-fixeuropean-unions-proposed-data-act
     (accessed 28 February 2023).
 
-6.  DA, Article 2(38).
+[^09chapter6_42]: DA, Article 2(38).
 
-7.  DA, Article 2(16–17).
+[^09chapter6_43]: DA, Article 2(16–17).
 
-8.  Note that this is owned by the data subject.
+[^09chapter6_44]: Note that this is owned by the data subject.
 
-9.  Save Kumwenda, El Hadji A. Niang, Pauline W. Orondo, Pote William,
-    Lateefah Oyinlola, Gedeon N. Bongo, and Bernadette Chiwona,
+[^09chapter6_45]: Save Kumwenda, El Hadji A. Niang, Pauline W. Orondo, Pote
+    William, Lateefah Oyinlola, Gedeon N. Bongo, and Bernadette Chiwona,
     ‘Challenges Facing Young African Scientists in Their Research
     Careers: A Qualitative Exploratory Study’, *Malawi Medical Journal*
     29, no. 1 (2017): 1–4.
 
-10. World Bank Group and Elsevier, *A Decade of Development in
+[^09chapter6_46]: World Bank Group and Elsevier, *A Decade of Development in
     Sub-Saharan African Science, Technology, Engineering and Mathematics
     Research* (2014), 48,
     https://documents1.worldbank.org/curated/en/237371468204551128/
     pdf/910160WP0P126900disclose09026020140.pdf (accessed 15 December
     2024.).
 
-11. World Bank Group and Elsevier, *A Decade of Development*, 34.
+[^09chapter6_47]: World Bank Group and Elsevier, *A Decade of Development*, 34.
 
-12. J. Cerdeira, J. Mesquita, and, E. S. Vieira, ‘International Research
-    Collaboration: Is Africa Different? A Cross-Country Panel Data
-    Analysis’, *Scientometrics* 128 (2023): 2145–2174.
+[^09chapter6_48]: J. Cerdeira, J. Mesquita, and, E. S. Vieira, ‘International
+    Research Collaboration: Is Africa Different? A Cross-Country Panel
+    Data Analysis’, *Scientometrics* 128 (2023): 2145–2174.
 
-13. Emily M. Weitzenboeck, Pierre Lison, Malgorzata Cyndecka, and
+[^09chapter6_49]: Emily M. Weitzenboeck, Pierre Lison, Malgorzata Cyndecka, and
     Malcolm Langford, ‘The GDPR and Unstructured Data: Is Anonymization
     Possible?’ *International Data Privacy Law* 12, no. 3 (2022):
     184–206.
 
-14. ‘Proposal for a Regulation of the European Parliament and of the
+[^09chapter6_50]: ‘Proposal for a Regulation of the European Parliament and of the
     Council’.
 
-15. ‘Attacks on Scholars a Threat to Democracy in Africa: The Link
+[^09chapter6_51]: ‘Attacks on Scholars a Threat to Democracy in Africa: The Link
     between Decreased Academic Freedom and the Stagnation of Democracy’,
     Reliefweb, 25 May 2022,
     https://reliefweb.int/report/world/attacks-scholars-threatdemocracy-africa-link-between-decreased-academic-freedom-andstagnation-democracy
     (accessed 23 October 2023).
 
-16. ‘Attacks on Scholars a Threat to Democracy in Africa’.
+[^09chapter6_52]: ‘Attacks on Scholars a Threat to Democracy in Africa’.
 
-17. ‘Proposal for a Regulation of the European Parliament and of the
+[^09chapter6_53]: ‘Proposal for a Regulation of the European Parliament and of the
     Council’.
 
-18. ‘Regulation (EU) 2022/2065 of the European Parliament and of the
+[^09chapter6_54]: ‘Regulation (EU) 2022/2065 of the European Parliament and of the
     Council of 19 October 2022 on a Single Market for Digital Services
     and Amending Directive 2000/31/EC (Digital Services Act)’,
     https://eur-lex.europa.eu/
     legal-content/en/TXT/?uri=CELEX%3A32022R2065 (accessed 8 June 2023),
     Recitals 92, 124, and 137, and Articles 39(3) and 40(8).
 
-19. ‘‘Regulation (EU) 2022/2065 of the European Parliament and of the
+[^09chapter6_55]: ‘‘Regulation (EU) 2022/2065 of the European Parliament and of the
     Council of 19 October 2022’, Article 40(4) as read with Article
     40(8)(e) (emphasis added).
 
-20. Elizabeth Denham, ‘Data Sharing: A Code of Practice’, Information
+[^09chapter6_56]: Elizabeth Denham, ‘Data Sharing: A Code of Practice’, Information
     Commissioner’s Office, May 2021,
     https://ico.org.uk/for-organisations/ukgdpr-guidance-and-resources/data-sharing/data-sharing-a-code-of-practice
     (accessed 15 December 2024).
 
-21. European Union, ‘Regulation (EU) 2016/679 of the European Parliament
-    and of the Council of 27 April 2016 on the Protection of Natural
-    Persons with Regard to the Processing of Personal Data and on the
-    Free Movement of Such Data, and Repealing Directive 95/46/EC
+[^09chapter6_57]: European Union, ‘Regulation (EU) 2016/679 of the European
+    Parliament and of the Council of 27 April 2016 on the Protection of
+    Natural Persons with Regard to the Processing of Personal Data and
+    on the Free Movement of Such Data, and Repealing Directive 95/46/EC
     (General Data Protection Regulation)’ \[2016\] OJ L119/1, Articles
     44–50.
 
-22. DA, Article 41.
+[^09chapter6_58]: DA, Article 41.
 
-23. DA, Article 41.
+[^09chapter6_59]: DA, Article 41.
 
-24. ‘Proposal for a Regulation of the European Parliament and of the
+[^09chapter6_60]: ‘Proposal for a Regulation of the European Parliament and of the
     Council’; DA, 7–8.
 
-25. ‘Proposal for a Regulation of the European Parliament and of the
+[^09chapter6_61]: ‘Proposal for a Regulation of the European Parliament and of the
     Council’.
 
-26. ‘Creating One African Market’, AfTACF Symposium, August 2023,
+[^09chapter6_62]: ‘Creating One African Market’, AfTACF Symposium, August 2023,
     https:// au-afcfta.org (accessed 15 December 2024).
 
-27. ‘African Union Convention on Cyber Security and Data Protection’,
+[^09chapter6_63]: ‘African Union Convention on Cyber Security and Data Protection’,
     https://
     au.int/sites/default/files/treaties/29560-treaty-0048\_-\_african\_union\_
     convention\_on\_cyber\_security\_and\_personal\_data\_protection\_e.pdf
     (accessed 15 December 2024).
 
-28. Paul Esselaar, Alison Gillwald, Ashly Hope, Gavin van der Nest, and
-    John Stuart, ‘Aligning Data Protection Laws in Africa to Facilitate
-    E-Commerce’, Tralac, 1 June 2020,
+[^09chapter6_64]: Paul Esselaar, Alison Gillwald, Ashly Hope, Gavin van der Nest,
+    and John Stuart, ‘Aligning Data Protection Laws in Africa to
+    Facilitate E-Commerce’, Tralac, 1 June 2020,
     https://www.tralac.org/publications/article/14641trade-in-the-digital-economy-a-tralac-collection.html
     (accessed 15 December 2024).
 
-29. Also known as the Malombo Convention. Only 13 countries have
+[^09chapter6_65]: Also known as the Malombo Convention. Only 13 countries have
     ratified the convention as of 28 February 2023. See
     https://au.int/sites/default/
     files/treaties/29560-treaty-0048\_-\_african\_union\_convention\_on\_cyber\_
     security\_and\_personal\_data\_protection\_e.pdf (accessed 15
     December 2024).
 
-30. ‘Search and Compare Data Protection Legislation’, DS-I Africa,
+[^09chapter6_66]: ‘Search and Compare Data Protection Legislation’, DS-I Africa,
     https:// www.datalaw.africa/law/search\_compare (accessed 15
     December 2024).
 
-31. South Africa’s Protection of Personal Information Act (Act no. 4 of
-    2013).
+[^09chapter6_67]: South Africa’s Protection of Personal Information Act (Act no. 4
+    of 2013).
 
-32. Ghana, Data Protection Act, 2012 (Act 843), published in the Ghana
-    Gazette No. 39, 16 October 2012.
+[^09chapter6_68]: Ghana, Data Protection Act, 2012 (Act 843), published in the
+    Ghana Gazette No. 39, 16 October 2012.
 
-33. In terms of DA, Articles 14 and 15.
+[^09chapter6_69]: In terms of DA, Articles 14 and 15.
 
-34. D. W. Thaldar, B. A. Townsend, D-L. Donnelly, M. Botes, A.
+[^09chapter6_70]: D. W. Thaldar, B. A. Townsend, D-L. Donnelly, M. Botes, A.
     Gooden, J. Van Harmelen, and B. Shozi, ‘The Multidimensional Legal
     Nature of Personal Genomic Sequence Data: A South African
     Perspective’, *Frontiers in Genetics* 13 (2022), DOI:
     https://doi.org/10.3389/fgene.2022.997595.
 
-35. ‘Regulation (EU) 2023/2854 of the European Parliament and of the
+[^09chapter6_71]: ‘Regulation (EU) 2023/2854 of the European Parliament and of the
     Council of 13 December 2023’.
 
-36. ‘AU Data Policy Framework’, African Union, February 2022, https://
+[^09chapter6_72]: ‘AU Data Policy Framework’, African Union, February 2022,
+    https://
     au.int/sites/default/files/documents/42078-doc-AU-DATA-POLICYFRAMEWORK-ENG1.pdf
     (accessed 29 July 2023).
 
-37. ‘AU Data Policy Framework’, 11.
+[^09chapter6_73]: ‘AU Data Policy Framework’, 11.
 
-38. ‘AU Data Policy Framework’, 31.
+[^09chapter6_74]: ‘AU Data Policy Framework’, 31.
 
-39. ‘AU Data Policy Framework’, 12.
+[^09chapter6_75]: ‘AU Data Policy Framework’, 12.
 
-40. ‘AU Data Policy Framework’, 1, 17.
+[^09chapter6_76]: ‘AU Data Policy Framework’, 1, 17.
 
-41. ‘AU Data Policy Framework’, 1.
+[^09chapter6_77]: ‘AU Data Policy Framework’, 1.
 
-42. ‘AU Data Policy Framework’, vii.
+[^09chapter6_78]: ‘AU Data Policy Framework’, vii.
 
-43. ‘AU Data Policy Framework’, x, 20, 59.
+[^09chapter6_79]: ‘AU Data Policy Framework’, x, 20, 59.
 
-44. ‘AU Data Policy Framework’, 12.
+[^09chapter6_80]: ‘AU Data Policy Framework’, 12.
 
-45. ‘AU Data Policy Framework’, 8.
+[^09chapter6_81]: ‘AU Data Policy Framework’, 8.
 
-46. ‘AU Data Policy Framework’, 24.
+[^09chapter6_82]: ‘AU Data Policy Framework’, 24.
 
-47. ‘AU Data Policy Framework’, 12.
+[^09chapter6_83]: ‘AU Data Policy Framework’, 12.
 
-48. ‘AU Data Policy Framework’, 25.
+[^09chapter6_84]: ‘AU Data Policy Framework’, 25.
 
-49. ‘AU Data Policy Framework’, 28.
+[^09chapter6_85]: ‘AU Data Policy Framework’, 28.
 
-50. ‘AU Data Policy Framework’, 34.
+[^09chapter6_86]: ‘AU Data Policy Framework’, 34.
 
-51. ‘AU Data Policy Framework’, 35. In *Discovery Limited and Others v.
-    Liberty Group Limited*, a solution to the multitude of interests in
-    data was defined, upholding both data protection and competition. In
-    essence, the court held that in such disputes, if the data is
+[^09chapter6_87]: ‘AU Data Policy Framework’, 35. In *Discovery Limited and Others
+    v. Liberty Group Limited*, a solution to the multitude of interests
+    in data was defined, upholding both data protection and competition.
+    In essence, the court held that in such disputes, if the data is
     personal in nature, it is ‘owned’ by the data subject, and
     competitors may not exclude others from accessing this information.
     ZAGPJHC 67, \[2000\], https://www.saflii.org/za/cases/
     ZAGPJHC/2020/67.html (accessed 30 July 2023).
 
-52. ‘AU Data Policy Framework’, 39.
+[^09chapter6_88]: ‘AU Data Policy Framework’, 39.
 
-53. ‘AU Data Policy Framework’, 47.
+[^09chapter6_89]: ‘AU Data Policy Framework’, 47.
 
-54. ‘AU Data Policy Framework’, 56.
+[^09chapter6_90]: ‘AU Data Policy Framework’, 56.
 
-55. ‘AU Data Policy Framework’, 57.
+[^09chapter6_91]: ‘AU Data Policy Framework’, 57.
 
-56. *Annual Report of the Information Regulator 2021/22*, https://www.
+[^09chapter6_92]: *Annual Report of the Information Regulator 2021/22*,
+    https://www.
     inforegulator.org.za/wp-content/uploads/2022/10/Info%20Regulator%20
     Annual%20Report%202021-22-compressed.pdf (accessed 24 October 2023).
 
-57. ‘Overview on Resources Made Available by Member States to the Data
-    Protection Supervisory Authorities’, European Data Protection Board,
-    5 September 2022 https://edpb.europa.eu/system/files/2022-09/edpb\_
+[^09chapter6_93]: ‘Overview on Resources Made Available by Member States to the
+    Data Protection Supervisory Authorities’, European Data Protection
+    Board, 5 September 2022
+    https://edpb.europa.eu/system/files/2022-09/edpb\_
     overviewresourcesmade\_availablebymemberstatestosas2022\_en.pdf
     (accessed 24 October 2023).
 
-58. This is the predecessor of the EU GDPR. Directive 95/46/EC of the
+[^09chapter6_94]: This is the predecessor of the EU GDPR. Directive 95/46/EC of the
     European Parliament and of the Council of 24 October 1995 on the
     Protection of Individuals with Regard to the Processing of Personal
     Data and on the Free Movement of Such Data (the Data Protection
     Directive).
 
-59. ‘Standard Contractual Clauses (SCC) Standard Contractual Clauses for
-    Data Transfers between EU and Non-EU Countries’, European
+[^09chapter6_95]: ‘Standard Contractual Clauses (SCC) Standard Contractual Clauses
+    for Data Transfers between EU and Non-EU Countries’, European
     Commission, 4 June 2021,
     https://commission.europa.eu/law/law-topic/data-protection/
     international-dimension-data-protection/standard-contractual-clauses-scc\_
     en (accessed 15 December 2024).
 
-60. Lee Swales, Paul Ogendi, Marietjie Botes, Beverley Townsend,
+[^09chapter6_96]: Lee Swales, Paul Ogendi, Marietjie Botes, Beverley Townsend,
     Dusty-Lee Donnelly, Lukman Abdulrauf, and Donrich Thaldar, ‘A Data
     Transfer Agreement (DTA) Template for South Africa’, Zenodo, 6
     February, 2023, https://zenodo.org/record/7537396\#.Y\_iYDexBxB
@@ -1222,7 +1230,7 @@ give her access to data and you help her solve problems for a lifetime.
     *South African Journal of Bioethics and Law* 16, no. 1 (2023):
     13–18.
 
-61. ‘Government Gazette Vol. 695’, Republic of South Africa, 12 May
+[^09chapter6_97]: ‘Government Gazette Vol. 695’, Republic of South Africa, 12 May
     2023,
     https://inforegulator.org.za/wp-content/uploads/2020/07/GovernmentGazzette-dated-12-May-.pdf
     (accessed 15 December 2024). For a discussion of the draft Code of
@@ -1235,80 +1243,81 @@ give her access to data and you help her solve problems for a lifetime.
     *Humanities and Social Sciences Communications* (2024), DOI:
     https://doi. org/10.1057/s41599-024-02715-0.
 
-62. See, for example, clause 4.2.2.3 of the Code of Conduct, which
+[^09chapter6_98]: See, for example, clause 4.2.2.3 of the Code of Conduct, which
     states that researchers must ‘ensure that the Personal Information
     is Pseudonymised unless there is a compelling reason why it is not
     feasible or appropriate’.
 
-63. Referred to as ‘personal information’.
+[^09chapter6_99]: Referred to as ‘personal information’.
 
-64. ‘Regulation (EU) 2022/2065 of the European Parliament and of the
+[^09chapter6_100]: ‘Regulation (EU) 2022/2065 of the European Parliament and of the
     Council of 19 October 2022 on a Single Market for Digital Services
     and Amending Directive 2000/31/EC (Digital Services Act)’,
     https://eur-lex.europa.eu/
     legal-content/en/TXT/?uri=CELEX%3A32022R2065 (accessed 8 June 2023).
 
-65. ‘Regulation (EU) 2022/1925 of the European Parliament and of the
+[^09chapter6_101]: ‘Regulation (EU) 2022/1925 of the European Parliament and of the
     Council of 14 September 2022 on Contestable and Fair Markets in the
     Digital Sector and Amending Directives (EU) 2019/1937 and (EU)
     2020/1828 (Digital Markets Act)’,
     https://eur-lex.europa.eu/legal-content/EN/
     TXT/?uri=CELEX%3A32022R1925 (accessed 8 June 2023).
 
-66. European Parliament legislative resolution of 13 March 2024 on the
-    proposal for a regulation of the European Parliament and of the
+[^09chapter6_102]: European Parliament legislative resolution of 13 March 2024 on
+    the proposal for a regulation of the European Parliament and of the
     Council to lay down harmonized rules on Artificial Intelligence
     (Artificial Intelligence Act) and to amend certain Union Legislative
     Acts (COM(2021)0206 – C9-0146/2021 – 2021/0106(COD)),
     https://www.europarl.europa.eu/doceo/document/TA9-2024-0138\_EN.pdf
     (accessed 8 April 2024).
 
-67. Ibid.; ‘Regulation (EU) 2023/2854 of the European Parliament and of
-    the Council of 13 December 2023’.
+[^09chapter6_103]: Ibid.; ‘Regulation (EU) 2023/2854 of the European Parliament and
+    of the Council of 13 December 2023’.
 
-68. ‘AU Data Policy Framework’, 39.
+[^09chapter6_104]: ‘AU Data Policy Framework’, 39.
 
-69. ‘Briefing on Regulatory Sandboxes’, United Nations
+[^09chapter6_105]: ‘Briefing on Regulatory Sandboxes’, United Nations
     Secretary-General’s Special Advocate for Inclusive Finance for
     Development (UNSGSA),
     https://www.unsgsa.org/sites/default/files/resources-files/2020-09/Fintech\_
     Briefing\_Paper\_Regulatory\_Sandboxes.pdf (accessed 15 December
     2024).
 
-70. ‘Impact Assessment Report and Support Studies Accompanying the
+[^09chapter6_106]: ‘Impact Assessment Report and Support Studies Accompanying the
     Proposal for a Data Act’,
     https://digital-strategy.ec.europa.eu/en/library/impactassessment-report-and-support-studies-accompanying-proposal-data-act
     (accessed 8 April 2024).
 
-71. ‘Public Consultation on the Data Act: Summary Report’,
+[^09chapter6_107]: ‘Public Consultation on the Data Act: Summary Report’,
     https://ec.europa.
 
-> eu/newsroom/dae/redirection/document/81599 (accessed 15 December
-> 2024).
+    eu/newsroom/dae/redirection/document/81599 (accessed 15 December
+    2024).
 
-1.  This is as of as of 25 February 2023.
+[^09chapter6_108]: This is as of as of 25 February 2023.
     https://www.xe.com/currencyconverter/
 
-> convert/?Amount=15000000000000&From=EUR&To=USD (accessed 25 February
-> 2023).
+    convert/?Amount=15000000000000&From=EUR&To=USD (accessed 25 February
+    2023).
 
-1.  ‘A European Strategy for Data’, Communication from the Commission to
-    the European Parliament, the Council, the European Economic and
-    Social Committee and the Committee of the Regions, 19 February 2020,
+[^09chapter6_109]: ‘A European Strategy for Data’, Communication from the
+    Commission to the European Parliament, the Council, the European
+    Economic and Social Committee and the Committee of the Regions, 19
+    February 2020,
     https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1593073685620&
     uri=CELEX%3A52020DC0066 (accessed 25 February 2023).
 
-2.  ‘African Countries with the Highest Gross Domestic Product (GDP) in
-    2021’, Statista, 2021,
+[^09chapter6_110]: ‘African Countries with the Highest Gross Domestic Product (GDP)
+    in 2021’, Statista, 2021,
     https://www.statista.com/statistics/1120999/gdp-ofafrican-countries-by-country
     (accessed 25 February 2023).
 
-3.  ‘Market capitalization of Apple (AAPL)’, Apple, 2023, https://
+[^09chapter6_111]: ‘Market capitalization of Apple (AAPL)’, Apple, 2023, https://
     companiesmarketcap.com/tech/largest-tech-companies-by-market-cap
     (accessed 25 February 2023).
 
-4.  It is unclear why the right to access product data is limited to the
-    user and the person nominated by the user in the DA. The first
+[^09chapter6_112]: It is unclear why the right to access product data is limited to
+    the user and the person nominated by the user in the DA. The first
     reference to ‘research’ is located in Article 21 which focuses on
     access by researchers to public bodies, rather than ‘data holders’.
     Interestingly, the final version of the DA introduced Article 44(3)
@@ -1316,11 +1325,3 @@ give her access to data and you help her solve problems for a lifetime.
     national law, providing for ‘access to and authorizing the use of
     data for scientific research purposes’ which may turn out to be a
     backdoor into access by African researchers to data held in the EU.
-
-[^09chapter6_1]: This work was supported by the United States’s National Institute
-    of Mental Health and the National Institutes of Health (award number
-    U01MH127690) under the Harnessing Data Science for Health Discovery
-    and Innovation in Africa (DS-I Africa) programme. The content of
-    this chapter is solely the author’s responsibility and does not
-    necessarily represent the official views of the aforementioned
-    institutes.

@@ -17,30 +17,29 @@ Rights: CC BY-NC 4.0
 ...
 
 
-> **Access to Data on Disinformation within the** **Code of Practice on
-> Disinformation **
+# Access to Data on Disinformation within the Code of Practice on Disinformation
 
-*Michalina Kowala*
+### Michalina Kowala
 
-# From Discretion to Obligation? The Researchers’ Access to Data on Disinformation in the Framework of the Code of Practice on Disinformation
+## From Discretion to Obligation? The Researchers’ Access to Data on Disinformation in the Framework of the Code of Practice on Disinformation
 
 The phenomenon of disinformation is not new. As far back as antiquity,
 Julius Caesar used the tools of propaganda to demonstrate his power in
-order to convert people to the Roman way of life.^1^ Today,
+order to convert people to the Roman way of life.[^12chapter9_1] Today,
 disinformation, defined as ‘verifiably false or misleading information
 that is created, presented and disseminated for economic gain or to
-intentionally deceive the public, and may cause public harm’,^2^ is
+intentionally deceive the public, and may cause public harm’,[^12chapter9_2] is
 propagated above all in the digital environment. It contributes to
-polarization and spread of extreme ideas,^3^ leading to rise in populism
-and major social tensions. It ‘undermines trust in institutions and in
-traditional and digital media, and hinders citizens’ ability to make
-informed decisions’.^4^ It impacts the policymaking process by giving a
-distorted image of the actions of public authorities.
+polarization and spread of extreme ideas,[^12chapter9_3] leading to rise in
+populism and major social tensions. It ‘undermines trust in institutions
+and in traditional and digital media, and hinders citizens’ ability to
+make informed decisions’.[^12chapter9_4] It impacts the policymaking process by
+giving a distorted image of the actions of public authorities.
 
 Disinformation has intensified in the run-up to the presidential
 elections in the United States in 2016 and the Brexit referendum.
 According to 83 per cent of Europeans, this phenomenon constitutes a
-threat to democracy.^5^ Spread mainly by online platforms,^6^ it
+threat to democracy.[^12chapter9_5] Spread mainly by online platforms,[^12chapter9_6] it
 required an immediate legal response at the European Union (EU) level.
 The Code of Practice on Disinformation, established in 2018, has been
 the first such framework worldwide, setting out the commitments by
@@ -74,13 +73,13 @@ what characterizes it today. I make use of the autoethnography method of
 research. It allows for the assessment of the tools made available by
 Facebook as a result of the implementation of the codes and leads to the
 determination of the scope of researchers’ access to data on
-disinformation. I decided to choose Facebook^7^ to study the mechanisms
+disinformation. I decided to choose Facebook[^12chapter9_7] to study the mechanisms
 for granting researchers’ access to data since it was one of the first
 signatories of the 2018 code. Moreover, it is considered as the most
-used social network for news^8^ and ‘the worst perpetrator’ as regards
-the spread of disinformation.^9^
+used social network for news[^12chapter9_8] and ‘the worst perpetrator’ as regards
+the spread of disinformation.[^12chapter9_9]
 
-# The 2018 Code of Practice on Disinformation
+## The 2018 Code of Practice on Disinformation
 
 The European Commission in 2018 declared that
 
@@ -89,32 +88,32 @@ The European Commission in 2018 declared that
 > act with appropriate responsibility in views of their central role so
 > as to ensure a safe online environment, to protect users from
 > disinformation, and to offer users exposure to different political
-> views.^10^
+> views.[^12chapter9_10]
 
 It called upon platforms to step up their efforts to tackle online
 disinformation. The European Commission considered that self-regulation
 could contribute to these efforts, provided it is effectively
 implemented and monitored. To this end, the commission supported the
-development of the Code of Practice on Disinformation,^11^ which was
+development of the Code of Practice on Disinformation,[^12chapter9_11] which was
 signed in October 2018. It constitutes a set of standards agreed by
 online platforms, tech companies, and representatives of the advertising
 industry to address the spread of disinformation.
 
-## The 2018 Code: An Instrument of Soft Law 
+### The 2018 Code: An Instrument of Soft Law 
 
 The use of the soft law is often explained by the greater ease with
 which stakeholders can formulate and reach agreement, as well as by
 lower administrative costs. The adoption of such an instrument is seen
 in some cases as a temporary alternative to binding legislation, which
-may already be in the pipeline.^12^ Furthermore, soft law constitutes a
+may already be in the pipeline.[^12chapter9_12] Furthermore, soft law constitutes a
 mean of stimulating progress and is preferred when member states have
 considerable interests that they do not wish to jeopardize. It is often
 proposed to regulate the online environment, which is characterized by
-rapid technological change.^13^ Contrary to hard law, it contains
+rapid technological change.[^12chapter9_13] Contrary to hard law, it contains
 non-binding measures that cannot be legally enforced and is of voluntary
 nature.
 
-## Commitments under the 2018 Code 
+### Commitments under the 2018 Code 
 
 The code consists of commitments divided into five groups and related to
 following five areas: (*a*) scrutiny of ad placements, (*b*) political
@@ -123,7 +122,7 @@ advertising and issue-based advertising, (*c*) integrity of services,
 It bound only its signatories who were free to select the commitments
 they wanted to sign up for. Due to the nature of the code, no mechanism
 of enforcement or for action in case of non-compliance had been
-provided.^14^
+provided.[^12chapter9_14]
 
 As regards the empowerment of researchers with tools enabling the
 scrutiny of the phenomenon of disinformation and measures implemented by
@@ -132,12 +131,12 @@ taking the reasonable measures to enable privacy-compliant access to
 data for research activities. They recognized the purpose of scientific
 cooperation and committed to provide relevant data on the functioning of
 their services, including data for independent investigation by academic
-researchers and general information on algorithms.^15^ In order to
+researchers and general information on algorithms.[^12chapter9_15] In order to
 fulfil these commitments, signatories declared their support for ‘good
 faith independent’ efforts to track disinformation and to understand its
 impact. This support included sharing privacy-protected datasets,
 undertaking joint research, or partnering with academics and civil
-society organizations.^16^ To measure and monitor the code’s
+society organizations.[^12chapter9_16] To measure and monitor the code’s
 effectiveness, the signatories committed to write an annual account of
 their work to counter disinformation. However, no specific reporting
 scheme has been established for this purpose, and neither the metrics
@@ -146,40 +145,38 @@ cooperate with the European Commission, including making available
 appropriate information upon request or responding to the commission’s
 questions and consultations.
 
-**Researchers’ Access to Data under the 2018 **
-
-# Code of Practice on Disinformation 
+## Researchers’ Access to Data under the 2018 Code of Practice on Disinformation 
 
 In 2020, I conducted research on measures to combat disinformation
 introduced by Facebook. My objective was to assess whether the
 implemented mechanisms corresponded to, and could contribute to, the
-achieving of specific goals enshrined in the 2018 code.^17^ I decided to
-analyse the code through the lens of my personal experience as a
+achieving of specific goals enshrined in the 2018 code.[^12chapter9_17] I decided
+to analyse the code through the lens of my personal experience as a
 researcher examining the issues related to disinformation. I examined
 the data provided in the reports submitted monthly and yearly by the
 platform to the European Commission as well as their assessment
-conducted by the latter.^18^ I had limited myself to only this source of
-information.
+conducted by the latter.[^12chapter9_18] I had limited myself to only this source
+of information.
 
 I faced several difficulties in establishing a complete landscape of
 implemented measures based on data supplied by the platform. In many
 cases, the measures that were presented in the reports did not even
 indirectly address the problem of disinformation or were not
-specifically tailored to tackle this issue.^19^ The platform reported on
-harmful practices and adopted solutions selectively, by referring to the
-global level, and sometimes, but rarely, to the European level or to
+specifically tailored to tackle this issue.[^12chapter9_19] The platform reported
+on harmful practices and adopted solutions selectively, by referring to
+the global level, and sometimes, but rarely, to the European level or to
 certain member states without any justification for such a mode of
 communication. This made it difficult, if not impossible, to assess the
 risks and the adequacy of the measures implemented to address them.
 Although the reports followed the structure of the code and referred to
-the measures taken in relation to the five pillars included therein,^20^
-the lack of an established structure and the specific metrics,
-indicators, or elements that should be communicated left platforms and,
-in the discussed case, Facebook absolutely free to decide on the
-presented data and the way it will be done. Therefore, the researcher
-could not follow the development of the implemented measures or assess
-its effectiveness. This was due to several reasons, including
-inconsistent presentation of data,^21^ the repetition of the same data
+the measures taken in relation to the five pillars included
+therein,[^12chapter9_20] the lack of an established structure and the specific
+metrics, indicators, or elements that should be communicated left
+platforms and, in the discussed case, Facebook absolutely free to decide
+on the presented data and the way it will be done. Therefore, the
+researcher could not follow the development of the implemented measures
+or assess its effectiveness. This was due to several reasons, including
+inconsistent presentation of data,[^12chapter9_21] the repetition of the same data
 over several months, the presentation of data for a different country
 each month for a single programme or policy, or the restriction to
 general statements and the failure to present any figures or
@@ -191,22 +188,22 @@ reports. The EU DisinfoLab pointed to the complexity of the reports
 published by platforms and the difficulty in making the comparison
 between them. According to the organization, it hindered the meaningful
 analysis of the measures adopted in the context of the disinformation on
-COVID-19.^22^ It was due to the own reporting style of each platform
+COVID-19.[^12chapter9_22] It was due to the own reporting style of each platform
 filling in the metrics according to its preferences, due to the lack of
 specific data such as country-specific metrics, especially regarding the
 audience of disinformation (clickthrough rate, and so on), or due to the
 lack of uniform presentation as regards all the countries where the
-measures have been implemented.^23^ The EU Disinfo Lab called for more
+measures have been implemented.[^12chapter9_23] The EU Disinfo Lab called for more
 detailed guidelines on common metrics and streamlined reporting, which
 were needed to allow for meaningful comparison of platforms’ responses
-to disinformation.^24^ In the assessment of the implementation of the
+to disinformation.[^12chapter9_24] In the assessment of the implementation of the
 2018 code conducted by the European Commission, the need for ‘more
 consistent reporting adhering to certain minimum information standards
 that could allow for an even better assessment of the effectiveness of
-the implementation of the Code’^25^ was expressed. Moreover, it has been
-pointed out that ‘the independent auditing of the data delivered by the
-platforms in their reports could eliminate the debate on whether this
-data is correct and representative’.^26^
+the implementation of the Code’[^12chapter9_25] was expressed. Moreover, it has
+been pointed out that ‘the independent auditing of the data delivered by
+the platforms in their reports could eliminate the debate on whether
+this data is correct and representative’.[^12chapter9_26]
 
 Indeed, in the 2018 code, the signatories did not commit to set up an
 independent body to ensure the transparency of the presented
@@ -215,7 +212,7 @@ platforms. Since no enforcement measures have been foreseen, it could
 only respond to signatories’ reports by encouraging the provision of
 more granular data, by expressing its concerns, by urging to take
 further action, or by regretting that the signatories did not supply
-sufficient information.^27^ However, the platforms’ response varied
+sufficient information.[^12chapter9_27] However, the platforms’ response varied
 depending on whether the provision of specific data corresponded to its
 transparency policies.
 
@@ -223,7 +220,7 @@ Although the essential role of researchers in providing the proper
 understanding of the phenomenon of disinformation and in contributing to
 the development of risk-mitigation mechanisms has been recognized in the
 2018 code, the assessment of the implementation of the commitments
-contained therein reveals multiple shortcomings.^28^ The incomplete,
+contained therein reveals multiple shortcomings.[^12chapter9_28] The incomplete,
 inconsistent, out-of-context, and selective provision of data by
 platforms and the lack of an enforcement mechanism made researchers
 entirely dependent on platforms. The very act of data provision, and the
@@ -236,75 +233,76 @@ quality and the effectiveness of my research. The dynamic of the
 relationship between researchers and platforms was marked by
 one-sidedness and the powerlessness of the latter.
 
-# The 2022 Code of Practice on Disinformation 
+## The 2022 Code of Practice on Disinformation 
 
-The new code,^29^ signed in June 2022, intends to address these
+The new code,[^12chapter9_29] signed in June 2022, intends to address these
 shortcomings. It constitutes an answer to the calls to reinforce the
 2018 code in areas such as larger participation of platforms with more
 tailored commitments, demonetization of disinformation, provision of a
 comprehensive coverage of forms of manipulative behaviour, empowering
 users to flag disinformation, as well as increase in the coverage of
 fact-checking and access to data to researchers and robust monitoring
-framework.^30^ The purpose of the 2022 code is to become a more
+framework.[^12chapter9_30] The purpose of the 2022 code is to become a more
 effective tool for countering disinformation. It was issued based on the
-guidance provided by European Commission^31^ and took into account the
+guidance provided by European Commission[^12chapter9_31] and took into account the
 proposal (at that time) for the DSA in the regulatory framework of which
 the code would be implemented. However, as underlined by the commission,
 ‘The 2022 Code of Practice is the result of the work carried out by the
 signatories. It is for the signatories to decide which commitments they
 sign up to and it is their responsibility to ensure the effectiveness of
-their commitments’ implementation.’^32^
+their commitments’ implementation.’[^12chapter9_32]
 
 The new code is a part of a broader regulatory framework. It is aligned
 with the DSA. The latter, adopted in October 2022, constitutes a common
 set of rules on intermediaries’ obligations and accountability across
-the single market.^33^ The connection of the code with the DSA entails
+the single market.[^12chapter9_33] The connection of the code with the DSA entails
 specific obligations arising especially for very large online platforms
 (VLOPs) for which the code becomes a mitigation measure for systematic
 risks, one of which is disinformation.
 
-## Provision of Access to Different Types of Data 
+### Provision of Access to Different Types of Data 
 
 The 2022 code includes commitments to set up a framework for robust
 access to platforms’ data by the research community and adequate support
-for the researchers’ activities.^34^ To achieve it, different categories
-of data were identified and different ways to access them were laid out.
-First, platforms committed to provide access to non-personal and
-anonymized, aggregated, or manifestly made public, continuous,
-real-time, or near-real-time data pertinent to undertake research on
-disinformation. Its provision takes place without any application
-procedure. Second, they committed to provide data on the signatories’
-services such as accounts belonging to public figures (for example,
-elected officials), news outlets, and government accounts. In this case,
-the provision of data occurs through a specific procedure. The access
-should be provided through automated means such as application
-programming interface (APIs) or other open and accessible technical
-solutions. Third, the 2022 code provides a governance structure for
-access to data for research purposes requiring additional scrutiny. It
-will be interesting to see whether the researcher will be able to expect
-a specific action from platforms in terms of the requested data, such as
-collection, comparison, and summary of data or whether the role of
-platforms will be limited to providing data in raw form only.
+for the researchers’ activities.[^12chapter9_34] To achieve it, different
+categories of data were identified and different ways to access them
+were laid out. First, platforms committed to provide access to
+non-personal and anonymized, aggregated, or manifestly made public,
+continuous, real-time, or near-real-time data pertinent to undertake
+research on disinformation. Its provision takes place without any
+application procedure. Second, they committed to provide data on the
+signatories’ services such as accounts belonging to public figures (for
+example, elected officials), news outlets, and government accounts. In
+this case, the provision of data occurs through a specific procedure.
+The access should be provided through automated means such as
+application programming interface (APIs) or other open and accessible
+technical solutions. Third, the 2022 code provides a governance
+structure for access to data for research purposes requiring additional
+scrutiny. It will be interesting to see whether the researcher will be
+able to expect a specific action from platforms in terms of the
+requested data, such as collection, comparison, and summary of data or
+whether the role of platforms will be limited to providing data in raw
+form only.
 
-## Involvement of Third-Party Body 
+### Involvement of Third-Party Body 
 
 The relevant signatories declared to set up, fund, and cooperate with a
 third-party body. Its role will be to vet researchers willing to
-scrutinize disinformation.^35^ Once vetted, they should be able to
+scrutinize disinformation.[^12chapter9_35] Once vetted, they should be able to
 access the personal data shared by signatories in accordance with
 protocols to be defined by the independent third-party body. Signatories
 committed to also ‘support good faith research into disinformation’ that
 involves their services by maintaining an open dialogue with researchers
 to keep track of the types of data that are likely to be in demand and
 by ensuring transparency on data types that are currently made available
-to researchers across Europe.^36^ Finally, signatories committed to
+to researchers across Europe.[^12chapter9_36] Finally, signatories committed to
 conduct research based on transparent methodology and ethical standards,
 as well as to share datasets, research findings, and methodologies with
-relevant audiences.^37^
+relevant audiences.[^12chapter9_37]
 
 The establishment of the third-party body to help oversee and even
 implement the processes envisioned by the code was already recommended
-in relation to the 2018 code.^38^ Its role, according to the 2022 code,
+in relation to the 2018 code.[^12chapter9_38] Its role, according to the 2022 code,
 will be to vet researchers and to determine who should have access to
 data requiring additional scrutiny. This should eliminate platform
 discretion when deciding who should be granted access to data. Although
@@ -318,20 +316,20 @@ code as to whether the researcher will have a possibility of appeal when
 the data would not correspond to what they have requested and to whom
 they could turn in such a case. It is not clear whether the
 consideration of appeals would also be the role of the third-party
-body.^39^
+body.[^12chapter9_39]
 
-## Alignment of the Code with the DSA
+### Alignment of the Code with the DSA
 
 The 2022 code, like its predecessor, is voluntary. It means that the
 adherence to the code does not imply legal consequences in case of the
 lack of implementation of the commitments included therein. However, it
 is considered as a possible risk-mitigation measure under Article 35 of
-the DSA. For VLOPs,^40^ this means that the complete abandonment of the
+the DSA. For VLOPs,[^12chapter9_40] this means that the complete abandonment of the
 adoption of voluntary measures is not possible in practice.
 
 The Code of Practice on Disinformation is considered as a code of
 conduct under Article 45 of the DSA and disinformation is considered as
-a systematic risk.^41^ The latter, according to Recital 79 of the DSA,
+a systematic risk.[^12chapter9_41] The latter, according to Recital 79 of the DSA,
 can stem from ‘the design, functioning and use of the services of very
 large online platforms, as well as from potential misuses by the
 recipients of the service’. The EU legislator has distinguished four
@@ -358,15 +356,15 @@ specified in the same recital that the mere fact of participating in and
 implementing a given code of conduct should not in itself presume
 compliance with the DSA. Therefore, the signatories must be proactive in
 addressing the systemic risks, including the circulation of
-disinformation.^42^
+disinformation.[^12chapter9_42]
 
-The 2018 code was criticized for the lack of enforcement measures.^43^
+The 2018 code was criticized for the lack of enforcement measures.[^12chapter9_43]
 As for the new code, the enforcement mechanisms can be identified as a
 result of its alignment with the DSA. According to Article 37 of the
 DSA, in order to monitor and assess the compliance of VLOPs with certain
 DSA obligations and, where relevant, the commitments undertaken pursuant
 to *codes of conduct*, the independent audits should be conducted at
-least once a year.^44^
+least once a year.[^12chapter9_44]
 
 The signatories of the 2018 code could choose the commitments they
 wanted to sign up for. As for its updated version, the signatories
@@ -379,29 +377,29 @@ opinion, it obliges the signatories to be transparent when it comes to
 subscription to the commitments and their further implementation and
 leaves less room for discretion in this respect.
 
-## Reporting Scheme 
+### Reporting Scheme 
 
 To address the problem of fragmentation and lack of uniformity of
 reported data, the 2022 code includes an intensified reporting scheme.
 Signatories committed to provide the baseline reports to the European
 Commission within one month after the end of the implementation
-period.^45^ After that, VLOPs committed to provide regular reporting on
+period.[^12chapter9_45] After that, VLOPs committed to provide regular reporting on
 service level indicators and qualitative reporting elements every six
 months and other signatories yearly, at service and memberstate
-level.^46^ This should allow for a thorough assessment of the extent of
+level.[^12chapter9_46] This should allow for a thorough assessment of the extent of
 the code’s implementation. VLOPs are confronted with more demanding
 requirements as to the frequency of reporting since they are considered
 as posing particular risk in dissemination of illegal content and
-societal harms.^47^
+societal harms.[^12chapter9_47]
 
-Signatories also commit to participate in a permanent task force^48^
+Signatories also commit to participate in a permanent task force[^12chapter9_48]
 chaired by the European Commission and including representatives from
 the European Digital Media Observatory (EDMO), the ERGA, and the
 European External Action Service (EEASS). The task force’s role is to
 establish the harmonized reporting templates for the code’s
-implementation^49^ which the signatories undertake to apply.^50^ In
-February 2023,^51^ the signatories published their first baseline
-reports on how the 2022 code’s commitments are implemented.^52^
+implementation[^12chapter9_49] which the signatories undertake to apply.[^12chapter9_50] In
+February 2023,[^12chapter9_51] the signatories published their first baseline
+reports on how the 2022 code’s commitments are implemented.[^12chapter9_52]
 
 The new reporting mechanism clearly determines the elements that should
 be presented and the way in which this should be done. In theory, and
@@ -416,9 +414,8 @@ infrastructure regarding reporting has been put in place, and the
 establishment of the Task Force gives hope that that discretionary
 reporting will be reduced or even eliminated.
 
-**Researchers’ Access to Data under the 2022 **
-
-# Code of Practice on Disinformation 
+## Researchers’ Access to Data under the 2022
+## Code of Practice on Disinformation 
 
 After the brief analysis of the commitments and measures enshrined in
 the 2022 code, it is worth discussing the instruments made available for
@@ -430,42 +427,42 @@ be successful under the 2022 code. My objective is to verify what, if
 anything, has changed in the 2022 code that would allow achieving the
 objectives of the code more effectively.
 
-## Access to Data Not Requiring the Application Process
+### Access to Data Not Requiring the Application Process
 
 With regard to the commitment to provide access to non-personal data and
 anonymized, aggregated, or manifestly made public data for research
 purposes on disinformation, Facebook, in its recently published baseline
 report, refers to the data provided in its ‘Community Standards
-Enforcement Report’,^53^ ‘Widely Viewed Content Report’,^54^ and
-‘Quarterly Adversarial Threat Report’.^55^ It declares to support
+Enforcement Report’,[^12chapter9_53] ‘Widely Viewed Content Report’,[^12chapter9_54] and
+‘Quarterly Adversarial Threat Report’.[^12chapter9_55] It declares to support
 independent research that will enhance understanding of the impact that
 platforms like Facebook have on society. Moreover, it claims that its
 policies are based on years of experience and expertise in trust and
-safety, combined with external input from experts around the world.^56^
+safety, combined with external input from experts around the world.[^12chapter9_56]
 However, although the access to provided data should serve research on
 disinformation, there is little data on this particular problem in the
 indicated reports. The platform repeats and rephrases what has already
 been said publicly and adds nothing new.
 
-## Access to Data Requiring the Application Process
+### Access to Data Requiring the Application Process
 
-Regarding access to data that requires an application process,^57^
+Regarding access to data that requires an application process,[^12chapter9_57]
 Facebook refers to a tool called CrowdTangle. Launched in 2019, it is
 described as a content discovery and social monitoring platform that
 provides access to a small subset of public data on Facebook.
 Researchers used CrowdTangle to study a variety of key topics of social
 interest, including misinformation, elections, and societal impact of
-COVID-19.^58^ To gain access to this data, researchers must complete an
+COVID-19.[^12chapter9_58] To gain access to this data, researchers must complete an
 application process.
 
 CrowdTangle has been considered as an unparalleled tool for ‘analysing
 trends, tracking article sources and understanding virality on
-Facebook’.^59^ In general, it is regarded as a vital instrument for
-researching Facebook’s transparency.^60^ Despite some rumours that
-Facebook plans to phase it out,^61^ on the CrowdTangle website updated
+Facebook’.[^12chapter9_59] In general, it is regarded as a vital instrument for
+researching Facebook’s transparency.[^12chapter9_60] Despite some rumours that
+Facebook plans to phase it out,[^12chapter9_61] on the CrowdTangle website updated
 at the beginning of February 2023, the platform declared continued
 support for the research community and its plans to update this page and
-expand its support into new areas.^62^ It is also indicated that the
+expand its support into new areas.[^12chapter9_62] It is also indicated that the
 university researchers (faculty students, PhD students, postdoctoral
 research fellows) focused on topics such as misinformation, elections,
 or COVID-19 are prioritized regarding the provision of access to the
@@ -475,7 +472,7 @@ I attempted to apply for this access twice, in December 2022 and in
 February 2023. In both cases, the result was the same. I was informed
 that specific research topics were prioritized and that if my research
 falls outside that scope, I may not be onboarded. I was advised to wait
-for further information.^63^ Unfortunately, my request has not been
+for further information.[^12chapter9_63] Unfortunately, my request has not been
 approved despite the fact that I am a PhD student conducting research on
 disinformation and presented my research problem in detail as well as
 the purpose of having access to CrowdTangle since I received neither an
@@ -483,19 +480,19 @@ answer nor access to CrowdTangle. I was not informed about the reasons
 Facebook refused my access request. However, it appears that I am not
 the only researcher who has been denied access to CrowdTangle’s
 resources. Facebook in 2022 stopped accepting any new-user application
-due to ‘staffing constraints’,^64^ and it seems that it has not dealt
+due to ‘staffing constraints’,[^12chapter9_64] and it seems that it has not dealt
 with the problem yet, since academics report that new applications are
-still not accepted.^65^
+still not accepted.[^12chapter9_65]
 
 As to the commitment to provide vetted researchers with access to data
 necessary to undertake research on disinformation by developing,
 funding, and cooperating with an independent third-party body, Facebook
 declared to have actively engaged in the EDMO Working Group on Platform
 to Researcher Data Sharing to develop standardized processes for sharing
-data with researchers. Further implementation measures are planned.^66^
+data with researchers. Further implementation measures are planned.[^12chapter9_66]
 The baseline report specifies that the technical standards and
 safeguards as well as standards for researchers’ eligibility still need
-to be established.^67^ It is expected that another code of conduct will
+to be established.[^12chapter9_67] It is expected that another code of conduct will
 be adopted for both platforms and researchers to balance the need for
 more transparency and research with the protection of personal data.
 
@@ -511,7 +508,7 @@ implementation of some of its measures is long. The code, unfortunately,
 still remains ineffective as regards some commitments and measures
 included therein.
 
-# Achievability of the Research Goals under the 2022 Code of Practice on Disinformation 
+## Achievability of the Research Goals under the 2022 Code of Practice on Disinformation 
 
 To analyse whether my original research purpose would be successful
 under the 2022 code, the evolution of two factors, namely *discretion*
@@ -519,7 +516,7 @@ of platforms and *lack of enforcement measures*, which contributed to
 the non-achievability of my research goal under the 2018 code, should be
 examined.
 
-## Discretion in Reporting of Data 
+### Discretion in Reporting of Data 
 
 Platforms’ discretion is likely to be limited under the new Code in many
 aspects. The signatories provided assurance of its ability to be
@@ -542,21 +539,21 @@ The publication of the first baseline reports in 2023 showed that
 unfortunately not all signatories complied with the newly agreed
 reporting scheme. X (formerly Twitter) has been criticized for providing
 little specific information and no targeted data in relation to its
-commitments.^68^ As to Facebook, there are legitimate concerns that the
+commitments.[^12chapter9_68] As to Facebook, there are legitimate concerns that the
 platform will continue to report on the adopted measures in a
 discretionary and incomplete manner. To give some examples from the
 report published by the platform, Facebook did not provide any
 information as regards the methodology of data measurement or data
 concerning the number of academic accounts granted with access to the
-CrowdTangle as of January 2023.^69^ Yet it should do so within the
-framework of the implementation of measure 26.1 of the code.^70^
+CrowdTangle as of January 2023.[^12chapter9_69] Yet it should do so within the
+framework of the implementation of measure 26.1 of the code.[^12chapter9_70]
 
-## Provision of Access to Different Types of Data 
+### Provision of Access to Different Types of Data 
 
 With regard to the commitment to provide access to non-personal data and
 anonymized, aggregated, or manifestly made public data for research
 purposes on disinformation, which has been already discussed in the
-chapter, Facebook referred to its general policies^71^ but provided
+chapter, Facebook referred to its general policies[^12chapter9_71] but provided
 little data on how they translate into access to information on
 disinformation, on the scope of this access, or on the kind of data
 researchers have access to. These two examples (although an analysis of
@@ -568,7 +565,7 @@ here.
 
 It should, however, be pointed out that the baseline report provided by
 Facebook is considerably coherent as regards, for example, the provision
-of data per countries,^72^ the lack of which constituted a significant
+of data per countries,[^12chapter9_72] the lack of which constituted a significant
 weakness under the 2018 code. Moreover, platforms, in the new code,
 committed to cooperate with members of the task force as regards the
 consultation with researchers, the development of the third-party body,
@@ -585,7 +582,7 @@ do not cooperate with researchers, for example, for not providing data
 to those who will be vetted by the third-party body or if they do not
 properly fulfil their reporting obligations.
 
-## Enforcement Measures 
+### Enforcement Measures 
 
 Much hope lies in the enforcement measures. Nevertheless, since the code
 is of voluntary nature, there were none in the first or in the current
@@ -612,7 +609,7 @@ The term ‘independent’ has been defined to ensure the transparency of
 the auditing process and the credibility of its results. In case the
 outcomes of the audit are not positive, the VLOPs should take due
 account of the operational recommendations with a view to taking the
-necessary measures to implement them.^73^ According to Article 37(6) of
+necessary measures to implement them.[^12chapter9_73] According to Article 37(6) of
 the DSA, where the signatories do not implement the operational
 recommendations, they shall justify in the audit implementation report
 the reasons for not doing so and set out any alternative measures. If
@@ -639,7 +636,7 @@ example, to effectively contest platforms’ decisions.
 
 # 
 
-# Conclusion 
+## Conclusion 
 
 The 2018 code was the first, albeit unsuccessful, attempt to provide a
 legal framework to address the problem of disinformation. The lack of
@@ -659,7 +656,7 @@ to different operating systems of the platforms and to target the
 specific threats posed by the spread of disinformation. Such instrument
 allowed a rapid response tailored to evolving new technologies. However,
 this chapter revealed quite a long list of its shortcomings, which,
-first, did not allow to effectively combat disinformation^74^ and,
+first, did not allow to effectively combat disinformation^74^[^12chapter9_74] and,
 second, did not facilitate research on the phenomenon.
 
 The 2022 code addresses the shortcomings and fills in the gaps of the
@@ -700,10 +697,10 @@ disinformation.
 
 # Notes
 
-1.  Garth S. Jowett and Victoria O’Donnell, *Propaganda and Persuasion*
-    (Sage Publications, 2012).
+[^12chapter9_1]: Garth S. Jowett and Victoria O’Donnell, *Propaganda and
+    Persuasion* (Sage Publications, 2012).
 
-2.  ‘Communication from the Commission to the European Parliament, the
+[^12chapter9_2]: ‘Communication from the Commission to the European Parliament, the
     Council, the European Economic and Social Committee and the
     Committee of the Regions, Tackling Online Disinformation: A European
     Approach’, COM (2018) 236 final, European Commission,
@@ -711,48 +708,43 @@ disinformation.
     legal-content/EN/TXT/PDF/?uri=CELEX:52018DC0236 (accessed 28 July
     2023).
 
-3.  J. Bayer, Bernd Holznagel, Katarzyna Lubianiec, Adela Pintea,
+[^12chapter9_3]: J. Bayer, Bernd Holznagel, Katarzyna Lubianiec, Adela Pintea,
     Josephine B. Schmitt, Judit Szakács, and Erik Uszkiewicz,
-    ‘Disinformation and
+    ‘Disinformation and Propaganda: Impact on the Functioning of the Rule of Law and Democratic Processes in the EU and Its Member States’, European Parliament, 2021,
+    https://www.europarl.europa.eu/RegData/etudes/STUD/2021/653633/EXPO\_STU(2021)653633\_EN.pdf (accessed 28 July 2023).
 
-> Propaganda: Impact on the Functioning of the Rule of Law and
-> Democratic Processes in the EU and Its Member States’, European
-> Parliament, 2021,
-> https://www.europarl.europa.eu/RegData/etudes/STUD/2021/653633/
-> EXPO\_STU(2021)653633\_EN.pdf (accessed 28 July 2023).
+[^12chapter9_4]: ‘Communication from the Commission’.
 
-1.  ‘Communication from the Commission’.
-
-2.  ‘Fake News and Disinformation Online’, European Commission, March
+[^12chapter9_5]: ‘Fake News and Disinformation Online’, European Commission, March
     2018, https://europa.eu/eurobarometer/surveys/detail/2183 (accessed
     28 July 2023).
 
-3.  ‘Communication from the Commission’.
+[^12chapter9_6]: ‘Communication from the Commission’.
 
-4.  Despite the name change of the platform in 2021 to Meta, the name
+[^12chapter9_7]: Despite the name change of the platform in 2021 to Meta, the name
     Facebook is used throughout this chapter.
 
-5.  Nic Newman, Richard Fletcher, Craig T. Robertson, Kirsten Eddy, and
-    Rasmus Kleis Nielsen, *Reuters Institute Digital News Report 2022*
-    (Reuters Institute, University of Oxford, 2022).
+[^12chapter9_8]: Nic Newman, Richard Fletcher, Craig T. Robertson, Kirsten Eddy,
+    and Rasmus Kleis Nielsen, *Reuters Institute Digital News Report
+    2022* (Reuters Institute, University of Oxford, 2022).
 
-6.  Mark Travers, ‘Facebook Spreads Fake News Faster than Any Other
+[^12chapter9_9]: Mark Travers, ‘Facebook Spreads Fake News Faster than Any Other
     Social Website, According to New Research’, *Forbes*, 21 May 2020,
     https://
     www.forbes.com/sites/traversmark/2020/03/21/facebook-spreadsfake-news-faster-than-any-other-social-website-according-to-newresearch/?sh=3deca4b56e1a
     (accessed 24 February 2023).
 
-7.  ‘Communication from the Commission’.
+[^12chapter9_10]: ‘Communication from the Commission’.
 
-8.  ‘Communication from the Commission’.
+[^12chapter9_11]: ‘Communication from the Commission’.
 
-9.  Linda Senden, ‘Soft Law, Self-Regulation and Co-Regulation in
+[^12chapter9_12]: Linda Senden, ‘Soft Law, Self-Regulation and Co-Regulation in
     European Law: Where Do They Meet?’ *Electronic Journal of
     Comparative Law* no. 9 (2005): 1–27, 24.
 
-10. Senden, ‘Soft Law, Self-Regulation and Co-Regulation’, 1, 23.
+[^12chapter9_13]: Senden, ‘Soft Law, Self-Regulation and Co-Regulation’, 1, 23.
 
-11. Iva Plasilova, Jordan Hill, Malin Carlberg, Marion Goubet, and
+[^12chapter9_14]: Iva Plasilova, Jordan Hill, Malin Carlberg, Marion Goubet, and
     Richard Procee*,* *Study for Assessment of the Implementation of the
     Code of Practice on Disinformation Final Report*, SMART 2019/0041,
     2019, https://
@@ -760,40 +752,40 @@ disinformation.
     Studyfortheassessmentofthecodeofpracticeagainstdisinformation.pdf
     (accessed 8 February 2023).
 
-12. Code of Practice on Disinformation, 2018,
+[^12chapter9_15]: Code of Practice on Disinformation, 2018,
     https://ec.europa.eu/newsroom/ dae/redirection/document/87534
     (accessed 18 December 2022).
 
-13. The partnerships concluded with academics reported by Google, Meta,
-    X (now Twitter), Mozilla, and Microsoft consisted of offering the
-    training of fact-checkers, making available of datasets, launching
-    campaigns on transparency, or building the infrastructures to
-    provider researchers with access to non-personally identifiable
+[^12chapter9_16]: The partnerships concluded with academics reported by Google,
+    Meta, X (now Twitter), Mozilla, and Microsoft consisted of offering
+    the training of fact-checkers, making available of datasets,
+    launching campaigns on transparency, or building the infrastructures
+    to provider researchers with access to non-personally identifiable
     data. See ‘Analysis Code of Practice Annual Report’, 11–12,
     https://ec.europa.eu/newsroom/dae/document. cfm?doc\_id=62698
     (accessed 28 July 2023).
 
-14. The principal purpose of the code was to identify the actions that
-    signatories could put in place in order to address the challenges
-    related to ‘disinformation’.
+[^12chapter9_17]: The principal purpose of the code was to identify the actions
+    that signatories could put in place in order to address the
+    challenges related to ‘disinformation’.
 
-15. See ‘Staff Working Document’, SWD (2020)180 final, 2020, European
+[^12chapter9_18]: See ‘Staff Working Document’, SWD (2020)180 final, 2020, European
     Commission, https://ec.europa.eu/newsroom/dae/document.cfm?doc\_
     id=69212 (accessed 16 February 2023).
 
-16. ‘Staff Working Document’. For example, the platform provided data
+[^12chapter9_19]: ‘Staff Working Document’. For example, the platform provided data
     linked to the restriction of misleading advertising, unsupported
     commercial claims, or deceptive business practices which were not
     related to the policies against disinformation.
 
-17. The signatories recognized specific goals which were expressed under
-    the form of commitments and divided into five groups and related to
-    five following areas: (*a*) scrutiny of ad placements, (*b*)
-    political advertising and issue-based advertising, (*c*) integrity
-    of services, (*d*) empowering consumers, and (*e*) empowering the
-    research community.
+[^12chapter9_20]: The signatories recognized specific goals which were expressed
+    under the form of commitments and divided into five groups and
+    related to five following areas: (*a*) scrutiny of ad placements,
+    (*b*) political advertising and issue-based advertising, (*c*)
+    integrity of services, (*d*) empowering consumers, and (*e*)
+    empowering the research community.
 
-18. In the report on September and October 2021 actions, ‘Fighting
+[^12chapter9_21]: In the report on September and October 2021 actions, ‘Fighting
     COVID-19 Disinformation, as Regards Supporting Media Literacy in
     Europe’, Facebook reported the results of the ‘Together Against
     Covid-19 Misinformation’ campaign. See ‘Reports on September and
@@ -810,33 +802,35 @@ disinformation.
     digital-strategy.ec.europa.eu/en/library/fighting-covid-19-disinformationreports-november-and-december-actions
     (accessed 20 February 2023).
 
-19. Trisha Meyer, Alexandre Alaphilippe, and Claire Pershan, ‘The Good,
-    the Bad and the Ugly: How Platforms are Prioritising Some EU Member
-    States in Their COVID-19 Disinformation Responses’, EU DisinfoLab,
-    28 April 2021,
+[^12chapter9_22]: Trisha Meyer, Alexandre Alaphilippe, and Claire Pershan, ‘The
+    Good, the Bad and the Ugly: How Platforms are Prioritising Some EU
+    Member States in Their COVID-19 Disinformation Responses’, EU
+    DisinfoLab, 28 April 2021,
     https://www.disinfo.eu/publications/the-good-the-bad-and-the-uglyhow-platforms-are-prioritising-some-eu-member-states-in-their-covid-19disinformation-responses
     (accessed 15 May 2023).
 
-20. Meyer, Alaphilippe, and Pershan, ‘The Good, the Bad and the Ugly’.
+[^12chapter9_23]: Meyer, Alaphilippe, and Pershan, ‘The Good, the Bad and the
+    Ugly’.
 
-21. Meyer, Alaphilippe, and Pershan, ‘The Good, the Bad and the Ugly’.
+[^12chapter9_24]: Meyer, Alaphilippe, and Pershan, ‘The Good, the Bad and the
+    Ugly’.
 
-22. Plasilova, Hill, Carlberg, Goubet, and Procee, *Study for
+[^12chapter9_25]: Plasilova, Hill, Carlberg, Goubet, and Procee, *Study for
     Assessment*.
 
-23. Plasilova, Hill, Carlberg, Goubet, and Procee, *Study for
+[^12chapter9_26]: Plasilova, Hill, Carlberg, Goubet, and Procee, *Study for
     Assessment*.
 
-24. See, for example, ‘Code of Practice against Disinformation:
+[^12chapter9_27]: See, for example, ‘Code of Practice against Disinformation:
     Commission Takes Note of the Progress Made by Online Platforms and
     Urges Them to Step Up Their Efforts’, European Commission, 20 March
     2019, https://
     ec.europa.eu/commission/presscorner/detail/en/STATEMENT\_19\_1757
     (accessed 17 February 2023).
 
-25. ‘Staff Working Document’.
+[^12chapter9_28]: ‘Staff Working Document’.
 
-26. The new code relates to the following areas: (*a*) scrutiny of ad
+[^12chapter9_29]: The new code relates to the following areas: (*a*) scrutiny of ad
     placements, (*b*) political advertising, (*c*) integrity of
     services, (*d*) empowering users, (*e*) empowering the research
     community, (*f*) empowering the fact-checking community, (*g*)
@@ -846,58 +840,58 @@ disinformation.
     https://ec.europa.u/newsroom/dae/redirection/document/87585
     (accessed 14 February 2023).
 
-27. ‘Commission Presents Guidance to Strengthen the Code of Practice on
-    Disinformation’, 26 May 2021, European Commission,
+[^12chapter9_30]: ‘Commission Presents Guidance to Strengthen the Code of Practice
+    on Disinformation’, 26 May 2021, European Commission,
     https://ec.europa. eu/commission/presscorner/detail/en/ip\_21\_2585
     (accessed 15 December 2024).
 
-28. ‘Guidance on Strengthening the Code of Practice on Disinformation’,
-    European Commission, 26 May 2021,
+[^12chapter9_31]: ‘Guidance on Strengthening the Code of Practice on
+    Disinformation’, European Commission, 26 May 2021,
     https://digital-strategy.ec.europa.eu/
     en/library/guidance-strengthening-code-practice-disinformation
     (accessed 28 July 2023).
 
-29. ‘Signatories of the 2022 Strengthened Code of Practice on
+[^12chapter9_32]: ‘Signatories of the 2022 Strengthened Code of Practice on
     Disinformation’, European Commission, 16 June 2022,
     https://digital-strategy.ec.europa.
     eu/en/library/signatories-2022-strengthened-code-practice-disinformation
     (accessed 28 July 2023).
 
-30. ‘The Digital Services Act: Ensuring a Safe and Accountable Online
+[^12chapter9_33]: ‘The Digital Services Act: Ensuring a Safe and Accountable Online
     Environment’, European Commission, https://commission.europa.eu/
     strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/digitalservices-act-ensuring-safe-and-accountable-online-environment\_en
     (accessed 28 July 2023).
 
-31. ‘VI. Empowering the Research Community’, in *The Strengthened Code
-    of Practice on Disinformation 2022*, 26–30,
+[^12chapter9_34]: ‘VI. Empowering the Research Community’, in *The Strengthened
+    Code of Practice on Disinformation 2022*, 26–30,
     https://ec.europa.eu/newsroom/ dae/redirection/document/87585
     (accessed 14 February 2023).
 
-32. The independent procedure of vetting researchers by a Digital
+[^12chapter9_35]: The independent procedure of vetting researchers by a Digital
     Services Coordinator to allow them access to data by VLOPs is
     provided in Article 40 of the DSA. The access to data awarded within
     the framework of Article 40 of the DSA is of general nature and not
     limited to data on disinformation.
 
-33. ‘Commitment 28’, in *The Strengthened Code of Practice on
+[^12chapter9_36]: ‘Commitment 28’, in *The Strengthened Code of Practice on
     Disinformation 2022*,
     https://ec.europa.eu/newsroom/dae/redirection/document/87585
     (accessed 14 February 2023).
 
-34. ‘Commitment 29’, in *The Strengthened Code of Practice on
+[^12chapter9_37]: ‘Commitment 29’, in *The Strengthened Code of Practice on
     Disinformation 2022*,
     https://ec.europa.eu/newsroom/dae/redirection/document/87585
     (accessed 14 February 2023).
 
-35. ‘Report of the European Digital Media Observatory’s Working Group on
-    Platform-to-Researcher Data Access’, European Digital Media
+[^12chapter9_38]: ‘Report of the European Digital Media Observatory’s Working Group
+    on Platform-to-Researcher Data Access’, European Digital Media
     Observatory, 31
 
-> May 2022, https://edmoprod.wpengine.com/wp-content/uploads/2022/02/
-> Report-of-the-European-Digital-Media-Observatorys-Working-Group-onPlatform-to-Researcher-Data-Access-2022.pdf
-> (accessed 13 February 2023).
+    May 2022, https://edmoprod.wpengine.com/wp-content/uploads/2022/02/
+    Report-of-the-European-Digital-Media-Observatorys-Working-Group-onPlatform-to-Researcher-Data-Access-2022.pdf
+    (accessed 13 February 2023).
 
-1.  To compare, an EU legislator in Article 40 of the DSA foresaw the
+[^12chapter9_39]: To compare, an EU legislator in Article 40 of the DSA foresaw the
     establishment of the Digital Services Coordinator to assess
     compliance of VLOPs with the DSA, to vet researchers, and to
     intermediate as regards the provision of data by VLOPs to
@@ -906,93 +900,89 @@ disinformation.
     Disinformation. However, the scope of the third-party body is shaped
     narrowly and relates only to the disinformation’s issues.
 
-2.  Online platforms and online search engines whose number of average
-    monthly active recipients of the service in the EU is equal to or
-    higher than 45 million. See Article 33 of DSA. In this chapter, I
-    refer only to VLOPs and omit the very large search engines (VLSEs).
-    See ‘\#FindYourVLOP’, https://
-    docs.google.com/spreadsheets/d/1H89uABJZCg0BQlUdpDPE0XBpdtX
-    WPGQbwLW4Ug\_hmNo/edit\#gid=1177757099 (accessed 25 February
+[^12chapter9_40]: Online platforms and online search engines whose number of
+    average monthly active recipients of the service in the EU is equal
+    to or higher than 45 million. See Article 33 of DSA. In this
+    chapter, I refer only to VLOPs and omit the very large search
+    engines (VLSEs). See ‘\#FindYourVLOP’,
+    https://docs.google.com/spreadsheets/d/1H89uABJZCg0BQlUdpDPE0XBpdtX
+    WPGQbwLW4Ug\_hmNo/edit\#gid=1177757099 (accessed 25 February 2023).
 
-> 2023).
-
-1.  Point ‘h’ of the preamble to *The Strengthened Code of Practice on
-    Disinformation 2022*,
+[^12chapter9_41]: Point ‘h’ of the preamble to *The Strengthened Code of Practice
+    on Disinformation 2022*,
     https://ec.europa.eu/newsroom/dae/redirection/document/87585
     (accessed 14 February 2023).
 
-2.  Point ‘h’ of the preamble to *The Strengthened Code of Practice on
-    Disinformation 2022*.
+[^12chapter9_42]: Point ‘h’ of the preamble to *The Strengthened Code of Practice
+    on Disinformation 2022*.
 
-3.  See, for example, ‘ERGA Report on Disinformation: Assessment of the
-    Implementation of the Code of Practice’, European Regulators Group
-    for Audiovisual Media Services, 2020,
+[^12chapter9_43]: See, for example, ‘ERGA Report on Disinformation: Assessment of
+    the Implementation of the Code of Practice’, European Regulators
+    Group for Audiovisual Media Services, 2020,
     https://erga-online.eu/wp-content/
     uploads/2020/05/ERGA-2019-report-published-2020-LQ.pdf (accessed 13
     February 2023).
 
-4.  Article 37(1) of the DSA.
+[^12chapter9_44]: Article 37(1) of the DSA.
 
-5.  Six months after the code’s signature which took place on the 16
+[^12chapter9_45]: Six months after the code’s signature which took place on the 16
     June 2022.
 
-6.  ‘Commitment 40’, in *The Strengthened Code of Practice on
+[^12chapter9_46]: ‘Commitment 40’, in *The Strengthened Code of Practice on
     Disinformation 2022*,
     https://ec.europa.eu/newsroom/dae/redirection/document/87585
     (accessed 14 February 2023).
 
-7.  See ‘The Digital Services Act’.
+[^12chapter9_47]: See ‘The Digital Services Act’.
 
-8.  ‘Commitment 41’, in *The Strengthened Code of Practice on
+[^12chapter9_48]: ‘Commitment 41’, in *The Strengthened Code of Practice on
     Disinformation 2022*,
     https://ec.europa.eu/newsroom/dae/redirection/document/87585
     (accessed 14 February 2023).
 
-9.  ‘Measures 37.2’, in *The Strengthened Code of Practice on
+[^12chapter9_49]: ‘Measures 37.2’, in *The Strengthened Code of Practice on
     Disinformation 2022*,
     https://ec.europa.eu/newsroom/dae/redirection/document/87585
     (accessed 14 February 2023).
 
-10. ‘Commitment 43’, in *The Strengthened Code of Practice on
+[^12chapter9_50]: ‘Commitment 43’, in *The Strengthened Code of Practice on
     Disinformation 2022*,
     https://ec.europa.eu/newsroom/dae/redirection/document/87585
     (accessed 14 February 2023).
 
-11. Transparency Centre, https://disinfocode.eu (accessed 14 February
+[^12chapter9_51]: Transparency Centre, https://disinfocode.eu (accessed 14 February
     2023).
 
-12. ‘Signatories of the Code of Practice on Disinformation Deliver Their
-    First Baseline Reports in the Transparency Centre’, European
+[^12chapter9_52]: ‘Signatories of the Code of Practice on Disinformation Deliver
+    Their First Baseline Reports in the Transparency Centre’, European
     Commission, 9 February 2023,
     https://digital-strategy.ec.europa.eu/en/news/signatoriescode-practice-disinformation-deliver-their-first-baseline-reportstransparency-centre
     (accessed 14 February 2023).
 
-13. ‘Community Standards Enforcement Report’, Meta,
+[^12chapter9_53]: ‘Community Standards Enforcement Report’, Meta,
     https://transparency. fb.com/data/community-standards-enforcement
     (accessed 16 February 2023).
 
-14. ‘Widely Viewed Content Report’, Meta,
+[^12chapter9_54]: ‘Widely Viewed Content Report’, Meta,
     https://transparency.fb.com/pl-pl/ data/widely-viewed-content-report
     (accessed 16 February 2023).
 
-15. ‘Meta’s Adversarial Threat Report’, Meta, November 2022,
-    https://about.
+[^12chapter9_55]: ‘Meta’s Adversarial Threat Report’, Meta, November 2022,
+    https://about.fb.com/news/2022/11/metas-adversarial-threat-report-q3-2022
+    (accessed 16 February 2023).
 
-> fb.com/news/2022/11/metas-adversarial-threat-report-q3-2022 (accessed
-> 16 February 2023).
-
-1.  ‘Code of Practice on Disinformation: Meta Baseline Report’, Meta,
+[^12chapter9_56]: ‘Code of Practice on Disinformation: Meta Baseline Report’, Meta,
     January 2023, https://disinfocode.eu/reports-archive/?years=2023
     (accessed 16 February 2023).
 
-2.  ‘Measure 26.2’, in *The Strengthened Code of Practice on
+[^12chapter9_57]: ‘Measure 26.2’, in *The Strengthened Code of Practice on
     Disinformation 2022*,
     https://ec.europa.eu/newsroom/dae/redirection/document/87585
     (accessed 14 February 2023).
 
-3.  ‘Code of Practice on Disinformation: Meta Baseline Report’.
+[^12chapter9_58]: ‘Code of Practice on Disinformation: Meta Baseline Report’.
 
-4.  Seth Smaley, ‘Meta Won’t Comment on Its Plans to Abandon
+[^12chapter9_59]: Seth Smaley, ‘Meta Won’t Comment on Its Plans to Abandon
     CrowdTangle’, Poynter, 18 August 2022,
     https://www.poynter.org/reporting-editing/2022/
     meta-wont-comment-on-its-plans-to-abandon-crowdtangle (accessed 14
@@ -1002,62 +992,63 @@ disinformation.
     siecledigital.fr/2022/06/29/meta-va-eteindre-crowdtangle-son-outil-demesure-des-interactions
     (accessed 14 February 2023).
 
-5.  Gemma B. Mendoza, ‘Why Possible Loss of CrowdTangle Worries
+[^12chapter9_60]: Gemma B. Mendoza, ‘Why Possible Loss of CrowdTangle Worries
     FactCheckers and Disinformation Researchers’, Rappler, 11 July 2020,
     https://
     www.rappler.com/technology/social-media/disinformation-crowdtangledata-access
     (accessed 16 February 2023).
 
-6.  John Albert, ‘Facebook’s Gutting of CrowdTangle: A Step Backward for
-    Platform Transparency’, AlgorithmWatch, 3 August 2022, https://
+[^12chapter9_61]: John Albert, ‘Facebook’s Gutting of CrowdTangle: A Step Backward
+    for Platform Transparency’, AlgorithmWatch, 3 August 2022, https://
     algorithmwatch.org/en/crowdtangle-platform-transparency (accessed 15
     February 2023).
 
-7.  Christina Fan, ‘CrowdTangle for Academics and Researchers’,
+[^12chapter9_62]: Christina Fan, ‘CrowdTangle for Academics and Researchers’,
     CrowdTangle, 2023,
     https://help.crowdtangle.com/en/articles/4302208-crowdtangle-foracademics-and-researchers
     (accessed 15 February 2023).
 
-8.  The exact phrasing of Facebook’s response was as follows: ‘Thank you
-    for submitting an application for CrowdTangle access. Please note
-    that we are prioritizing specific research topics as noted in the
-    application form, and may not be able to onboard you if your
+[^12chapter9_63]: The exact phrasing of Facebook’s response was as follows: ‘Thank
+    you for submitting an application for CrowdTangle access. Please
+    note that we are prioritizing specific research topics as noted in
+    the application form, and may not be able to onboard you if your
     research falls outside that scope. If we are able to onboard you, we
     will be in touch soon. Thanks, the CrowdTangleTeam.’
 
-9.  ‘Meta Pauses New Users from Joining Analytics Tool CrowdTangle’,
+[^12chapter9_64]: ‘Meta Pauses New Users from Joining Analytics Tool CrowdTangle’,
     Reuters, 29 January 2022,
     https://www.reuters.com/technology/meta-pauses-newusers-joining-analytics-tool-crowdtangle-2022-01-29
     (accessed 17 May 2023).
 
-10. John Albert, ‘Platforms’ Promises to Researchers: First Reports
+[^12chapter9_65]: John Albert, ‘Platforms’ Promises to Researchers: First Reports
     Missing the Baseline’, AlgorithmWatch, 16 February 2023,
     https://algorithmwatch.org/ en/platforms-promises-to-researchers
     (accessed 27 February 2023).
 
-11. ‘Code of Practice on Disinformation: Meta Baseline Report’.
+[^12chapter9_66]: ‘Code of Practice on Disinformation: Meta Baseline Report’.
 
-12. ‘Code of Practice on Disinformation: Meta Baseline Report’.
+[^12chapter9_67]: ‘Code of Practice on Disinformation: Meta Baseline Report’.
 
-13. ‘Code of Practice on Disinformation: New Transparency Centre
+[^12chapter9_68]: ‘Code of Practice on Disinformation: New Transparency Centre
     Provides Insights and Data on Online Disinformation for the First
     Time’, European Commission, 9 February 2023,
     https://digital-strategy.ec.europa.eu/en/
     news/code-practice-disinformation-new-transparency-centre-providesinsights-and-data-online
     (accessed 14 February 2023).
 
-14. Facebook did not provide data on the number of monthly users, number
-    of received applications, number of applications rejected, and so
-    on. ‘Code of Practice on Disinformation: Meta Baseline Report’.
+[^12chapter9_69]: Facebook did not provide data on the number of monthly users,
+    number of received applications, number of applications rejected,
+    and so on. ‘Code of Practice on Disinformation: Meta Baseline
+    Report’.
 
-15. ‘Measure 26.1’, in *The Strengthened Code of Practice on
+[^12chapter9_70]: ‘Measure 26.1’, in *The Strengthened Code of Practice on
     Disinformation 2022*,
     https://ec.europa.eu/newsroom/dae/redirection/document/87585
     (accessed 14 February 2023).
 
-16. ‘Code of Practice on Disinformation: Meta Baseline Report’.
+[^12chapter9_71]: ‘Code of Practice on Disinformation: Meta Baseline Report’.
 
-17. As regards measure 18.2 of the 2022 code, which concerns the
+[^12chapter9_72]: As regards measure 18.2 of the 2022 code, which concerns the
     development and enforcement of publicly documented, proportionate
     policies to limit the spread of harmful, false, or misleading
     information. Facebook provided information on contents removed for
@@ -1065,9 +1056,9 @@ disinformation.
     interference policies as per each member state and then as per EU as
     a whole. ‘Code of Practice on Disinformation: Meta Baseline Report’.
 
-18. Article 37(6) of the DSA.
+[^12chapter9_73]: Article 37(6) of the DSA.
 
-19. ‘Left Behind: How Facebook is Neglecting Europe’s Infodemic’, Avaaz,
-    20 April 2021,
+[^12chapter9_74]: ‘Left Behind: How Facebook is Neglecting Europe’s Infodemic’,
+    Avaaz, 20 April 2021,
     https://secure.avaaz.org/campaign/en/facebook\_neglect\_
     europe\_infodemic (accessed 19 May 2023).
