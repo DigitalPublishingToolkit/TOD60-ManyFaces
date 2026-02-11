@@ -284,14 +284,7 @@ accordingly (unless of course they are instructed); nor are data
 controllers like Uber expressly obligated to deliver data in its most
 disaggregated form. However, we might argue that supplying data in a
 disaggregated format is a straightforward and uncontroversial
-requirement of interoperability and portability that should require
-
-12/1/22 12/1/22
-
-**Figure 9.1** Schema, field, and data levels of data structure
-*Source*: Prepared by the authors.
-
-little marginal effort.[^10chapter7_23] One could even go as far as attributing
+requirement of interoperability and portability that should require little marginal effort.[^10chapter7_23] One could even go as far as attributing
 some obfuscating data structures provided by Uber as good-faith yet
 misguided attempts to provide drivers with the metrics they may more
 easily interpret. Intended or not, inconsistencies in data structure had
@@ -303,6 +296,11 @@ counter-architectures should put off structure as long as possible to
 facilitate the maximum possible number of further aggregations. With
 that in mind, we briefly unpack some of the schema-, field-, and
 cell-level obfuscation which held back our analysis.
+
+![caption text goes here](imgs/figure1.svg)
+
+**Figure 9.1** Schema, field, and data levels of data structure
+*Source*: Prepared by the authors.
 
 ### The Schema Level
 
@@ -570,6 +568,8 @@ data infrastructures only accommodate rigid definitions for metrics to
 be repeatedly applied, and as a result they are highly sensitive to even
 small changes in underlying data.
 
+![caption text goes here](imgs/figure2.svg)
+
 Furthermore, encoding rigid definitions (like Uber’s and WIE’s competing
 definitions of pay-per-hour) into the structures inherently narrows the
 interpretation of the data. DigiPower academy provides an example of
@@ -756,8 +756,7 @@ necessarily gaze towards a ground truth captured in data, but instead
 critique the behaviours and intentions couched in the structural
 artefacts left by prior manipulations
 
-> ![](media/image1.png){width="2.6068853893263344in"
-> height="4.899384295713036in"}
+![caption text goes here](imgs/figure3.svg)
 
 **Figure 9.3** Illustration of parallax
 
