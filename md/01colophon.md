@@ -33,7 +33,7 @@ Design and EPUB development: Klaudia Orczykowska <br/>
 
 Published by the Institute of Network Cultures, Amsterdam, 2025 <br/>
 
-ISBN: 97890835209  
+ISBN: 9789083672113  
   
 **Contact**  <br />
 Institute of Network Cultures Amsterdam University of Applied Sciences (HvA) <br/> 

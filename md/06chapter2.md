@@ -16,8 +16,7 @@ Keywords:   50 keywords for search and indexing
 Rights: CC BY-NC 4.0
 ...
 
-
-# Re-Conceptualizing Governance Policies on Data Access for Research 
+# 2. Re-Conceptualizing Governance Policies on Data Access for Research 
 
 ### Carolina Aguerre
 
@@ -550,48 +549,32 @@ and the underlying orders. The increasing overlap of sites of power and
 authority in these two domains configures a cross-policy polycentric
 governance sector of digital data access.
 
+Re-Conceptualizing Governance Policies on Data Access for Research
+
 **Table 2.1** OS and AI strategies: summary
 
-**Sites of power Systemic ordering forces**
+|                                                  	| **Sites of power and authority** 	|     **Systemic ordering force**    	|                                                                   	|                                          	|
+|:------------------------------------------------:	|:--------------------------------:	|:----------------------------------:	|:-----------------------------------------------------------------:	|:----------------------------------------:	|
+|                                                  	|                                  	|              **Norms**             	|                           **Practices**                           	|           **Underlying orders**          	|
+|                 **Open science**                 	|                EU                	|           FAIR principles          	|                  Support of open access journals                  	|                Innovation                	|
+|                                                  	|              States              	|        Intellectual property       	|               Creation of open indexed repositories               	|           Commercial interests           	|
+|                                                  	|              UNESCO              	|               Privacy              	| Generation of data repositories rather than finished publications 	| Altruistic motives: ‘advancing humanity’ 	|
+|                                                  	|           Universities           	|         Open data mandates         	|                       Training and education                      	|  Data science as new knowledge paradigm  	|
+|                                                  	|  National research institutions  	|         Safety and security        	|                                                                   	|                                          	|
+|                                                  	|         Publishing firms         	|                                    	|                                                                   	|                                          	|
+|                                                  	|          Tech companies          	|                                    	|                                                                   	|                                          	|
+| **AI strategies and plans (national, regional)** 	|      Regional organizations      	|      National competitiveness      	|                       Training and education                      	|            Techno-solutionism            	|
+|                                                  	|              States              	|            Market growth           	|                             Use cases                             	|              Utilitarianism              	|
+|                                                  	|              UNESCO              	|               Ethics               	|                      International benchmarks                     	|                Geopolitics               	|
+|                                                  	|               OECD               	|            Human rights            	|                        Data infrastructures                       	|                Innovation                	|
+|                                                  	|         Tech/AI companies        	| Responsibility and trustworthiness 	|                    Coordination and governance                    	|                                          	|
+|                                                  	|           Universities           	|           Data protection          	|                                                                   	|                                          	|
+|                                                  	|         Research agencies        	|             Regulation             	|                                                                   	|                                          	|
+|                                                  	|           Civil society          	|                                    	|                                                                   	|                                          	|
 
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  > **Open **                                          **and authority **                         **Norms**               **Practices**                                                           **Underlying orders**
-  >                                                                                                                                                                                               
-  > **science**                                                                                                                                                                                   
-  ---------------------------------------------------- ------------------------------------------ ----------------------- ----------------------------------------------------------------------- --------------------------------------------------------------------------------------------------------
-                                                       -   EU •                                   FAIR principles •       > Support of • open access •                                            > Innovation
-                                                                                                                          >                                                                       >
-                                                       -   States •                               Intellectual property   > journals                                                              > Commercial interests Altruistic motives: ‘advancing humanity’ Data science as new knowledge paradigm
-                                                                                                                          >                                                                       
-                                                       -   UNESCO                                 Privacy •               > Creation of • open indexed repositories Generation                    
-                                                                                                                                                                                                  
-                                                       -   Universities ^•\ ^                     Open data               of data •                                                               
-                                                                                                                                                                                                  
-                                                       -   National ^•^ research institutions •   mandates                repositories rather than finished publications Training and education   
-                                                                                                                                                                                                  
-                                                       -   Publishing firms                       • Safety and security                                                                           
-                                                                                                                                                                                                  
-                                                       -   Tech companies                         •                                                                                               
-                                                                                                                                                                                                  
 
-  > **AI strategies and plans (national, regional)**   -   Regional • organizations               National •              Training and • education                                                Technosolutionism
-                                                                                                                                                                                                  
-                                                       -   States • • UNESCO •                    competitiveness         Use cases •                                                             > Utilitarianism
-                                                                                                                                                                                                  >
-                                                       -   OECD •                                 Market growth •         > International • benchmarks •                                          > Geopolitics
-                                                                                                                          >                                                                       >
-                                                       -   Tech/AI • companies                    Ethics •                > Data infrastructures Coordination and governance                      > Innovation
-                                                                                                                                                                                                  
-                                                       -   Universities                           Human rights                                                                                    
-                                                                                                                                                                                                  
-                                                       -   Research ^•^ agencies •                Responsibility • and                                                                            
-                                                                                                                                                                                                  
-                                                       -   Civil society                          trustworthiness •                                                                               
-                                                                                                                                                                                                  
-                                                                                                  Data protection                                                                                 
-                                                                                                                                                                                                  
-                                                                                                  Regulation                                                                                      
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 
 *Source*: Collated by the author.
 
@@ -827,7 +810,7 @@ and underlying orders about contemporary notions around digital data and
 knowledge.
 
 Future work could engage more thoroughly on issues concerning ‘data
-access’ for research from a justice and sustainability lens. The
+access’ for research from a justice, sovereignty and sustainability lens. The
 problems concerning access are relevant as they not only encompass a
 range of dimensions, including data infrastructures, some of which
 already have polycentric attributions, and their availability, but also
@@ -839,7 +822,7 @@ introduction to this volume by Jef Ausloos and Siddharth Peter de Souza
 has highlighted.[^05chapter2_86] Further studies could also address the different
 disciplinary stakes on the issue of access to data for research,
 including a global majority perspective that situates practices of
-science and innovation policies.
+science and innovation policies and their implications for sovereign governance capacities.
 
 ## Appendix 2A
 
@@ -892,9 +875,7 @@ Secretariat for open data, Argentina (in person), March 2023.
     https://doi.org/10.1080/13691 18X.2019.1573914; S. Zuboff, *The Age
     of Surveillance Capitalism: The Fight for a Human Future at the New
     Frontier of Power* (PublicAffairs, 2019); E. Ruppert, E. Isin, and
-    D. Bigo, ‘Data Politics’, *Big Data and Society* 4 (2017),
-
-    DOI: https://doi.org/10.1177/2053951717717749; Danah Boyd and K.
+    D. Bigo, ‘Data Politics’, *Big Data and Society* 4 (2017), DOI: https://doi.org/10.1177/2053951717717749; Danah Boyd and K.
     Crawford, ‘Critical Questions for Big Data: Provocations for a
     Cultural, Technological, and Scholarly Phenomenon’, *Information,
     Communication and Society* 15, no. 662 (2012): 662–679.

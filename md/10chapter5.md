@@ -16,10 +16,7 @@ Keywords:   50 keywords for search and indexing
 Rights: CC BY-NC 4.0
 ...
 
-
-# Keys Thrown Away?
-
-## Challenges in Brazil on Accessing Public-Interest Data on State Surveillance Tools via Transparency Portals and Requests for Information[^08chapter5_1]
+# 5. Keys Thrown Away? Challenges in Brazil on Accessing Public-Interest Data on State Surveillance Tools via Transparency Portals and Requests for Information[^08chapter5_1]
 
 ### André Ramiro, Pedro Amaral, and Marcos César M. Pereira
 
@@ -203,7 +200,7 @@ given were based on legal hypotheses of secrecy of public information or
 even the allegation of non-existence of such contracts and/or
 technologies.
 
-## Institutional Reach of Hacking Tools and Involvement with Corruption Cases
+### Institutional Reach of Hacking Tools and Involvement with Corruption Cases
 
 The capillarity of tools illustrated in the contracts we found even
 points to the existence of data extraction tools in agencies that,
@@ -244,7 +241,7 @@ solutions’.[^08chapter5_29] In a 2015 army report, contracting with Verint for
 acquisition of electronic warfare support measures (MAGE) was already
 mentioned.
 
-## Brief (Lack of) Legal Framework and the Legitimization of a Grey Market 
+### Brief (Lack of) Legal Framework and the Legitimization of a Grey Market 
 
 As the objective of this chapter is not to exhaustively analyse each of
 these law’s frameworks, the general conclusion is that none of the
@@ -538,7 +535,7 @@ endanger national security? Would the simple appointment of a
 to be classified, or further and more qualified justification would be
 necessary?
 
-### From Theory to Reality: Three Dimensions of Limits toTransparency Effectiveness
+### From Theory to Reality: Three Dimensions of Limits to Transparency Effectiveness
 
 Although we can argue, on the one hand, that this legal framework
 establishes an ideally proportional and legitimate general rule, on the
@@ -812,7 +809,7 @@ and transparency can also be further explored through the lens of
 experiences in other countries, including investigative journalists,
 non-governmental organizations (NGOs) or civil society, and researchers.
 
-# Notes
+## Notes
 
 [^08chapter5_1]: The authors would like to express their sincere gratitude to
     Mariana Canto for her valuable and insightful contribution during

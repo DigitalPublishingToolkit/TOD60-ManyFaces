@@ -17,7 +17,7 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# Digging into EU Data Laws and Their Impact on African Researchers[^09chapter6_1]
+# 6. Digging into EU Data Laws and Their Impact on African Researchers[^09chapter6_1]
 
 ### Paul Esselaar
 
@@ -25,7 +25,7 @@ There is a well-known saying that when the United States (US) sneezes,
 the rest of the world catches a cold. While this used to be true for
 Africa, the European Union (EU) has become the single most important
 market for African goods, with Africa exporting 33 per cent of its goods
-to the EU and importing 31 per cent of its goods from the continent.[^09chapter6_2]
+to the EU and importing 31 per cent of its goods from the EU.[^09chapter6_2]
 In addition, the EU is the largest source of foreign direct investment
 in South Africa,[^09chapter6_3] and legislative changes to the EU have an
 inevitable and significant impact on African countries. This has been
@@ -50,12 +50,10 @@ The Brussels effect has influenced not only the laws the African
 countries but also their regulators, and even court decisions have
 followed the approach of the Court of Justice of the EU.[^09chapter6_7] Regional
 organizations such as the Economic Community of West African States
-(WAEMU) and the Common Market for Easter and Southern Africa (COMESA)
+(WAEMU) and the Common Market for Eastern and Southern Africa (COMESA)
 have also been modelled on the EU, to such an extent that the Court of
 Justice for WAEMU ruled that the Treaty of Dakar (which established
-WAEMU) should be interpreted with reference to the Treaty of Rome (which
-founded the European Community and the jurisprudence of the Court of
-Justice of the EU).[^09chapter6_8]
+WAEMU) should be interpreted with reference to the Treaty of Rome (which founded the European Community and the jurisprudence of the Court of Justice of the EU).[^09chapter6_8]
 
 The Brussels effect refers not only to the *de jure* influence of
 Europe, but also a *de facto* influence. An example of this effect is
@@ -209,7 +207,7 @@ which is surprising, considering how entrenched the concept of personal
 data was thought to be. One particular development occurred on 26 April
 2023 in the case of *Single Resolution Board v. European Data Protection
 Supervisor* in the General Court (Eighth Chamber, Extended
-Composition)[^09chapter6_34] Pwhere the court was required to provide guidance on
+Composition)[^09chapter6_34] where the court was required to provide guidance on
 whether pseudonymized data was ‘data’ or ‘personal data’. Up until this
 case, it was considered to be settled law that ‘pseudonymized data’ was
 always ‘personal data’.[^09chapter6_35]
@@ -414,7 +412,7 @@ only the integrity of the African researcher that is of concern but also
 the likelihood of state or political interference that must be
 considered before deciding to share data with an African researcher.
 
-##Administrative Burden
+### Administrative Burden
 
 Starting with the DA, the administrative burden on African researchers
 to get access to data is similar to obtaining a Schengen visa for data.
@@ -450,7 +448,7 @@ to Meta’s data about election interference in the EU in terms of the
 DSA, but an African researcher has no similar law to ask Meta for data
 about election interference in Tanzania.
 
-##Agreement Template for Data
+### Agreement Template for Data
 
 One of the key aspects of the GDPR was the guideline on when to share
 personal data and how to manage the sharing if you, as the data
@@ -472,7 +470,7 @@ model contractual terms now has a deadline of 12 September 2025.[^09chapter6_59]
 similar argument can be made for data made available in terms of the
 other EU Data Laws.
 
-## Lack of Hegemony in African Legal Systems
+### Lack of Hegemony in African Legal Systems
 
 As the initial version of the proposed DA’s explanatory memorandum
 notes,[^09chapter6_60] regulating data at an EU member level is simply not
@@ -507,7 +505,7 @@ data regulation perspective as most African countries simply do not have
 laws that deal with data holistically, let alone tools which facilitate
 multinational comparisons in data regulation.
 
-## Omission of Researcher Rights to Access Data 
+### Omission of Researcher Rights to Access Data 
 
 Unlike the Digital Services Act, the Digital Markets Act simply omits
 any reference to research or researchers completely, which in turn means
@@ -536,7 +534,7 @@ considerable product data from its Ghanian users which is repatriated to
 France. Once the product data is in France, it is unclear if Ghanian
 researchers would be able to get access to this product data.
 
-## Unfair Access by EU Authorities to Data Produced Outside of the EU
+### Unfair Access by EU Authorities to Data Produced Outside of the EU
 
 While the DA does require data holders to provide information to EU
 public sector bodies, it is not clear that the data must emanate from
@@ -551,7 +549,7 @@ is the fact that this product data may have no personal data component,
 which could result in the EU authorities having better data on
 situations in the African countries than the African country itself.
 
-# The African Union Data Policy Framework
+### The African Union Data Policy Framework
 
 Up to this point, the focus has been on the digital strategy that the EU
 has adopted and how it has put this into practice. As pointed out
@@ -673,7 +671,7 @@ played by the regulatory bodies tasked with enforcing them. How
 precisely should African countries implement similar data laws if they
 will never have the funds to enforce them?
 
-# Cutting through the Red Tape: Enabling African Researcher Access
+## Cutting through the Red Tape: Enabling African Researcher Access
 
 Up to this point, this chapter has focused on the – possibly unintended
 – barriers to data access for African researchers. The following section
@@ -683,7 +681,7 @@ has introduced a kind of legislative neo-colonialism, Europe has a moral
 duty to expand its impact analysis of the EU data laws on the effect of
 these laws outside EU borders.
 
-# Standard Contractual Clauses for Transfers of Data
+### Standard Contractual Clauses for Transfers of Data
 
 Despite there being considerable notice of the transition from Directive
 95/46/ EC[^09chapter6_94] to the GDPR in 2018, the standard contractual clauses for
@@ -702,7 +700,7 @@ clauses for the transfer of product data would be made available by the
 EU in a much shorter time frame, in order to provide some assistance to
 African researchers wishing to access data.
 
-## Code of Conduct for Researchers
+### Code of Conduct for Researchers
 
 One way to ease the burden on African researchers would be for the EU to
 provide a guideline that researchers, governed by an approved code of
@@ -726,7 +724,7 @@ purposes of research. As with the standard contractual clauses mentioned
 earlier, this may well be the time to start considering a holistic code
 of conduct that deals with all data types.
 
-## AU Conventions Dealing with Data 
+### AU Conventions Dealing with Data 
 
 The AUDPF is a very useful and necessary step in the development of
 African policy on data, but it does come several years after the same
@@ -750,7 +748,7 @@ regulators to get valuable insight into how to regulate the sector. In
 2018, approximately 20 countries were actively exploring the concept of
 regulatory sandboxes.[^09chapter6_105]
 
-## Evaluation of Impact of Data Laws on African Countries
+### Evaluation of Impact of Data Laws on African Countries
 
 Bearing in mind the novelty of the data laws, the EU wisely commissioned
 impact assessments and conducted participant studies and questionnaires
@@ -833,7 +831,7 @@ sophistication in existing African laws. To amend a well-known adage,
 give a researcher the answer and you solve the problem of the day, but
 give her access to data and you help her solve problems for a lifetime.
 
-# Notes
+## Notes
 
 [^09chapter6_1]: This work was supported by the United States’s National Institute
     of Mental Health and the National Institutes of Health (award number
@@ -940,12 +938,7 @@ give her access to data and you help her solve problems for a lifetime.
     September 2023, https://perma.cc/KR8U-JQ8D (accessed 22 October
     2023).
 
-[^09chapter6_23]: On 6 September 2023, the European Commission determined that six
-    companies – Alphabet, Amazon, Apple, ByteDance, Meta, and Microsoft
-    – were gatekeepers in terms of the DMA. ‘Digital Markets Act:
-    Commission Designates Six Gatekeepers’, European Commission, 6
-    September 2023, https://perma.cc/KR8U-JQ8D (accessed 22 October
-    2023).
+[^09chapter6_23]: ‘European Parliament Legislative Resolution of 13 March 2024 on the Proposal for a Regulation of the European Parliament and of the Council on Laying Down Harmonized Rules on Artificial Intelligence (Artificial Intelligence Act) and Amending Certain Union Legislative Acts (COM (2021) 0206 – C9-0146/2021 – 2021/0106 (COD))’, https://www.europarl.europa.eu/ doceo/document/TA-9-2024-0138-FNL-COR01_EN.pdf (accessed 8 April 2024).
 
 [^09chapter6_24]: AIA, Article 6.
 
@@ -978,14 +971,14 @@ give her access to data and you help her solve problems for a lifetime.
     apposite.
 
 [^09chapter6_34]: Case T-557/20 *Single Resolution Board v. European Data
-    Protection Supervisor* \[2023\] ECLI:EU:2023”219,
+    Protection Supervisor* \[2023\] ECLI:EU:2023:219,
     https://eur-lex.europa.eu/legal-content/EN/
     TXT/?uri=CELEX%3A62020TJ0557 (accessed 15 December 2024).
 
 [^09chapter6_35]: See, for example, the statement by Thomas Zerdick, head of
     technology and privacy at the EDPS: ‘Unlike anonymised data,
     pseudonymised data qualifies as personal data under the General Data
-    Protection Regulation (GDPR)’. Thomas Zerdick, ‘Pseudonoymous Data:
+    Protection Regulation (GDPR)’. Thomas Zerdick, ‘Pseudonymous Data:
     Processing Personal Data while Mitigating Risks’, European Data
     Protection Supervisor, 21 December 2021,
     https://edps.europa.eu/press-publications/press-news/blog/pseudonymousdata-processing-personal-data-while-mitigating\_en
@@ -1117,10 +1110,10 @@ give her access to data and you help her solve problems for a lifetime.
     https://www.tralac.org/publications/article/14641trade-in-the-digital-economy-a-tralac-collection.html
     (accessed 15 December 2024).
 
-[^09chapter6_65]: Also known as the Malombo Convention. Only 13 countries have
+[^09chapter6_65]: Also known as the Malabo Convention. Only 13 countries have
     ratified the convention as of 28 February 2023. See
     https://au.int/sites/default/
-    files/treaties/29560-treaty-0048\_-\_african\_union\_convention\_on\_cyber\_
+    files/treaties/29560-treaty-0048\_\_african\_union\_convention\_on\_cyber\_
     security\_and\_personal\_data\_protection\_e.pdf (accessed 15
     December 2024).
 
@@ -1178,13 +1171,12 @@ give her access to data and you help her solve problems for a lifetime.
 
 [^09chapter6_86]: ‘AU Data Policy Framework’, 34.
 
-[^09chapter6_87]: ‘AU Data Policy Framework’, 35. In *Discovery Limited and Others
-    v. Liberty Group Limited*, a solution to the multitude of interests
+[^09chapter6_87]: ‘AU Data Policy Framework’, 35. In *Discovery Limited and Others v. Liberty Group Limited*, a solution to the multitude of interests
     in data was defined, upholding both data protection and competition.
     In essence, the court held that in such disputes, if the data is
     personal in nature, it is ‘owned’ by the data subject, and
     competitors may not exclude others from accessing this information.
-    ZAGPJHC 67, \[2000\], https://www.saflii.org/za/cases/
+    ZAGPJHC 67, \[2020\], https://www.saflii.org/za/cases/
     ZAGPJHC/2020/67.html (accessed 30 July 2023).
 
 [^09chapter6_88]: ‘AU Data Policy Framework’, 39.
@@ -1241,7 +1233,7 @@ give her access to data and you help her solve problems for a lifetime.
     Thaldar, ‘Despite Good Progress with Regard to the Proposed Code of
     Conduct for Research in South Africa, Unresolved Issues Remain’,
     *Humanities and Social Sciences Communications* (2024), DOI:
-    https://doi. org/10.1057/s41599-024-02715-0.
+    https://doi.org/10.1057/s41599-024-02715-0.
 
 [^09chapter6_98]: See, for example, clause 4.2.2.3 of the Code of Conduct, which
     states that researchers must ‘ensure that the Personal Information

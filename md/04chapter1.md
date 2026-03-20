@@ -17,7 +17,7 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# Data Access for research: Imaginations, limitations and promises
+#1. Data Access for research: Imaginations, limitations and promises
 
 ### Jef Ausloos and Siddharth Peter de Souza
 
@@ -689,7 +689,7 @@ rights.
 Chapter 5 looks at transparency and data access in the context of
 accountability of public authorities, specifically law enforcement and
 intelligence agencies. André Ramiro, Pedro Amaral, and Marcos César M.
-Pereira in chapter 6, ‘Keys Thrown Away?’, reflect on their own
+Pereira in chapter 5, ‘Keys Thrown Away?’, reflect on their own
 experience of conducting an empirical research project involving the
 strategic use of freedom of information laws in Brazil. This
 self-reflective study exposes important limitations to research into
@@ -709,7 +709,7 @@ researchers, Esselaar reveals a darker side of the EU’s extraterritorial
 reach and the potentially perverse effects of these rules on data and
 research originating in the African continent.
 
-## Promises
+### Promises
 
 In the last part of the volume, we are interested in unpacking various
 promises that emerge because of providing data access for research. The
@@ -768,7 +768,7 @@ collaborative communities for research. This part therefore provides
 pathways with which the goals and values associated with data access can
 be realized.
 
-\*\*\*
+<p style="text-align: center;">***</p>
 
 Finally, we hope this volume may provoke and incite readers to consider
 the many dimensions of researcher data access. Recent policy discussions

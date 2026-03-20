@@ -17,15 +17,14 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# Data Intermediaries for Good 
-## Can Data Intermediation Services Help Data Access in Research?
+# 8. Data Intermediaries for Good: Can Data Intermediation Services Help Data Access in Research?
 
 ### Matteo Nebbiai
 
 Data is a crucial competitiveness factor for an increasing number of
 organizations in the global economy. At the same time, asymmetries in
 data availability are generating debates on the effect of digital
-markets on the functioning of markets,[^11chapter8_1] competition policy,[^11chapter8_2] and
+technologies on the functioning of markets,[^11chapter8_1] competition policy,[^11chapter8_2] and
 capitalism.[^11chapter8_3] This asymmetry is also reflected by the limited benefits
 that the academic community obtained from the ‘big data flood’. Various
 scholars have highlighted how online platforms such as Facebook and X
@@ -48,12 +47,12 @@ or search engines.[^11chapter8_9]
 
 In addition to this top-down approach, EU legislators increasingly see
 ‘data intermediaries’ as potential facilitators for consumer-to-business
-and businessto-business data transactions.[^11chapter8_10] While a shared
+and business-to-business data transactions.[^11chapter8_10] While a shared
 definition remains debated, ‘data intermediaries’ can be described as
 actors positioned between data holders and data users that facilitate
 data sharing.[^11chapter8_11] It has been suggested that the focus on
 intermediaries is attractive because it ‘lies between the two extremes
-of selfregulation and detailed binding statutory obligations’.[^11chapter8_12]
+of self-regulation and detailed binding statutory obligations’.[^11chapter8_12]
 
 The Data Governance Act (DGA), adopted on 30 May 2022, introduces a
 series of rules for intermediary actors, by creating the categories of
@@ -120,7 +119,7 @@ organisation’.[^11chapter8_25]
 
 The DGA considers data altruism organizations and DISs as distinct types
 of initiatives, whose line of demarcation is the operation on a
-for-profit or not-forprofit basis.[^11chapter8_26] Moreover, it recognizes in data
+for-profit or not-for-profit basis.[^11chapter8_26] Moreover, it recognizes in data
 altruism organizations the purpose of supporting academic research,[^11chapter8_27]
 whereas the DISs are only defined by their commercial purposes.
 
@@ -203,7 +202,7 @@ Projects that never passed the stage of prototype (that could not be
 used by a data holder or user simply by accessing its webpage) were not
 included. Projects whose material was not available online[^11chapter8_43] on the
 date of 31 May 2023 have been also excluded. The final dataset is
-available in Table 10A.1 (Appendix 10A).
+available in Table 8A.1 (Appendix 8A).
 
 > The following features have been collected for each DIS:
 
@@ -212,18 +211,17 @@ available in Table 10A.1 (Appendix 10A).
 
 -   *type of DIS* – that is, the category identified by the DGA[^11chapter8_44]
     into which the organization falls:
-
-> a\. infrastructure: services offering infrastructure intermediating data
-> exchange between data holders and users (that is, data marketplaces);
-> *b*. subject-centred: services enabling data subjects to make their data
-> available to data users and exercise their GDPR rights (that is,
->
-> PIMSs); and
->
-> *c*. cooperative: organizations supporting their members in the
-> exercise of their data rights. For some DISs, more than one category
-> could be applied; the ‘dominant’ one has been decided by analysing in
-> which order the provider states its main goals; and
+	
+	> *a*. infrastructure: services offering infrastructure intermediating data
+	> exchange between data holders and users (that is, data marketplaces);
+	> 
+	> *b*. subject-centred: services enabling data subjects to make their data
+	> available to data users and exercise their GDPR rights (that is, PIMSs); and
+	>
+	> *c*. cooperative: organizations supporting their members in the
+	> exercise of their data rights. For some DISs, more than one category
+	> could be applied; the ‘dominant’ one has been decided by analysing in
+	> which order the provider states its main goals; and
 
 -   *data specialization* – that is, some DISs focus on data related to
     a specific disciplinary sector (health data, agricultural data, and
@@ -233,13 +231,13 @@ available in Table 10A.1 (Appendix 10A).
 
 ## Empirical Analysis
 
-The dataset contains 54 DISs. As shown in Figure 10.1, most of them are
+The dataset contains 54 DISs. As shown in Figure 8.1, most of them are
 based in the Netherlands, the United States (US), the UK, and France.
 Particularly, the Netherlands has such a high number because of its
 ecosystem of ‘personal health environments’ used by citizens to share
 data with the healthcare system.[^11chapter8_45]
 
-Figure 10.2 shows the frequency of the features collected in the
+Figure 8.2 shows the frequency of the features collected in the
 dataset. The figure on the left shows the ‘types’ of DISs, according to
 the taxonomy proposed by the DGA (see the previous section). The
 majority of DISs in the dataset are subject-centred (that is, PIMSs and
@@ -248,30 +246,13 @@ data rights), and there is a significant number of DISs enabling the
 infrastructure for data exchanges. No operating data cooperatives have
 been found in the data collection. The figure on the right shows how
 many specialized (focusing on data related to a certain disciplinary
-sector) and
-
-  ------------------------------------------------------------------------------------
-  19
-  
-    --------------------------------------------------------------------------------
-                                                          7     > 8   
-                                                                      
-                                                          > 5         
-    ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- -- -- -- -- --
-    > 1   > 1   > 1   > 1   > 1   > 1   > 2   > 2   > 2   > 2   3                 
-  
-                                                                               
-    --------------------------------------------------------------------------------
-  
-  ------------------------------------------------------------------------------------
-
-**Figure 10.1** Country of establishment of DISs that have been
-accessible in the territory of the EU and the UK between 2000 and 2022
-*Source*: Prepared by the author.
-
-unspecialized DISs are contained in the dataset. The majority of DISs
+sector) and unspecialized DISs are contained in the dataset. The majority of DISs
 gather data from a specific sector – particularly, 2 collect
 agricultural data and 34 collect health data.
+
+![**Figure 8.1** Country of establishment of DISs that have been accessible in the territory of the EU and the UK between 2000 and 2022](imgs/figure8-1.png)
+
+*Source*: Prepared by the author.
 
 To understand whether these intermediaries can improve data access for
 researchers, I first need to conceptualize which features indicate how
@@ -290,14 +271,13 @@ researchers. Particularly, I scrutinized the literature on the *indexes*
 measuring how open government data are to third parties, allowing them
 to create services, products, and research.[^11chapter8_47]
 
-Widely cited examples of these indexes are the Five-Star Model of data
-availability,[^11chapter8_48] composed of five levels depending on whether data is
-available
+![**Figure 8.2** Frequencies of types and data specialization of DIS.](imgs/figure8-2.png)
 
-**Figure 10.2** Frequencies of types and data specialization of DIS
 *Source*: Prepared by the author.
 
-on the web with an open licence, machine-readable, using non-proprietary
+Widely cited examples of these indexes are the Five-Star Model of data
+availability,[^11chapter8_48] composed of five levels depending on whether data is
+available on the web with an open licence, machine-readable, using non-proprietary
 file formats, using open standards, or linked to other people’s data for
 context; the Four-Stage Model of data availability,[^11chapter8_49] composed of
 four levels depending on whether a government offers a description of
@@ -312,28 +292,26 @@ last years, the FAIR principles have diffused as guidance for scientific
 data management and stewardship; they promote findable, accessible,
 interoperable, and reusable data.[^11chapter8_51]
 
-Drawing inspiration from these models, I created a list of features that
+Drawing inspiration from these models, I first created a draft list of features that
 could be observed in DISs to measure their ‘openness’ vis-à-vis academic
-researchers (the draft list is available in Table 10A.2 \[Appendix
-10A\]). Then I analysed the website and documentation (that is, white
+researchers (the draft list is available in Table 8A.2 \[Appendix
+8A\]). Then I analysed the website and documentation (that is, white
 papers, slideshows, explanatory material, and so on) of every DIS in the
 dataset. To make the research more accurate, I used the Google search
 engine to scrape the websites’ content by using the following keywords:
 ‘research’, ‘academic’, and ‘university’. Where no English version of
-the material was available, I relied on online translation services.
-
-Through an inductive process, I removed from the list the features that
+the material was available, I relied on online translation services. Through an inductive process, I removed from the list the features that
 did not appear in any DISs and added features that were not included in
 the initial list. The final list includes three features that have been
-observed in existing DISs and are outlined in Table 10.1.
+observed in existing DISs and are outlined in Table 8.1.
 
-**Table 10.1** Features used to assess the DISs’ research openness
+**Table 8.1** Features used to assess the DISs’ research openness
 
-  > **Feature**                                       **Description**                                                                                                                     **Rationale**
-  --------------------------------------------------- ----------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  > Data access mention                               The possibility for researchers and academic institutions to access data from the project is explicitly mentioned.                  Mentioning the possibility of data access for research purposes suggests that academic needs have been considered during the design of the DIS and support for researchers is available.
-  > Dedicated data access                             Research or academic institutions are provided with dedicated procedures to access data.                                            Dedicated procedures facilitate accessing and tailoring the data for research purposes.
-  > Documented implementation in a research project   The data accumulated by the initiative has been employed in documented research activity by researchers or academic institutions.   The existence of projects using the DIS’s data demonstrates the accessibility of such data for research purposes and possibly suggests dedicated tracks to access data.
+| **Feature**                                     	| **Description**                                                                                                                   	| **Rationale**                                                                                                                                                                            	|
+|-------------------------------------------------	|-----------------------------------------------------------------------------------------------------------------------------------	|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
+| Data access mention                             	| The possibility for researchers and academic institutions to access data from the project is explicitly mentioned.                	| Mentioning the possibility of data access for research purposes suggests that academic needs have been considered during the design of the DIS and support for researchers is available. 	|
+| Dedicated data access                           	| Research or academic institutions are provided with dedicated procedures to access data.                                          	| Dedicated procedures facilitate accessing and tailoring the data for research purposes.                                                                                                  	|
+| Documented implementation in a research project 	| The data accumulated by the initiative has been employed in documented research activity by researchers or academic institutions. 	| The existence of projects using the DIS’s data demonstrates the accessibility of such data for research purposes and possibly suggests dedicated tracks to access data.                  	|
 
 *Source*: Compiled by the author.
 
@@ -377,27 +355,23 @@ habits and preferences.
 > purchase history of Coop and/or Migros (or REWE in Germany) with the
 > research group. This will be done completely anonymously, so no
 > personal data such as name, email, etc. will be transmitted.[^11chapter8_54]
+> 
 
-Figure 10.3 shows the number of DISs that possess research openness
+
+![**Figure 8.3** Share of data intermediation services possessing research openness features.](imgs/figure8-3.png)
+
+*Source*: Prepared by the author.
+
+![**Figure 8.4** Number of research openness features among the DISs.](imgs/figure8-4.png)
+
+*Source*: Prepared by the author.
+
+Figure 8.3 shows the number of DISs that possess research openness
 features. One out of four DISs mentions that their data can be accessed
 for academic purposes. One out of five DISs offer proof that research
 projects have been pursued thanks to the access to their data. On the
 other end, only a small minority of projects offer data access options
-dedicated to researchers. Figure 10.4 shows
-
-**Figure 10.3** Share of data intermediation services possessing
-research openness features
-
-*Source*: Prepared by the author.
-
-> ![](media/image1.png){width="3.027889326334208in"
-> height="2.868555336832896in"}
-
-**Figure 10.4** Number of research openness features among the DISs
-
-*Source*: Prepared by the author.
-
-how many DISs possess one or more data openness features. Overall, about
+dedicated to researchers. Figure 8.4 shows how many DISs possess one or more data openness features. Overall, about
 30 per cent of DISs in the dataset possess at least one data openness
 feature.
 
@@ -411,10 +385,10 @@ core feature of their organization. Research-friendly features are
 rarely at the forefront of the promoting material (that is, the
 website’s homepage). Nevertheless, the share of DISs having at least one
 data openness feature remains significant. This is surprising given the
-forprofit nature of DISs and the fact that these services have no
+for-profit nature of DISs and the fact that these services have no
 official connection with academic institutions.
 
-Figure 10.5 shows the frequency of DISs’ research openness features
+Figure 8.5 shows the frequency of DISs’ research openness features
 disaggregated for DIS type and data specialization. When looking at the
 difference between subject-centred and infrastructure DISs, we find that
 both types offer data access options; however, subject-centred DISs
@@ -427,7 +401,7 @@ neither the DIS type nor the data specialization seems to completely
 foreclose the possibility of offering data access options for
 researchers.
 
-This explorative data allows the elaboration of two hypotheses to be
+This descriptive data allows the elaboration of two hypotheses to be
 tested with further research: (*a*) infrastructure DISs are less likely
 to offer data openness features because they host ‘neutral’ and
 ‘technical’ infrastructures for the exchange of data and do not have any
@@ -441,18 +415,16 @@ community.
 ## The DGA Impact on Research Openness
 
 This research investigates the choices of DISs providers *before* the
-implementation of the DGA, whose provisions on DISs will enter into
+implementation of the DGA, whose provisions on DISs entered into
 force in September 2025 (Article 37). In this section, I report which
 provisions are more likely to interact with the research openness
 features of the DISs and comment on what such impact might be.
 
-**Figure 10.5** DISs’ research openness features disaggregated for DIS
-type and data sector
+![**Figure 8.5** DISs’ research openness features disaggregated for DIS type and data sector.](imgs/figure8-5.png)
 
 *Source*: Prepared by the author.
 
-*Note*: Each bar represents the share of DISs belonging to a certain
-category that have a data openness feature.
+*Note*: Each bar represents the share of DISs belonging to a certain category that have a data openness feature.
 
 Article 12(1)(a) introduces a ‘neutrality obligation’ by requiring every
 DIS provider to ‘not use the data for which it provides data
@@ -477,7 +449,7 @@ datasets.[^11chapter8_59]
 
 On the other hand, forced standardization might hinder the
 diversification strategies of new companies, thus entrenching the
-regulatory power of a few powerful actors.[^11chapter8_60] For instance, this could
+regulatory power of incumbents.[^11chapter8_60] For instance, this could
 happen if the standard chosen by a firm becomes dominant in a certain
 sector and is mechanically replicated by the mediation of DISs. The DIS
 providers ‘shall convert the data into specific formats only to enhance
@@ -507,9 +479,7 @@ enshrining a ‘right to research’ in future legislation.[^11chapter8_66]
 
 This chapter has explored the following question: do DISs make data more
 accessible to researchers? To answer this question, I have identified a
-set of
-
-‘research openness features’ that facilitate data access for researchers
+set of ‘research openness features’ that facilitate data access for researchers
 when they interact with a DIS. Then I built an original dataset of 54
 DISs and investigated how many of them present such features. The
 findings show that the majority of DISs do not offer any research
@@ -522,7 +492,7 @@ three reflections from this analysis.
 First, these results show that, in a significant minority of cases, DISs
 are a valuable tool to access data for academic researchers. However, in
 the future, this situation might significantly change due to the DGA
-implementation and the evolution of the market. Further research should
+enforcement and the evolution of the market. Further research should
 investigate the causes driving the supply of data access options to
 researchers, by testing the hypotheses on DIS types and data
 specialization, but also the role of the actors governing the
@@ -557,7 +527,7 @@ access options to a greater amount of data.
 Hence, this study shows how data access regulation requires a more
 careful assessment of the political economy of targeted actors. To
 tackle some of the identified issues, I advance three policy proposals
-that could be introduced in the European Commission’s DGA rulebook:[^11chapter8_77]
+that could be introduced in the European Commission’s DGA rulebook,[^11chapter8_77]
 delegated acts, new regulations, or soft law.
 
 First, the interpretation of DGA provisions illustrated in the fourth
@@ -571,27 +541,37 @@ scientists are heard.
 Second, the European Commission could develop tools (that is, sandboxes,
 research grants, and so on) to incentivize DISs to experiment with forms
 of data sharing with researchers, with the aim of making these
-relationships selfsustaining in the long term.
+relationships self-sustaining in the long term.
 
 Finally, the European Commission should amend the DGA to make for-profit
 projects recognizable as ‘data altruism organisations’ – this would
 prevent chilling effects on data sharing with researchers and allow more
 effective monitoring of (real) data altruism initiatives.
 
-**Table 10A.2** Draft list of features used to assess the DISs’ research
-openness
+![](imgs/appendix1.png)
 
-  > **Feature**                                       **Description**                                                                                                                     **Rationale**
-  --------------------------------------------------- ----------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  > Data access mention                               The possibility for researchers and academic institutions to access data from the project is explicitly mentioned.                  Mentioning the possibility of data access for research purposes suggests that academic needs have been considered during the design of the DIS and support for researchers is available.
-  > Dedicated data access                             Research or academic institutions are provided with dedicated procedures to access data.                                            Dedicated procedures facilitate accessing and tailoring the data for research purposes.
-  > Documented implementation in a research project   The data accumulated by the initiative has been employed in documented research activity by researchers or academic institutions.   The existence of projects using the DIS’s data demonstrates the accessibility of such data for research purposes and possibly suggests dedicated tracks to access data.
-  > Free of access                                    Research or academic institutions can obtain data for free or with a monetary discount, contrarily to other actors.                 Economic incentives facilitate the use of DIS data for research purposes.
-  > Governance representatives                        Research or academic institutions are formally allowed to influence the governance of the organization.                             Academic representatives can represent research interests within the DIS.
+![](imgs/appendix2.png)
+
+![](imgs/appendix3.png)
 
 *Source*: Prepared by the author.
 
-# Notes
+
+**Table 8A.2** Draft list of features used to assess the DISs’ research
+openness
+
+| **Feature**                                     	| **Description**                                                                                                                   	| **Rationale**                                                                                                                                                                            	|
+|-------------------------------------------------	|-----------------------------------------------------------------------------------------------------------------------------------	|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
+| Data access mention                             	| The possibility for researchers and academic institutions to access data from the project is explicitly mentioned.                	| Mentioning the possibility of data access for research purposes suggests that academic needs have been considered during the design of the DIS and support for researchers is available. 	|
+| Dedicated data access                           	| Research or academic institutions are provided with dedicated procedures to access data.                                          	| Dedicated procedures facilitate accessing and tailoring the data for research purposes.                                                                                                  	|
+| Documented implementation in a research project 	| The data accumulated by the initiative has been employed in documented research activity by researchers or academic institutions. 	| The existence of projects using the DIS’s data demonstrates the accessibility of such data for research purposes and possibly suggests dedicated tracks to access data.                  	|
+| Free of access                                  	| Research or academic institutions can obtain data for free or with a monetary discount, contrarily to other actors.               	| Economic incentives facilitate the use of DIS data for research purposes.                                                                                                                	|
+| Governance representatives                      	| Research or academic institutions are formally allowed to influence the governance of the organization.                           	| Academic representatives can represent research interests within the DIS.                                                                                                                	|
+
+
+*Source*: Prepared by the author.
+
+## Notes
 
 [^11chapter8_1]: Katharina Pistor, ‘Rule by Data: The End of Markets?’ *Law and
     Contemporary Problems* 101, no. 83 (2020): 101–124.

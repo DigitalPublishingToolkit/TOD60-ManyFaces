@@ -16,8 +16,7 @@ Keywords:   50 keywords for search and indexing
 Rights: CC BY-NC 4.0
 ...
 
-
-# A Subject Access Request, Then What? (Un)structuring Online Analytics for Data Institutions
+# 7. A Subject Access Request, Then What?: (Un)structuring Online Analytics for Data Institutions
 
 ### Jake Stein and Reuben Binns
 
@@ -96,11 +95,7 @@ Individual data access regimes contained in data protection regulations
 like the General Data Protection Regulation (GDPR), 2018, and the
 California Consumer Privacy Act (CCPA), 2018, and aggregate data access
 rights for researchers contained in successive regulation like the
-Digital
-
-A Subject Access Request, Then What? 201
-
-Services Act (DSA), 2024, as well as voluntary access to research
+Digital Services Act (DSA), 2024, as well as voluntary access to research
 application programming interfaces (APIs) provide a convenient side
 door, allowing activists and researchers to access data without facing
 the costs of constructing net-new data collection infrastructure
@@ -192,11 +187,7 @@ relevant to our pursuit in several ways. First, at the lowest level, it
 helps illustrate the contingency of data’s meaning upon its context and
 which other data or knowledge it is enriched with. Second, the parallax
 could be regarded as an essential quality for data structures meant to
-serve different,
-
-A Subject Access Request, Then What? 203
-
-even conflicting end goals – in our case, the empowerment of the
+serve different, even conflicting end goals – in our case, the empowerment of the
 individual to use their data to act more effectively *within* a system,
 but also for the collective critique of that system with the goal of
 changing its rules and configuration to benefit the data subject. We see
@@ -263,7 +254,7 @@ inconsistent use of data fields with the same names.
 
 The structures that impeded our analysis of data occurred at three
 levels: the schema (or table), field (or column), and value (or cell)
-(Figure 9.1). Our analysis was obstructed by features of the data which
+(Figure 7 9.1). Our analysis was obstructed by features of the data which
 were present in all of the responses and separately by inconsistencies
 in the structure within responses themselves or between responses when
 aggregated or compared. These structures and inconsistencies among them
@@ -297,12 +288,11 @@ facilitate the maximum possible number of further aggregations. With
 that in mind, we briefly unpack some of the schema-, field-, and
 cell-level obfuscation which held back our analysis.
 
-![caption text goes here](imgs/figure1.svg)
+![**Figure 7.1** Schema, field, and data levels of data structure.](imgs/figure1.svg)
 
-**Figure 9.1** Schema, field, and data levels of data structure
-*Source*: Prepared by the authors.
+*Source*: Prepared by the authors
 
-### The Schema Level
+**The Schema Level**
 
 Schema-level structure refers to the decisions made about how many
 independent tables a database is composed of, which fields are held in
@@ -337,7 +327,7 @@ for accepting consecutive trips. This table likewise had no ability to
 be linked to individual trip records, even when payments were associated
 with the completion of particular incentive or goal.
 
-### The Table Level
+**The Table Level**
 
 A similar link is lacking between the dispatch and trip tables. This
 missing link also illustrated how table-level data structures interact
@@ -401,7 +391,7 @@ subjects, and of course the artefacts of the source system. Elsewhere in
 the DSAR response, records similar to those in the dispatches table are
 left disaggregated as is the case of individual trip records.
 
-### The Field and Cell Levels
+**The Field and Cell Levels**
 
 Finally, data on a cell-by-cell level significantly hampered analysis.
 As with schema- and table-level obfuscation, this was the result of both
@@ -568,7 +558,9 @@ data infrastructures only accommodate rigid definitions for metrics to
 be repeatedly applied, and as a result they are highly sensitive to even
 small changes in underlying data.
 
-![caption text goes here](imgs/figure2.svg)
+![**Figure 7.2** The nested logics encoded in DSAR data.](imgs/figure2.svg)
+
+*Source*: Prepared by the authors.
 
 Furthermore, encoding rigid definitions (like Uber’s and WIE’s competing
 definitions of pay-per-hour) into the structures inherently narrows the
@@ -730,7 +722,11 @@ the relationship between individual psychoanalytic conditions and social
 movements or between economic conditions and political conflicts – our
 understanding exists in a certain tensile stasis. Each perspective is
 untranslatable and fundamentally different yet somehow resolve as one
-event (Figure 9.3).
+event (Figure 7.3).
+
+![**Figure 7.3** Illustration of parallax.](imgs/figure3.svg)
+
+ *Source*: Prepared by the authors based on Justin Wick’s example of parallax, Wikimedia Commons, https://commons.wikimedia.org/wiki/File:Parallax\_Example.png (accessed 12 December 2024).
 
 Our choice of design for public-service data architectures resonates
 with this framing. First, it accurately embodies our dilemma of
@@ -754,18 +750,7 @@ Data subjects, activists, academics, and their respective funders see
 the same data through different lenses. Some of these lenses do not
 necessarily gaze towards a ground truth captured in data, but instead
 critique the behaviours and intentions couched in the structural
-artefacts left by prior manipulations
-
-![caption text goes here](imgs/figure3.svg)
-
-**Figure 9.3** Illustration of parallax
-
-*Source*: Prepared by the authors based on Justin Wick’s example of
-parallax, Wikimedia Commons,
-https://commons.wikimedia.org/wiki/File:Parallax\_Example.png (accessed
-12 December 2024).
-
-and ontologies. In this sense, suitable analytics infrastructures must
+artefacts left by prior manipulations and ontologies. In this sense, suitable analytics infrastructures must
 be *parallax* in nature. That is, though relying on the same material
 data as their basis, they must support inquiry which pursues divergent
 epistemologies of the data and interpretations of autonomy.
@@ -979,7 +964,7 @@ source data, but is ultimately at risk of losing access to data should
 platforms cut off data flows as Deliveroo, a UK-based food delivery
 platform, has recently done.[^10chapter7_48]
 
-# Conclusion
+## Conclusion
 
 The technological innovation that has facilitated platform dominance
 could also be used to supplant the information asymmetries it has
@@ -1013,7 +998,7 @@ data or technology but from understanding how to redraw deeply
 intrenched institutional boundaries, while also including data subjects
 to participate in shifting power.
 
-# Notes
+## Notes
 
 [^10chapter7_1]: Rob Kitchin and Gavin McArdle, ‘What Makes Big Data, Big Data?
     Exploring the Ontological Characteristics of 26 Datasets’, *Big Data

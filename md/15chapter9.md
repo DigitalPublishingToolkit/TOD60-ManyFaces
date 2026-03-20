@@ -17,7 +17,7 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# Access to Data on Disinformation within the Code of Practice on Disinformation
+# 9. Access to Data on Disinformation within the Code of Practice on Disinformation
 
 ### Michalina Kowala
 
@@ -375,7 +375,7 @@ they will explain the reasons for this. It should be noted that this
 mechanism was not foreseen in the previous version of the code. In my
 opinion, it obliges the signatories to be transparent when it comes to
 subscription to the commitments and their further implementation and
-leaves less room for discretion in this respect.
+leaves less room for discretion in this respect. The conversion of the voluntary 2022 Code into the Code of Conduct within the framework of DSA took effect starting from 1 July 2025, making commitments included therein auditable from that date onwards.
 
 ### Reporting Scheme 
 
@@ -385,7 +385,7 @@ Signatories committed to provide the baseline reports to the European
 Commission within one month after the end of the implementation
 period.[^12chapter9_45] After that, VLOPs committed to provide regular reporting on
 service level indicators and qualitative reporting elements every six
-months and other signatories yearly, at service and memberstate
+months and other signatories yearly, at service and MEMBER_ STATE
 level.[^12chapter9_46] This should allow for a thorough assessment of the extent of
 the code’s implementation. VLOPs are confronted with more demanding
 requirements as to the frequency of reporting since they are considered
@@ -414,8 +414,7 @@ infrastructure regarding reporting has been put in place, and the
 establishment of the Task Force gives hope that that discretionary
 reporting will be reduced or even eliminated.
 
-## Researchers’ Access to Data under the 2022
-## Code of Practice on Disinformation 
+## Researchers’ Access to Data under the 2022 Code of Practice on Disinformation 
 
 After the brief analysis of the commitments and measures enshrined in
 the 2022 code, it is worth discussing the instruments made available for
@@ -480,9 +479,7 @@ answer nor access to CrowdTangle. I was not informed about the reasons
 Facebook refused my access request. However, it appears that I am not
 the only researcher who has been denied access to CrowdTangle’s
 resources. Facebook in 2022 stopped accepting any new-user application
-due to ‘staffing constraints’,[^12chapter9_64] and it seems that it has not dealt
-with the problem yet, since academics report that new applications are
-still not accepted.[^12chapter9_65]
+due to ‘staffing constraints’.[^12chapter9_64] As of August 14, 2024, CrowdTangle is no longer available.
 
 As to the commitment to provide vetted researchers with access to data
 necessary to undertake research on disinformation by developing,
@@ -504,9 +501,7 @@ involvement of an independent body will reduce the arbitrariness of
 platforms’ decisions in the context of sharing personal data remain
 unanswered. Moreover, in the face of such a threat of disinformation and
 given that the code was adopted in June 2022, the waiting time for the
-implementation of some of its measures is long. The code, unfortunately,
-still remains ineffective as regards some commitments and measures
-included therein.
+implementation of some of its measures is long. The code, unfortunately, still remains ineffective as regards some commitments and measures included therein.
 
 ## Achievability of the Research Goals under the 2022 Code of Practice on Disinformation 
 
@@ -580,7 +575,7 @@ compliance with the declared commitments. It is relevant to ask what
 consequences and which mechanism will be applicable to platforms if they
 do not cooperate with researchers, for example, for not providing data
 to those who will be vetted by the third-party body or if they do not
-properly fulfil their reporting obligations.
+properly fulfil their reporting obligations. It is worth to mention that in 2025 the European Commission has issued a fine of €120 million to X ( Twitter) for breaching its transparency obligations under the DSA. The breaches include the deceptive design of its ‘blue checkmark', the lack of transparency of its advertising repository, and the failure to provide access to public data for researchers. The Commission explains that “X fails to meet its DSA obligations to provide researchers with access to the platform's public data. For instance, X's terms of service prohibit eligible researchers from independently accessing its public data, including through scraping. Moreover, X's processes for researchers' access to public data impose unnecessary barriers, effectively undermining research into several systemic risks in the European Union”[^12chapter9_73]. It remains to be seen how this decision will impact platforms practices as regards granting researchers access to data and whether fining X will incentivise other VLOPS to ensure more transparent environment for researchers. 
 
 ### Enforcement Measures 
 
@@ -609,7 +604,7 @@ The term ‘independent’ has been defined to ensure the transparency of
 the auditing process and the credibility of its results. In case the
 outcomes of the audit are not positive, the VLOPs should take due
 account of the operational recommendations with a view to taking the
-necessary measures to implement them.[^12chapter9_73] According to Article 37(6) of
+necessary measures to implement them.[^12chapter9_74] According to Article 37(6) of
 the DSA, where the signatories do not implement the operational
 recommendations, they shall justify in the audit implementation report
 the reasons for not doing so and set out any alternative measures. If
@@ -622,7 +617,7 @@ implementation of recommendations in case it would, for example, hamper
 the researchers’ access to information. On 5 May 2023, the European
 Commission published the draft of the delegated regulation which was
 aimed at setting out the necessary rules for the procedures,
-methodology, and templates used for the audits.
+methodology, and templates used for the audits. The first audit reports under the DSA were published at the end of 2024. The next round of audits, including the initial evaluation of the Code's implementation, is expected to be released by the end of 2025.
 
 The alignment of the 2022 code with the DSA provides the mechanism of
 the enforcement of the 2022 code. The use of binding measures from the
@@ -633,8 +628,6 @@ today would have been more successful. However, it should be noted that
 the procedure of the enforcement of the code is delimited in a general
 way. It lacks the researcher-centred mechanism that would allow him, for
 example, to effectively contest platforms’ decisions.
-
-# 
 
 ## Conclusion 
 
@@ -656,7 +649,7 @@ to different operating systems of the platforms and to target the
 specific threats posed by the spread of disinformation. Such instrument
 allowed a rapid response tailored to evolving new technologies. However,
 this chapter revealed quite a long list of its shortcomings, which,
-first, did not allow to effectively combat disinformation^74^[^12chapter9_74] and,
+first, did not allow to effectively combat disinformation[^12chapter9_75] and,
 second, did not facilitate research on the phenomenon.
 
 The 2022 code addresses the shortcomings and fills in the gaps of the
@@ -695,7 +688,7 @@ the DSA is an important, although for the moment still not sufficient,
 step towards ensuring greater data access for researchers studying
 disinformation.
 
-# Notes
+## Notes
 
 [^12chapter9_1]: Garth S. Jowett and Victoria O’Donnell, *Propaganda and
     Persuasion* (Sage Publications, 2012).
@@ -1020,10 +1013,7 @@ disinformation.
     https://www.reuters.com/technology/meta-pauses-newusers-joining-analytics-tool-crowdtangle-2022-01-29
     (accessed 17 May 2023).
 
-[^12chapter9_65]: John Albert, ‘Platforms’ Promises to Researchers: First Reports
-    Missing the Baseline’, AlgorithmWatch, 16 February 2023,
-    https://algorithmwatch.org/ en/platforms-promises-to-researchers
-    (accessed 27 February 2023).
+
 
 [^12chapter9_66]: ‘Code of Practice on Disinformation: Meta Baseline Report’.
 
@@ -1055,10 +1045,12 @@ disinformation.
     violating the ‘harmful health misinformation’ or voter or census
     interference policies as per each member state and then as per EU as
     a whole. ‘Code of Practice on Disinformation: Meta Baseline Report’.
+    
+[^12chapter9_73]: European Commisson, https://ec.europa.eu/commission/presscorner/detail/en/ip_25_2934, accessed: 10.12.2025.  
 
-[^12chapter9_73]: Article 37(6) of the DSA.
+[^12chapter9_74]: Article 37(6) of the DSA.
 
-[^12chapter9_74]: ‘Left Behind: How Facebook is Neglecting Europe’s Infodemic’,
+[^12chapter9_75]: ‘Left Behind: How Facebook is Neglecting Europe’s Infodemic’,
     Avaaz, 20 April 2021,
     https://secure.avaaz.org/campaign/en/facebook\_neglect\_
     europe\_infodemic (accessed 19 May 2023).

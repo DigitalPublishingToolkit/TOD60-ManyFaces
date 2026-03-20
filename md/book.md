@@ -21,7 +21,7 @@ Design and EPUB development: Klaudia Orczykowska <br/>
 
 Published by the Institute of Network Cultures, Amsterdam, 2025 <br/>
 
-ISBN: 97890835209  
+ISBN: 9789083672113  
   
 **Contact**  <br />
 Institute of Network Cultures Amsterdam University of Applied Sciences (HvA) <br/> 
@@ -37,6 +37,42 @@ To view a copy of this license, visit www.creativecommons.org/licences/by-nc-sa
 
 
 
+
+# Table of Contents
+
+<a href='ch003.xhtml'> **Acknowledgments** </a>
+
+<a href='ch004.xhtml'> **1. Data Access for research: Imaginations, Limitations and Promises**</a> *Jef Ausloos and Siddharth Peter de Souza*
+
+<a href='ch005.xhtml'> **Part I: Imaginations**</a>
+
+<a href='ch006.xhtml'> **2. Re-Conceptualizing Governance Policies on Data Access for Research**</a> *Carolina Aguerre*
+
+<a href='ch007.xhtml'> **3. Violent Plains: Challenges and Strategies for Pastoralists’ Data Access in Ghana**</a>
+*Frank Kwaku Agyei, Lawrence Kwabena Brobbey, Paul Osei-Tutu, and Boateng Kyereh*
+
+<a href='ch008.xhtml'> **4. From Rights to Skills: Data Access for Teaching Data Literacy**</a> *Midas Nouwens*
+
+<a href='ch009.xhtml'> **Part II: Limitations**</a> 
+
+<a href='ch010.xhtml'> **5. Keys Thrown Away? Challenges in Brazil on Accessing Public-Interest  Data on State Surveillance Tools via Transparency Portals and Requests for Information**</a> *André Ramiro, Pedro Amaral, and Marcos César M. Pereira* 
+
+<a href='ch011.xhtml'> **6. Digging into EU Data Laws and Their Impact on African Researchers**</a> *Paul Esselaar*
+
+<a href='ch012.xhtml'> **Part III: Promises** </a>
+
+<a href='ch013.xhtml'> **7. A Subject Access Request, Then What? (Un)structuring Online Analytics for Data Institutions** </a> *Jake Stein and Reuben Binns*
+
+<a href='ch014.xhtml'> **8. Data Intermediaries for Good: Can Data Intermediation Services Help Data Access in Research?**</a> *Matteo Nebbiai*
+
+<a href='ch015.xhtml'> **9. Access to Data on Disinformation within the Code of Practice on Disinformation**</a>  *Michalina Kowala*
+
+<a href='ch016.xhtml'> **Biographies** </a>
+
+
+<div style="page-break-after: always;"></div> 
+
+
 # Acknowledgments 
 
 We would like to thank authors and participants from a workshop at the
@@ -49,39 +85,10 @@ with the editing of the book. We are also grateful to the University of
 Amsterdam and the Institute for Information Law for their support of the
 workshop.
 
-**The Many Faces of Data Access**
-
-***Legal and Policy implications for research***
-
-The Many Faces of Data Access : Legal and Policy implications for
-research provides a rich and interdisciplinary critique of regulation
-and, in the process, opens the ‘black box’ of technology companies to
-researchers. It brings together scholars from across the globe, working
-in varied fields including critical legal studies, science and
-technology studies, critical data studies, and digital humanities. The
-book explores questions of data access – to acquire and use data
-meaningfully as well as resist power. It covers a variety of themes,
-including the opportunities and challenges of the law as a tool for
-observing digital infrastructures, the political economy of data access
-for research, and the power dynamics between academia, private/public
-sector, and civil society. In doing so, the book also examines these
-questions in terms of the politics of knowledge production and
-investigates whether there is a privileging of geographical and
-institutional contexts in data access regimes.
-
-**Jef Ausloos** is Assistant Professor at the Institute for Information
-Law, University of Amsterdam.
-
-**Siddharth Peter de Souza** is Assistant Professor of AI and Society at
-the Centre for Interdisciplinary Methods, University of Warwick, C
 
 
 
-
-
-
-
-# Data Access for research: Imaginations, limitations and promises
+#1. Data Access for research: Imaginations, limitations and promises
 
 ### Jef Ausloos and Siddharth Peter de Souza
 
@@ -753,7 +760,7 @@ rights.
 Chapter 5 looks at transparency and data access in the context of
 accountability of public authorities, specifically law enforcement and
 intelligence agencies. André Ramiro, Pedro Amaral, and Marcos César M.
-Pereira in chapter 6, ‘Keys Thrown Away?’, reflect on their own
+Pereira in chapter 5, ‘Keys Thrown Away?’, reflect on their own
 experience of conducting an empirical research project involving the
 strategic use of freedom of information laws in Brazil. This
 self-reflective study exposes important limitations to research into
@@ -773,7 +780,7 @@ researchers, Esselaar reveals a darker side of the EU’s extraterritorial
 reach and the potentially perverse effects of these rules on data and
 research originating in the African continent.
 
-## Promises
+### Promises
 
 In the last part of the volume, we are interested in unpacking various
 promises that emerge because of providing data access for research. The
@@ -832,7 +839,7 @@ collaborative communities for research. This part therefore provides
 pathways with which the goals and values associated with data access can
 be realized.
 
-\*\*\*
+<p style="text-align: center;">***</p>
 
 Finally, we hope this volume may provoke and incite readers to consider
 the many dimensions of researcher data access. Recent policy discussions
@@ -1305,7 +1312,9 @@ inspire you in your own academic practice.
 
 
 
-# Re-Conceptualizing Governance Policies on Data Access for Research 
+# Part I: Imaginations
+
+# 2. Re-Conceptualizing Governance Policies on Data Access for Research 
 
 ### Carolina Aguerre
 
@@ -1838,48 +1847,32 @@ and the underlying orders. The increasing overlap of sites of power and
 authority in these two domains configures a cross-policy polycentric
 governance sector of digital data access.
 
+Re-Conceptualizing Governance Policies on Data Access for Research
+
 **Table 2.1** OS and AI strategies: summary
 
-**Sites of power Systemic ordering forces**
+|                                                  	| **Sites of power and authority** 	|     **Systemic ordering force**    	|                                                                   	|                                          	|
+|:------------------------------------------------:	|:--------------------------------:	|:----------------------------------:	|:-----------------------------------------------------------------:	|:----------------------------------------:	|
+|                                                  	|                                  	|              **Norms**             	|                           **Practices**                           	|           **Underlying orders**          	|
+|                 **Open science**                 	|                EU                	|           FAIR principles          	|                  Support of open access journals                  	|                Innovation                	|
+|                                                  	|              States              	|        Intellectual property       	|               Creation of open indexed repositories               	|           Commercial interests           	|
+|                                                  	|              UNESCO              	|               Privacy              	| Generation of data repositories rather than finished publications 	| Altruistic motives: ‘advancing humanity’ 	|
+|                                                  	|           Universities           	|         Open data mandates         	|                       Training and education                      	|  Data science as new knowledge paradigm  	|
+|                                                  	|  National research institutions  	|         Safety and security        	|                                                                   	|                                          	|
+|                                                  	|         Publishing firms         	|                                    	|                                                                   	|                                          	|
+|                                                  	|          Tech companies          	|                                    	|                                                                   	|                                          	|
+| **AI strategies and plans (national, regional)** 	|      Regional organizations      	|      National competitiveness      	|                       Training and education                      	|            Techno-solutionism            	|
+|                                                  	|              States              	|            Market growth           	|                             Use cases                             	|              Utilitarianism              	|
+|                                                  	|              UNESCO              	|               Ethics               	|                      International benchmarks                     	|                Geopolitics               	|
+|                                                  	|               OECD               	|            Human rights            	|                        Data infrastructures                       	|                Innovation                	|
+|                                                  	|         Tech/AI companies        	| Responsibility and trustworthiness 	|                    Coordination and governance                    	|                                          	|
+|                                                  	|           Universities           	|           Data protection          	|                                                                   	|                                          	|
+|                                                  	|         Research agencies        	|             Regulation             	|                                                                   	|                                          	|
+|                                                  	|           Civil society          	|                                    	|                                                                   	|                                          	|
 
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  > **Open **                                          **and authority **                         **Norms**               **Practices**                                                           **Underlying orders**
-  >                                                                                                                                                                                               
-  > **science**                                                                                                                                                                                   
-  ---------------------------------------------------- ------------------------------------------ ----------------------- ----------------------------------------------------------------------- --------------------------------------------------------------------------------------------------------
-                                                       -   EU •                                   FAIR principles •       > Support of • open access •                                            > Innovation
-                                                                                                                          >                                                                       >
-                                                       -   States •                               Intellectual property   > journals                                                              > Commercial interests Altruistic motives: ‘advancing humanity’ Data science as new knowledge paradigm
-                                                                                                                          >                                                                       
-                                                       -   UNESCO                                 Privacy •               > Creation of • open indexed repositories Generation                    
-                                                                                                                                                                                                  
-                                                       -   Universities ^•\ ^                     Open data               of data •                                                               
-                                                                                                                                                                                                  
-                                                       -   National ^•^ research institutions •   mandates                repositories rather than finished publications Training and education   
-                                                                                                                                                                                                  
-                                                       -   Publishing firms                       • Safety and security                                                                           
-                                                                                                                                                                                                  
-                                                       -   Tech companies                         •                                                                                               
-                                                                                                                                                                                                  
 
-  > **AI strategies and plans (national, regional)**   -   Regional • organizations               National •              Training and • education                                                Technosolutionism
-                                                                                                                                                                                                  
-                                                       -   States • • UNESCO •                    competitiveness         Use cases •                                                             > Utilitarianism
-                                                                                                                                                                                                  >
-                                                       -   OECD •                                 Market growth •         > International • benchmarks •                                          > Geopolitics
-                                                                                                                          >                                                                       >
-                                                       -   Tech/AI • companies                    Ethics •                > Data infrastructures Coordination and governance                      > Innovation
-                                                                                                                                                                                                  
-                                                       -   Universities                           Human rights                                                                                    
-                                                                                                                                                                                                  
-                                                       -   Research ^•^ agencies •                Responsibility • and                                                                            
-                                                                                                                                                                                                  
-                                                       -   Civil society                          trustworthiness •                                                                               
-                                                                                                                                                                                                  
-                                                                                                  Data protection                                                                                 
-                                                                                                                                                                                                  
-                                                                                                  Regulation                                                                                      
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 
 *Source*: Collated by the author.
 
@@ -2115,7 +2108,7 @@ and underlying orders about contemporary notions around digital data and
 knowledge.
 
 Future work could engage more thoroughly on issues concerning ‘data
-access’ for research from a justice and sustainability lens. The
+access’ for research from a justice, sovereignty and sustainability lens. The
 problems concerning access are relevant as they not only encompass a
 range of dimensions, including data infrastructures, some of which
 already have polycentric attributions, and their availability, but also
@@ -2127,7 +2120,7 @@ introduction to this volume by Jef Ausloos and Siddharth Peter de Souza
 has highlighted.[^05chapter2_86] Further studies could also address the different
 disciplinary stakes on the issue of access to data for research,
 including a global majority perspective that situates practices of
-science and innovation policies.
+science and innovation policies and their implications for sovereign governance capacities.
 
 ## Appendix 2A
 
@@ -2180,9 +2173,7 @@ Secretariat for open data, Argentina (in person), March 2023.
     https://doi.org/10.1080/13691 18X.2019.1573914; S. Zuboff, *The Age
     of Surveillance Capitalism: The Fight for a Human Future at the New
     Frontier of Power* (PublicAffairs, 2019); E. Ruppert, E. Isin, and
-    D. Bigo, ‘Data Politics’, *Big Data and Society* 4 (2017),
-
-    DOI: https://doi.org/10.1177/2053951717717749; Danah Boyd and K.
+    D. Bigo, ‘Data Politics’, *Big Data and Society* 4 (2017), DOI: https://doi.org/10.1177/2053951717717749; Danah Boyd and K.
     Crawford, ‘Critical Questions for Big Data: Provocations for a
     Cultural, Technological, and Scholarly Phenomenon’, *Information,
     Communication and Society* 15, no. 662 (2012): 662–679.
@@ -2576,8 +2567,7 @@ Secretariat for open data, Argentina (in person), March 2023.
 
 
 
-# Violent Plains 
-## Challenges and Strategies for Pastoralists’ Data Access in Ghana [^06chapter3_1]
+# 3. Violent Plains: Challenges and Strategies for Pastoralists’ Data Access in Ghana [^06chapter3_1]
 
 ### Frank Kwaku Agyei, Lawrence Kwabena Brobbey, Paul Osei-Tutu, and Boateng Kyereh
 
@@ -2671,42 +2661,29 @@ cattle owners, herdsmen, government, and other key informants in the
 cattle industry (Table 3.1). The researchers look into pastoralism and
 are based at four public universities in Ghana: Kwame Nkrumah University
 of Science and Technology, Kumasi; University of Energy and Natural
-Resources, Sunyani; University for Development **Table 3.1** Category
-and sample of respondents used for the study
+Resources, Sunyani; University for Development 
 
-  ---------------------------------------------------------------------------------------
-  > **No.**   **Category of interviewee**           **Sample **   **Mode of selection**
-  ----------- ------------------------------------- ------------- -----------------------
-  > 1         Researchers                           > 11          Purposive
+**Table 3.1** Category and sample of respondents used for the study
 
-  > 2         NGOs                                  2             Purposive
-
-  > 3         Cattle owners                         7             Purposive
-
-  > 4         *Herdsmen*                            > 11          Snowball\*
-                                                                  
-              Settled herdsmen                                    
-
-              Nomadic herdsmen                      6             Snowball
-
-              Transhumance herdsmen                 3             Snowball
-
-  > 5         *Government *                         1             Purposive
-                                                                  
-              Cattle ranch staff                                  
-
-              District assembly                     5             Purposive
-
-              Police service                        1             Purposive
-
-  > 6         *Other key informants*                7             Purposive
-                                                                  
-              Village chief, Zongo chief, farmers                 
-  ---------------------------------------------------------------------------------------
+| No. 	| **Category of interviewee**         	| **Sample** 	| **Mode of selection** 	|
+|-----	|-------------------------------------	|------------	|-----------------------	|
+| 1   	| Researchers                         	| 11         	| Purposive             	|
+| 2   	| NGOs                                	| 2          	| Purposive             	|
+| 3   	| Cattle owners                       	| 7          	| Purposive             	|
+| 4   	| _Herdsmen_                          	|            	|                       	|
+|     	| Settled herdsmen                    	| 11         	| Snowball*             	|
+|     	| Nomadic herdsmen                    	| 6          	| Snowball              	|
+|     	| Transhumance herdsmen               	| 3          	| Snowball              	|
+| 5   	| _Government_                        	|            	|                       	|
+|     	| Cattle ranch staff                  	| 1          	| Purposive             	|
+|     	| District assembly                   	| 5          	| Purposive             	|
+|     	| Police service                      	| 1          	| Purposive             	|
+| 6   	| _Other key informants_              	|            	|                       	|
+|     	| Village chief, Zongo chief, farmers 	| 7          	| Purposive             	|
 
 *Source*: Collated by the authors.
 
-*Note*: \*We relied on social networks existing among pastoralists to
+*Note*: *We relied on social networks existing among pastoralists to
 gain access to them. The herdsmen who were first approached connected us
 to other herders in their network.
 
@@ -2806,7 +2783,7 @@ everywhere even in places where there were no farms … the farms have now
 increased in sizes’ (Herdsman 8, 4 February 2023). Herdsmen attribute
 land struggles to its commodification in rural communities.
 
-## Challenges Associated with Pastoralists’ Data Access
+### Challenges Associated with Pastoralists’ Data Access
 
 This section outlines challenges constraining access to reliable
 pastoralist-related data. Pastoralists’ data access is challenged by
@@ -2947,7 +2924,7 @@ researchers. The disorderly institutional database makes the segregation
 of conflict data from other data reported at public institutions a
 challenge.
 
-## Strategies Enabling Access to Pastoralists’ Data 
+### Strategies Enabling Access to Pastoralists’ Data 
 
 This section outlines the strategies researchers and development actors
 use to enable access to pastoralists’ data. A broad set of social
@@ -3041,7 +3018,7 @@ undermines possibilities for sustainable peace. To stay objective
 without taking sides, researchers try to be neutral by questioning the
 narrations of both farmers and pastoralists in equal measure.
 
-## Opportunities for Gaining Access to Pastoralist Data
+### Opportunities for Gaining Access to Pastoralist Data
 
 The study identified opportunities to aid access to pastoralists’ data,
 and this includes the existence of strong customary institutions and
@@ -3116,7 +3093,7 @@ GFLIP; the Ghana National Association of Cattle Farmers (GNACAF); and
 the Peasant Farmers Association of Ghana (PFAG). The GNACAF has a
 membership consisting of cattle owners and herders across Ghana.
 
-# Discussion
+## Discussion
 
 Our results suggest that access to data from pastoralists is entangled
 with challenges. The transhumance and nomadic herders keep cattle at
@@ -3142,7 +3119,7 @@ contexts of pastoralists data access; (*b*) the researcher neutrality
 and trustworthiness; and (*c*) the power relations and politics of
 identity.
 
-## Social, Cultural, and Political Contexts of Pastoralists’ Data Access
+### Social, Cultural, and Political Contexts of Pastoralists’ Data Access
 
 The findings illustrate constellations of social relationships that
 enable access to pastoralists’ data. Access to geographic knowledge of
@@ -3185,7 +3162,7 @@ engagement in pastoralist–farmer conflicts, there are potential formal
 and informal networks that could be drawn upon to aid
 pastoralism-related research and data access.
 
-## Researcher Neutrality and Trustworthiness 
+### Researcher Neutrality and Trustworthiness 
 
 The findings illuminate the challenge of staying ‘neutral’ or being
 ‘objective’ during data collection and analysis as a researcher. The
@@ -3208,7 +3185,7 @@ excessively. While there is a need to accept this unavoidable reality,
 our account demonstrates that researchers should always be looking for
 new and better ways of data collection and analysis.
 
-## Power Relations and Politics of Identity
+### Power Relations and Politics of Identity
 
 As discussed previously, our findings suggest the non-participatory
 behaviour of pastoralists in the release of data. They do so by
@@ -3257,7 +3234,7 @@ from public institutions could be entwined with data biases, retrieving
 herdsmen’s empirical data is more likely to be subjected to systemic
 biases and over-representation of data.
 
-# Conclusion
+## Conclusion
 
 This study has examined the challenges, strategies, and opportunities
 researchers employ to gain access to pastoralism-related data. To
@@ -3307,7 +3284,7 @@ institutions and their traditional role in mediating land access, the
 local government and police services, NGOs, and pastoralist
 associations.
 
-# Notes 
+## Notes 
 
 [^06chapter3_1]: This study forms a part of the project ‘Access–Authority Nexus in
     Farmer–Herder Conflicts’ (AAN), funded by the Danish Research
@@ -3409,8 +3386,7 @@ associations.
 
 
 
-# From Rights to Skills
-## Data Access for Teaching Data Literacy
+# 4. From Rights to Skills: Data Access for Teaching Data Literacy
 
 ### Midas Nouwens 
 
@@ -3494,7 +3470,7 @@ on our own experiences over the past three years. Lastly, we will
 discuss the limitations of using access rights in education based on
 their legal design and the interpretation of organisations.
 
-# Data Literacy 
+## Data Literacy 
 
 Academics critical of the restructuring of societies as a result of
 digitalization and datafication have started to advocate that the future
@@ -3541,53 +3517,22 @@ data and the socio-technical infrastructures surrounding it, with the
 goal to immunize the individual against informational harm and empower
 them to create alternative data worlds*.
 
-**\
-**
 
 **Table 4.1** Terms and definitions related to data literacy
 
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  > **Source**                                **Term**                       **Definition**
-  ------------------------------------------- ------------------------------ -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  > D’Ignazio and                             Big data literacy              ‘the ability to read, work with, analyze and argue with data’, as well as identifying data collection, understanding algorithmic processing of data, and weighing the impacts of data-driven decisions
-  >                                                                          
-  > Bhargava (2015)[^07chapter4_29]                                                     
+| **Source**                                                  	| **Term**                        	| **Definition**                                                                                                                                                                                                                                                                                                                            	|
+|-------------------------------------------------------------	|---------------------------------	|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
+| D’Ignazio andBhargava (2015)[^07chapter4_29]                	| Big data literacy               	| ‘the ability to read, work with, analyze and argue with data’, as well as identifying data collection, understanding algorithmic processing of data, and weighing the impacts of data-driven decisions                                                                                                                                    	|
+| Bucher (2016)[^07chapter4_30]                               	| Algorithmic imaginary           	| ‘ways of thinking about what algorithms are, what they should be and how they function’                                                                                                                                                                                                                                                   	|
+| Crusoe (2016)[^07chapter4_31]                               	| Data literacy                   	| ‘the knowledge of what data are, how they are collected, analyzed, visualized and shared, and … the understanding of how data are applied for benefit or detriment, within the cultural context of security and privacy’                                                                                                                  	|
+| Philip, Olivares-Pasillas, and Rocha (2016)[^07chapter4_32] 	| Racial data literacy            	| ‘the set of practices that are necessary for an individual to be racially literate about data and data-literate about race’ – for example, ‘examining how societal meanings about race are produced, in part, by the possibilities and constraints in the collection, storage, conversion, manipulation, and representation of data sets’ 	|
+| Gray, Gerlitz, and Bounegru (2018)[^07chapter4_33]          	| Data infrastructure literacy    	| ‘critical inquiry into datafication, into how datasets are created with certain purposes in mind as well as opening up “infrastructural imagination” … about how they might be created, used and organised differently (or not at all)’                                                                                                   	|
+| D’Ignazio and Bhargava (2018)[^07chapter4_34]               	| Data mindset                    	| ‘the ability to think both creatively and critically about what insights and stories might be possible to glean from data’                                                                                                                                                                                                                	|
+| Pangrazi and Selwyn (2019)[^07chapter4_35]                  	| Personal data literacy          	| ‘critical understandings of the reconstitutions and recirculation of data’, being able to identify what personal data is, understand how it is processed, reflect on its implications, use data oneself, and tactically resist, obfuscate, and repurpose data                                                                             	|
+| van Es, Coombs, and Boeschoten (2017)[^07chapter4_36]       	| Reflexive digital data analysis 	| digital data analysis (acquiring, cleaning, and analysing) in which ‘researchers consider their own role in the construction of the data’ and ‘take responsibility to discern how [the tools and platforms they use] shape the data’                                                                                                      	|
+| Sander (2020)[^07chapter4_37]                               	| Critical big data literacy      	| ‘awareness, understanding and ability to critically reflect upon big data collection practices, data uses and the possible risks and implications that come with these practices, as well as the ability to implement this knowledge for a more empowered internet usage’                                                                 	|
 
-  > Bucher (2016)[^07chapter4_30]                        Algorithmic imaginary          ‘ways of thinking about what algorithms are, what they should be and how they function’
-
-  > Crusoe (2016)[^07chapter4_31]                        Data literacy                  ‘the knowledge of what data are, how they are collected, analyzed, visualized and shared, and … the understanding of how data are applied for benefit or detriment, within the cultural context of security and privacy’
-
-  > Philip, OlivaresPasillas, and Rocha       Racial data literacy           ‘the set of practices that are necessary for an individual to be racially literate about data and data-literate about race’ – for example, ‘examining how societal meanings about race are produced, in part, by the possibilities and constraints in the collection, storage, conversion, manipulation, and representation of data sets’
-  >                                                                          
-  > (2016)[^07chapter4_32]                                                              
-
-  > Gray, Gerlitz, and Bounegru (2018)[^07chapter4_33]   Data infrastructure literacy   ‘critical inquiry into datafication, into how datasets are created with certain purposes in mind as well as opening up “infrastructural imagination” … about how they might be created, used and organised differently (or not at all)’
-
-  > D’Ignazio and                             Data mindset                   ‘the ability to think both creatively and critically about what insights and stories might be possible to glean from data’
-  >                                                                          
-  > Bhargava (2018)[^07chapter4_34]                                                     
-
-  > Pangrazi and Selwyn (2019)[^07chapter4_35]           Personal data literacy         ‘critical understandings of the reconstitutions and recirculation of data’, being able to identify what personal data is, understand how it is processed, reflect on its implications, use data oneself, and tactically resist, obfuscate, and repurpose data
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-(*Contd* )
-
-**\
-**
-
-**Table 4.1** (*Contd* )
-
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  > **Source**                       **Term**                          **Definition**
-  ---------------------------------- --------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  > van Es, Coombs, and Boeschoten   Reflexive digital data analysis   digital data analysis (acquiring, cleaning, and analysing) in which ‘researchers consider their own role in the construction of the data’ and ‘take responsibility to discern how \[the tools and platforms they use\] shape the data’
-  >                                                                    
-  > (2017)[^07chapter4_36]                                                        
-
-  > Sander (2020)[^07chapter4_37]               Critical big data literacy        ‘awareness, understanding and ability to critically reflect upon big data collection practices, data uses and the possible risks and implications that come with these practices, as well as the ability to implement this knowledge for a more empowered internet usage’
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-*Source*: Collated by the authors from the sources listed in the
+*Source*: Collated by the author from the sources listed in the
 ‘Sources’ column.
 
 The pedagogy of data literacy is still unsettled, in terms of both
@@ -3627,7 +3572,7 @@ any systematic reflection on the role that access rights can have,
 either as part of exercise design or as a subject of study in its own
 right.
 
-# Access Rights in EU Tech Law
+## Access Rights in EU Tech Law
 
 Access rights over personal data have existed in Europe in some form
 since the 1970s.[^07chapter4_50] They were harmonized for the first time across the
@@ -3648,7 +3593,7 @@ citizens over public data through freedom of information legislation,
 but since their focus is not primarily about increasing transparency or
 control over digital technologies, these are not included.
 
-## Article 15 of the General Data Protection Regulation
+### Article 15 of the General Data Protection Regulation
 
 The GDPR[^07chapter4_53] is a regulation that governs the processing of personal
 data about people in the EU, and one of its missions is to address the
@@ -3668,32 +3613,14 @@ being used for automated decision-making.
 
 **Table 4.2** A simplified overview of data access rights in the EU
 
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  > **Law**                  **Type of data**                                                            **Right holder**           **Applicable to**                                **Access modality**                                                                                   **Response time**
-  -------------------------- --------------------------------------------------------------------------- -------------------------- ------------------------------------------------ ----------------------------------------------------------------------------------------------------- --------------------------------------------
-  > GDPR,                    Personal data                                                               Any individual             Data controllers                                 Commonly used electronic form                                                                         30 days
-  >                                                                                                                                                                                                                                                                                        
-  > Article15                                                                                                                                                                                                                                                                              
-
-  > GDPR,                    Personal data                                                               Any individual             Data controllers                                 Structured, commonly used, and machinereadable format                                                 30 days
-  >                                                                                                                                                                                                                                                                                        
-  > Article 20                                                                                                                                                                                                                                                                             
-
-  > DSA,                     Data necessary to study systemic risks and mitigation strategies            (Vetted) researchers       Very large online platforms and search engines   Appropriate interfaces specified by researcher, platform, or search engine; real-time (if possible)   15 days
-  >                                                                                                                                                                                                                                                                                        
-  > Article 40                                                                                                                                                                                                                                                                             
-
-  > DMA, Article 6(9)        Data provided and generated by an end user                                  Users/                     Gatekeepers                                      Effective, continuous, and real-time                                                                  Immediate
-                                                                                                                                                                                                                                                                                           
-                                                                                                         Authorised third parties                                                                                                                                                          
-
-  > Data Act, Articles 3–4   Product and service data, including metadata necessary for interpretation   Users/                     Data holders                                     Comprehensive,                                                                                        Directly accessible or without undue delay
-                                                                                                                                                                                                                                                                                           
-                                                                                                         Authorised third parties                                                    structured, commonly used, machinereadable, continuous, and                                           
-                                                                                                                                                                                                                                                                                           
-                                                                                                                                                                                     real-time                                                                                             
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+| **Law**                	| **Type of data**                                                          	| **Right holder**               	| **Applicable to**                              	| **Access modality**                                                                                 	| **Response time**                          	|
+|------------------------	|---------------------------------------------------------------------------	|--------------------------------	|------------------------------------------------	|-----------------------------------------------------------------------------------------------------	|--------------------------------------------	|
+| GDPR, Article15        	| Personal data                                                             	| Any individual                 	| Data controllers                               	| Commonly used electronic form                                                                       	| 30 days                                    	|
+| GDPR, Article 20       	| Personal data                                                             	| Any individual                 	| Data controllers                               	| Structured, commonly used, and machine- readable format                                             	| 30 days                                    	|
+| DSA, Article 40        	| Data necessary to study systemic risks and mitigation strategies          	| (Vetted) researchers           	| Very large online platforms and search engines 	| Appropriate interfaces specified by researcher, platform, or search engine; real-time (if possible) 	| 15 days                                    	|
+| DMA, Article 6(9)      	| Data provided and generated by an end user                                	| Users/Authorised third parties 	| Gatekeepers                                    	| Effective, continuous, and real-time                                                                	| Immediate                                  	|
+| Data Act, Articles 3–4 	| Product and service data, including metadata necessary for interpretation 	| Users/Authorised third parties 	| Data holders                                   	| Comprehensive, structured, commonly used, machine- readable, continuous, and real-time              	| Directly accessible or without undue delay 	|
+  
 *Source*: Collated by the authors.
 
 The European Data Protection Board (EDPB), the institution responsible
@@ -3724,7 +3651,7 @@ instructions from the EDPB are intended to protect the right from
 constraints that might emerge in practice and to make it as easy as
 possible for people to exercise.
 
-## Article 20 of the General Data Protection Regulation 
+### Article 20 of the General Data Protection Regulation 
 
 The right to data portability gives people the right to receive a copy
 of their personal data that is processed by automated means (that is,
@@ -3760,7 +3687,7 @@ explains to the data subject why it needs more time. If there is too
 much data to transmit digitally within a reasonable time frame,
 controllers should consider alternative (physical) media.
 
-## Article 40 of the Digital Services Act 
+### Article 40 of the Digital Services Act 
 
 The DSA[^07chapter4_61] regulates online services to try to make them safer and
 more transparent.[^07chapter4_62] Article 40 of the DSA tries to support this by
@@ -3798,7 +3725,7 @@ interfaces). Those individuals who qualify for access as per paragraph
 12 can request data directly without going through the DSC, which they
 should receive ‘without undue delay’ and (if possible) in ‘real time’.
 
-## Article 6(9) of the Digital Markets Act 
+### Article 6(9) of the Digital Markets Act 
 
 The DMA[^07chapter4_63] tries to address characteristics of digital businesses that
 result in a lack of contestability (that is, monopolies), such as
@@ -3822,7 +3749,7 @@ high-quality technical measures, such as application programming
 interfaces’[^07chapter4_65] that make it possible to access this data ‘continuously
 and in real time’.
 
-## Articles 3 and 4 of the Data Act
+### Articles 3 and 4 of the Data Act
 
 EU policies related to data have longstanding tensions between, on the
 one hand, wanting to protect fundamental rights while, on the other,
@@ -3857,7 +3784,7 @@ should be substantiated and the competent authorities should be notified
 of it, which are burdens placed on data holders to make sure it does not
 restrict the user’s data rights for their own gain.
 
-\*\*\*
+<p style="text-align: center;">***</p>
 
 The access rights given to users across these different EU regulations
 overlap and expand on each other, sometimes explicitly (as in the case
@@ -3872,7 +3799,7 @@ enough to have had an impact, and preliminary signals indicate low
 levels of compliance[^07chapter4_68] and no increase in people’s feelings of
 control over their personal data.[^07chapter4_69]
 
-# Teaching Data Literacy Using Access Rights 
+## Teaching Data Literacy Using Access Rights 
 
 The EU’s imaginary of access rights and the goals of teachers advocating
 for data literacy overlap: both want to empower citizens against the
@@ -4192,7 +4119,7 @@ Klokmose, and Susanne Bødker call ‘computational alternatives’[^07chapter4_
 and, through them, give shape to the digital worlds that they would like
 to live in.
 
-\*\*\*
+<p style="text-align: center;">***</p>
 
 What data literacy means and how it should be taught is not a settled
 question yet, although broadly speaking it includes competences in
@@ -4208,7 +4135,7 @@ arguing for a critical perspective on data literacy, these exercises can
 be used for non-technical students to reflect on and discuss the larger
 political structures that data is part of.
 
-# Limitations of Using Access Rights in Education
+## Limitations of Using Access Rights in Education
 
 Based on our personal experiences and reflections described earlier,
 access rights can help university students develop data literacy.
@@ -4292,7 +4219,7 @@ restricted interpretation would be a sandboxed environment where
 computations can be ran ‘in situ’ but which keeps individual data points
 obfuscated inside the platform.[^07chapter4_100]
 
-# Conclusion 
+## Conclusion 
 
 New EU regulations are poised to expand access rights to how digital
 companies collect and process data, doubling down on the EU’s governance
@@ -4361,7 +4288,7 @@ of power and political economy (and thus perhaps less glittery than data
 literacy) should also be considered as legitimate foundations for a
 pedagogy of the oppressed in digital societies.
 
-# Notes
+## Notes
 
 [^07chapter4_1]: EU General Data Protection Regulation (GDPR): Regulation (EU)
     2016/679 of the European Parliament and of the Council of 27 April
@@ -4829,9 +4756,10 @@ pedagogy of the oppressed in digital societies.
 
 
 
-# Keys Thrown Away?
+# Part II: Limitations
 
-## Challenges in Brazil on Accessing Public-Interest Data on State Surveillance Tools via Transparency Portals and Requests for Information[^08chapter5_1]
+
+# 5. Keys Thrown Away? Challenges in Brazil on Accessing Public-Interest Data on State Surveillance Tools via Transparency Portals and Requests for Information[^08chapter5_1]
 
 ### André Ramiro, Pedro Amaral, and Marcos César M. Pereira
 
@@ -5015,7 +4943,7 @@ given were based on legal hypotheses of secrecy of public information or
 even the allegation of non-existence of such contracts and/or
 technologies.
 
-## Institutional Reach of Hacking Tools and Involvement with Corruption Cases
+### Institutional Reach of Hacking Tools and Involvement with Corruption Cases
 
 The capillarity of tools illustrated in the contracts we found even
 points to the existence of data extraction tools in agencies that,
@@ -5056,7 +4984,7 @@ solutions’.[^08chapter5_29] In a 2015 army report, contracting with Verint for
 acquisition of electronic warfare support measures (MAGE) was already
 mentioned.
 
-## Brief (Lack of) Legal Framework and the Legitimization of a Grey Market 
+### Brief (Lack of) Legal Framework and the Legitimization of a Grey Market 
 
 As the objective of this chapter is not to exhaustively analyse each of
 these law’s frameworks, the general conclusion is that none of the
@@ -5350,7 +5278,7 @@ endanger national security? Would the simple appointment of a
 to be classified, or further and more qualified justification would be
 necessary?
 
-### From Theory to Reality: Three Dimensions of Limits toTransparency Effectiveness
+### From Theory to Reality: Three Dimensions of Limits to Transparency Effectiveness
 
 Although we can argue, on the one hand, that this legal framework
 establishes an ideally proportional and legitimate general rule, on the
@@ -5624,7 +5552,7 @@ and transparency can also be further explored through the lens of
 experiences in other countries, including investigative journalists,
 non-governmental organizations (NGOs) or civil society, and researchers.
 
-# Notes
+## Notes
 
 [^08chapter5_1]: The authors would like to express their sincere gratitude to
     Mariana Canto for her valuable and insightful contribution during
@@ -6221,7 +6149,7 @@ non-governmental organizations (NGOs) or civil society, and researchers.
 
 
 
-# Digging into EU Data Laws and Their Impact on African Researchers[^09chapter6_1]
+# 6. Digging into EU Data Laws and Their Impact on African Researchers[^09chapter6_1]
 
 ### Paul Esselaar
 
@@ -6229,7 +6157,7 @@ There is a well-known saying that when the United States (US) sneezes,
 the rest of the world catches a cold. While this used to be true for
 Africa, the European Union (EU) has become the single most important
 market for African goods, with Africa exporting 33 per cent of its goods
-to the EU and importing 31 per cent of its goods from the continent.[^09chapter6_2]
+to the EU and importing 31 per cent of its goods from the EU.[^09chapter6_2]
 In addition, the EU is the largest source of foreign direct investment
 in South Africa,[^09chapter6_3] and legislative changes to the EU have an
 inevitable and significant impact on African countries. This has been
@@ -6254,12 +6182,10 @@ The Brussels effect has influenced not only the laws the African
 countries but also their regulators, and even court decisions have
 followed the approach of the Court of Justice of the EU.[^09chapter6_7] Regional
 organizations such as the Economic Community of West African States
-(WAEMU) and the Common Market for Easter and Southern Africa (COMESA)
+(WAEMU) and the Common Market for Eastern and Southern Africa (COMESA)
 have also been modelled on the EU, to such an extent that the Court of
 Justice for WAEMU ruled that the Treaty of Dakar (which established
-WAEMU) should be interpreted with reference to the Treaty of Rome (which
-founded the European Community and the jurisprudence of the Court of
-Justice of the EU).[^09chapter6_8]
+WAEMU) should be interpreted with reference to the Treaty of Rome (which founded the European Community and the jurisprudence of the Court of Justice of the EU).[^09chapter6_8]
 
 The Brussels effect refers not only to the *de jure* influence of
 Europe, but also a *de facto* influence. An example of this effect is
@@ -6413,7 +6339,7 @@ which is surprising, considering how entrenched the concept of personal
 data was thought to be. One particular development occurred on 26 April
 2023 in the case of *Single Resolution Board v. European Data Protection
 Supervisor* in the General Court (Eighth Chamber, Extended
-Composition)[^09chapter6_34] Pwhere the court was required to provide guidance on
+Composition)[^09chapter6_34] where the court was required to provide guidance on
 whether pseudonymized data was ‘data’ or ‘personal data’. Up until this
 case, it was considered to be settled law that ‘pseudonymized data’ was
 always ‘personal data’.[^09chapter6_35]
@@ -6618,7 +6544,7 @@ only the integrity of the African researcher that is of concern but also
 the likelihood of state or political interference that must be
 considered before deciding to share data with an African researcher.
 
-##Administrative Burden
+### Administrative Burden
 
 Starting with the DA, the administrative burden on African researchers
 to get access to data is similar to obtaining a Schengen visa for data.
@@ -6654,7 +6580,7 @@ to Meta’s data about election interference in the EU in terms of the
 DSA, but an African researcher has no similar law to ask Meta for data
 about election interference in Tanzania.
 
-##Agreement Template for Data
+### Agreement Template for Data
 
 One of the key aspects of the GDPR was the guideline on when to share
 personal data and how to manage the sharing if you, as the data
@@ -6676,7 +6602,7 @@ model contractual terms now has a deadline of 12 September 2025.[^09chapter6_59]
 similar argument can be made for data made available in terms of the
 other EU Data Laws.
 
-## Lack of Hegemony in African Legal Systems
+### Lack of Hegemony in African Legal Systems
 
 As the initial version of the proposed DA’s explanatory memorandum
 notes,[^09chapter6_60] regulating data at an EU member level is simply not
@@ -6711,7 +6637,7 @@ data regulation perspective as most African countries simply do not have
 laws that deal with data holistically, let alone tools which facilitate
 multinational comparisons in data regulation.
 
-## Omission of Researcher Rights to Access Data 
+### Omission of Researcher Rights to Access Data 
 
 Unlike the Digital Services Act, the Digital Markets Act simply omits
 any reference to research or researchers completely, which in turn means
@@ -6740,7 +6666,7 @@ considerable product data from its Ghanian users which is repatriated to
 France. Once the product data is in France, it is unclear if Ghanian
 researchers would be able to get access to this product data.
 
-## Unfair Access by EU Authorities to Data Produced Outside of the EU
+### Unfair Access by EU Authorities to Data Produced Outside of the EU
 
 While the DA does require data holders to provide information to EU
 public sector bodies, it is not clear that the data must emanate from
@@ -6755,7 +6681,7 @@ is the fact that this product data may have no personal data component,
 which could result in the EU authorities having better data on
 situations in the African countries than the African country itself.
 
-# The African Union Data Policy Framework
+### The African Union Data Policy Framework
 
 Up to this point, the focus has been on the digital strategy that the EU
 has adopted and how it has put this into practice. As pointed out
@@ -6877,7 +6803,7 @@ played by the regulatory bodies tasked with enforcing them. How
 precisely should African countries implement similar data laws if they
 will never have the funds to enforce them?
 
-# Cutting through the Red Tape: Enabling African Researcher Access
+## Cutting through the Red Tape: Enabling African Researcher Access
 
 Up to this point, this chapter has focused on the – possibly unintended
 – barriers to data access for African researchers. The following section
@@ -6887,7 +6813,7 @@ has introduced a kind of legislative neo-colonialism, Europe has a moral
 duty to expand its impact analysis of the EU data laws on the effect of
 these laws outside EU borders.
 
-# Standard Contractual Clauses for Transfers of Data
+### Standard Contractual Clauses for Transfers of Data
 
 Despite there being considerable notice of the transition from Directive
 95/46/ EC[^09chapter6_94] to the GDPR in 2018, the standard contractual clauses for
@@ -6906,7 +6832,7 @@ clauses for the transfer of product data would be made available by the
 EU in a much shorter time frame, in order to provide some assistance to
 African researchers wishing to access data.
 
-## Code of Conduct for Researchers
+### Code of Conduct for Researchers
 
 One way to ease the burden on African researchers would be for the EU to
 provide a guideline that researchers, governed by an approved code of
@@ -6930,7 +6856,7 @@ purposes of research. As with the standard contractual clauses mentioned
 earlier, this may well be the time to start considering a holistic code
 of conduct that deals with all data types.
 
-## AU Conventions Dealing with Data 
+### AU Conventions Dealing with Data 
 
 The AUDPF is a very useful and necessary step in the development of
 African policy on data, but it does come several years after the same
@@ -6954,7 +6880,7 @@ regulators to get valuable insight into how to regulate the sector. In
 2018, approximately 20 countries were actively exploring the concept of
 regulatory sandboxes.[^09chapter6_105]
 
-## Evaluation of Impact of Data Laws on African Countries
+### Evaluation of Impact of Data Laws on African Countries
 
 Bearing in mind the novelty of the data laws, the EU wisely commissioned
 impact assessments and conducted participant studies and questionnaires
@@ -7037,7 +6963,7 @@ sophistication in existing African laws. To amend a well-known adage,
 give a researcher the answer and you solve the problem of the day, but
 give her access to data and you help her solve problems for a lifetime.
 
-# Notes
+## Notes
 
 [^09chapter6_1]: This work was supported by the United States’s National Institute
     of Mental Health and the National Institutes of Health (award number
@@ -7144,12 +7070,7 @@ give her access to data and you help her solve problems for a lifetime.
     September 2023, https://perma.cc/KR8U-JQ8D (accessed 22 October
     2023).
 
-[^09chapter6_23]: On 6 September 2023, the European Commission determined that six
-    companies – Alphabet, Amazon, Apple, ByteDance, Meta, and Microsoft
-    – were gatekeepers in terms of the DMA. ‘Digital Markets Act:
-    Commission Designates Six Gatekeepers’, European Commission, 6
-    September 2023, https://perma.cc/KR8U-JQ8D (accessed 22 October
-    2023).
+[^09chapter6_23]: ‘European Parliament Legislative Resolution of 13 March 2024 on the Proposal for a Regulation of the European Parliament and of the Council on Laying Down Harmonized Rules on Artificial Intelligence (Artificial Intelligence Act) and Amending Certain Union Legislative Acts (COM (2021) 0206 – C9-0146/2021 – 2021/0106 (COD))’, https://www.europarl.europa.eu/ doceo/document/TA-9-2024-0138-FNL-COR01_EN.pdf (accessed 8 April 2024).
 
 [^09chapter6_24]: AIA, Article 6.
 
@@ -7182,14 +7103,14 @@ give her access to data and you help her solve problems for a lifetime.
     apposite.
 
 [^09chapter6_34]: Case T-557/20 *Single Resolution Board v. European Data
-    Protection Supervisor* \[2023\] ECLI:EU:2023”219,
+    Protection Supervisor* \[2023\] ECLI:EU:2023:219,
     https://eur-lex.europa.eu/legal-content/EN/
     TXT/?uri=CELEX%3A62020TJ0557 (accessed 15 December 2024).
 
 [^09chapter6_35]: See, for example, the statement by Thomas Zerdick, head of
     technology and privacy at the EDPS: ‘Unlike anonymised data,
     pseudonymised data qualifies as personal data under the General Data
-    Protection Regulation (GDPR)’. Thomas Zerdick, ‘Pseudonoymous Data:
+    Protection Regulation (GDPR)’. Thomas Zerdick, ‘Pseudonymous Data:
     Processing Personal Data while Mitigating Risks’, European Data
     Protection Supervisor, 21 December 2021,
     https://edps.europa.eu/press-publications/press-news/blog/pseudonymousdata-processing-personal-data-while-mitigating\_en
@@ -7321,10 +7242,10 @@ give her access to data and you help her solve problems for a lifetime.
     https://www.tralac.org/publications/article/14641trade-in-the-digital-economy-a-tralac-collection.html
     (accessed 15 December 2024).
 
-[^09chapter6_65]: Also known as the Malombo Convention. Only 13 countries have
+[^09chapter6_65]: Also known as the Malabo Convention. Only 13 countries have
     ratified the convention as of 28 February 2023. See
     https://au.int/sites/default/
-    files/treaties/29560-treaty-0048\_-\_african\_union\_convention\_on\_cyber\_
+    files/treaties/29560-treaty-0048\_\_african\_union\_convention\_on\_cyber\_
     security\_and\_personal\_data\_protection\_e.pdf (accessed 15
     December 2024).
 
@@ -7382,13 +7303,12 @@ give her access to data and you help her solve problems for a lifetime.
 
 [^09chapter6_86]: ‘AU Data Policy Framework’, 34.
 
-[^09chapter6_87]: ‘AU Data Policy Framework’, 35. In *Discovery Limited and Others
-    v. Liberty Group Limited*, a solution to the multitude of interests
+[^09chapter6_87]: ‘AU Data Policy Framework’, 35. In *Discovery Limited and Others v. Liberty Group Limited*, a solution to the multitude of interests
     in data was defined, upholding both data protection and competition.
     In essence, the court held that in such disputes, if the data is
     personal in nature, it is ‘owned’ by the data subject, and
     competitors may not exclude others from accessing this information.
-    ZAGPJHC 67, \[2000\], https://www.saflii.org/za/cases/
+    ZAGPJHC 67, \[2020\], https://www.saflii.org/za/cases/
     ZAGPJHC/2020/67.html (accessed 30 July 2023).
 
 [^09chapter6_88]: ‘AU Data Policy Framework’, 39.
@@ -7445,7 +7365,7 @@ give her access to data and you help her solve problems for a lifetime.
     Thaldar, ‘Despite Good Progress with Regard to the Proposed Code of
     Conduct for Research in South Africa, Unresolved Issues Remain’,
     *Humanities and Social Sciences Communications* (2024), DOI:
-    https://doi. org/10.1057/s41599-024-02715-0.
+    https://doi.org/10.1057/s41599-024-02715-0.
 
 [^09chapter6_98]: See, for example, clause 4.2.2.3 of the Code of Conduct, which
     states that researchers must ‘ensure that the Personal Information
@@ -7531,8 +7451,9 @@ give her access to data and you help her solve problems for a lifetime.
     backdoor into access by African researchers to data held in the EU.
 
 
+# Part III: Promises
 
-# A Subject Access Request, Then What? (Un)structuring Online Analytics for Data Institutions
+# 7. A Subject Access Request, Then What?: (Un)structuring Online Analytics for Data Institutions
 
 ### Jake Stein and Reuben Binns
 
@@ -7611,11 +7532,7 @@ Individual data access regimes contained in data protection regulations
 like the General Data Protection Regulation (GDPR), 2018, and the
 California Consumer Privacy Act (CCPA), 2018, and aggregate data access
 rights for researchers contained in successive regulation like the
-Digital
-
-A Subject Access Request, Then What? 201
-
-Services Act (DSA), 2024, as well as voluntary access to research
+Digital Services Act (DSA), 2024, as well as voluntary access to research
 application programming interfaces (APIs) provide a convenient side
 door, allowing activists and researchers to access data without facing
 the costs of constructing net-new data collection infrastructure
@@ -7707,11 +7624,7 @@ relevant to our pursuit in several ways. First, at the lowest level, it
 helps illustrate the contingency of data’s meaning upon its context and
 which other data or knowledge it is enriched with. Second, the parallax
 could be regarded as an essential quality for data structures meant to
-serve different,
-
-A Subject Access Request, Then What? 203
-
-even conflicting end goals – in our case, the empowerment of the
+serve different, even conflicting end goals – in our case, the empowerment of the
 individual to use their data to act more effectively *within* a system,
 but also for the collective critique of that system with the goal of
 changing its rules and configuration to benefit the data subject. We see
@@ -7778,7 +7691,7 @@ inconsistent use of data fields with the same names.
 
 The structures that impeded our analysis of data occurred at three
 levels: the schema (or table), field (or column), and value (or cell)
-(Figure 9.1). Our analysis was obstructed by features of the data which
+(Figure 7 9.1). Our analysis was obstructed by features of the data which
 were present in all of the responses and separately by inconsistencies
 in the structure within responses themselves or between responses when
 aggregated or compared. These structures and inconsistencies among them
@@ -7799,14 +7712,7 @@ accordingly (unless of course they are instructed); nor are data
 controllers like Uber expressly obligated to deliver data in its most
 disaggregated form. However, we might argue that supplying data in a
 disaggregated format is a straightforward and uncontroversial
-requirement of interoperability and portability that should require
-
-12/1/22 12/1/22
-
-**Figure 9.1** Schema, field, and data levels of data structure
-*Source*: Prepared by the authors.
-
-little marginal effort.[^10chapter7_23] One could even go as far as attributing
+requirement of interoperability and portability that should require little marginal effort.[^10chapter7_23] One could even go as far as attributing
 some obfuscating data structures provided by Uber as good-faith yet
 misguided attempts to provide drivers with the metrics they may more
 easily interpret. Intended or not, inconsistencies in data structure had
@@ -7819,7 +7725,11 @@ facilitate the maximum possible number of further aggregations. With
 that in mind, we briefly unpack some of the schema-, field-, and
 cell-level obfuscation which held back our analysis.
 
-### The Schema Level
+![**Figure 7.1** Schema, field, and data levels of data structure.](imgs/figure1.svg)
+
+*Source*: Prepared by the authors
+
+**The Schema Level**
 
 Schema-level structure refers to the decisions made about how many
 independent tables a database is composed of, which fields are held in
@@ -7854,7 +7764,7 @@ for accepting consecutive trips. This table likewise had no ability to
 be linked to individual trip records, even when payments were associated
 with the completion of particular incentive or goal.
 
-### The Table Level
+**The Table Level**
 
 A similar link is lacking between the dispatch and trip tables. This
 missing link also illustrated how table-level data structures interact
@@ -7918,7 +7828,7 @@ subjects, and of course the artefacts of the source system. Elsewhere in
 the DSAR response, records similar to those in the dispatches table are
 left disaggregated as is the case of individual trip records.
 
-### The Field and Cell Levels
+**The Field and Cell Levels**
 
 Finally, data on a cell-by-cell level significantly hampered analysis.
 As with schema- and table-level obfuscation, this was the result of both
@@ -8085,6 +7995,10 @@ data infrastructures only accommodate rigid definitions for metrics to
 be repeatedly applied, and as a result they are highly sensitive to even
 small changes in underlying data.
 
+![**Figure 7.2** The nested logics encoded in DSAR data.](imgs/figure2.svg)
+
+*Source*: Prepared by the authors.
+
 Furthermore, encoding rigid definitions (like Uber’s and WIE’s competing
 definitions of pay-per-hour) into the structures inherently narrows the
 interpretation of the data. DigiPower academy provides an example of
@@ -8245,7 +8159,11 @@ the relationship between individual psychoanalytic conditions and social
 movements or between economic conditions and political conflicts – our
 understanding exists in a certain tensile stasis. Each perspective is
 untranslatable and fundamentally different yet somehow resolve as one
-event (Figure 9.3).
+event (Figure 7.3).
+
+![**Figure 7.3** Illustration of parallax.](imgs/figure3.svg)
+
+ *Source*: Prepared by the authors based on Justin Wick’s example of parallax, Wikimedia Commons, https://commons.wikimedia.org/wiki/File:Parallax\_Example.png (accessed 12 December 2024).
 
 Our choice of design for public-service data architectures resonates
 with this framing. First, it accurately embodies our dilemma of
@@ -8269,19 +8187,7 @@ Data subjects, activists, academics, and their respective funders see
 the same data through different lenses. Some of these lenses do not
 necessarily gaze towards a ground truth captured in data, but instead
 critique the behaviours and intentions couched in the structural
-artefacts left by prior manipulations
-
-> ![](media/image1.png){width="2.6068853893263344in"
-> height="4.899384295713036in"}
-
-**Figure 9.3** Illustration of parallax
-
-*Source*: Prepared by the authors based on Justin Wick’s example of
-parallax, Wikimedia Commons,
-https://commons.wikimedia.org/wiki/File:Parallax\_Example.png (accessed
-12 December 2024).
-
-and ontologies. In this sense, suitable analytics infrastructures must
+artefacts left by prior manipulations and ontologies. In this sense, suitable analytics infrastructures must
 be *parallax* in nature. That is, though relying on the same material
 data as their basis, they must support inquiry which pursues divergent
 epistemologies of the data and interpretations of autonomy.
@@ -8495,7 +8401,7 @@ source data, but is ultimately at risk of losing access to data should
 platforms cut off data flows as Deliveroo, a UK-based food delivery
 platform, has recently done.[^10chapter7_48]
 
-# Conclusion
+## Conclusion
 
 The technological innovation that has facilitated platform dominance
 could also be used to supplant the information asymmetries it has
@@ -8529,7 +8435,7 @@ data or technology but from understanding how to redraw deeply
 intrenched institutional boundaries, while also including data subjects
 to participate in shifting power.
 
-# Notes
+## Notes
 
 [^10chapter7_1]: Rob Kitchin and Gavin McArdle, ‘What Makes Big Data, Big Data?
     Exploring the Ontological Characteristics of 26 Datasets’, *Big Data
@@ -8764,15 +8670,14 @@ to participate in shifting power.
 
 
 
-# Data Intermediaries for Good 
-## Can Data Intermediation Services Help Data Access in Research?
+# 8. Data Intermediaries for Good: Can Data Intermediation Services Help Data Access in Research?
 
 ### Matteo Nebbiai
 
 Data is a crucial competitiveness factor for an increasing number of
 organizations in the global economy. At the same time, asymmetries in
 data availability are generating debates on the effect of digital
-markets on the functioning of markets,[^11chapter8_1] competition policy,[^11chapter8_2] and
+technologies on the functioning of markets,[^11chapter8_1] competition policy,[^11chapter8_2] and
 capitalism.[^11chapter8_3] This asymmetry is also reflected by the limited benefits
 that the academic community obtained from the ‘big data flood’. Various
 scholars have highlighted how online platforms such as Facebook and X
@@ -8795,12 +8700,12 @@ or search engines.[^11chapter8_9]
 
 In addition to this top-down approach, EU legislators increasingly see
 ‘data intermediaries’ as potential facilitators for consumer-to-business
-and businessto-business data transactions.[^11chapter8_10] While a shared
+and business-to-business data transactions.[^11chapter8_10] While a shared
 definition remains debated, ‘data intermediaries’ can be described as
 actors positioned between data holders and data users that facilitate
 data sharing.[^11chapter8_11] It has been suggested that the focus on
 intermediaries is attractive because it ‘lies between the two extremes
-of selfregulation and detailed binding statutory obligations’.[^11chapter8_12]
+of self-regulation and detailed binding statutory obligations’.[^11chapter8_12]
 
 The Data Governance Act (DGA), adopted on 30 May 2022, introduces a
 series of rules for intermediary actors, by creating the categories of
@@ -8867,7 +8772,7 @@ organisation’.[^11chapter8_25]
 
 The DGA considers data altruism organizations and DISs as distinct types
 of initiatives, whose line of demarcation is the operation on a
-for-profit or not-forprofit basis.[^11chapter8_26] Moreover, it recognizes in data
+for-profit or not-for-profit basis.[^11chapter8_26] Moreover, it recognizes in data
 altruism organizations the purpose of supporting academic research,[^11chapter8_27]
 whereas the DISs are only defined by their commercial purposes.
 
@@ -8950,7 +8855,7 @@ Projects that never passed the stage of prototype (that could not be
 used by a data holder or user simply by accessing its webpage) were not
 included. Projects whose material was not available online[^11chapter8_43] on the
 date of 31 May 2023 have been also excluded. The final dataset is
-available in Table 10A.1 (Appendix 10A).
+available in Table 8A.1 (Appendix 8A).
 
 > The following features have been collected for each DIS:
 
@@ -8959,18 +8864,17 @@ available in Table 10A.1 (Appendix 10A).
 
 -   *type of DIS* – that is, the category identified by the DGA[^11chapter8_44]
     into which the organization falls:
-
-> a\. infrastructure: services offering infrastructure intermediating data
-> exchange between data holders and users (that is, data marketplaces);
-> *b*. subject-centred: services enabling data subjects to make their data
-> available to data users and exercise their GDPR rights (that is,
->
-> PIMSs); and
->
-> *c*. cooperative: organizations supporting their members in the
-> exercise of their data rights. For some DISs, more than one category
-> could be applied; the ‘dominant’ one has been decided by analysing in
-> which order the provider states its main goals; and
+	
+	> *a*. infrastructure: services offering infrastructure intermediating data
+	> exchange between data holders and users (that is, data marketplaces);
+	> 
+	> *b*. subject-centred: services enabling data subjects to make their data
+	> available to data users and exercise their GDPR rights (that is, PIMSs); and
+	>
+	> *c*. cooperative: organizations supporting their members in the
+	> exercise of their data rights. For some DISs, more than one category
+	> could be applied; the ‘dominant’ one has been decided by analysing in
+	> which order the provider states its main goals; and
 
 -   *data specialization* – that is, some DISs focus on data related to
     a specific disciplinary sector (health data, agricultural data, and
@@ -8980,13 +8884,13 @@ available in Table 10A.1 (Appendix 10A).
 
 ## Empirical Analysis
 
-The dataset contains 54 DISs. As shown in Figure 10.1, most of them are
+The dataset contains 54 DISs. As shown in Figure 8.1, most of them are
 based in the Netherlands, the United States (US), the UK, and France.
 Particularly, the Netherlands has such a high number because of its
 ecosystem of ‘personal health environments’ used by citizens to share
 data with the healthcare system.[^11chapter8_45]
 
-Figure 10.2 shows the frequency of the features collected in the
+Figure 8.2 shows the frequency of the features collected in the
 dataset. The figure on the left shows the ‘types’ of DISs, according to
 the taxonomy proposed by the DGA (see the previous section). The
 majority of DISs in the dataset are subject-centred (that is, PIMSs and
@@ -8995,30 +8899,13 @@ data rights), and there is a significant number of DISs enabling the
 infrastructure for data exchanges. No operating data cooperatives have
 been found in the data collection. The figure on the right shows how
 many specialized (focusing on data related to a certain disciplinary
-sector) and
-
-  ------------------------------------------------------------------------------------
-  19
-  
-    --------------------------------------------------------------------------------
-                                                          7     > 8   
-                                                                      
-                                                          > 5         
-    ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- -- -- -- -- --
-    > 1   > 1   > 1   > 1   > 1   > 1   > 2   > 2   > 2   > 2   3                 
-  
-                                                                               
-    --------------------------------------------------------------------------------
-  
-  ------------------------------------------------------------------------------------
-
-**Figure 10.1** Country of establishment of DISs that have been
-accessible in the territory of the EU and the UK between 2000 and 2022
-*Source*: Prepared by the author.
-
-unspecialized DISs are contained in the dataset. The majority of DISs
+sector) and unspecialized DISs are contained in the dataset. The majority of DISs
 gather data from a specific sector – particularly, 2 collect
 agricultural data and 34 collect health data.
+
+![**Figure 8.1** Country of establishment of DISs that have been accessible in the territory of the EU and the UK between 2000 and 2022](imgs/figure8-1.png)
+
+*Source*: Prepared by the author.
 
 To understand whether these intermediaries can improve data access for
 researchers, I first need to conceptualize which features indicate how
@@ -9037,14 +8924,13 @@ researchers. Particularly, I scrutinized the literature on the *indexes*
 measuring how open government data are to third parties, allowing them
 to create services, products, and research.[^11chapter8_47]
 
-Widely cited examples of these indexes are the Five-Star Model of data
-availability,[^11chapter8_48] composed of five levels depending on whether data is
-available
+![**Figure 8.2** Frequencies of types and data specialization of DIS.](imgs/figure8-2.png)
 
-**Figure 10.2** Frequencies of types and data specialization of DIS
 *Source*: Prepared by the author.
 
-on the web with an open licence, machine-readable, using non-proprietary
+Widely cited examples of these indexes are the Five-Star Model of data
+availability,[^11chapter8_48] composed of five levels depending on whether data is
+available on the web with an open licence, machine-readable, using non-proprietary
 file formats, using open standards, or linked to other people’s data for
 context; the Four-Stage Model of data availability,[^11chapter8_49] composed of
 four levels depending on whether a government offers a description of
@@ -9059,28 +8945,26 @@ last years, the FAIR principles have diffused as guidance for scientific
 data management and stewardship; they promote findable, accessible,
 interoperable, and reusable data.[^11chapter8_51]
 
-Drawing inspiration from these models, I created a list of features that
+Drawing inspiration from these models, I first created a draft list of features that
 could be observed in DISs to measure their ‘openness’ vis-à-vis academic
-researchers (the draft list is available in Table 10A.2 \[Appendix
-10A\]). Then I analysed the website and documentation (that is, white
+researchers (the draft list is available in Table 8A.2 \[Appendix
+8A\]). Then I analysed the website and documentation (that is, white
 papers, slideshows, explanatory material, and so on) of every DIS in the
 dataset. To make the research more accurate, I used the Google search
 engine to scrape the websites’ content by using the following keywords:
 ‘research’, ‘academic’, and ‘university’. Where no English version of
-the material was available, I relied on online translation services.
-
-Through an inductive process, I removed from the list the features that
+the material was available, I relied on online translation services. Through an inductive process, I removed from the list the features that
 did not appear in any DISs and added features that were not included in
 the initial list. The final list includes three features that have been
-observed in existing DISs and are outlined in Table 10.1.
+observed in existing DISs and are outlined in Table 8.1.
 
-**Table 10.1** Features used to assess the DISs’ research openness
+**Table 8.1** Features used to assess the DISs’ research openness
 
-  > **Feature**                                       **Description**                                                                                                                     **Rationale**
-  --------------------------------------------------- ----------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  > Data access mention                               The possibility for researchers and academic institutions to access data from the project is explicitly mentioned.                  Mentioning the possibility of data access for research purposes suggests that academic needs have been considered during the design of the DIS and support for researchers is available.
-  > Dedicated data access                             Research or academic institutions are provided with dedicated procedures to access data.                                            Dedicated procedures facilitate accessing and tailoring the data for research purposes.
-  > Documented implementation in a research project   The data accumulated by the initiative has been employed in documented research activity by researchers or academic institutions.   The existence of projects using the DIS’s data demonstrates the accessibility of such data for research purposes and possibly suggests dedicated tracks to access data.
+| **Feature**                                     	| **Description**                                                                                                                   	| **Rationale**                                                                                                                                                                            	|
+|-------------------------------------------------	|-----------------------------------------------------------------------------------------------------------------------------------	|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
+| Data access mention                             	| The possibility for researchers and academic institutions to access data from the project is explicitly mentioned.                	| Mentioning the possibility of data access for research purposes suggests that academic needs have been considered during the design of the DIS and support for researchers is available. 	|
+| Dedicated data access                           	| Research or academic institutions are provided with dedicated procedures to access data.                                          	| Dedicated procedures facilitate accessing and tailoring the data for research purposes.                                                                                                  	|
+| Documented implementation in a research project 	| The data accumulated by the initiative has been employed in documented research activity by researchers or academic institutions. 	| The existence of projects using the DIS’s data demonstrates the accessibility of such data for research purposes and possibly suggests dedicated tracks to access data.                  	|
 
 *Source*: Compiled by the author.
 
@@ -9124,27 +9008,23 @@ habits and preferences.
 > purchase history of Coop and/or Migros (or REWE in Germany) with the
 > research group. This will be done completely anonymously, so no
 > personal data such as name, email, etc. will be transmitted.[^11chapter8_54]
+> 
 
-Figure 10.3 shows the number of DISs that possess research openness
+
+![**Figure 8.3** Share of data intermediation services possessing research openness features.](imgs/figure8-3.png)
+
+*Source*: Prepared by the author.
+
+![**Figure 8.4** Number of research openness features among the DISs.](imgs/figure8-4.png)
+
+*Source*: Prepared by the author.
+
+Figure 8.3 shows the number of DISs that possess research openness
 features. One out of four DISs mentions that their data can be accessed
 for academic purposes. One out of five DISs offer proof that research
 projects have been pursued thanks to the access to their data. On the
 other end, only a small minority of projects offer data access options
-dedicated to researchers. Figure 10.4 shows
-
-**Figure 10.3** Share of data intermediation services possessing
-research openness features
-
-*Source*: Prepared by the author.
-
-> ![](media/image1.png){width="3.027889326334208in"
-> height="2.868555336832896in"}
-
-**Figure 10.4** Number of research openness features among the DISs
-
-*Source*: Prepared by the author.
-
-how many DISs possess one or more data openness features. Overall, about
+dedicated to researchers. Figure 8.4 shows how many DISs possess one or more data openness features. Overall, about
 30 per cent of DISs in the dataset possess at least one data openness
 feature.
 
@@ -9158,10 +9038,10 @@ core feature of their organization. Research-friendly features are
 rarely at the forefront of the promoting material (that is, the
 website’s homepage). Nevertheless, the share of DISs having at least one
 data openness feature remains significant. This is surprising given the
-forprofit nature of DISs and the fact that these services have no
+for-profit nature of DISs and the fact that these services have no
 official connection with academic institutions.
 
-Figure 10.5 shows the frequency of DISs’ research openness features
+Figure 8.5 shows the frequency of DISs’ research openness features
 disaggregated for DIS type and data specialization. When looking at the
 difference between subject-centred and infrastructure DISs, we find that
 both types offer data access options; however, subject-centred DISs
@@ -9174,7 +9054,7 @@ neither the DIS type nor the data specialization seems to completely
 foreclose the possibility of offering data access options for
 researchers.
 
-This explorative data allows the elaboration of two hypotheses to be
+This descriptive data allows the elaboration of two hypotheses to be
 tested with further research: (*a*) infrastructure DISs are less likely
 to offer data openness features because they host ‘neutral’ and
 ‘technical’ infrastructures for the exchange of data and do not have any
@@ -9188,18 +9068,16 @@ community.
 ## The DGA Impact on Research Openness
 
 This research investigates the choices of DISs providers *before* the
-implementation of the DGA, whose provisions on DISs will enter into
+implementation of the DGA, whose provisions on DISs entered into
 force in September 2025 (Article 37). In this section, I report which
 provisions are more likely to interact with the research openness
 features of the DISs and comment on what such impact might be.
 
-**Figure 10.5** DISs’ research openness features disaggregated for DIS
-type and data sector
+![**Figure 8.5** DISs’ research openness features disaggregated for DIS type and data sector.](imgs/figure8-5.png)
 
 *Source*: Prepared by the author.
 
-*Note*: Each bar represents the share of DISs belonging to a certain
-category that have a data openness feature.
+*Note*: Each bar represents the share of DISs belonging to a certain category that have a data openness feature.
 
 Article 12(1)(a) introduces a ‘neutrality obligation’ by requiring every
 DIS provider to ‘not use the data for which it provides data
@@ -9224,7 +9102,7 @@ datasets.[^11chapter8_59]
 
 On the other hand, forced standardization might hinder the
 diversification strategies of new companies, thus entrenching the
-regulatory power of a few powerful actors.[^11chapter8_60] For instance, this could
+regulatory power of incumbents.[^11chapter8_60] For instance, this could
 happen if the standard chosen by a firm becomes dominant in a certain
 sector and is mechanically replicated by the mediation of DISs. The DIS
 providers ‘shall convert the data into specific formats only to enhance
@@ -9254,9 +9132,7 @@ enshrining a ‘right to research’ in future legislation.[^11chapter8_66]
 
 This chapter has explored the following question: do DISs make data more
 accessible to researchers? To answer this question, I have identified a
-set of
-
-‘research openness features’ that facilitate data access for researchers
+set of ‘research openness features’ that facilitate data access for researchers
 when they interact with a DIS. Then I built an original dataset of 54
 DISs and investigated how many of them present such features. The
 findings show that the majority of DISs do not offer any research
@@ -9269,7 +9145,7 @@ three reflections from this analysis.
 First, these results show that, in a significant minority of cases, DISs
 are a valuable tool to access data for academic researchers. However, in
 the future, this situation might significantly change due to the DGA
-implementation and the evolution of the market. Further research should
+enforcement and the evolution of the market. Further research should
 investigate the causes driving the supply of data access options to
 researchers, by testing the hypotheses on DIS types and data
 specialization, but also the role of the actors governing the
@@ -9304,7 +9180,7 @@ access options to a greater amount of data.
 Hence, this study shows how data access regulation requires a more
 careful assessment of the political economy of targeted actors. To
 tackle some of the identified issues, I advance three policy proposals
-that could be introduced in the European Commission’s DGA rulebook:[^11chapter8_77]
+that could be introduced in the European Commission’s DGA rulebook,[^11chapter8_77]
 delegated acts, new regulations, or soft law.
 
 First, the interpretation of DGA provisions illustrated in the fourth
@@ -9318,27 +9194,37 @@ scientists are heard.
 Second, the European Commission could develop tools (that is, sandboxes,
 research grants, and so on) to incentivize DISs to experiment with forms
 of data sharing with researchers, with the aim of making these
-relationships selfsustaining in the long term.
+relationships self-sustaining in the long term.
 
 Finally, the European Commission should amend the DGA to make for-profit
 projects recognizable as ‘data altruism organisations’ – this would
 prevent chilling effects on data sharing with researchers and allow more
 effective monitoring of (real) data altruism initiatives.
 
-**Table 10A.2** Draft list of features used to assess the DISs’ research
-openness
+![](imgs/appendix1.png)
 
-  > **Feature**                                       **Description**                                                                                                                     **Rationale**
-  --------------------------------------------------- ----------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  > Data access mention                               The possibility for researchers and academic institutions to access data from the project is explicitly mentioned.                  Mentioning the possibility of data access for research purposes suggests that academic needs have been considered during the design of the DIS and support for researchers is available.
-  > Dedicated data access                             Research or academic institutions are provided with dedicated procedures to access data.                                            Dedicated procedures facilitate accessing and tailoring the data for research purposes.
-  > Documented implementation in a research project   The data accumulated by the initiative has been employed in documented research activity by researchers or academic institutions.   The existence of projects using the DIS’s data demonstrates the accessibility of such data for research purposes and possibly suggests dedicated tracks to access data.
-  > Free of access                                    Research or academic institutions can obtain data for free or with a monetary discount, contrarily to other actors.                 Economic incentives facilitate the use of DIS data for research purposes.
-  > Governance representatives                        Research or academic institutions are formally allowed to influence the governance of the organization.                             Academic representatives can represent research interests within the DIS.
+![](imgs/appendix2.png)
+
+![](imgs/appendix3.png)
 
 *Source*: Prepared by the author.
 
-# Notes
+
+**Table 8A.2** Draft list of features used to assess the DISs’ research
+openness
+
+| **Feature**                                     	| **Description**                                                                                                                   	| **Rationale**                                                                                                                                                                            	|
+|-------------------------------------------------	|-----------------------------------------------------------------------------------------------------------------------------------	|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
+| Data access mention                             	| The possibility for researchers and academic institutions to access data from the project is explicitly mentioned.                	| Mentioning the possibility of data access for research purposes suggests that academic needs have been considered during the design of the DIS and support for researchers is available. 	|
+| Dedicated data access                           	| Research or academic institutions are provided with dedicated procedures to access data.                                          	| Dedicated procedures facilitate accessing and tailoring the data for research purposes.                                                                                                  	|
+| Documented implementation in a research project 	| The data accumulated by the initiative has been employed in documented research activity by researchers or academic institutions. 	| The existence of projects using the DIS’s data demonstrates the accessibility of such data for research purposes and possibly suggests dedicated tracks to access data.                  	|
+| Free of access                                  	| Research or academic institutions can obtain data for free or with a monetary discount, contrarily to other actors.               	| Economic incentives facilitate the use of DIS data for research purposes.                                                                                                                	|
+| Governance representatives                      	| Research or academic institutions are formally allowed to influence the governance of the organization.                           	| Academic representatives can represent research interests within the DIS.                                                                                                                	|
+
+
+*Source*: Prepared by the author.
+
+## Notes
 
 [^11chapter8_1]: Katharina Pistor, ‘Rule by Data: The End of Markets?’ *Law and
     Contemporary Problems* 101, no. 83 (2020): 101–124.
@@ -9671,7 +9557,7 @@ openness
 
 
 
-# Access to Data on Disinformation within the Code of Practice on Disinformation
+# 9. Access to Data on Disinformation within the Code of Practice on Disinformation
 
 ### Michalina Kowala
 
@@ -10029,7 +9915,7 @@ they will explain the reasons for this. It should be noted that this
 mechanism was not foreseen in the previous version of the code. In my
 opinion, it obliges the signatories to be transparent when it comes to
 subscription to the commitments and their further implementation and
-leaves less room for discretion in this respect.
+leaves less room for discretion in this respect. The conversion of the voluntary 2022 Code into the Code of Conduct within the framework of DSA took effect starting from 1 July 2025, making commitments included therein auditable from that date onwards.
 
 ### Reporting Scheme 
 
@@ -10039,7 +9925,7 @@ Signatories committed to provide the baseline reports to the European
 Commission within one month after the end of the implementation
 period.[^12chapter9_45] After that, VLOPs committed to provide regular reporting on
 service level indicators and qualitative reporting elements every six
-months and other signatories yearly, at service and memberstate
+months and other signatories yearly, at service and MEMBER_ STATE
 level.[^12chapter9_46] This should allow for a thorough assessment of the extent of
 the code’s implementation. VLOPs are confronted with more demanding
 requirements as to the frequency of reporting since they are considered
@@ -10068,8 +9954,7 @@ infrastructure regarding reporting has been put in place, and the
 establishment of the Task Force gives hope that that discretionary
 reporting will be reduced or even eliminated.
 
-## Researchers’ Access to Data under the 2022
-## Code of Practice on Disinformation 
+## Researchers’ Access to Data under the 2022 Code of Practice on Disinformation 
 
 After the brief analysis of the commitments and measures enshrined in
 the 2022 code, it is worth discussing the instruments made available for
@@ -10134,9 +10019,7 @@ answer nor access to CrowdTangle. I was not informed about the reasons
 Facebook refused my access request. However, it appears that I am not
 the only researcher who has been denied access to CrowdTangle’s
 resources. Facebook in 2022 stopped accepting any new-user application
-due to ‘staffing constraints’,[^12chapter9_64] and it seems that it has not dealt
-with the problem yet, since academics report that new applications are
-still not accepted.[^12chapter9_65]
+due to ‘staffing constraints’.[^12chapter9_64] As of August 14, 2024, CrowdTangle is no longer available.
 
 As to the commitment to provide vetted researchers with access to data
 necessary to undertake research on disinformation by developing,
@@ -10158,9 +10041,7 @@ involvement of an independent body will reduce the arbitrariness of
 platforms’ decisions in the context of sharing personal data remain
 unanswered. Moreover, in the face of such a threat of disinformation and
 given that the code was adopted in June 2022, the waiting time for the
-implementation of some of its measures is long. The code, unfortunately,
-still remains ineffective as regards some commitments and measures
-included therein.
+implementation of some of its measures is long. The code, unfortunately, still remains ineffective as regards some commitments and measures included therein.
 
 ## Achievability of the Research Goals under the 2022 Code of Practice on Disinformation 
 
@@ -10234,7 +10115,7 @@ compliance with the declared commitments. It is relevant to ask what
 consequences and which mechanism will be applicable to platforms if they
 do not cooperate with researchers, for example, for not providing data
 to those who will be vetted by the third-party body or if they do not
-properly fulfil their reporting obligations.
+properly fulfil their reporting obligations. It is worth to mention that in 2025 the European Commission has issued a fine of €120 million to X ( Twitter) for breaching its transparency obligations under the DSA. The breaches include the deceptive design of its ‘blue checkmark', the lack of transparency of its advertising repository, and the failure to provide access to public data for researchers. The Commission explains that “X fails to meet its DSA obligations to provide researchers with access to the platform's public data. For instance, X's terms of service prohibit eligible researchers from independently accessing its public data, including through scraping. Moreover, X's processes for researchers' access to public data impose unnecessary barriers, effectively undermining research into several systemic risks in the European Union”[^12chapter9_73]. It remains to be seen how this decision will impact platforms practices as regards granting researchers access to data and whether fining X will incentivise other VLOPS to ensure more transparent environment for researchers. 
 
 ### Enforcement Measures 
 
@@ -10263,7 +10144,7 @@ The term ‘independent’ has been defined to ensure the transparency of
 the auditing process and the credibility of its results. In case the
 outcomes of the audit are not positive, the VLOPs should take due
 account of the operational recommendations with a view to taking the
-necessary measures to implement them.[^12chapter9_73] According to Article 37(6) of
+necessary measures to implement them.[^12chapter9_74] According to Article 37(6) of
 the DSA, where the signatories do not implement the operational
 recommendations, they shall justify in the audit implementation report
 the reasons for not doing so and set out any alternative measures. If
@@ -10276,7 +10157,7 @@ implementation of recommendations in case it would, for example, hamper
 the researchers’ access to information. On 5 May 2023, the European
 Commission published the draft of the delegated regulation which was
 aimed at setting out the necessary rules for the procedures,
-methodology, and templates used for the audits.
+methodology, and templates used for the audits. The first audit reports under the DSA were published at the end of 2024. The next round of audits, including the initial evaluation of the Code's implementation, is expected to be released by the end of 2025.
 
 The alignment of the 2022 code with the DSA provides the mechanism of
 the enforcement of the 2022 code. The use of binding measures from the
@@ -10287,8 +10168,6 @@ today would have been more successful. However, it should be noted that
 the procedure of the enforcement of the code is delimited in a general
 way. It lacks the researcher-centred mechanism that would allow him, for
 example, to effectively contest platforms’ decisions.
-
-# 
 
 ## Conclusion 
 
@@ -10310,7 +10189,7 @@ to different operating systems of the platforms and to target the
 specific threats posed by the spread of disinformation. Such instrument
 allowed a rapid response tailored to evolving new technologies. However,
 this chapter revealed quite a long list of its shortcomings, which,
-first, did not allow to effectively combat disinformation^74^[^12chapter9_74] and,
+first, did not allow to effectively combat disinformation[^12chapter9_75] and,
 second, did not facilitate research on the phenomenon.
 
 The 2022 code addresses the shortcomings and fills in the gaps of the
@@ -10349,7 +10228,7 @@ the DSA is an important, although for the moment still not sufficient,
 step towards ensuring greater data access for researchers studying
 disinformation.
 
-# Notes
+## Notes
 
 [^12chapter9_1]: Garth S. Jowett and Victoria O’Donnell, *Propaganda and
     Persuasion* (Sage Publications, 2012).
@@ -10674,10 +10553,7 @@ disinformation.
     https://www.reuters.com/technology/meta-pauses-newusers-joining-analytics-tool-crowdtangle-2022-01-29
     (accessed 17 May 2023).
 
-[^12chapter9_65]: John Albert, ‘Platforms’ Promises to Researchers: First Reports
-    Missing the Baseline’, AlgorithmWatch, 16 February 2023,
-    https://algorithmwatch.org/ en/platforms-promises-to-researchers
-    (accessed 27 February 2023).
+
 
 [^12chapter9_66]: ‘Code of Practice on Disinformation: Meta Baseline Report’.
 
@@ -10709,17 +10585,19 @@ disinformation.
     violating the ‘harmful health misinformation’ or voter or census
     interference policies as per each member state and then as per EU as
     a whole. ‘Code of Practice on Disinformation: Meta Baseline Report’.
+    
+[^12chapter9_73]: European Commisson, https://ec.europa.eu/commission/presscorner/detail/en/ip_25_2934, accessed: 10.12.2025.  
 
-[^12chapter9_73]: Article 37(6) of the DSA.
+[^12chapter9_74]: Article 37(6) of the DSA.
 
-[^12chapter9_74]: ‘Left Behind: How Facebook is Neglecting Europe’s Infodemic’,
+[^12chapter9_75]: ‘Left Behind: How Facebook is Neglecting Europe’s Infodemic’,
     Avaaz, 20 April 2021,
     https://secure.avaaz.org/campaign/en/facebook\_neglect\_
     europe\_infodemic (accessed 19 May 2023).
 
 
 
-**About the Contributors**
+# About the Contributors
 
 **Carolina Aguerre** is Associate Professor in the Department of
 Humanities and Communication, Universidad Católica del Uruguay (UCU),
@@ -10746,23 +10624,9 @@ justice and sustain ability for such communities, ensuring their
 well-being and resilience in the face of socioeconomic and environmental
 challenges.
 
-**Pedro Amaral** is Technical Analyst at Digital Rights Secretary,
-Ministry of Justice and Public Security, Brazil. He was a former
-researcher and project leader at Law and Technology Research Institute
-of Recife (IP.rec). He is a PhD candidate in
+**Pedro Amaral** is a PhD candidate in Sociology and a researcher at the Crime and Security Policies Center (NEPS), Federal University of Pernambuco, Recife. Member of the Surveillance in the Majority World Research Network and the Surveillance Studies Network. Formerly, worked at the Digital Rights Secretariat, Ministry of Justice and Public Security, Brazil. He was a former researcher and project leader at Law and Technology Research Institute of Recife (IP.rec).
 
-Sociology and a researcher at the Crime and Security Policies Center,
-Federal University of Pernambuco, Recife. Member of the Surveillance in
-the Majority World Research Network and the Surveillance Studies
-Network.
-
-**Jef Ausloos** is Assistant Professor at the Institute for Information
-Law, University of Amsterdam, and a research fellow at the Centre for IT
-and IP Law, KU Leuven. His work centres around several information law
-issues – specifically data rights, transparency, and governance of
-digital infrastructures – and the broader political economy in which
-they operate. His research can be situated at the intersection of law,
-critical data studies, and the politics of knowledge production.
+**Jef Ausloos** is Assistant Professor at the Institute for Information Law (IViR), University of Amsterdam. His work centres around various information law issues – specifically data rights, transparency, and governance of digital infrastructures – and the broader political economy in which they operate. His research can be situated at the intersection of law, critical data studies, and the politics of knowledge production.
 
 **Reuben Binns** is Associate Professor of Human Centred Computing,
 working between computer science, law, and philosophy, focusing on data
@@ -10782,12 +10646,11 @@ non-governmental organizations (NGOs). His research spans natural
 resources tenure and access, environmental justice, and commodity chain
 analysis.
 
-**Siddharth Peter de Souza** is an Assistant Professor at Centre for
-Interdisciplinary Methods, University of Warwick. His work explores how
-data is governed globally in contested, and plural settings. He is the
-founder of Justice Adda, a law and design social venture which seeks to
-build legal literacy and awareness in India through playful
-interventions.
+**Siddharth Peter de Souza** is Assistant Professor in AI and Society at the Centre
+for Interdisciplinary Methodologies, University of Warwick, UK. His research
+looks at developments in law and technology from a legal pluralist, data justice,
+and decolonial perspective. He is the founder of Justice Adda, a law and
+design social venture which seeks to build legal literacy and awareness in India.
 
 **Paul Esselaar** is a practising attorney and notary in Cape Town,
 South Africa, with over 20 years’ experience in advising commercial
@@ -10801,21 +10664,15 @@ of Personal Information Act* (2021). More recently, he is a co-author of
 the Model Law on Health Data Governance (2024), which seeks to introduce
 health data governance into local legislation worldwide.
 
-**Michalina Kowala** is a graduate of the College of Europe, Bruges;
-Adam Mickiewicz University, Poznań; and Stanislaw Moniuszko Academy of
-Music, Gdańsk. She has recently defended her doctoral thesis ‘The Press
-Publishers’ Rights in the European Union: Safeguards for Access to
-Information and Media Pluralism’. She has been awarded the French
-government’s scholarship and did her research on press industry in
-cooperation with L’Institut de Recherche en Droit Privé, Nantes. She was
-visiting researcher at the Centre for IT and IP Law; the Max Planck
-Institute for Innovation and Competition, Munich; and the Center for
-International Intellectual Property Studies, Strasbourg. She was also
-associated, in a professional capacity, with the European Parliament in
-Brussels and the Commissioner for Human Rights Office in Warsaw.
-Currently, she teaches European Union (EU) law in the Faculty of Law and
-Administration, Adam Mickiewicz University, and works in the Ministry of
-Economic Development and Technology, Warsaw.
+**Michalina Kowala** is an assistant professor at the Faculty of Law and Administration of Adam Mickiewicz University of Poznań in Poland and a lawyer in the Freedom of Expression Program at the Helsinki Foundation for Human Rights.
+ 
+In 2024 she defended her doctoral thesis ‘Publishers’ Rights and Copyright Law. Safeguarding Access to Information and Media Pluralism’ published in 2025 by Routledge. 
+ 
+Awarded the French government’s scholarship, she conducted her research on protection of press sector in cooperation with L’Institut de Recherche en Droit Privé, Nantes. 
+ 
+She was also a visiting researcher at the Centre for IT and IP Law in Leuven, the Max Planck Institute for Innovation and Competition in Munich and the Center for International Intellectual Property Studies, Strasbourg. 
+ 
+She was associated, in a professional capacity, with the European Parliament in Brussels and the Commissioner for Human Rights Office in Warsaw. In 2025 she worked for the Polish Presidency in the Council of the EU.
 
 **Boateng Kyereh** is Professor in the Department of Silviculture and
 Forest Management, Kwame Nkrumah University of Science and Technology

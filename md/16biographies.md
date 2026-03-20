@@ -17,7 +17,7 @@ Rights: CC BY-NC 4.0
 ...
 
 
-**About the Contributors**
+# About the Contributors
 
 **Carolina Aguerre** is Associate Professor in the Department of
 Humanities and Communication, Universidad Católica del Uruguay (UCU),
@@ -44,23 +44,9 @@ justice and sustain ability for such communities, ensuring their
 well-being and resilience in the face of socioeconomic and environmental
 challenges.
 
-**Pedro Amaral** is Technical Analyst at Digital Rights Secretary,
-Ministry of Justice and Public Security, Brazil. He was a former
-researcher and project leader at Law and Technology Research Institute
-of Recife (IP.rec). He is a PhD candidate in
+**Pedro Amaral** is a PhD candidate in Sociology and a researcher at the Crime and Security Policies Center (NEPS), Federal University of Pernambuco, Recife. Member of the Surveillance in the Majority World Research Network and the Surveillance Studies Network. Formerly, worked at the Digital Rights Secretariat, Ministry of Justice and Public Security, Brazil. He was a former researcher and project leader at Law and Technology Research Institute of Recife (IP.rec).
 
-Sociology and a researcher at the Crime and Security Policies Center,
-Federal University of Pernambuco, Recife. Member of the Surveillance in
-the Majority World Research Network and the Surveillance Studies
-Network.
-
-**Jef Ausloos** is Assistant Professor at the Institute for Information
-Law, University of Amsterdam, and a research fellow at the Centre for IT
-and IP Law, KU Leuven. His work centres around several information law
-issues – specifically data rights, transparency, and governance of
-digital infrastructures – and the broader political economy in which
-they operate. His research can be situated at the intersection of law,
-critical data studies, and the politics of knowledge production.
+**Jef Ausloos** is Assistant Professor at the Institute for Information Law (IViR), University of Amsterdam. His work centres around various information law issues – specifically data rights, transparency, and governance of digital infrastructures – and the broader political economy in which they operate. His research can be situated at the intersection of law, critical data studies, and the politics of knowledge production.
 
 **Reuben Binns** is Associate Professor of Human Centred Computing,
 working between computer science, law, and philosophy, focusing on data
@@ -80,12 +66,7 @@ non-governmental organizations (NGOs). His research spans natural
 resources tenure and access, environmental justice, and commodity chain
 analysis.
 
-**Siddharth Peter de Souza** is an Assistant Professor at Centre for
-Interdisciplinary Methods, University of Warwick. His work explores how
-data is governed globally in contested, and plural settings. He is the
-founder of Justice Adda, a law and design social venture which seeks to
-build legal literacy and awareness in India through playful
-interventions.
+**Siddharth Peter de Souza** is Assistant Professor in AI and Society at the Centrefor Interdisciplinary Methodologies, University of Warwick, UK. His researchlooks at developments in law and technology from a legal pluralist, data justice,and decolonial perspective. He is the founder of Justice Adda, a law anddesign social venture which seeks to build legal literacy and awareness in India.
 
 **Paul Esselaar** is a practising attorney and notary in Cape Town,
 South Africa, with over 20 years’ experience in advising commercial
@@ -99,21 +80,7 @@ of Personal Information Act* (2021). More recently, he is a co-author of
 the Model Law on Health Data Governance (2024), which seeks to introduce
 health data governance into local legislation worldwide.
 
-**Michalina Kowala** is a graduate of the College of Europe, Bruges;
-Adam Mickiewicz University, Poznań; and Stanislaw Moniuszko Academy of
-Music, Gdańsk. She has recently defended her doctoral thesis ‘The Press
-Publishers’ Rights in the European Union: Safeguards for Access to
-Information and Media Pluralism’. She has been awarded the French
-government’s scholarship and did her research on press industry in
-cooperation with L’Institut de Recherche en Droit Privé, Nantes. She was
-visiting researcher at the Centre for IT and IP Law; the Max Planck
-Institute for Innovation and Competition, Munich; and the Center for
-International Intellectual Property Studies, Strasbourg. She was also
-associated, in a professional capacity, with the European Parliament in
-Brussels and the Commissioner for Human Rights Office in Warsaw.
-Currently, she teaches European Union (EU) law in the Faculty of Law and
-Administration, Adam Mickiewicz University, and works in the Ministry of
-Economic Development and Technology, Warsaw.
+**Michalina Kowala** is an assistant professor at the Faculty of Law and Administration of Adam Mickiewicz University of Poznań in Poland and a lawyer in the Freedom of Expression Program at the Helsinki Foundation for Human Rights. In 2024 she defended her doctoral thesis ‘Publishers’ Rights and Copyright Law. Safeguarding Access to Information and Media Pluralism’ published in 2025 by Routledge.  Awarded the French government’s scholarship, she conducted her research on protection of press sector in cooperation with L’Institut de Recherche en Droit Privé, Nantes.  She was also a visiting researcher at the Centre for IT and IP Law in Leuven, the Max Planck Institute for Innovation and Competition in Munich and the Center for International Intellectual Property Studies, Strasbourg.  She was associated, in a professional capacity, with the European Parliament in Brussels and the Commissioner for Human Rights Office in Warsaw. In 2025 she worked for the Polish Presidency in the Council of the EU.
 
 **Boateng Kyereh** is Professor in the Department of Silviculture and
 Forest Management, Kwame Nkrumah University of Science and Technology

@@ -17,8 +17,7 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# Violent Plains 
-## Challenges and Strategies for Pastoralists’ Data Access in Ghana [^06chapter3_1]
+# 3. Violent Plains: Challenges and Strategies for Pastoralists’ Data Access in Ghana [^06chapter3_1]
 
 ### Frank Kwaku Agyei, Lawrence Kwabena Brobbey, Paul Osei-Tutu, and Boateng Kyereh
 
@@ -112,42 +111,29 @@ cattle owners, herdsmen, government, and other key informants in the
 cattle industry (Table 3.1). The researchers look into pastoralism and
 are based at four public universities in Ghana: Kwame Nkrumah University
 of Science and Technology, Kumasi; University of Energy and Natural
-Resources, Sunyani; University for Development **Table 3.1** Category
-and sample of respondents used for the study
+Resources, Sunyani; University for Development 
 
-  ---------------------------------------------------------------------------------------
-  > **No.**   **Category of interviewee**           **Sample **   **Mode of selection**
-  ----------- ------------------------------------- ------------- -----------------------
-  > 1         Researchers                           > 11          Purposive
+**Table 3.1** Category and sample of respondents used for the study
 
-  > 2         NGOs                                  2             Purposive
-
-  > 3         Cattle owners                         7             Purposive
-
-  > 4         *Herdsmen*                            > 11          Snowball\*
-                                                                  
-              Settled herdsmen                                    
-
-              Nomadic herdsmen                      6             Snowball
-
-              Transhumance herdsmen                 3             Snowball
-
-  > 5         *Government *                         1             Purposive
-                                                                  
-              Cattle ranch staff                                  
-
-              District assembly                     5             Purposive
-
-              Police service                        1             Purposive
-
-  > 6         *Other key informants*                7             Purposive
-                                                                  
-              Village chief, Zongo chief, farmers                 
-  ---------------------------------------------------------------------------------------
+| No. 	| **Category of interviewee**         	| **Sample** 	| **Mode of selection** 	|
+|-----	|-------------------------------------	|------------	|-----------------------	|
+| 1   	| Researchers                         	| 11         	| Purposive             	|
+| 2   	| NGOs                                	| 2          	| Purposive             	|
+| 3   	| Cattle owners                       	| 7          	| Purposive             	|
+| 4   	| _Herdsmen_                          	|            	|                       	|
+|     	| Settled herdsmen                    	| 11         	| Snowball*             	|
+|     	| Nomadic herdsmen                    	| 6          	| Snowball              	|
+|     	| Transhumance herdsmen               	| 3          	| Snowball              	|
+| 5   	| _Government_                        	|            	|                       	|
+|     	| Cattle ranch staff                  	| 1          	| Purposive             	|
+|     	| District assembly                   	| 5          	| Purposive             	|
+|     	| Police service                      	| 1          	| Purposive             	|
+| 6   	| _Other key informants_              	|            	|                       	|
+|     	| Village chief, Zongo chief, farmers 	| 7          	| Purposive             	|
 
 *Source*: Collated by the authors.
 
-*Note*: \*We relied on social networks existing among pastoralists to
+*Note*: *We relied on social networks existing among pastoralists to
 gain access to them. The herdsmen who were first approached connected us
 to other herders in their network.
 
@@ -247,7 +233,7 @@ everywhere even in places where there were no farms … the farms have now
 increased in sizes’ (Herdsman 8, 4 February 2023). Herdsmen attribute
 land struggles to its commodification in rural communities.
 
-## Challenges Associated with Pastoralists’ Data Access
+### Challenges Associated with Pastoralists’ Data Access
 
 This section outlines challenges constraining access to reliable
 pastoralist-related data. Pastoralists’ data access is challenged by
@@ -388,7 +374,7 @@ researchers. The disorderly institutional database makes the segregation
 of conflict data from other data reported at public institutions a
 challenge.
 
-## Strategies Enabling Access to Pastoralists’ Data 
+### Strategies Enabling Access to Pastoralists’ Data 
 
 This section outlines the strategies researchers and development actors
 use to enable access to pastoralists’ data. A broad set of social
@@ -482,7 +468,7 @@ undermines possibilities for sustainable peace. To stay objective
 without taking sides, researchers try to be neutral by questioning the
 narrations of both farmers and pastoralists in equal measure.
 
-## Opportunities for Gaining Access to Pastoralist Data
+### Opportunities for Gaining Access to Pastoralist Data
 
 The study identified opportunities to aid access to pastoralists’ data,
 and this includes the existence of strong customary institutions and
@@ -557,7 +543,7 @@ GFLIP; the Ghana National Association of Cattle Farmers (GNACAF); and
 the Peasant Farmers Association of Ghana (PFAG). The GNACAF has a
 membership consisting of cattle owners and herders across Ghana.
 
-# Discussion
+## Discussion
 
 Our results suggest that access to data from pastoralists is entangled
 with challenges. The transhumance and nomadic herders keep cattle at
@@ -583,7 +569,7 @@ contexts of pastoralists data access; (*b*) the researcher neutrality
 and trustworthiness; and (*c*) the power relations and politics of
 identity.
 
-## Social, Cultural, and Political Contexts of Pastoralists’ Data Access
+### Social, Cultural, and Political Contexts of Pastoralists’ Data Access
 
 The findings illustrate constellations of social relationships that
 enable access to pastoralists’ data. Access to geographic knowledge of
@@ -626,7 +612,7 @@ engagement in pastoralist–farmer conflicts, there are potential formal
 and informal networks that could be drawn upon to aid
 pastoralism-related research and data access.
 
-## Researcher Neutrality and Trustworthiness 
+### Researcher Neutrality and Trustworthiness 
 
 The findings illuminate the challenge of staying ‘neutral’ or being
 ‘objective’ during data collection and analysis as a researcher. The
@@ -649,7 +635,7 @@ excessively. While there is a need to accept this unavoidable reality,
 our account demonstrates that researchers should always be looking for
 new and better ways of data collection and analysis.
 
-## Power Relations and Politics of Identity
+### Power Relations and Politics of Identity
 
 As discussed previously, our findings suggest the non-participatory
 behaviour of pastoralists in the release of data. They do so by
@@ -698,7 +684,7 @@ from public institutions could be entwined with data biases, retrieving
 herdsmen’s empirical data is more likely to be subjected to systemic
 biases and over-representation of data.
 
-# Conclusion
+## Conclusion
 
 This study has examined the challenges, strategies, and opportunities
 researchers employ to gain access to pastoralism-related data. To
@@ -748,7 +734,7 @@ institutions and their traditional role in mediating land access, the
 local government and police services, NGOs, and pastoralist
 associations.
 
-# Notes 
+## Notes 
 
 [^06chapter3_1]: This study forms a part of the project ‘Access–Authority Nexus in
     Farmer–Herder Conflicts’ (AAN), funded by the Danish Research

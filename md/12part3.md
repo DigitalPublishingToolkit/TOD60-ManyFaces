@@ -16,9 +16,4 @@ Keywords:   50 keywords for search and indexing
 Rights: CC BY-NC 4.0
 ...
 
----
-# The Many Faces of Data Access: Legal and Policy Implications for Research
----
-
-
-
+# Part III: Promises

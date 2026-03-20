@@ -17,8 +17,7 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# From Rights to Skills
-## Data Access for Teaching Data Literacy
+# 4. From Rights to Skills: Data Access for Teaching Data Literacy
 
 ### Midas Nouwens 
 
@@ -102,7 +101,7 @@ on our own experiences over the past three years. Lastly, we will
 discuss the limitations of using access rights in education based on
 their legal design and the interpretation of organisations.
 
-# Data Literacy 
+## Data Literacy 
 
 Academics critical of the restructuring of societies as a result of
 digitalization and datafication have started to advocate that the future
@@ -149,53 +148,22 @@ data and the socio-technical infrastructures surrounding it, with the
 goal to immunize the individual against informational harm and empower
 them to create alternative data worlds*.
 
-**\
-**
 
 **Table 4.1** Terms and definitions related to data literacy
 
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  > **Source**                                **Term**                       **Definition**
-  ------------------------------------------- ------------------------------ -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  > D’Ignazio and                             Big data literacy              ‘the ability to read, work with, analyze and argue with data’, as well as identifying data collection, understanding algorithmic processing of data, and weighing the impacts of data-driven decisions
-  >                                                                          
-  > Bhargava (2015)[^07chapter4_29]                                                     
+| **Source**                                                  	| **Term**                        	| **Definition**                                                                                                                                                                                                                                                                                                                            	|
+|-------------------------------------------------------------	|---------------------------------	|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
+| D’Ignazio andBhargava (2015)[^07chapter4_29]                	| Big data literacy               	| ‘the ability to read, work with, analyze and argue with data’, as well as identifying data collection, understanding algorithmic processing of data, and weighing the impacts of data-driven decisions                                                                                                                                    	|
+| Bucher (2016)[^07chapter4_30]                               	| Algorithmic imaginary           	| ‘ways of thinking about what algorithms are, what they should be and how they function’                                                                                                                                                                                                                                                   	|
+| Crusoe (2016)[^07chapter4_31]                               	| Data literacy                   	| ‘the knowledge of what data are, how they are collected, analyzed, visualized and shared, and … the understanding of how data are applied for benefit or detriment, within the cultural context of security and privacy’                                                                                                                  	|
+| Philip, Olivares-Pasillas, and Rocha (2016)[^07chapter4_32] 	| Racial data literacy            	| ‘the set of practices that are necessary for an individual to be racially literate about data and data-literate about race’ – for example, ‘examining how societal meanings about race are produced, in part, by the possibilities and constraints in the collection, storage, conversion, manipulation, and representation of data sets’ 	|
+| Gray, Gerlitz, and Bounegru (2018)[^07chapter4_33]          	| Data infrastructure literacy    	| ‘critical inquiry into datafication, into how datasets are created with certain purposes in mind as well as opening up “infrastructural imagination” … about how they might be created, used and organised differently (or not at all)’                                                                                                   	|
+| D’Ignazio and Bhargava (2018)[^07chapter4_34]               	| Data mindset                    	| ‘the ability to think both creatively and critically about what insights and stories might be possible to glean from data’                                                                                                                                                                                                                	|
+| Pangrazi and Selwyn (2019)[^07chapter4_35]                  	| Personal data literacy          	| ‘critical understandings of the reconstitutions and recirculation of data’, being able to identify what personal data is, understand how it is processed, reflect on its implications, use data oneself, and tactically resist, obfuscate, and repurpose data                                                                             	|
+| van Es, Coombs, and Boeschoten (2017)[^07chapter4_36]       	| Reflexive digital data analysis 	| digital data analysis (acquiring, cleaning, and analysing) in which ‘researchers consider their own role in the construction of the data’ and ‘take responsibility to discern how [the tools and platforms they use] shape the data’                                                                                                      	|
+| Sander (2020)[^07chapter4_37]                               	| Critical big data literacy      	| ‘awareness, understanding and ability to critically reflect upon big data collection practices, data uses and the possible risks and implications that come with these practices, as well as the ability to implement this knowledge for a more empowered internet usage’                                                                 	|
 
-  > Bucher (2016)[^07chapter4_30]                        Algorithmic imaginary          ‘ways of thinking about what algorithms are, what they should be and how they function’
-
-  > Crusoe (2016)[^07chapter4_31]                        Data literacy                  ‘the knowledge of what data are, how they are collected, analyzed, visualized and shared, and … the understanding of how data are applied for benefit or detriment, within the cultural context of security and privacy’
-
-  > Philip, OlivaresPasillas, and Rocha       Racial data literacy           ‘the set of practices that are necessary for an individual to be racially literate about data and data-literate about race’ – for example, ‘examining how societal meanings about race are produced, in part, by the possibilities and constraints in the collection, storage, conversion, manipulation, and representation of data sets’
-  >                                                                          
-  > (2016)[^07chapter4_32]                                                              
-
-  > Gray, Gerlitz, and Bounegru (2018)[^07chapter4_33]   Data infrastructure literacy   ‘critical inquiry into datafication, into how datasets are created with certain purposes in mind as well as opening up “infrastructural imagination” … about how they might be created, used and organised differently (or not at all)’
-
-  > D’Ignazio and                             Data mindset                   ‘the ability to think both creatively and critically about what insights and stories might be possible to glean from data’
-  >                                                                          
-  > Bhargava (2018)[^07chapter4_34]                                                     
-
-  > Pangrazi and Selwyn (2019)[^07chapter4_35]           Personal data literacy         ‘critical understandings of the reconstitutions and recirculation of data’, being able to identify what personal data is, understand how it is processed, reflect on its implications, use data oneself, and tactically resist, obfuscate, and repurpose data
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-(*Contd* )
-
-**\
-**
-
-**Table 4.1** (*Contd* )
-
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  > **Source**                       **Term**                          **Definition**
-  ---------------------------------- --------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  > van Es, Coombs, and Boeschoten   Reflexive digital data analysis   digital data analysis (acquiring, cleaning, and analysing) in which ‘researchers consider their own role in the construction of the data’ and ‘take responsibility to discern how \[the tools and platforms they use\] shape the data’
-  >                                                                    
-  > (2017)[^07chapter4_36]                                                        
-
-  > Sander (2020)[^07chapter4_37]               Critical big data literacy        ‘awareness, understanding and ability to critically reflect upon big data collection practices, data uses and the possible risks and implications that come with these practices, as well as the ability to implement this knowledge for a more empowered internet usage’
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-*Source*: Collated by the authors from the sources listed in the
+*Source*: Collated by the author from the sources listed in the
 ‘Sources’ column.
 
 The pedagogy of data literacy is still unsettled, in terms of both
@@ -235,7 +203,7 @@ any systematic reflection on the role that access rights can have,
 either as part of exercise design or as a subject of study in its own
 right.
 
-# Access Rights in EU Tech Law
+## Access Rights in EU Tech Law
 
 Access rights over personal data have existed in Europe in some form
 since the 1970s.[^07chapter4_50] They were harmonized for the first time across the
@@ -256,7 +224,7 @@ citizens over public data through freedom of information legislation,
 but since their focus is not primarily about increasing transparency or
 control over digital technologies, these are not included.
 
-## Article 15 of the General Data Protection Regulation
+### Article 15 of the General Data Protection Regulation
 
 The GDPR[^07chapter4_53] is a regulation that governs the processing of personal
 data about people in the EU, and one of its missions is to address the
@@ -276,32 +244,14 @@ being used for automated decision-making.
 
 **Table 4.2** A simplified overview of data access rights in the EU
 
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  > **Law**                  **Type of data**                                                            **Right holder**           **Applicable to**                                **Access modality**                                                                                   **Response time**
-  -------------------------- --------------------------------------------------------------------------- -------------------------- ------------------------------------------------ ----------------------------------------------------------------------------------------------------- --------------------------------------------
-  > GDPR,                    Personal data                                                               Any individual             Data controllers                                 Commonly used electronic form                                                                         30 days
-  >                                                                                                                                                                                                                                                                                        
-  > Article15                                                                                                                                                                                                                                                                              
-
-  > GDPR,                    Personal data                                                               Any individual             Data controllers                                 Structured, commonly used, and machinereadable format                                                 30 days
-  >                                                                                                                                                                                                                                                                                        
-  > Article 20                                                                                                                                                                                                                                                                             
-
-  > DSA,                     Data necessary to study systemic risks and mitigation strategies            (Vetted) researchers       Very large online platforms and search engines   Appropriate interfaces specified by researcher, platform, or search engine; real-time (if possible)   15 days
-  >                                                                                                                                                                                                                                                                                        
-  > Article 40                                                                                                                                                                                                                                                                             
-
-  > DMA, Article 6(9)        Data provided and generated by an end user                                  Users/                     Gatekeepers                                      Effective, continuous, and real-time                                                                  Immediate
-                                                                                                                                                                                                                                                                                           
-                                                                                                         Authorised third parties                                                                                                                                                          
-
-  > Data Act, Articles 3–4   Product and service data, including metadata necessary for interpretation   Users/                     Data holders                                     Comprehensive,                                                                                        Directly accessible or without undue delay
-                                                                                                                                                                                                                                                                                           
-                                                                                                         Authorised third parties                                                    structured, commonly used, machinereadable, continuous, and                                           
-                                                                                                                                                                                                                                                                                           
-                                                                                                                                                                                     real-time                                                                                             
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+| **Law**                	| **Type of data**                                                          	| **Right holder**               	| **Applicable to**                              	| **Access modality**                                                                                 	| **Response time**                          	|
+|------------------------	|---------------------------------------------------------------------------	|--------------------------------	|------------------------------------------------	|-----------------------------------------------------------------------------------------------------	|--------------------------------------------	|
+| GDPR, Article15        	| Personal data                                                             	| Any individual                 	| Data controllers                               	| Commonly used electronic form                                                                       	| 30 days                                    	|
+| GDPR, Article 20       	| Personal data                                                             	| Any individual                 	| Data controllers                               	| Structured, commonly used, and machine- readable format                                             	| 30 days                                    	|
+| DSA, Article 40        	| Data necessary to study systemic risks and mitigation strategies          	| (Vetted) researchers           	| Very large online platforms and search engines 	| Appropriate interfaces specified by researcher, platform, or search engine; real-time (if possible) 	| 15 days                                    	|
+| DMA, Article 6(9)      	| Data provided and generated by an end user                                	| Users/Authorised third parties 	| Gatekeepers                                    	| Effective, continuous, and real-time                                                                	| Immediate                                  	|
+| Data Act, Articles 3–4 	| Product and service data, including metadata necessary for interpretation 	| Users/Authorised third parties 	| Data holders                                   	| Comprehensive, structured, commonly used, machine- readable, continuous, and real-time              	| Directly accessible or without undue delay 	|
+  
 *Source*: Collated by the authors.
 
 The European Data Protection Board (EDPB), the institution responsible
@@ -332,7 +282,7 @@ instructions from the EDPB are intended to protect the right from
 constraints that might emerge in practice and to make it as easy as
 possible for people to exercise.
 
-## Article 20 of the General Data Protection Regulation 
+### Article 20 of the General Data Protection Regulation 
 
 The right to data portability gives people the right to receive a copy
 of their personal data that is processed by automated means (that is,
@@ -368,7 +318,7 @@ explains to the data subject why it needs more time. If there is too
 much data to transmit digitally within a reasonable time frame,
 controllers should consider alternative (physical) media.
 
-## Article 40 of the Digital Services Act 
+### Article 40 of the Digital Services Act 
 
 The DSA[^07chapter4_61] regulates online services to try to make them safer and
 more transparent.[^07chapter4_62] Article 40 of the DSA tries to support this by
@@ -406,7 +356,7 @@ interfaces). Those individuals who qualify for access as per paragraph
 12 can request data directly without going through the DSC, which they
 should receive ‘without undue delay’ and (if possible) in ‘real time’.
 
-## Article 6(9) of the Digital Markets Act 
+### Article 6(9) of the Digital Markets Act 
 
 The DMA[^07chapter4_63] tries to address characteristics of digital businesses that
 result in a lack of contestability (that is, monopolies), such as
@@ -430,7 +380,7 @@ high-quality technical measures, such as application programming
 interfaces’[^07chapter4_65] that make it possible to access this data ‘continuously
 and in real time’.
 
-## Articles 3 and 4 of the Data Act
+### Articles 3 and 4 of the Data Act
 
 EU policies related to data have longstanding tensions between, on the
 one hand, wanting to protect fundamental rights while, on the other,
@@ -465,7 +415,7 @@ should be substantiated and the competent authorities should be notified
 of it, which are burdens placed on data holders to make sure it does not
 restrict the user’s data rights for their own gain.
 
-\*\*\*
+<p style="text-align: center;">***</p>
 
 The access rights given to users across these different EU regulations
 overlap and expand on each other, sometimes explicitly (as in the case
@@ -480,7 +430,7 @@ enough to have had an impact, and preliminary signals indicate low
 levels of compliance[^07chapter4_68] and no increase in people’s feelings of
 control over their personal data.[^07chapter4_69]
 
-# Teaching Data Literacy Using Access Rights 
+## Teaching Data Literacy Using Access Rights 
 
 The EU’s imaginary of access rights and the goals of teachers advocating
 for data literacy overlap: both want to empower citizens against the
@@ -800,7 +750,7 @@ Klokmose, and Susanne Bødker call ‘computational alternatives’[^07chapter4_
 and, through them, give shape to the digital worlds that they would like
 to live in.
 
-\*\*\*
+<p style="text-align: center;">***</p>
 
 What data literacy means and how it should be taught is not a settled
 question yet, although broadly speaking it includes competences in
@@ -816,7 +766,7 @@ arguing for a critical perspective on data literacy, these exercises can
 be used for non-technical students to reflect on and discuss the larger
 political structures that data is part of.
 
-# Limitations of Using Access Rights in Education
+## Limitations of Using Access Rights in Education
 
 Based on our personal experiences and reflections described earlier,
 access rights can help university students develop data literacy.
@@ -900,7 +850,7 @@ restricted interpretation would be a sandboxed environment where
 computations can be ran ‘in situ’ but which keeps individual data points
 obfuscated inside the platform.[^07chapter4_100]
 
-# Conclusion 
+## Conclusion 
 
 New EU regulations are poised to expand access rights to how digital
 companies collect and process data, doubling down on the EU’s governance
@@ -969,7 +919,7 @@ of power and political economy (and thus perhaps less glittery than data
 literacy) should also be considered as legitimate foundations for a
 pedagogy of the oppressed in digital societies.
 
-# Notes
+## Notes
 
 [^07chapter4_1]: EU General Data Protection Regulation (GDPR): Regulation (EU)
     2016/679 of the European Parliament and of the Council of 27 April
