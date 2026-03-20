@@ -2272,13 +2272,9 @@
 				<Content> It would be complete without the challenge to platforms by Palestinian people and others across the world who must subvert platforms by interspersing content on dispossession of lands, homes, and people with humour, and the like, completely unrelated to the conflict.</Content>
 				<Br />
 			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" ParagraphBreakType="NextPage">
 				<Br />
 			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-10">
 				<Content>This is where witnessing is also important to challenge the epistemic power of platforms. This power, to draw from Miranda Fricker, can manifest in terms of who has the power to bear testimony (testimonial power), and whether their words are believed and acted upon, and a hermeneutical power where people’s capacities to understand themselves are impacted because of being denied the vocabulary to voice their experiences.</Content>
 			</CharacterStyleRange>
