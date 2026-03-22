@@ -1670,27 +1670,31 @@
 				<Endnote Self="u66e" EndnoteTextRange="u66f" />
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> into which the organization falls:  </Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-				<Content>a</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>. infrastructure: services offering infrastructure intermediating data exchange between data holders and users (that is, data marketplaces);  </Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-				<Content>b</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>. subject-centred: services enabling data subjects to make their data available to data users and exercise their GDPR rights (that is, PIMSs); and  </Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-				<Content>c</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>. cooperative: organizations supporting their members in the exercise of their data rights. For some DISs, more than one category could be applied; the ‘dominant’ one has been decided by analysing in which order the provider states its main goals; and</Content>
+				<Content> into which the organization falls:</Content>
 				<Br />
 			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph" LeftIndent="28.34645669291339" BulletsAndNumberingListType="NumberedList" NumberingContinue="false">
+			<Properties>
+				<NumberingFormat type="string">a, b, c, d...</NumberingFormat>
+			</Properties>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>infrastructure: services offering infrastructure intermediating data exchange between data holders and users (that is, data marketplaces);</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph" LeftIndent="28.34645669291339" BulletsAndNumberingListType="NumberedList">
+			<Properties>
+				<NumberingFormat type="string">a, b, c, d...</NumberingFormat>
+			</Properties>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>subject-centred: services enabling data subjects to make their data available to data users and exercise their GDPR rights (that is, PIMSs); and</Content>
+				<Br />
+				<Content>cooperative: organizations supporting their members in the exercise of their data rights. For some DISs, more than one category could be applied; the ‘dominant’ one has been decided by analysing in which order the provider states its main goals; and</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph" LeftIndent="18" FirstLineIndent="-18" BulletsAndNumberingListType="BulletList">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
 				<Content>data specialization</Content>
 			</CharacterStyleRange>
@@ -2310,8 +2314,8 @@ AAEAAACsKAAAHAEDAAEAAAABAAAAUgEDAAEAAAACAAAANYIBAAEAAAAAAAAAAAAAAA==]]></Graphic
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>: Compiled by the author.</Content>
 				<Br />
-				<Content>I report here some examples, drawn from the dataset to</Content>
-				<Content> better explain each feature, together with snippets taken from the DISs’ websites:</Content>
+				<Content>I report here some examples, drawn from the dataset to better expl</Content>
+				<Content>ain each feature, together with snippets taken from the DISs’ websites:</Content>
 				<Br />
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
@@ -3416,8 +3420,8 @@ iFwAABwBAwABAAAAAQAAAFIBAwABAAAAAgAAADWCAQABAAAAAAAAAAAAAAA=]]></GraphicProxy>
 				<Endnote Self="u6a1" EndnoteTextRange="u6a2" />
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> This could facilitate data access for researchers, even though DIS providers could still use forms of ‘pure secondar</Content>
-				<Content>y line differentiation’ (that is, a DIS may be willing to transfer data only to research projects that it deems of sufficient ‘quality’).</Content>
+				<Content> This could facilitate data access for researchers, even though DIS providers could still use forms of ‘pure secondary line diffe</Content>
+				<Content>rentiation’ (that is, a DIS may be willing to transfer data only to research projects that it deems of sufficient ‘quality’).</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Position="Superscript">
 				<Endnote Self="u6a3" EndnoteTextRange="u6a4" />

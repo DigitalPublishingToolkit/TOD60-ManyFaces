@@ -1717,6 +1717,9 @@
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader4 (sub-subtitle)">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" ParagraphBreakType="NextPage">
+				<Br />
+			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Brief (Lack of) Legal Framework and the Legitimization of a Grey Market</Content>
 				<Br />
@@ -1833,8 +1836,8 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> and the commercial circuit of hacking tools in Brazil, ‘legitimized’ by government demands for forensic technologies – poses risks to rights associated with data protection and the secrecy of communications.</Content>
 				<Br />
-				<Content>Despit</Content>
-				<Content>e the alarming findings, the process of collecting, processing, and analysing the data was illustrative of how access to information on surveillance infrastructures is a huge political and operational challenge. The structure of passive and active transparency, further specified later, was insufficient, and there is a lack of incentives for better implementation of the transparency policy. From offline sites to the almost complete lack of standardization to the disregard for the </Content>
+				<Content>Despi</Content>
+				<Content>te the alarming findings, the process of collecting, processing, and analysing the data was illustrative of how access to information on surveillance infrastructures is a huge political and operational challenge. The structure of passive and active transparency, further specified later, was insufficient, and there is a lack of incentives for better implementation of the transparency policy. From offline sites to the almost complete lack of standardization to the disregard for the </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
 				<Content>Access to Information Act</Content>
@@ -1851,6 +1854,9 @@
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader2 (subtitle)">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" ParagraphBreakType="NextPage">
+				<Br />
+			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>The Ethnography of Accessing Surveillance Data: An Empirical Maze Experience within Our Findings</Content>
 				<Br />
@@ -2038,8 +2044,8 @@
 				<Br />
 				<Content>Except for the federal agencies, which use the ‘FalaBr’ platform, all other entities use their own portals to request public information – which, if not standardized, configures a very dispersed fragmentation of means through which citizens get in contact with the public power. All these other entities use the Citizen Information Systems (SICs), and, in order to access them, registration in each one of them is required. Some of these websites only allowed registration after screening, making the process even slower. Therefore, the first step was to register on all the aforementioned SICs and wait for confirmation, which sometimes took several days.</Content>
 				<Br />
-				<Content>This first step led to another problem: the number of messages sent from the platforms, ranging from the confirmation email request to the confirmation of completed registration, including the communication of the registered RFIs and, later on, their receipt by the agency. N</Content>
-				<Content>ot rarely, the requests were forwarded to other agencies who did not respond to the requests. The notifications of deadline extension for responding to the information request were also very frequent. Eventually, the requests were answered; but even after that, they continued the communication, whether for archiving our requests or for ‘citizens’ satisfaction’ surveys. In this back and forth, there were 195 communications from the SICs in the inbox of the registered email. However, these were only the remaining ones, as all the initial emails sent for account request and confirmation were deleted. In other words, these 195 emails were only after the completion of the PAI. This entire paragraph serves to highlight a concerning phenomenon: when transparency is buried under an excess of information. Furthermore, the interface is not user-friendly. On the contrary, it often required reading multiple pages of bureaucratic protocol messages to find, within one of them, what was new in that PAI that prompted the email.</Content>
+				<Content>This first step led to another problem: the number of messages sent from the platforms, ranging from the confirmation email request to the confirmation of completed registration, including the communication of the registered RFIs and, later on, their receipt by the agency.</Content>
+				<Content> Not rarely, the requests were forwarded to other agencies who did not respond to the requests. The notifications of deadline extension for responding to the information request were also very frequent. Eventually, the requests were answered; but even after that, they continued the communication, whether for archiving our requests or for ‘citizens’ satisfaction’ surveys. In this back and forth, there were 195 communications from the SICs in the inbox of the registered email. However, these were only the remaining ones, as all the initial emails sent for account request and confirmation were deleted. In other words, these 195 emails were only after the completion of the PAI. This entire paragraph serves to highlight a concerning phenomenon: when transparency is buried under an excess of information. Furthermore, the interface is not user-friendly. On the contrary, it often required reading multiple pages of bureaucratic protocol messages to find, within one of them, what was new in that PAI that prompted the email.</Content>
 				<Br />
 				<Content>We have also identified a constant problem: the low quality of the systems of public service. In one state, for example, an expired security certificate made it impossible to track the information request for months. In another case, one of the systems asked for a set of information that would allow the requester to be identified, which is not legally mandatory, as any citizen should be able to request information while keeping their identity anonymous.</Content>
 				<Br />
@@ -2050,6 +2056,9 @@
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader2 (subtitle)">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" ParagraphBreakType="NextPage">
+				<Br />
+			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>A Necessary Step Back: A Chronology of the National Transparency Regime in Brazil and its Barriers</Content>
 				<Br />
@@ -2221,8 +2230,8 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>Although we can argue, on the one hand, that this legal framework establishes an ideally proportional and legitimate general rule, on the other hand, the political practice faces challenges that contribute to the continuous effort of the public sector to remain opaque concerning meaningful and public-interest information, which becomes even more </Content>
-				<Content>noticeable when it comes to surveillance activities.</Content>
+				<Content>Although we can argue, on the one hand, that this legal framework establishes an ideally proportional and legitimate general rule, on the other hand, the political practice faces challenges that contribute to the continuous effort of the public sector to remain opaque concerning meaningful and public-interest information, which becomes even mo</Content>
+				<Content>re noticeable when it comes to surveillance activities.</Content>
 				<Br />
 				<Content>It becomes clearer that the legal framework deals with a collision of principles in the trajectory of the transparency policy in Brazil,</Content>
 			</CharacterStyleRange>
@@ -2379,8 +2388,8 @@
 				<Endnote Self="u6d0" EndnoteTextRange="u6d1" />
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> In 1975, the National System of Information (Sistema Nacional de Informação, SISNI) was created</Content>
-				<Content> and designed to process information. Historically, the intelligence system was focused on political oppositionists, such as anarchists and leftists.</Content>
+				<Content> In 1975, the National System of Information (Sistema Nacional de Informação, SISNI) was crea</Content>
+				<Content>ted and designed to process information. Historically, the intelligence system was focused on political oppositionists, such as anarchists and leftists.</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Position="Superscript">
 				<Endnote Self="u6d2" EndnoteTextRange="u6d3" />
@@ -2502,6 +2511,9 @@
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader2 (subtitle)">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" ParagraphBreakType="NextPage">
+				<Br />
+			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Conclusion</Content>
 				<Br />
@@ -2527,8 +2539,8 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> In this chapter, we pointed out how difficult it can be to effectively access information about the methods and tools of information collection and production that are easily available to law enforcement agencies.</Content>
 				<Br />
-				<Content>The conclusion is that, even with a well-recognized transparency regime, Brazil still lacks the means to enable its proper implementation in the real world. Further research, advocacy, and policymaking work must be done to align the country with the world’s best transparency standards, improving and respecting not only the legality, proportionality, and necessity principles in the field of surveillance infrastructures but also in every government activity that can negativel</Content>
-				<Content>y impact individual and collective autonomy. Although our case study was based on Brazil and this was not a comparative-oriented work, the tensions between opacity and transparency can also be further explored through the lens of experiences in other countries, including investigative journalists, non-governmental organizations (NGOs) or civil society, and researchers.</Content>
+				<Content>The conclusion is that, even with a well-recognized transparency regime, Brazil still lacks the means to enable its proper implementation in the real world. Further research, advocacy, and policymaking work must be done to align the country with the world’s best transparency standards, improving and respecting not only the legality, proportionality, and necessity principles in the field of surveillance infrastructures but also in every government activity that can negat</Content>
+				<Content>ively impact individual and collective autonomy. Although our case study was based on Brazil and this was not a comparative-oriented work, the tensions between opacity and transparency can also be further explored through the lens of experiences in other countries, including investigative journalists, non-governmental organizations (NGOs) or civil society, and researchers.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
