@@ -1923,27 +1923,27 @@ AQAsRFIBAwABAAAAAgC4QzWCAQABAAAAAAAAAAAAAAA=]]></GraphicProxy>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aImages%3aImg caption">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Rectangle Self="u421" ContentType="GraphicType" StoryTitle="$ID/" OverriddenPageItemProps="" Visible="true" Name="$ID/" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" ItemTransform="1 0 0 1 150 -100" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="">
+				<Rectangle Self="u421" ContentType="GraphicType" StoryTitle="$ID/" OverriddenPageItemProps="" Visible="true" Name="$ID/" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" ItemTransform="0.9999999999999999 0 0 0.9999999999999999 138.9243691745354 -386.21703892301235" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="">
 					<Properties>
 						<PathGeometry>
 							<GeometryPathType PathOpen="false">
 								<PathPointArray>
-									<PathPointType Anchor="-150 -100" LeftDirection="-150 -100" RightDirection="-150 -100" />
-									<PathPointType Anchor="-150 417.00787401574735" LeftDirection="-150 417.00787401574735" RightDirection="-150 417.00787401574735" />
-									<PathPointType Anchor="188.9291338582678 417.00787401574735" LeftDirection="188.9291338582678 417.00787401574735" RightDirection="188.9291338582678 417.00787401574735" />
-									<PathPointType Anchor="188.9291338582678 -100" LeftDirection="188.9291338582678 -100" RightDirection="188.9291338582678 -100" />
+									<PathPointType Anchor="-138.92436917453543 -92.61624611635696" LeftDirection="-138.92436917453543 -92.61624611635696" RightDirection="-138.92436917453543 -92.61624611635696" />
+									<PathPointType Anchor="-138.92436917453543 386.2170389230124" LeftDirection="-138.92436917453543 386.2170389230124" RightDirection="-138.92436917453543 386.2170389230124" />
+									<PathPointType Anchor="195.5592843687719 386.2170389230124" LeftDirection="195.5592843687719 386.2170389230124" RightDirection="195.5592843687719 386.2170389230124" />
+									<PathPointType Anchor="195.5592843687719 -92.61624611635696" LeftDirection="195.5592843687719 -92.61624611635696" RightDirection="195.5592843687719 -92.61624611635696" />
 								</PathPointArray>
 							</GeometryPathType>
 						</PathGeometry>
 					</Properties>
-					<FrameFittingOption AutoFit="false" LeftCrop="0" TopCrop="0" RightCrop="0" BottomCrop="0" FittingOnEmptyFrame="Proportionally" FittingAlignment="CenterAnchor" />
+					<FrameFittingOption AutoFit="false" LeftCrop="0" TopCrop="-8.486536794623134" RightCrop="-5.656096917446462" BottomCrop="-8.486536794623248" FittingOnEmptyFrame="Proportionally" FittingAlignment="CenterAnchor" />
 					<ObjectExportOption AltTextSourceType="SourceXMLStructure" ActualTextSourceType="SourceXMLStructure" CustomAltText="$ID/" CustomActualText="$ID/" ApplyTagType="TagFromStructure" ImageConversionType="JPEG" ImageExportResolution="Ppi300" GIFOptionsPalette="AdaptivePalette" GIFOptionsInterlaced="true" JPEGOptionsQuality="High" JPEGOptionsFormat="BaselineEncoding" ImageAlignment="AlignLeft" ImageSpaceBefore="0" ImageSpaceAfter="0" UseImagePageBreak="false" ImagePageBreak="PageBreakBefore" CustomImageAlignment="false" SpaceUnit="CssPixel" CustomLayout="false" CustomLayoutType="AlignmentAndSpacing" EpubType="$ID/" SizeType="DefaultSize" CustomSize="$ID/" PreserveAppearanceFromLayout="PreserveAppearanceDefault">
 						<Properties>
 							<AltMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
 							<ActualMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
 						</Properties>
 					</ObjectExportOption>
-					<AnchoredObjectSetting AnchoredPosition="InlinePosition" SpineRelative="false" LockPosition="false" PinPosition="true" AnchorPoint="BottomRightAnchor" HorizontalAlignment="LeftAlign" HorizontalReferencePoint="TextFrame" VerticalAlignment="TopAlign" VerticalReferencePoint="LineBaseline" AnchorXoffset="0" AnchorYoffset="0" AnchorSpaceAbove="0" />
+					<AnchoredObjectSetting AnchoredPosition="InlinePosition" SpineRelative="false" LockPosition="false" PinPosition="true" AnchorPoint="BottomRightAnchor" HorizontalAlignment="LeftAlign" HorizontalReferencePoint="TextFrame" VerticalAlignment="TopAlign" VerticalReferencePoint="LineBaseline" AnchorXoffset="0" AnchorYoffset="9.599999999999907" AnchorSpaceAbove="0" />
 					<TextWrapPreference Inverse="false" ApplyToMasterPageOnly="false" TextWrapSide="BothSides" TextWrapMode="None">
 						<Properties>
 							<TextWrapOffset Top="0" Left="0" Bottom="0" Right="0" />
@@ -1951,7 +1951,7 @@ AQAsRFIBAwABAAAAAgC4QzWCAQABAAAAAAAAAAAAAAA=]]></GraphicProxy>
 						<ContourOption ContourType="SameAsClipping" IncludeInsideEdges="false" ContourPathName="$ID/" />
 					</TextWrapPreference>
 					<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
-					<Image Self="u764" Space="$ID/#Links_RGB" ActualPpi="330 330" EffectivePpi="262 262" ImageRenderingIntent="UseColorSettings" OverriddenPageItemProps="" LocalDisplaySetting="Default" ImageTypeName="$ID/Portable Network Graphics (PNG)" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="1.2608848318803507 0 0 1.2608848318803505 -150.00000000000003 -78.49886235811468" Visible="true" Name="$ID/" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="">
+					<Image Self="u764" Space="$ID/#Links_RGB" ActualPpi="330 330" EffectivePpi="271 271" ImageRenderingIntent="UseColorSettings" OverriddenPageItemProps="" LocalDisplaySetting="Default" ImageTypeName="$ID/Portable Network Graphics (PNG)" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="1.2187030142540218 0 0 1.2187030142540216 -138.92436917453546 -82.2736781441721" Visible="true" Name="$ID/" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="">
 						<Properties>
 							<Profile type="string">$ID/None</Profile>
 							<GraphicProxy><![CDATA[SUkqALQoAACAACBQOCQWDQeEQmFQuGQ2HQ+IRGJROKRWLReMRmNRuOR2PR+QSGRSOSSWTSeUSmVS
@@ -2303,7 +2303,6 @@ AAEAAACsKAAAHAEDAAEAAAABAAAAUgEDAAEAAAACAAAANYIBAAEAAAAAAAAAAAAAAA==]]></Graphic
 						</ParagraphStyleRange>
 					</Cell>
 				</Table>
-				<Content></Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
