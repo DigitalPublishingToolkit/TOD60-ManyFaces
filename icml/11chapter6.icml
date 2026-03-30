@@ -586,24 +586,14 @@
 					<Content>﻿<?ACE 4?>	‘Regulation (EU) 2022/1925 of the European Parliament and of the Council of 14 September 2022 on Contestable and Fair Markets in the Digital Sector and Amending Directives (EU) 2019/1937 and (EU) 2020/1828 (Digital Markets Act)’, https://eur-lex.europa.eu/legal-content/EN/ TXT/?uri=CELEX%3A32022R1925 (accessed 8 June 2023).﻿</Content>
 				</EndnoteRange>
 				<Br />
+				<EndnoteRange Self="ub4a" SourceEndnote="ub49">
+					<Content>﻿<?ACE 4?>	‘European Parliament Legislative Resolution of 13 March 2024 on the Proposal for a Regulation of the European Parliament and of the Council to Lay Down Harmonised Rules on Artificial Intelligence (Artificial Intelligence Act) and to Amend Certain Union Legislative Acts (COM(2021)0206 –C9-0146/2021 – 2021/0106 (COD)) Regulation (EU) 2021/206 of the European Parliament and of the Council Laying Down Harmonized Rules on Artificial Intelligence (Artificial Intelligence Act) and Amending Certain Union Legislative Acts’, https://www.europarl.europa.eu/doceo/document/ TA-9-2024-0138_EN.pdf (accessed 8 April 2024).﻿</Content>
+				</EndnoteRange>
+				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<EndnoteRange Self="ub4a" SourceEndnote="ub49">
-			<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aReferences (end of each part)%3aReference List">
-				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-					<Content>﻿<?ACE 4?>	‘European Parliament Legislative Resolution of 13 March 2024 on the Proposal for a Regulation of the European Parliament and of the Council to Lay Down Harmonised Rules on Artificial Intelligence (Artificial Intelligence Act) and to Amend Certain Union Legislative Acts (COM(2021)0206 –</Content>
-					<Br />
-				</CharacterStyleRange>
-			</ParagraphStyleRange>
-			<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aReferences (end of each part)%3aReference List">
-				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-					<Content>	C9-0146/2021 – 2021/0106 (COD)) Regulation (EU) 2021/206 of the European Parliament and of the Council Laying Down Harmonized Rules on Artificial Intelligence (Artificial Intelligence Act) and Amending Certain Union Legislative Acts’, https://www.europarl.europa.eu/doceo/document/ TA-9-2024-0138_EN.pdf (accessed 8 April 2024).﻿</Content>
-				</CharacterStyleRange>
-			</ParagraphStyleRange>
-		</EndnoteRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aReferences (end of each part)%3aReference List">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Br />
 				<EndnoteRange Self="ub4f" SourceEndnote="ub4e">
 					<Content>﻿<?ACE 4?>	‘Regulation (EU) 2023/2854 of the European Parliament and of the Council of 13 December 2023 on Harmonized Rules for Fair Access to and Use of Data and Amending Regulation (EU) 2017/2394 and Directive (EU) 2020/1828 (Data Act)’, https://eur-lex.europa.eu/legal-content/EN/ TXT/?uri=celex%3A32023R2854 (accessed 28 March 2024).﻿</Content>
 				</EndnoteRange>
@@ -744,8 +734,8 @@
 				</EndnoteRange>
 				<Br />
 				<EndnoteRange Self="ub87" SourceEndnote="ub86">
-					<Content>﻿<?ACE 4?>	Bertin Martens, ‘How to Fix the European Union’s Proposed Data Act’, Bruegel, 4 December 2022, https://www.bruegel.org/blog-po</Content>
-					<Content>st/how-fixeuropean-unions-proposed-data-act (accessed 28 February 2023).﻿</Content>
+					<Content>﻿<?ACE 4?>	Bertin Martens, ‘How to Fix the European Union’s Proposed Data Act’, Bruegel, 4 December 2022, https://www.bruegel.org/blog-post</Content>
+					<Content>/how-fixeuropean-unions-proposed-data-act (accessed 28 February 2023).﻿</Content>
 				</EndnoteRange>
 				<Br />
 				<EndnoteRange Self="ub89" SourceEndnote="ub88">
@@ -1103,8 +1093,8 @@
 			</CharacterStyleRange>
 			<EndnoteRange Self="uc1c" SourceEndnote="uc1b">
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-					<Content>﻿<?ACE 4?>	‘Government Gazette Vol. 695’, Republic of South Africa, 12 May 2023, https://inforegulator.org.za/wp-content/uploads/2020/07/GovernmentGazzette-dated-12-May-.pdf (accessed 15 December 2024). For a discussion of the draft Code of Conduct for Research, see D. W. Thaldar and B. Townsend, ‘Protecting Pers</Content>
-					<Content>onal Information in Research: Is a Code of Conduct the Solution?’ </Content>
+					<Content>﻿<?ACE 4?>	‘Government Gazette Vol. 695’, Republic of South Africa, 12 May 2023, https://inforegulator.org.za/wp-content/uploads/2020/07/GovernmentGazzette-dated-12-May-.pdf (accessed 15 December 2024). For a discussion of the draft Code of Conduct for Research, see D. W. Thaldar and B. Townsend, ‘Protecting Person</Content>
+					<Content>al Information in Research: Is a Code of Conduct the Solution?’ </Content>
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
 					<Content>South African Journal of Science</Content>
@@ -1656,155 +1646,158 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Br />
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" ParagraphBreakType="NextPage">
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-10">
 				<Content>The SRB case is a critical watershed in data protection law in that it provides some assistance in how personal data could be differentiated from non-personal data. In particular, the following points are worth emphasizing: (</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" Tracking="-10">
 				<Content>a</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-10">
 				<Content>) the test was to determine whether the data was subjective (that is, in the hands of Deloitte) rather than approached from the perspective of a reasonably competent and objective third party, and (</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" Tracking="-10">
 				<Content>b</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-10">
 				<Content>) the lack of a ‘legal’ manner to re-identify the data would result in the data being considered to be de-identified.</Content>
 				<Br />
 				<Content>The SRB case has since been appealed by the European Data Protection Board (EDPB) on the grounds that the court misdirected itself when it required that the EDPB assess whether the data was personal or not, misinterpreted whether pseudonymized data was personal or not, and placed the onus on the EDPS to prove that the SRB had effectively anonymized the data it was processing.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Tracking="-10" Position="Superscript">
 				<Endnote Self="ub7c" EndnoteTextRange="ub7d" />
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-10" Position="Superscript">
 				<Br />
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-10">
 				<Content>While the definitive text on personal data is the GDPR, it could be argued that the DA should be confined to non-personal data or ‘product data’. While this seems to be mostly the intention, the DA itself does not do this and deals with both personal data and non-personal data which emanates from ‘connected products’.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Tracking="-10" Position="Superscript">
 				<Endnote Self="ub7f" EndnoteTextRange="ub80" />
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-10">
 				<Content> The definition of ‘connected product’ in Article 2(5) is clearly a critical definition on which the DA hinges and is defined thus:</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aBlockquote">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-10">
 				<Content>… an item that obtains, generates or collects data concerning its use or environment and that is able to communicate product data via an electronic communications service, physical connection or on-device access, and whose primary function is not the storing, processing or transmission of data on behalf of any party other than the user.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Tracking="-10" Position="Superscript">
 				<Endnote Self="ub83" EndnoteTextRange="ub84" />
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-10" Position="Superscript">
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-10">
 				<Content>From this definition, it is possible to extrapolate that ‘product data’ is data which (</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" Tracking="-10">
 				<Content>a</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-10">
 				<Content>) emanates from a product, (</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" Tracking="-10">
 				<Content>b</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-10">
 				<Content>) is about the product itself or its use in its environment, (</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" Tracking="-10">
 				<Content>c</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-10">
 				<Content>) is communicated via the internet, and (</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" Tracking="-10">
 				<Content>d</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-10">
 				<Content>) excludes data from, for instance, telecommunications platforms and server farms.</Content>
 				<Br />
 				<Content>Logically, this definition also means that the DA creates a distinction between ‘product data’ and ‘non-product data’, which some commentators have described as both artificial and confusing.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Tracking="-10" Position="Superscript">
 				<Endnote Self="ub86" EndnoteTextRange="ub87" />
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-10">
 				<Content> This is not the end of the difficulties as there is now a new category of ‘exportable data’, which refers to input and output data (including data which is co-generated by the customer and the data holder) but excludes data which is protected by intellectual property rights or constitutes a trade secret.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Tracking="-10" Position="Superscript">
 				<Endnote Self="ub88" EndnoteTextRange="ub89" />
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-10">
 				<Content> Two further new definitions are introduced of ‘related service data’: (</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" Tracking="-10">
 				<Content>a</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-10">
 				<Content>) data generated by the use of the product and (</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" Tracking="-10">
 				<Content>b</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-10">
 				<Content>) ‘readily available data’ which refers to data which can obtained without disproportionate effort.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Tracking="-10" Position="Superscript">
 				<Endnote Self="ub8a" EndnoteTextRange="ub8b" />
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-10" Position="Superscript">
 				<Br />
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-10">
 				<Content>On a practical level, these definitions demand that data holders – holders of product data – need to undertake a significant amount of work to restructure their underlying framework for data in order to place it into the various categories as required by the DA. An example of these ‘categories’ which a data holder would be required to implement would be (</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" Tracking="-10">
 				<Content>a</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-10">
 				<Content>) product data (data generated by the use of the product)</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Tracking="-10" Position="Superscript">
 				<Endnote Self="ub8e" EndnoteTextRange="ub8f" />
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-10">
 				<Content> which is personal, (</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" Tracking="-10">
 				<Content>b</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-10">
 				<Content>) product data which is personal and exportable, (</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" Tracking="-10">
 				<Content>c</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>) product data which is personal</Content>
-				<Content> and readily available, (</Content>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-10">
+				<Content>) product data which is persona</Content>
+				<Content>l and readily available, (</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" Tracking="-10">
 				<Content>d</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-10">
 				<Content>) non-product data which is personal, (</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" Tracking="-10">
 				<Content>e</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-10">
 				<Content>) non-product data which is personal and exportable, and (</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" Tracking="-10">
 				<Content>f</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-10">
 				<Content>) non-product data which is personal and readily available. (The categorization can continue with product and non-product data which is non-personal.)</Content>
 				<Br />
 				<Content>While the DA may attempt to differentiate data into these constituent categories, the data itself resists the attempt to fit into these definitions. Moreover, it is unfortunate that businesses will be required to implement significant changes to their underlying information technology (IT) structure without having a clear indication that the manner in which they do so will be consistent with the DA.</Content>
@@ -1814,57 +1807,57 @@
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader2 (subtitle)">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-10">
 				<Content>Barriers to International Data Transfer of Data to African Researchers</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-10">
 				<Content>African researchers have been highlighted in this chapter as they are less numerous, poorly resourced, and have a greater workload as compared to their peers in the rest of the world. For example, a Malawian qualitative study into the challenges facing African researchers found that lack of funds, mentorship, interest by policymakers, and a heavy workload all contribute to the challenge for African scientists.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Tracking="-10" Position="Superscript">
 				<Endnote Self="ub91" EndnoteTextRange="ub92" />
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-10">
 				<Content> Although some real progress has been made to develop African researchers, this comes off a very low base. In its report on a decade of development in Sub-Saharan African research, the World Bank noted that international collaboration (and thus access to international data) was a key requirement for African research.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Tracking="-10" Position="Superscript">
 				<Endnote Self="ub94" EndnoteTextRange="ub95" />
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-10">
 				<Content> Even more telling was the fact that collaboration with extra-regional partners outside of the Sub-Saharan African region amounted to 42 per cent to 79 per cent of research, far exceeding the inter-regional collaboration at 0.9 per cent to 2.9 per cent.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Tracking="-10" Position="Superscript">
 				<Endnote Self="ub96" EndnoteTextRange="ub97" />
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-10">
 				<Content> This, in turn, results in a tendency for African researchers to have an asymmetric relationship with their international partners and for them to adopt the research agenda of international partners.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Tracking="-10" Position="Superscript">
 				<Endnote Self="ub98" EndnoteTextRange="ub99" />
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-10" Position="Superscript">
 				<Br />
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-10">
 				<Content>In short, African researchers rely on access to the Global North for funding, collaboration, and access to data. It is against this background that the impact of the EU data legislation is considered.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader4 (sub-subtitle)">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-10">
 				<Content>Lack of Clarity on Data Categorization</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-10">
 				<Content>As illustrated earlier, the DA creates a new category of ‘product data’, which, in turn, creates a knock-on effect on organizations who will need to firstly define and then implement internal controls to be able to differentiate between different types of data to create controls to manage it. This is a thankless task as not only are there new categories of data, but the boundaries to the categories themselves also are likely to change as understanding of DA matures.</Content>
 				<Br />
 				<Content>Even what was considered to be the settled concept of pseudonymized data being personal data has been called into question. Additionally, as technology and mathematical approaches are developed, previously de-identified data may become identifiable, making pseudonymization and anonymization techniques obsolete or ineffective.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Tracking="-10" Position="Superscript">
 				<Endnote Self="ub9a" EndnoteTextRange="ub9b" />
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
@@ -1955,8 +1948,8 @@
 				<Endnote Self="ubab" EndnoteTextRange="ubac" />
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> This suggests that an African researcher requesting access to data to investigate systemic risks in an African country would never be considered to be ‘vetted’ as the research does not relate to the EU, which, in turn, suggests that African researchers will only be considered when the subject matter of the research involves the EU</Content>
-				<Content>. This re-emphasises the point mentioned earlier that African researchers tend to adopt the research agenda of their international partners.</Content>
+				<Content> This suggests that an African researcher requesting access to data to investigate systemic risks in an African country would never be considered to be ‘vetted’ as the research does not relate to the EU, which, in turn, suggests that African researchers will only be considered when the subject matter of the research involves the E</Content>
+				<Content>U. This re-emphasises the point mentioned earlier that African researchers tend to adopt the research agenda of their international partners.</Content>
 				<Br />
 				<Content>To place this in perspective, a European researcher could request access to Meta’s data about election interference in the EU in terms of the DSA, but an African researcher has no similar law to ask Meta for data about election interference in Tanzania.</Content>
 				<Br />
@@ -1999,6 +1992,9 @@
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader4 (sub-subtitle)">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" ParagraphBreakType="NextPage">
+				<Br />
+			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Lack of Hegemony in African Legal Systems</Content>
 				<Br />
@@ -2153,8 +2149,8 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> has the potential to have a similar impact on African countries which have a demonstrable difficulty in keeping up with the regulation of technology. Put simply, the DA has the potential to regulate a sector of the (data) economy which African countries have not addressed at all. The purpose of this chapter is, at least in part, to stimulate discussion of the regulation of data holistically in Africa in order to avoid a situation where African countries are, once again, late to the party and caught with their proverbial pants down. That said, this chapter does not attempt to address every issue influencing data regulation, but rather focuses on the impact of insufficient protection of, and access to, data by researchers in Africa.</Content>
 				<Br />
-				<Content>While African countries have not yet</Content>
-				<Content> caught up with the developments in data regulation, it is heartening that the recent African Union Data Policy Framework (AUDPF), which was released in February 2022, is fully aware of the multidimensional nature of data.</Content>
+				<Content>While African countries have not y</Content>
+				<Content>et caught up with the developments in data regulation, it is heartening that the recent African Union Data Policy Framework (AUDPF), which was released in February 2022, is fully aware of the multidimensional nature of data.</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Position="Superscript">
 				<Endnote Self="ubd9" EndnoteTextRange="ubda" />
@@ -2316,6 +2312,9 @@
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" ParagraphBreakType="NextPage">
+				<Br />
+			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>In short, what the AUDPF has done is begin the conversation about regulating other aspects of data aside from the perspective of privacy, but African countries are years away from implementing legislation that deals with data holistically. Even if African countries were able to implement legislation similar to that put into place by the EU, it is unclear whether this would be desirable as African countries typically have far fewer funds available for regulatory bodies, and the EU itself is not sure what the impact of the data legislation in the EU will be; following too quickly in EU footsteps may ironically result in African countries taking the wrong path.</Content>
 				<Br />
@@ -2378,6 +2377,11 @@
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader4 (sub-subtitle)">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" ParagraphBreakType="NextPage">
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader4 (sub-subtitle)">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Code of Conduct for Researchers</Content>
 				<Br />
@@ -2422,8 +2426,8 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>The AUDPF is a very useful and necessary step in the developme</Content>
-				<Content>nt of African policy on data, but it does come several years after the same step was taken by the European strategy for data. In a manner similar to the Malabo Convention, it may be useful for the AU to propose a convention which would incorporate the concepts put forth in the DSA,</Content>
+				<Content>The AUDPF is a very useful and necessary step in the devel</Content>
+				<Content>opment of African policy on data, but it does come several years after the same step was taken by the European strategy for data. In a manner similar to the Malabo Convention, it may be useful for the AU to propose a convention which would incorporate the concepts put forth in the DSA,</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Position="Superscript">
 				<Endnote Self="uc25" EndnoteTextRange="uc26" />

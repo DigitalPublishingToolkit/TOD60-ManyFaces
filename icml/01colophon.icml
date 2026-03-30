@@ -383,14 +383,29 @@
 	<Story Self="u3bf" UserText="true" IsEndnoteStory="false" AppliedTOCStyle="n" TrackChanges="false" StoryTitle="" AppliedNamedGrid="n">
 		<StoryPreference OpticalMarginAlignment="true" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
 		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph" HyphenationZone="35.64356435643565" SpaceAfter="5.613159741170968" RuleAboveLineWeight="0.9900990099009901" RuleBelowLineWeight="0.9900990099009901" SplitColumnInsideGutter="5.9405940594059405" ParagraphBorderTopLeftCornerRadius="0.9900990099009901" ParagraphBorderTopRightCornerRadius="0.9900990099009901" ParagraphBorderBottomLeftCornerRadius="0.9900990099009901" ParagraphBorderBottomRightCornerRadius="0.9900990099009901" ParagraphShadingTopLeftCornerRadius="0.9900990099009901" ParagraphShadingTopRightCornerRadius="0.9900990099009901" ParagraphShadingBottomLeftCornerRadius="0.9900990099009901" ParagraphShadingBottomRightCornerRadius="0.9900990099009901" ParagraphBorderTopLineWeight="0.9900990099009901" ParagraphBorderBottomLineWeight="0.9900990099009901" ParagraphBorderLeftLineWeight="0.9900990099009901" ParagraphBorderRightLineWeight="0.9900990099009901">
+			<Properties>
+				<SameParaStyleSpacing type="unit">-0.9900990099009901</SameParaStyleSpacing>
+			</Properties>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" PointSize="8.910891089108912" StrokeWeight="0.9900990099009901" MiterLimit="3.9603960396039604" RubyFontSize="-0.9900990099009901" KentenFontSize="-0.9900990099009901">
 				<Content>Theory on Demand #61</Content>
 				<Br />
-				<Content>Edited by: Jef Ausloos &amp; Siddharth de Souza</Content>
+				<Content>Edited by: Jef Ausloos and Siddharth de Souza</Content>
 				<Br />
-				<Content>Authors: alphabetical list of all authors?</Content>
+				<Content>Authors: </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" PointSize="8.910891089108912" StrokeWeight="0.9900990099009901" MiterLimit="3.9603960396039604" RubyFontSize="-0.9900990099009901" KentenFontSize="-0.9900990099009901">
+				<Content>Carolina Aguerre, Frank Kwaku Agyei, Pedro Amaral, Jef Ausloos, Reuben Binns, Lawrence Kwabena Brobbey, Siddharth Peter de Souza, Paul Esselaar, Michalina Kowala, Boateng Kyereh, Matteo Nebbiai, Midas Nouwens, Paul Osei-Tutu, Marcos César M. Pereira, André Ramiro, Jake Stein</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" PointSize="8.910891089108912" StrokeWeight="0.9900990099009901" MiterLimit="3.9603960396039604" RubyFontSize="-0.9900990099009901" KentenFontSize="-0.9900990099009901">
 				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph" HyphenationZone="35.64356435643565" SpaceAfter="5.613159741170968" RuleAboveLineWeight="0.9900990099009901" RuleBelowLineWeight="0.9900990099009901" SplitColumnInsideGutter="5.9405940594059405" ParagraphBorderTopLeftCornerRadius="0.9900990099009901" ParagraphBorderTopRightCornerRadius="0.9900990099009901" ParagraphBorderBottomLeftCornerRadius="0.9900990099009901" ParagraphBorderBottomRightCornerRadius="0.9900990099009901" ParagraphShadingTopLeftCornerRadius="0.9900990099009901" ParagraphShadingTopRightCornerRadius="0.9900990099009901" ParagraphShadingBottomLeftCornerRadius="0.9900990099009901" ParagraphShadingBottomRightCornerRadius="0.9900990099009901" ParagraphBorderTopLineWeight="0.9900990099009901" ParagraphBorderBottomLineWeight="0.9900990099009901" ParagraphBorderLeftLineWeight="0.9900990099009901" ParagraphBorderRightLineWeight="0.9900990099009901">
+			<Properties>
+				<SameParaStyleSpacing type="unit">-0.9900990099009901</SameParaStyleSpacing>
+			</Properties>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" PointSize="8.910891089108912" StrokeWeight="0.9900990099009901" MiterLimit="3.9603960396039604" RubyFontSize="-0.9900990099009901" KentenFontSize="-0.9900990099009901">
 				<Content>Peer review: All chapters in this book have been subject to two rounds of (single-blind) peer reviews, two rounds of editorial reviews, and a writing workshop</Content>
 				<Br />
 				<Content>Cover Design: Katja van Stiphout </Content>
@@ -402,10 +417,10 @@
 				<Content>ISBN: 9789083672113</Content>
 				<Br />
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold" PointSize="8.910891089108912" StrokeWeight="0.9900990099009901" MiterLimit="3.9603960396039604" RubyFontSize="-0.9900990099009901" KentenFontSize="-0.9900990099009901">
 				<Content>Contact</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" PointSize="8.910891089108912" StrokeWeight="0.9900990099009901" MiterLimit="3.9603960396039604" RubyFontSize="-0.9900990099009901" KentenFontSize="-0.9900990099009901">
 				<Content>   Institute of Network Cultures Amsterdam University of Applied Sciences (HvA)  Email: info@networkcultures.org  Web: www.networkcultures.org </Content>
 				<Br />
 				<Content>Order a copy or download this publication for free at: www.networkcultures.org/publications </Content>

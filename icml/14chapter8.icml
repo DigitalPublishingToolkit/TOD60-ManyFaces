@@ -3442,6 +3442,9 @@ iFwAABwBAwABAAAAAQAAAFIBAwABAAAAAgAAADWCAQABAAAAAAAAAAAAAAA=]]></GraphicProxy>
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader2 (subtitle)">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" ParagraphBreakType="NextPage">
+				<Br />
+			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Conclusions</Content>
 				<Br />

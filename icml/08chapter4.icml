@@ -2264,6 +2264,9 @@
 				<Content>) additional meta-information, such as for what purpose the data is processed, what categories the personal data falls into, who else might have access to this data, how long the data will be stored, where the data came from if it was not provided by the data subject themselves, and if and how it is being used for automated decision-making.</Content>
 				<Br />
 			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold" ParagraphBreakType="NextPage">
+				<Br />
+			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
 				<Content>Table 4.2</Content>
 			</CharacterStyleRange>
@@ -2540,7 +2543,6 @@
 						</ParagraphStyleRange>
 					</Cell>
 				</Table>
-				<Content></Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -2591,8 +2593,8 @@
 				<Endnote Self="u6c2" EndnoteTextRange="u6c3" />
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> Data should be pr</Content>
-				<Content>ovided within 30 days, although an extension to three months is possible, as long as the controller explains to the data subject why it needs more time. If there is too much data to transmit digitally within a reasonable time frame, controllers should consider alternative (physical) media.</Content>
+				<Content> Data should be p</Content>
+				<Content>rovided within 30 days, although an extension to three months is possible, as long as the controller explains to the data subject why it needs more time. If there is too much data to transmit digitally within a reasonable time frame, controllers should consider alternative (physical) media.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -2657,6 +2659,9 @@
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader4 (sub-subtitle)">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" ParagraphBreakType="NextPage">
+				<Br />
+			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Articles 3 and 4 of the Data Act</Content>
 				<Br />
@@ -2682,8 +2687,16 @@
 				<Br />
 				<Content>Article 4 of the Data Act adds specifications to the data rights described in Article 3 – for example, that data access can be restricted if it undermines the security requirements of the product, that the data holder should notify the competent authorities if it restricts data access, that users can lodge complaints in this case, and that data holders cannot make exercising this right unduly difficult. Arguably, the most important restriction relates to the protection of trade secrets, which is a valid reason to not share data if the user does not take measures to ensure their confidentiality. However, such decisions should be substantiated and the competent authorities should be notified of it, which are burdens placed on data holders to make sure it does not restrict the user’s data rights for their own gain.</Content>
 				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph" Justification="CenterAlign">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>***</Content>
 				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>The access rights given to users across these different EU regulations overlap and expand on each other, sometimes explicitly (as in the case of the DMA expanding GDPR rights). They target different spheres of contemporary, digitally mediated life (for example, online services, connected products, and data-hungry governments) and try to rebalance the distribution of power through different approaches (for example, improving fundamental rights, consumer protection, and fair competition). Whether these rights are enough to address remains to be seen. Only the access right to personal data has been in place for long enough to have had an impact, and preliminary signals indicate low levels of compliance</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Position="Superscript">
@@ -2700,325 +2713,332 @@
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader2 (subtitle)">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" ParagraphBreakType="NextPage">
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-15">
 				<Content>Teaching Data Literacy Using Access Rights</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-20">
 				<Content>The EU’s imaginary of access rights and the goals of teachers advocating for data literacy overlap: both want to empower citizens against the negative externalities of informational capitalism.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Tracking="-20" Position="Superscript">
 				<Endnote Self="u6dd" EndnoteTextRange="u6de" />
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-20">
 				<Content> The EU sees access to data as a precondition for good citizenship in a digital society – for example, by making it possible for people to oversee the fair processing of their personal data or by being able to move their data to other services rather than being locked in. Data literacy advocates think that population-wide competences to understand the generation and analysis of data is necessary to mitigate digital inequities that arise between those who can work with data and those who cannot, which is becoming more pressing in societies where data-based knowledge claims about the world carry more weight.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Tracking="-20" Position="Superscript">
 				<Endnote Self="u6e0" EndnoteTextRange="u6e1" />
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-20">
 				<Content> Given this overlap in mission, how can access rights contribute to the development of data literacy in practice?</Content>
 				<Br />
-				<Content>Over the past three years we have used access rights as part of our teaching in the Department of Information Studies at Aarhus University, Denmark. The department positions itself within the broader humanities faculty as the department for critical reflection on technology and society through theory, empirical research, and the construction of digital arte</Content>
-				<Content>facts (for example, prototypes, software, and art). Across the different degree programmes, students are broadly taught science and technology studies (STS) theory, human–computer interaction (HCI) design approaches, digital innovation, programming, and qualitative methods. We exercised the right to access under Article 15 of the GDPR (since the other rights were not yet in effect) in three different syllabi: Data Studies, Datafication of Society, and Digital Living. The Data Studies</Content>
+				<Content>Over the past three years we have used access rights as part of our teaching in the Department of Information Studies at Aarhus University, Denmark. The department positions itself within the broader humanities faculty as the department for critical reflection on technology and society through theory, empirical research, and the construction of digital a</Content>
+				<Content>rtefacts (for example, prototypes, software, and art). Across the different degree programmes, students are broadly taught science and technology studies (STS) theory, human–computer interaction (HCI) design approaches, digital innovation, programming, and qualitative methods. We exercised the right to access under Article 15 of the GDPR (since the other rights were not yet in effect) in three different syllabi: Data Studies, Datafication of Society, and Digital Living. The Data Studies</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Tracking="-20" Position="Superscript">
 				<Endnote Self="u6e2" EndnoteTextRange="u6e3" />
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-20">
 				<Content> course is a second-year bachelor’s degree course that aims to teach the students how to think critically about the production and use of data through theoretical frameworks and hands-on data processing (for example, querying application programming interfaces (APIs) and using machine learning [ML]). The Datafication of Society</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Tracking="-20" Position="Superscript">
 				<Endnote Self="u6e4" EndnoteTextRange="u6e5" />
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-20">
 				<Content> course is a third-year bachelor’s degree course that tries to place the restructuring of societies around data in the context of larger historical and sociological trends. The Digital Living master’s programme</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Tracking="-20" Position="Superscript">
 				<Endnote Self="u6e6" EndnoteTextRange="u6e7" />
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-20">
 				<Content> is an interdisciplinary degree that bridges social theory, business, management, and computer science and includes a one-week cross-course module on surveillance capitalism to show how to combine the perspectives from different disciplines. In all these courses, we have used access rights as part of our teaching to help the students understand what data is collected, how technologies work, or how data is part of organizational practices.</Content>
 				<Br />
 				<Content>Based on these experiences, we see four ways in which access rights have contributed to the development of students’ digital literacy: (</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" Tracking="-20">
 				<Content>a</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-20">
 				<Content>) the experience of trying to exercise access rights reveal the power relations between technology companies and nation states; (</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" Tracking="-20">
 				<Content>b</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-20">
 				<Content>) the data the students received helps them confront their internalized dataism; (</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" Tracking="-20">
 				<Content>c</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-20">
 				<Content>) the meta-information about whom companies receive data from and share it with can be used to trace data flows; and (</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" Tracking="-20">
 				<Content>d</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-20">
 				<Content>) comparing outcomes of different data processing methods shows the epistemological impact that mediating artefacts have on the realities and knowledge that are (co-)created by technology companies. We elaborate on the goals, exercises, and learning outcomes of each of these four in the following sections. Although not all exercises were used in all courses, we do present them here as a coherent trajectory in a suggested order where, for example, data received in one exercise can be reused in the next or previous learning outcomes make the next goal easier to understand.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader2 (subtitle)">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-11">
 				<Content>Power Relations of Informational Capitalism</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader4 (sub-subtitle)">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-11">
 				<Content>Goal</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-11">
 				<Content>This exercise seeks to teach students about their digital rights and to demonstrate how current power relations between companies and nation states impact the effectiveness of those rights.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader4 (sub-subtitle)">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-11">
 				<Content>Exercise</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-11">
 				<Content>Before the session, students are asked to read about their data rights on the website of their national data protection authority.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Tracking="-11" Position="Superscript">
 				<Endnote Self="u6e8" EndnoteTextRange="u6e9" />
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-11">
 				<Content> During the session, we first discuss whether the students know about these rights, what they think their purpose is, and if they have ever used them. We then collectively go through the process of exercising their right to access. We brainstorm about possible data controllers they could send a request to, making sure to go beyond just the obvious Big Tech companies so the students stretch their understanding of the extent of datafication. Once we have compiled a list, each student creates and sends a request to a controller of their choice. We use the My Data Done Right (mydatadoneright.eu) tool to generate the request text, which is a user-friendly interactive form created by the Dutch privacy organization Bits of Freedom, but students send the request from their own email accounts. We tell them that they can consult us if they need help in the follow-up process with the company after sending the request. One month later, there is a follow-up poll and discussion where we ask the students how many of them received a response, what that response included, whether they feel empowered, what surprised them, and whether they changed their perception on access rights, technology companies, and the law.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader4 (sub-subtitle)">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-11">
 				<Content>Learning Outcomes</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-11">
 				<Content>Data access rights are supposed to empower individuals, but a precondition for this is that people know about their rights and actively use them. Incorporating access rights into the curriculum is a concrete and straightforward way to teach larger cohorts of citizens about their rights, which they will hopefully continue to use outside the classroom and throughout their lifetime.</Content>
 				<Br />
 				<Content>Exercising the access rights, at least right now, also demonstrates to students that laws on paper are different from laws in practice. Research shows that many organizations lack awareness and understanding of the rights,</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Tracking="-11" Position="Superscript">
 				<Endnote Self="u6eb" EndnoteTextRange="u6ec" />
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-11">
 				<Content> do not respond within legal timeframes,</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Tracking="-11" Position="Superscript">
 				<Endnote Self="u6ee" EndnoteTextRange="u6ef" />
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-11">
 				<Content> and (when they do) often fail to provide all the required information.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Tracking="-11" Position="Superscript">
 				<Endnote Self="u6f1" EndnoteTextRange="u6f2" />
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-11">
 				<Content> These results are confirmed by our classroom experiences, where (in the latest iteration of the Data Studies course in 2022 with approximately 90 students) only around 7 per cent received a complete response (67 per cent received a response, and of those only 11 per cent received all necessary information: confirmation of data processing, meta-information, and a copy of the data). In Denmark, a country with a strong cultural belief in the rule of law</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Tracking="-11" Position="Superscript">
 				<Endnote Self="u6f4" EndnoteTextRange="u6f5" />
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-11">
 				<Content> and trust in institutions,</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Tracking="-11" Position="Superscript">
 				<Endnote Self="u6f7" EndnoteTextRange="u6f8" />
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-11">
 				<Content> students are often confused by this experience. Especially those who send data subject access requests to Big Tech or large social medial companies (for example, Meta, Google, Snapchat, and TikTok) are shocked by how they are ignored. These experiences have proven to be a helpful starting point to critically discuss power relations between sovereign nation states and wealthy technology companies and the effectiveness of law as an instrument to redistribute such power. It raises questions such as following: Why are companies making it difficult to exercise these rights? Why are authorities not able to make them comply with the laws? What is the political philosophy behind individual rights as a remedy to informational power?</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader2 (subtitle)">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-11">
 				<Content>Confronting Dataism</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader4 (sub-subtitle)">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-11">
 				<Content>Goal</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-11">
 				<Content>This exercise seeks to uncover and question students’ unspoken assumptions about the quality and objectivity of company’s data processing and reveal how much data is collected about them.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader4 (sub-subtitle)">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-11">
 				<Content>Exercise</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-11">
 				<Content>Before the class, students are asked to get copies of their personal data from any digital platforms they use. Ideally, this would be based on copies they receive through their access rights, but that process is currently too slow and unreliable to feasibly build exercises around. Instead, we ask students to use the ‘download your data’ options that many platforms have started to offer in response to access rights, although we make sure to emphasize that this is not the same as exercising their access right and is likely an incomplete dataset. In the class, the students are asked to review those files, by paying attention to the quantity of the data collected, the quality of that data, and the inferences and classifications made by the company about them. We suggest they can do this in pairs if they feel comfortable revealing personal data, so they can compare with other students how they are perceived differently by the same company. We also provide some scaffold code (in the form of Jupyter Notebooks) that helps them produce aggregates such as counts, averages, distributions, or visualizations. We conclude with a discussion about what they found, what surprised them, and why they were surprised to help surface their unconscious assumptions.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader4 (sub-subtitle)">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-11">
 				<Content>Learning Outcomes</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-11">
 				<Content>The students we meet are often socialized into the belief that data represents objective, value-neutral measures of the world and that using it, especially in large quantities, will naturally lead to better outcomes, predictions, or products.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Tracking="-11" Position="Superscript">
 				<Endnote Self="u6fb" EndnoteTextRange="u6fc" />
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-11">
 				<Content> Confronting this </Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" Tracking="-11">
 				<Content>dataism</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-11">
 				<Content>,</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Tracking="-11" Position="Superscript">
 				<Endnote Self="u6fd" EndnoteTextRange="u6fe" />
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> this ideology of the unreasonable effectiveness of data facts, is an important component of the critical approaches to data literacy. However, because thi</Content>
-				<Content>s is an ideology, we often encounter some conscious and unconscious resistance from the students to this critique. As Jose van Dijck explains, dataism is not just the belief that data could capture the world ‘as is’ but also the trust in the institutions and companies that collect, clean, and analyse this data. In our experience, simply mentioning that the full complexity of the world cannot be captured by quantitative data is not that hard for the students to accept. The more difficult barrier to overcome is their assumption that data handlers also know this, have processes in place to overcome these limitations, and surely only draw justifiable conclusions from the data. Irrationality, irresponsibility, pragmatism, and the primacy of profit-seeking are given less weight in their imagination of datafication.</Content>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-11">
+				<Content> this ideology of the unreasonable effectiveness of data facts, is an important component of the critical approaches to data literacy. However, because </Content>
+				<Content>this is an ideology, we often encounter some conscious and unconscious resistance from the students to this critique. As Jose van Dijck explains, dataism is not just the belief that data could capture the world ‘as is’ but also the trust in the institutions and companies that collect, clean, and analyse this data. In our experience, simply mentioning that the full complexity of the world cannot be captured by quantitative data is not that hard for the students to accept. The more difficult barrier to overcome is their assumption that data handlers also know this, have processes in place to overcome these limitations, and surely only draw justifiable conclusions from the data. Irrationality, irresponsibility, pragmatism, and the primacy of profit-seeking are given less weight in their imagination of datafication.</Content>
 				<Br />
 				<Content>Using access rights has been an effective method to confront the students with the volume of collected data and their assumptions about the quality of its processing. Other scholars have already suggested using ‘real data’ or data the students have a connection to because it is more engaging,</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Tracking="-11" Position="Superscript">
 				<Endnote Self="u6ff" EndnoteTextRange="u700" />
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-11">
 				<Content> but personal data specifically makes it possible for students to perceive the epistemic distance between their experience and the data double</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Tracking="-11" Position="Superscript">
 				<Endnote Self="u701" EndnoteTextRange="u702" />
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-11">
 				<Content> a company has constructed of them. Because the students know themselves, they are often surprised about the amount of data that is being associated with them and incredulous about the (often poor-quality) assumptions, predictions, and categorizations of companies they might hold in high regard. It is hard to drive these points home without personal data: to evaluate whether the volume of data is a lot or not is something that rests on the contrast between the lived experience of using digital services and the data traces they never knew about or reasonably expected. And to evaluate the quality of that data requires that the students know what the underlying reality that data is supposedly capturing.</Content>
 				<Br />
 				<Content>Justifications for existing technologies and battles over visions of the digital future are often fought through discourse and symbolism.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Tracking="-11" Position="Superscript">
 				<Endnote Self="u704" EndnoteTextRange="u705" />
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-11">
 				<Content> Confronting the students with the actual data that lies behind the imaginaries of technology companies – datasets as a ‘higher form of intelligence’</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Tracking="-11" Position="Superscript">
 				<Endnote Self="u706" EndnoteTextRange="u707" />
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-11">
 				<Content> – helps dispel some of the myths that are created and hopefully inoculates the students against future hype cycles.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader2 (subtitle)">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-11">
 				<Content>Tracking Data Flows</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader4 (sub-subtitle)">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-11">
 				<Content>Goal</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-11">
 				<Content>This exercise seeks to show how data flows through a network of many different actors and how it gets reshaped at each of those steps.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader4 (sub-subtitle)">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-11">
 				<Content>Exercise</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-11">
 				<Content>Students are asked to pick a core digital service in their life and trace all the other parties that this organization receives personal data from and shares personal data with. This metadata should be included in responses to an access request under Article 15 of the GDPR, but since transparency obligations in EU regulation (GDPR, DA, DSA) require that such information is also available more publicly, a fall-back option is to look at privacy policies, terms and conditions, consent banners, and any other information that describes the data processing of that organization (keeping in mind that these are not entirely equivalent: access requests should include the exact identity of the recipients of personal data,</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Tracking="-11" Position="Superscript">
 				<Endnote Self="u708" EndnoteTextRange="u709" />
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-11">
 				<Content> whereas in privacy policies ‘categories of recipients’ are enough). Each party can be mapped based on various characteristics (for example, geographical location, type of service, level in the software stack, and annual turnover). Follow-up access requests or investigations into those parties should then provide an insight into what data has been shared with them from the original service, how it is augmented and transformed, what the data is used for, and an additional list of data-sharing partners that could be the seed for the next wave of access requests.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader4 (sub-subtitle)">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-11">
 				<Content>Learning Outcomes</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-11">
 				<Content>Infrastructural perspectives on data often emphasize its social and material entanglements:</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Tracking="-11" Position="Superscript">
 				<Endnote Self="u70b" EndnoteTextRange="u70c" />
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-11">
 				<Content> the physicality of the internet with its undersea cables and landing sites, the cultural and political incentives that inform categorizations,</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Tracking="-11" Position="Superscript">
 				<Endnote Self="u710" EndnoteTextRange="u711" />
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-11">
 				<Content> the public infrastructural responsibilities assumed by private platforms,</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Tracking="-11" Position="Superscript">
 				<Endnote Self="u713" EndnoteTextRange="u714" />
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-11">
 				<Content> and the individual and organizational subjectivities that shape processes of data cleaning.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Tracking="-11" Position="Superscript">
 				<Endnote Self="u716" EndnoteTextRange="u717" />
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-11">
 				<Content> This insight is crucial to solidify the understanding that ‘raw data is an oxymoron’</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Tracking="-11" Position="Superscript">
 				<Endnote Self="u719" EndnoteTextRange="u71a" />
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-11">
 				<Content> and that data is always being reprocessed and repurposed as it flows through a complex network of actors. Making those networks explicit – what Geoffrey C. Bowker and Susan L. Star call ‘infrastructural inversion’</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Tracking="-11" Position="Superscript">
 				<Endnote Self="u71b" EndnoteTextRange="u71c" />
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-11">
 				<Content> – is the first step in locating power and allocating responsibilities to certain players.</Content>
 				<Br />
 				<Content>Data access rights include access to metadata, such as where the data comes from (if not provided by the person themself), how long it is stored for, who else the data is shared with, the location of those third parties, and their trading names and contact details. This information can then be used to make consecutive access requests to data held by other parties, allowing students to map out all the different players in the ecosystem, see how the data gets transformed and augmented at each step, what it is used for, and which other infrastructures it touches. What it demonstrates is that data should always also be thought of through the lens of ecosystems or networks, since its shape, its assumed value, and its impact are not inherent to the data itself but instead emerge because of how it flows through a particular chain of players. The same data might be harmless in isolation or when it stays in the hands of a single player (for example, an account on a period-tracking app), but becomes dangerous when combined with other data (for instance, location data) or when shared with other actors (for example, anti-abortion organizations).</Content>
@@ -3026,44 +3046,46 @@
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader2 (subtitle)">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-11">
 				<Content>Epistemological Impact of Mediation</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader4 (sub-subtitle)">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-11">
 				<Content>Goal</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-11">
 				<Content>This exercise seeks to explain how knowledge is shaped by the digital artefacts that mediate its production and that claims of truth are always based on a particular philosophical position.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader4 (sub-subtitle)">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-11">
 				<Content>Exercise</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-11">
 				<Content>Following a lecture on the fundamentals of ML, students are provided with interactive code notebooks (Jupyter Notebooks) which explain and demonstrate how ML models for natural language processing and image processing work. The first notebook focuses on sentiment analysis – the prediction of emotional value in text – comparing the VADER and TextBlob models.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Tracking="-11" Position="Superscript">
 				<Endnote Self="u71d" EndnoteTextRange="u71e" />
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-11">
 				<Content> The second notebook focuses on image classification – assigning a label to an image – and compares the EfficientNetV2 and ResNeXt models.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Tracking="-11" Position="Superscript">
 				<Endnote Self="u71f" EndnoteTextRange="u720" />
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-11">
 				<Content> Students are asked to feed the models with their own input data (for example, text messages they sent or images they posted on social media) and reflect on the output they get. As part of their reflection, they are asked to find documentation about the people behind the model, what data it was trained on, what it was created for, where it is being deployed, what claims and decisions are made based on it, and so on.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -3075,8 +3097,8 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>Mediation theoretical perspectives on technology such as postphenomenology and actor–network theory highlight how our perceptions and actions are coconstituted by the artefacts that sit between ourselves and the world (often blurring ontological separations between subject and object). In the case of digital technologies, mediating artefacts such as algorithms and models help generate a particular view of the world and structure our actions in finite ways. These are quite abstract notions about the nature of being and knowing, but exercises comparing multiple mediating artefacts demonstrate quite concretely how they generate different outputs. Using very specific technologies also makes it possible for the students to trace design decisions that were made (for example, training approaches and parameters) and the other artefacts that are involved (for example, datasets and platforms). Learning how to do this kind of methodological deconstruction is crucial both to evaluate the quality of a knowledge claim made by</Content>
-				<Content> others and for the students’ ability to be intentional and transparent about any knowledge they themselves might create using digital tools.</Content>
+				<Content>Mediation theoretical perspectives on technology such as postphenomenology and actor–network theory highlight how our perceptions and actions are coconstituted by the artefacts that sit between ourselves and the world (often blurring ontological separations between subject and object). In the case of digital technologies, mediating artefacts such as algorithms and models help generate a particular view of the world and structure our actions in finite ways. These are quite abstract notions about the nature of being and knowing, but exercises comparing multiple mediating artefacts demonstrate quite concretely how they generate different outputs. Using very specific technologies also makes it possible for the students to trace design decisions that were made (for example, training approaches and parameters) and the other artefacts that are involved (for example, datasets and platforms). Learning how to do this kind of methodological deconstruction is crucial both to evaluate the quality of a knowledge claim made</Content>
+				<Content> by others and for the students’ ability to be intentional and transparent about any knowledge they themselves might create using digital tools.</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Position="Superscript">
 				<Endnote Self="u721" EndnoteTextRange="u722" />
@@ -3102,8 +3124,16 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> – and, through them, give shape to the digital worlds that they would like to live in.</Content>
 				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph" Justification="CenterAlign">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>***</Content>
 				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>What data literacy means and how it should be taught is not a settled question yet, although broadly speaking it includes competences in working with data and being able to evaluate its value and impact. In our experience, the four exercises presented here help students (</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
@@ -3175,8 +3205,8 @@
 				<Content>a</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>) the experience of trying to exercise access rights and the poor compli</Content>
-				<Content>ance rates reveal the political tension and </Content>
+				<Content>) the experience of trying to exercise access rights and the poor com</Content>
+				<Content>pliance rates reveal the political tension and </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
 				<Content>power relations between technology companies and nation states</Content>

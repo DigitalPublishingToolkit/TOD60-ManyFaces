@@ -1150,6 +1150,9 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-10" Position="Superscript">
 				<Br />
 			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-10" ParagraphBreakType="NextPage">
+				<Br />
+			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-10">
 				<Content>However, the academy faces a platformization crisis of its own, with universities increasingly supplanted as centres of computational power by cloud-computing providers that offer cheap flexible compute, while academic research budgets are meagre compared to those of corporations and university administrations closely guard valuable intellectual property.</Content>
 			</CharacterStyleRange>
@@ -1221,8 +1224,8 @@
 				<Endnote Self="u68b" EndnoteTextRange="u68c" />
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> Finally, the most cr</Content>
-				<Content>itical stakeholders are the data subjects themselves – workers who use gig economy apps. Workers participate in this institution by requesting access to their data via WIE. WIE then processes the request with Uber on the driver’s behalf, in exchange pooling that data in aggregate form. Driver data is held by WIE and has been shared with us for the purpose of conducting research and providing insights.</Content>
+				<Content> Finally, the most c</Content>
+				<Content>ritical stakeholders are the data subjects themselves – workers who use gig economy apps. Workers participate in this institution by requesting access to their data via WIE. WIE then processes the request with Uber on the driver’s behalf, in exchange pooling that data in aggregate form. Driver data is held by WIE and has been shared with us for the purpose of conducting research and providing insights.</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Position="Superscript">
 				<Endnote Self="u68d" EndnoteTextRange="u68e" />
@@ -1360,8 +1363,8 @@
 				<Endnote Self="u69e" EndnoteTextRange="u69f" />
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> One could even go as far as attributing some obfuscat</Content>
-				<Content>ing data structures provided by Uber as good-faith yet misguided attempts to provide drivers with the metrics they may more easily interpret. Intended or not, inconsistencies in data structure had the effect of obfuscating some of the most contested and controversial aspects of Uber’s algorithmic management practices and ultimately demonstrate the need for greater specificity in data standards or access provisions, while emphasizing the valuable lesson that counter-architectures should put off structure as long as possible to facilitate the maximum possible number of further aggregations. With that in mind, we briefly unpack some of the schema-, field-, and cell-level obfuscation which held back our analysis.</Content>
+				<Content> One could even go as far as attributing some obfusca</Content>
+				<Content>ting data structures provided by Uber as good-faith yet misguided attempts to provide drivers with the metrics they may more easily interpret. Intended or not, inconsistencies in data structure had the effect of obfuscating some of the most contested and controversial aspects of Uber’s algorithmic management practices and ultimately demonstrate the need for greater specificity in data standards or access provisions, while emphasizing the valuable lesson that counter-architectures should put off structure as long as possible to facilitate the maximum possible number of further aggregations. With that in mind, we briefly unpack some of the schema-, field-, and cell-level obfuscation which held back our analysis.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -2590,8 +2593,8 @@ vfuvde9+691737r3Xvfuvde9+691737r3Xvfuvde9+691737r3Xvfuvde9+691737r3Xvfuvde9+
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Finally, data on a cell-by-cell level significantly hampered analysis. As with schema- and table-level obfuscation, this was the result of both errors or inconsistencies in data quality and choices made in the design of the documents. With respect to data quality, we encountered fields in which the format of data was different even within the same column. For example, some fields contained timestamps of different machine and human readable formats, suggesting those resulted from the combination of other tables. There were also missing values (such as in the vehicle unique identifier field) in several responses or inconsistent values between responses, most likely associated with changes to Uber’s own data formats over time – for example, changes in spelling from ‘en route’ to ‘enroute’.</Content>
 				<Br />
-				<Content>Other cell-level structures that obfuscated our analyses were more indicative of the systems out of which data were sourced. One of WIE’s primary objectives was to better understand the calculation of fares and driver pay for individual rides, both to empower drivers with greater awareness in planning their own activities and to be</Content>
-				<Content>tter understand Uber’s algorithmic ‘dynamic pricing’ scheme. In the ‘Driver Lifetime Trips’ table, Uber supplied a record for each trip taken by drivers. The table contains a variety of fields detailing the fare, from ‘Original Fare’, which Uber’s guidance document clarifies is ‘based on time + distance’, to ‘Upfront Fare’, which applies to trips with a quoted fare before acceptance, to ‘Base Fare’, which is defined only as ‘base fare of the trip’. The table also contains the individual components one would presumably need to reproduce the end fare paid by passengers, such as the trip distance, time, and their associated rates, as well as the surge fare applied to trips. Despite providing these aspects of the trip, we were unable to consistently reproduce the fares provided; for instance, in each of the responses we analysed, the formulas for determining original fare (base fare + distance at distance rate + time at time rate + surge + service fees) only occasionally lined up with the fare figures provided elsewhere in the table. Again, these inconsistencies could equally be attributed to fields being meant for use in Uber’s system, rather than retrospective analysis, as well as the actual formula used to generate the fare changing over time. This is supported by announcements by Uber that they switched from fares calculated according to rates to a ‘dynamic pricing’ system and that drivers can access their take-home payments through their app directly.</Content>
+				<Content>Other cell-level structures that obfuscated our analyses were more indicative of the systems out of which data were sourced. One of WIE’s primary objectives was to better understand the calculation of fares and driver pay for individual rides, both to empower drivers with greater awareness in planning their own activities and to b</Content>
+				<Content>etter understand Uber’s algorithmic ‘dynamic pricing’ scheme. In the ‘Driver Lifetime Trips’ table, Uber supplied a record for each trip taken by drivers. The table contains a variety of fields detailing the fare, from ‘Original Fare’, which Uber’s guidance document clarifies is ‘based on time + distance’, to ‘Upfront Fare’, which applies to trips with a quoted fare before acceptance, to ‘Base Fare’, which is defined only as ‘base fare of the trip’. The table also contains the individual components one would presumably need to reproduce the end fare paid by passengers, such as the trip distance, time, and their associated rates, as well as the surge fare applied to trips. Despite providing these aspects of the trip, we were unable to consistently reproduce the fares provided; for instance, in each of the responses we analysed, the formulas for determining original fare (base fare + distance at distance rate + time at time rate + surge + service fees) only occasionally lined up with the fare figures provided elsewhere in the table. Again, these inconsistencies could equally be attributed to fields being meant for use in Uber’s system, rather than retrospective analysis, as well as the actual formula used to generate the fare changing over time. This is supported by announcements by Uber that they switched from fares calculated according to rates to a ‘dynamic pricing’ system and that drivers can access their take-home payments through their app directly.</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Position="Superscript">
 				<Endnote Self="u6a2" EndnoteTextRange="u6a3" />
@@ -2618,6 +2621,15 @@ vfuvde9+691737r3Xvfuvde9+691737r3Xvfuvde9+691737r3Xvfuvde9+691737r3Xvfuvde9+
 				<Br />
 				<Content>The more granular data and explanations WIE have been able to win are a step in the direction of a more complete picture of the system. From the perspective of a system designer, the outcome is, however, bittersweet. The situation demonstrates that transparency into the decisions of algorithms or the logic of the systems through which data flows is not straightforwardly deducible from granular data alone. Further, it is difficult to expect data consumers to specify the ends they expect to use data for at the outset, or to know enough about the system’s underlying structures to specifically request explanations. Indeed, this suggests that perhaps there is value in preserving the structure controllers return data in, rather than opting for the most granular form.</Content>
 				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" ParagraphBreakType="NextPage">
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>The choice of granular or structured can also be a false dichotomy. With respect to dispatch data, obfuscation could have been avoided if aggregation was kept to later stages in the data pipeline and semantic structures left intact. In any event, in the first instance Uber neither provides a polished report meant to be understandable to workers nor a ‘raw’ export of the way data exists in their system. Their DSAR responses are something in-between, demonstrating how the political and economic interests of parties providing data are inscribed in the data structure, intended or not.</Content>
 				<Br />
 				<Content>The obstacles Uber’s DSAR data structures present provide a valuable example for data institutions that attempt to counteract them. Providing data available at a lower level of aggregation could help such infrastructures to avoid repeating this obfuscation while allowing for greater flexibility in data’s use. A constellation of parties will be needed to actualize data institutions which aim to provide governance and transparency to data subjects while also benefitting other stakeholders like advocates, organizers, and researchers. When data institutions assume the role of imposing new structures on data for their own purposes, they will need to be wary about how balancing the interests of many more parties than merely the platform and data subject may create similar effects to those we observed here.</Content>
@@ -2656,8 +2668,8 @@ vfuvde9+691737r3Xvfuvde9+691737r3Xvfuvde9+691737r3Xvfuvde9+691737r3Xvfuvde9+
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Now that we have grappled with some examples of how data structure restricts and enables the potential information one can extract from underlying data, we can begin to explore how the interests of the parties involved in co-constructing data institutions may themselves manifest in the infrastructures they create. This section proceeds by exploring how data structure factors into goals of our present work alongside WIE: to deliver information from DSARs directly to drivers in a convenient format, to investigate the behaviour of algorithmic pay and work assignment, and to minimize the workload for WIE to self-manage their data infrastructure.</Content>
 				<Br />
-				<Content>We first sought to make workers’ data more accessible and understandable to them. However, even defining basic metrics for drivers such as pay-per-hour is inherently political, requiring that we select which perspective to encode into data structure and present to workers (Figure 9.2). WIE sees hours worked as including time signed on to the app awaiting new jobs, while Uber discounts this time. As a result, pay-per-hour-worked looks radically different depending on the logic used to make the calculations. By way of example, one worker’s data we examined would have their hourly wage between GBP 23 and GBP 30 per hour, according to Uber’s formula for the metric, which only includes time on the way to passengers or with passengers on rides. Accounting for time waiting, the same driver saw hourly rates hover between GBP 13 and GBP 20 per hour for most of their time working for Uber, with their gross wage per hour dropping into single digits on occasion. This is, of course, before costs covered by the driver, including but not limited to insurance; vehicle maintenance; licence; congestion charges; and fuel. Indeed, ac</Content>
-				<Content>cording to their DSAR data, this driver typically spent around 30 per cent of their time online waiting for rides. One important complication to this metric is the practice of ‘multi-apping’, when drivers simultaneously use several gig-work apps in hopes of capturing the best offers and minimizing dead time. This practice is often against the terms of service for gig-work apps like Uber depending on the location, but is frequently brought up as a counterargument for paying for between-ride time.</Content>
+				<Content>We first sought to make workers’ data more accessible and understandable to them. However, even defining basic metrics for drivers such as pay-per-hour is inherently political, requiring that we select which perspective to encode into data structure and present to workers (Figure 9.2). WIE sees hours worked as including time signed on to the app awaiting new jobs, while Uber discounts this time. As a result, pay-per-hour-worked looks radically different depending on the logic used to make the calculations. By way of example, one worker’s data we examined would have their hourly wage between GBP 23 and GBP 30 per hour, according to Uber’s formula for the metric, which only includes time on the way to passengers or with passengers on rides. Accounting for time waiting, the same driver saw hourly rates hover between GBP 13 and GBP 20 per hour for most of their time working for Uber, with their gross wage per hour dropping into single digits on occasion. This is, of course, before costs covered by the driver, including but not limited to insurance; vehicle maintenance; licence; congestion charges; and fuel. Indeed, </Content>
+				<Content>according to their DSAR data, this driver typically spent around 30 per cent of their time online waiting for rides. One important complication to this metric is the practice of ‘multi-apping’, when drivers simultaneously use several gig-work apps in hopes of capturing the best offers and minimizing dead time. This practice is often against the terms of service for gig-work apps like Uber depending on the location, but is frequently brought up as a counterargument for paying for between-ride time.</Content>
 				<Br />
 				<Content>Returning to the goal of delivering valuable transparency to workers, generating metrics like the aforementioned wage calculation is best suited to highly structured, relational data stores akin to those often used in basic business analytics systems. However, highly structured data infrastructures only accommodate rigid definitions for metrics to be repeatedly applied, and as a result they are highly sensitive to even small changes in underlying data.</Content>
 			</CharacterStyleRange>
@@ -3279,8 +3291,8 @@ Xuve/de697917r3v3Xuve/de697917r3v3Xuve/de697917r3v3Xuve/de697917r3v3Xuve/de6
 				<Br />
 				<Content>Despite gains made in accessing the collective data which underpin these systems, no institution, whether government, academic, or public-interest, can realistically support data infrastructures that are able to match the scale and sophistication of venture-backed platform companies, promising boundless optimization and a future of AI – that is, if they do so alone.</Content>
 				<Br />
-				<Content>In the preceding sections, we considered the impacts of data structures on the availability of information in data. First, we drew attention to how data structures within DSAR r</Content>
-				<Content>esponses obfuscated the information contained in the data it communicated. Considering how data structure inherently tailors the perception of underlying data based on the politics and aims of its source systems, we critiqued the role played by academics or others building underlying data infrastructures. We concluded that any data institution meant to serve such diverse stakeholders as WIE’s, and supported by resources pooled from data subjects, activists, and academics, must avoid encoding similar constraints on data. More specifically, this means being able to regard data as a record of events in order to give clarity to data subjects, so they can act with greater individual autonomy </Content>
+				<Content>In the preceding sections, we considered the impacts of data structures on the availability of information in data. First, we drew attention to how data structures within DSAR</Content>
+				<Content> responses obfuscated the information contained in the data it communicated. Considering how data structure inherently tailors the perception of underlying data based on the politics and aims of its source systems, we critiqued the role played by academics or others building underlying data infrastructures. We concluded that any data institution meant to serve such diverse stakeholders as WIE’s, and supported by resources pooled from data subjects, activists, and academics, must avoid encoding similar constraints on data. More specifically, this means being able to regard data as a record of events in order to give clarity to data subjects, so they can act with greater individual autonomy </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
 				<Content>within</Content>
@@ -3300,13 +3312,9 @@ Xuve/de697917r3v3Xuve/de697917r3v3Xuve/de697917r3v3Xuve/de697917r3v3Xuve/de6
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Br />
 			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" ParagraphBreakType="NextPage">
 				<Br />
 			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>In Žižek’s </Content>
 			</CharacterStyleRange>
@@ -3980,8 +3988,8 @@ uve/de697917r3v3Xuve/de697917r3v3Xuve/de697917r3v3Xuve/de697917r3v3Xuve/de69
 				<Endnote Self="u6c4" EndnoteTextRange="u6c5" />
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> Ins</Content>
-				<Content>tead, having considered interoperability as something deeply contextual in its definition, rather than a single objective format, we advocate for data institutions to take up an unstructured approach to underlying data storage, facilitating the maximum possibilities to query the same data resources, without putting in place structures which obstruct other analyses.</Content>
+				<Content> I</Content>
+				<Content>nstead, having considered interoperability as something deeply contextual in its definition, rather than a single objective format, we advocate for data institutions to take up an unstructured approach to underlying data storage, facilitating the maximum possibilities to query the same data resources, without putting in place structures which obstruct other analyses.</Content>
 				<Br />
 				<Content>Unstructured or NoSQL data architectures like Elasticsearch have a variety of features which make them suitable for the demands of data institutions. Most relevant to our discussion is their natural orientation towards ‘schema on read’ (SoR) analytics strategies.</Content>
 			</CharacterStyleRange>
@@ -4036,8 +4044,8 @@ uve/de697917r3v3Xuve/de697917r3v3Xuve/de697917r3v3Xuve/de697917r3v3Xuve/de69
 				<Br />
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>One of the inherent disadvantages to the model we propose is its reliance on DSARs for its data. Much of our earlier sections covered specifically how access to data via DSARs does not necessarily lead to the transparency or agency sought from aggregating it. This point becomes even more critical in the context of new regulations that grant more direct research access to platform data for researchers. Th</Content>
-				<Content>e added access granted by Article 40 of the EU’s DSA constitutes a significant advance in data access for evaluating systemic harms and risks of the type we examine in our work with WIE.</Content>
+				<Content>One of the inherent disadvantages to the model we propose is its reliance on DSARs for its data. Much of our earlier sections covered specifically how access to data via DSARs does not necessarily lead to the transparency or agency sought from aggregating it. This point becomes even more critical in the context of new regulations that grant more direct research access to platform data for researchers. </Content>
+				<Content>The added access granted by Article 40 of the EU’s DSA constitutes a significant advance in data access for evaluating systemic harms and risks of the type we examine in our work with WIE.</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Position="Superscript">
 				<Endnote Self="u6dd" EndnoteTextRange="u6de" />

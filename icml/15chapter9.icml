@@ -1533,6 +1533,13 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Br />
 			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" ParagraphBreakType="NextPage">
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>The 2018 code was criticized for the lack of enforcement measures.</Content>
 			</CharacterStyleRange>
@@ -1633,8 +1640,8 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>After the brief analysis of the commitments and measures enshrined in the 2022 code, it is worth discussing the instruments made available for researchers by Facebook as a result of its implementation. I will refer also to my original research project aimed at assessing whether implemented mechanism by the platform contributes to achieving t</Content>
-				<Content>he goals enshrined in the code. I will analyse whether my research purpose would be successful under the 2022 code. My objective is to verify what, if anything, has changed in the 2022 code that would allow achieving the objectives of the code more effectively.</Content>
+				<Content>After the brief analysis of the commitments and measures enshrined in the 2022 code, it is worth discussing the instruments made available for researchers by Facebook as a result of its implementation. I will refer also to my original research project aimed at assessing whether implemented mechanism by the platform contributes to achieving </Content>
+				<Content>the goals enshrined in the code. I will analyse whether my research purpose would be successful under the 2022 code. My objective is to verify what, if anything, has changed in the 2022 code that would allow achieving the objectives of the code more effectively.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -1823,8 +1830,8 @@
 				<Endnote Self="u697" EndnoteTextRange="u698" />
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> but provided little data on how they translate into access to information on disinformation, on the scope of this access, or on the kind of data researchers have access to. These two examples (although an analysis of the entire report would give rise to more) are the source of doubts as to whether my research, directed on whether the implementation of the 2022 code contributes to the achieve</Content>
-				<Content>ment of its objective, would be successful, even if only because of the gaps in the report identified here.</Content>
+				<Content> but provided little data on how they translate into access to information on disinformation, on the scope of this access, or on the kind of data researchers have access to. These two examples (although an analysis of the entire report would give rise to more) are the source of doubts as to whether my research, directed on whether the implementation of the 2022 code contributes to the achiev</Content>
+				<Content>ement of its objective, would be successful, even if only because of the gaps in the report identified here.</Content>
 				<Br />
 				<Content>It should, however, be pointed out that the baseline report provided by Facebook is considerably coherent as regards, for example, the provision of data per countries,</Content>
 			</CharacterStyleRange>
@@ -1888,8 +1895,8 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> and, second, did not facilitate research on the phenomenon.</Content>
 				<Br />
-				<Content>The 2022 code addresses the shortcomings and fills in the gaps of the 2018 code. The commitment to cooperate with researchers and with the third-party body, as well as other organizations, regarding the provision of data and the transparency of this process, means that the discretion of platforms in this regard could be reduced. While researchers remain dependent on platforms to obtain data, as the latter are the source, the 2022 code balances this dependency with elements such as the involvement of intermediaries, a defined reporting scheme, and enforcement measures. The alignment of the code with the DSA makes the voluntariness of the implementation of the commitments no longer unlimited, especially for the VLOPs. The binding law allows for enforceability of agreed measures and provides a defined liability scheme in case of non-compliance. Therefore, the combination o</Content>
-				<Content>f the commitments enshrined in the code focused on the specific problem of disinformation with the binding law, the DSA, is an added value. It allows for greater flexibility and provides better mechanisms of control and ensuring transparency. However, the question of whether such a combination would translate into a better quality of ongoing research on disinformation and greater research opportunities in this area should be asked. I identified some gaps as regards the tools entrusted to researchers to signal the platforms’ inaction or incomplete fulfilment of commitments or to challenge their decisions on data provision. Moreover, the analysis of the first baseline report submitted by Facebook shows some incompleteness and vagueness in the provision of data. It may be the first sign that the solutions adopted in the 2022 code aligned with the DSA are not sufficient.</Content>
+				<Content>The 2022 code addresses the shortcomings and fills in the gaps of the 2018 code. The commitment to cooperate with researchers and with the third-party body, as well as other organizations, regarding the provision of data and the transparency of this process, means that the discretion of platforms in this regard could be reduced. While researchers remain dependent on platforms to obtain data, as the latter are the source, the 2022 code balances this dependency with elements such as the involvement of intermediaries, a defined reporting scheme, and enforcement measures. The alignment of the code with the DSA makes the voluntariness of the implementation of the commitments no longer unlimited, especially for the VLOPs. The binding law allows for enforceability of agreed measures and provides a defined liability scheme in case of non-compliance. Therefore, the combination </Content>
+				<Content>of the commitments enshrined in the code focused on the specific problem of disinformation with the binding law, the DSA, is an added value. It allows for greater flexibility and provides better mechanisms of control and ensuring transparency. However, the question of whether such a combination would translate into a better quality of ongoing research on disinformation and greater research opportunities in this area should be asked. I identified some gaps as regards the tools entrusted to researchers to signal the platforms’ inaction or incomplete fulfilment of commitments or to challenge their decisions on data provision. Moreover, the analysis of the first baseline report submitted by Facebook shows some incompleteness and vagueness in the provision of data. It may be the first sign that the solutions adopted in the 2022 code aligned with the DSA are not sufficient.</Content>
 				<Br />
 				<Content>It is necessary to wait for the implementation of all mechanisms to which the signatories have committed in the 2022 code. Under the 2018 code, researchers were not provided with effective instruments to access data on disinformation circulating on platforms and to analyse the measures taken by the latter to counter it. The 2022 code aligned with the DSA is an important, although for the moment still not sufficient, step towards ensuring greater data access for researchers studying disinformation.</Content>
 			</CharacterStyleRange>
