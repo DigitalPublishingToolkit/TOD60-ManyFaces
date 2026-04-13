@@ -1313,6 +1313,8 @@
 				<Content> In short, when the EU changes its laws relating to data, there is a good chance that African countries will be forced to follow suit sooner or later.</Content>
 				<Br />
 				<Content>Bearing in mind the Brussels effect, the remainder of this chapter considers the recent developments in the regulation of data by the EU. The chapter concludes with a call on the EU to expand the scope of its impact assessment to include countries outside of it and, in so doing, acknowledge the de facto and de jure Brussels effect on African researchers.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-10">
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -1565,82 +1567,82 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-10">
 				<Content>These EU data laws are the natural progression of the EU strategy for data and illustrate a holistic approach to managing data, rather than focusing exclusively on personal data. At a fundamental level, these EU data laws rely on data categorization in order to regulate the operation of data, and it is to how data is categorized that we now turn.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-10">
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader2 (subtitle)">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-10">
 				<Content>One Concept to Rule them All: Data Categorization</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-10">
 				<Content>A careful look at the legislation governing data reveals that each of the EU Acts governing data relies on data categorization. For example, the GDPR only governs ‘personal data’, and any data that is not considered to be ‘personal’ is outside the scope of the GDPR. Similarly, the DA manages ‘product data’ which is generated from ‘connected products’ linked to the internet (IoT). Since the correct categorization of data is so fundamental to the operation of the legislation, it is critical that the distinction between the different types of data is clear and unambiguous. In the section that follows, some of the problems with data categorization are highlighted, and in the subsequent section its knock-on impact is discussed.</Content>
 				<Br />
 				<Content>Beginning with the distinction between ‘personal data’ and ‘non-personal data’, this concept has seen some significant sea changes in the EU, which is surprising, considering how entrenched the concept of personal data was thought to be. One particular development occurred on 26 April 2023 in the case of </Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" Tracking="-10">
 				<Content>Single Resolution Board v. European Data Protection Supervisor</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-10">
 				<Content> in the General Court (Eighth Chamber, Extended Composition)</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Tracking="-10" Position="Superscript">
 				<Endnote Self="ub71" EndnoteTextRange="ub72" />
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-10">
 				<Content> where the court was required to provide guidance on whether pseudonymized data was ‘data’ or ‘personal data’. Up until this case, it was considered to be settled law that ‘pseudonymized data’ was always ‘personal data’.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Tracking="-10" Position="Superscript">
 				<Endnote Self="ub73" EndnoteTextRange="ub74" />
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-10" Position="Superscript">
 				<Br />
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-10">
 				<Content>In this matter, a central resolution authority within the banking union in Europe provided data to Deloitte. The information was pseudonymized by means of a unique and randomized 33-digit alphanumeric code which was assigned to each record. It was later discovered by some of the data subjects who submitted personal data to the Single Resolution Board (SRB) that their data had been provided to Deloitte, and they duly laid complaints with the European Data Protection Supervisor (EDPS) that the SRB had breached its duties in terms of Article 15 of Regulation 2018/1725</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Tracking="-10" Position="Superscript">
 				<Endnote Self="ub77" EndnoteTextRange="ub78" />
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-10">
 				<Content> by failing to indicate that it was providing personal data to third parties in its privacy statement. The SRB refuted this complaint and argued that, in the hands of Deloitte, the data was not personal data as the company had no reasonable prospect of re-identifying the data.</Content>
 				<Br />
 				<Content>In upholding the SRB’s position against the EDPS, the court indicated that in the hands of Deloitte, the data was not personal data, and so there was no obligation of the SRB to disclose the sharing of the data with Deloitte. Specifically, the court referred to the test as set out in Recital 16 of Regulation 2018/1725 which indicates that all objective factors, including (but not limited to) (</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" Tracking="-10">
 				<Content>a</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-10">
 				<Content>) cost of reidentifying, (</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" Tracking="-10">
 				<Content>b</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-10">
 				<Content>) amount of time required to reidentify, (</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" Tracking="-10">
 				<Content>c</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-10">
 				<Content>) available technology at time, and (</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" Tracking="-10">
 				<Content>d</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-10">
 				<Content>) expected technological developments, should be considered when determining whether the information is ‘data’ or ‘personal data’. The court also endorsed the approach of </Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" Tracking="-10">
 				<Content>Breyer v. Bundesrepublik Deutschland</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-10">
 				<Content>, 19 October 2016, Case C-582/14, that re-identification was not reasonably possible if ‘the identification of the data subject was prohibited by law or practically impossible on account of the fact that it requires a disproportionate effort in terms of time, cost and man-power, so that the risk of identification appears in reality to be insignificant.’</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Tracking="-10" Position="Superscript">
 				<Endnote Self="ub79" EndnoteTextRange="ub7a" />
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">

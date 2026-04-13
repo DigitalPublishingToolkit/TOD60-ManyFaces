@@ -2,9 +2,9 @@
 <?aid style="50" type="snippet" readerVersion="6.0" featureSet="257" product="20.0(32)" ?>
 <?aid SnippetType="InCopyInterchange"?>
 <Document DOMVersion="20.0" Self="d">
+	<Color Self="Color/Black" Model="Process" Space="CMYK" ColorValue="0 0 0 100" ColorOverride="Specialblack" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Black" ColorEditable="false" ColorRemovable="false" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u12ColorGroupSwatch3" />
 	<Color Self="Color/R=147 G=44 B=101 2" Model="Process" Space="CMYK" ColorValue="0 74 49 0" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="R=147 G=44 B=101 2" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u12ColorGroupSwatchb" />
 	<Color Self="Color/Paper" Model="Process" Space="CMYK" ColorValue="0 0 0 0" ColorOverride="Specialpaper" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Paper" ColorEditable="true" ColorRemovable="false" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u12ColorGroupSwatch2" />
-	<Color Self="Color/Black" Model="Process" Space="CMYK" ColorValue="0 0 0 100" ColorOverride="Specialblack" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Black" ColorEditable="false" ColorRemovable="false" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u12ColorGroupSwatch3" />
 	<Color Self="Color/R=147 G=44 B=101" Model="Process" Space="RGB" ColorValue="147.26249635219574 43.93649898469448 101.36249452829361" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="R=147 G=44 B=101" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u12ColorGroupSwatcha" />
 	<Ink Self="Ink/$ID/Process Cyan" Name="$ID/Process Cyan" Angle="75" ConvertToProcess="false" Frequency="70" NeutralDensity="0.61" PrintInk="true" TrapOrder="1" InkType="Normal" />
 	<Ink Self="Ink/$ID/Process Magenta" Name="$ID/Process Magenta" Angle="15" ConvertToProcess="false" Frequency="70" NeutralDensity="0.76" PrintInk="true" TrapOrder="2" InkType="Normal" />
@@ -419,6 +419,11 @@
 		</CellStyle>
 	</RootCellStyleGroup>
 	<RootTableStyleGroup Self="u81">
+		<TableStyle Self="TableStyle/B&amp;W" ExtendedKeyboardShortcut="0 0 0" Name="B&amp;W" KeyboardShortcut="0 0">
+			<Properties>
+				<BasedOn type="object">TableStyle/Table</BasedOn>
+			</Properties>
+		</TableStyle>
 		<TableStyle Self="TableStyle/Table" ExtendedKeyboardShortcut="0 0 0" Name="Table" TopBorderStrokeWeight="0" LeftBorderStrokeWeight="0" BottomBorderStrokeWeight="0" RightBorderStrokeWeight="0" SpaceBefore="11.338582677165356" SpaceAfter="11.338582677165356" SkipFirstAlternatingFillRows="1" StartRowFillCount="1" StartRowFillTint="10" EndRowFillCount="1" HeaderRegionSameAsBodyRegion="false" FooterRegionSameAsBodyRegion="false" LeftColumnRegionSameAsBodyRegion="false" RightColumnRegionSameAsBodyRegion="false" HeaderRegionCellStyle="CellStyle/Header Cell" FooterRegionCellStyle="CellStyle/Cell" LeftColumnRegionCellStyle="CellStyle/Cell" RightColumnRegionCellStyle="CellStyle/Cell" BodyRegionCellStyle="CellStyle/Cell" KeyboardShortcut="0 0">
 			<Properties>
 				<BasedOn type="string">$ID/[No table style]</BasedOn>
@@ -861,7 +866,7 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TableCaption">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-10">
-				<Table Self="u3bfi3e8" HeaderRowCount="1" FooterRowCount="0" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" BodyRowCount="13" ColumnCount="4" AppliedTableStyle="TableStyle/Table" TableDirection="LeftToRightDirection">
+				<Table Self="u3bfi3e8" HeaderRowCount="1" FooterRowCount="0" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" BodyRowCount="13" ColumnCount="4" AppliedTableStyle="TableStyle/B&amp;W" TableDirection="LeftToRightDirection">
 					<Row Self="u3bfi3e8Row0" Name="0" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleRowHeight="15.460891963928704" />
 					<Row Self="u3bfi3e8Row1" Name="1" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleRowHeight="15.460891963928704" />
 					<Row Self="u3bfi3e8Row2" Name="2" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleRowHeight="15.460891963928704" />
@@ -880,331 +885,331 @@
 					<Column Self="u3bfi3e8Column1" Name="1" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleColumnWidth="145.66929133858267" />
 					<Column Self="u3bfi3e8Column2" Name="2" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleColumnWidth="51.02362204724412" />
 					<Column Self="u3bfi3e8Column3" Name="3" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleColumnWidth="106.01574803149612" />
-					<Cell Self="u3bfi3e8i34" Name="0:0" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="1" RightEdgeStrokePriority="2" TopEdgeStrokePriority="1" BottomEdgeStrokePriority="1">
+					<Cell Self="u3bfi3e8i34" Name="0:0" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" FillColor="Swatch/None" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/Black" TopEdgeStrokeColor="Color/Black" RightEdgeStrokeColor="Color/Black" BottomEdgeStrokeColor="Color/Black" LeftEdgeStrokePriority="109" RightEdgeStrokePriority="109" TopEdgeStrokePriority="109" BottomEdgeStrokePriority="109">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3atext table">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>No.</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u3bfi3e8i35" Name="1:0" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="2" RightEdgeStrokePriority="3" TopEdgeStrokePriority="2" BottomEdgeStrokePriority="2">
+					<Cell Self="u3bfi3e8i35" Name="1:0" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" FillColor="Swatch/None" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/Black" TopEdgeStrokeColor="Color/Black" RightEdgeStrokeColor="Color/Black" BottomEdgeStrokeColor="Color/Black" LeftEdgeStrokePriority="109" RightEdgeStrokePriority="109" TopEdgeStrokePriority="109" BottomEdgeStrokePriority="109">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3atext table">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
 								<Content>Category of interviewee</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u3bfi3e8i36" Name="2:0" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" VerticalJustification="CenterAlign" LeftEdgeStrokePriority="3" RightEdgeStrokePriority="4" TopEdgeStrokePriority="3" BottomEdgeStrokePriority="3">
+					<Cell Self="u3bfi3e8i36" Name="2:0" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" FillColor="Swatch/None" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/Black" TopEdgeStrokeColor="Color/Black" RightEdgeStrokeColor="Color/Black" BottomEdgeStrokeColor="Color/Black" LeftEdgeStrokePriority="109" RightEdgeStrokePriority="109" TopEdgeStrokePriority="109" BottomEdgeStrokePriority="109">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3atext table">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
 								<Content>Sample</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u3bfi3e8i37" Name="3:0" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="4" RightEdgeStrokePriority="4" TopEdgeStrokePriority="4" BottomEdgeStrokePriority="4">
+					<Cell Self="u3bfi3e8i37" Name="3:0" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" FillColor="Swatch/None" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/Black" TopEdgeStrokeColor="Color/Black" RightEdgeStrokeColor="Color/Black" BottomEdgeStrokeColor="Color/Black" LeftEdgeStrokePriority="109" RightEdgeStrokePriority="109" TopEdgeStrokePriority="109" BottomEdgeStrokePriority="109">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3atext table">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
 								<Content>Mode of selection</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u3bfi3e8i0" Name="0:1" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" VerticalJustification="CenterAlign" LeftEdgeStrokePriority="5" RightEdgeStrokePriority="6" TopEdgeStrokePriority="5" BottomEdgeStrokePriority="9">
+					<Cell Self="u3bfi3e8i0" Name="0:1" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" FillColor="Swatch/None" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/Black" TopEdgeStrokeColor="Color/Black" RightEdgeStrokeColor="Color/Black" BottomEdgeStrokeColor="Color/Black" VerticalJustification="CenterAlign" LeftEdgeStrokePriority="109" RightEdgeStrokePriority="109" TopEdgeStrokePriority="109" BottomEdgeStrokePriority="109">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3atext table">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>1</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u3bfi3e8i1" Name="1:1" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" VerticalJustification="CenterAlign" LeftEdgeStrokePriority="6" RightEdgeStrokePriority="7" TopEdgeStrokePriority="6" BottomEdgeStrokePriority="10">
+					<Cell Self="u3bfi3e8i1" Name="1:1" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" FillColor="Swatch/None" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/Black" TopEdgeStrokeColor="Color/Black" RightEdgeStrokeColor="Color/Black" BottomEdgeStrokeColor="Color/Black" VerticalJustification="CenterAlign" LeftEdgeStrokePriority="109" RightEdgeStrokePriority="109" TopEdgeStrokePriority="109" BottomEdgeStrokePriority="109">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3atext table">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Researchers</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u3bfi3e8i2" Name="2:1" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" VerticalJustification="CenterAlign" LeftEdgeStrokePriority="7" RightEdgeStrokePriority="8" TopEdgeStrokePriority="7" BottomEdgeStrokePriority="11">
+					<Cell Self="u3bfi3e8i2" Name="2:1" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" FillColor="Swatch/None" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/Black" TopEdgeStrokeColor="Color/Black" RightEdgeStrokeColor="Color/Black" BottomEdgeStrokeColor="Color/Black" VerticalJustification="CenterAlign" LeftEdgeStrokePriority="109" RightEdgeStrokePriority="109" TopEdgeStrokePriority="109" BottomEdgeStrokePriority="109">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3atext table">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>11</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u3bfi3e8i3" Name="3:1" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" VerticalJustification="CenterAlign" LeftEdgeStrokePriority="8" RightEdgeStrokePriority="8" TopEdgeStrokePriority="8" BottomEdgeStrokePriority="12">
+					<Cell Self="u3bfi3e8i3" Name="3:1" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" FillColor="Swatch/None" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/Black" TopEdgeStrokeColor="Color/Black" RightEdgeStrokeColor="Color/Black" BottomEdgeStrokeColor="Color/Black" VerticalJustification="CenterAlign" LeftEdgeStrokePriority="109" RightEdgeStrokePriority="109" TopEdgeStrokePriority="109" BottomEdgeStrokePriority="109">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3atext table">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Purposive</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u3bfi3e8i4" Name="0:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" VerticalJustification="CenterAlign" LeftEdgeStrokePriority="9" RightEdgeStrokePriority="10" TopEdgeStrokePriority="9" BottomEdgeStrokePriority="13">
+					<Cell Self="u3bfi3e8i4" Name="0:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" FillColor="Swatch/None" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/Black" TopEdgeStrokeColor="Color/Black" RightEdgeStrokeColor="Color/Black" BottomEdgeStrokeColor="Color/Black" VerticalJustification="CenterAlign" LeftEdgeStrokePriority="109" RightEdgeStrokePriority="109" TopEdgeStrokePriority="109" BottomEdgeStrokePriority="109">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3atext table">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>2</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u3bfi3e8i5" Name="1:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" VerticalJustification="CenterAlign" LeftEdgeStrokePriority="10" RightEdgeStrokePriority="11" TopEdgeStrokePriority="10" BottomEdgeStrokePriority="14">
+					<Cell Self="u3bfi3e8i5" Name="1:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" FillColor="Swatch/None" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/Black" TopEdgeStrokeColor="Color/Black" RightEdgeStrokeColor="Color/Black" BottomEdgeStrokeColor="Color/Black" VerticalJustification="CenterAlign" LeftEdgeStrokePriority="109" RightEdgeStrokePriority="109" TopEdgeStrokePriority="109" BottomEdgeStrokePriority="109">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3atext table">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>NGOs</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u3bfi3e8i6" Name="2:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" VerticalJustification="CenterAlign" LeftEdgeStrokePriority="11" RightEdgeStrokePriority="12" TopEdgeStrokePriority="11" BottomEdgeStrokePriority="15">
+					<Cell Self="u3bfi3e8i6" Name="2:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" FillColor="Swatch/None" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/Black" TopEdgeStrokeColor="Color/Black" RightEdgeStrokeColor="Color/Black" BottomEdgeStrokeColor="Color/Black" VerticalJustification="CenterAlign" LeftEdgeStrokePriority="109" RightEdgeStrokePriority="109" TopEdgeStrokePriority="109" BottomEdgeStrokePriority="109">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3atext table">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>2</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u3bfi3e8i7" Name="3:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" VerticalJustification="CenterAlign" LeftEdgeStrokePriority="12" RightEdgeStrokePriority="12" TopEdgeStrokePriority="12" BottomEdgeStrokePriority="16">
+					<Cell Self="u3bfi3e8i7" Name="3:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" FillColor="Swatch/None" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/Black" TopEdgeStrokeColor="Color/Black" RightEdgeStrokeColor="Color/Black" BottomEdgeStrokeColor="Color/Black" VerticalJustification="CenterAlign" LeftEdgeStrokePriority="109" RightEdgeStrokePriority="109" TopEdgeStrokePriority="109" BottomEdgeStrokePriority="109">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3atext table">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Purposive</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u3bfi3e8i8" Name="0:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" VerticalJustification="CenterAlign" LeftEdgeStrokePriority="13" RightEdgeStrokePriority="14" TopEdgeStrokePriority="13" BottomEdgeStrokePriority="58">
+					<Cell Self="u3bfi3e8i8" Name="0:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" FillColor="Swatch/None" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/Black" TopEdgeStrokeColor="Color/Black" RightEdgeStrokeColor="Color/Black" BottomEdgeStrokeColor="Color/Black" VerticalJustification="CenterAlign" LeftEdgeStrokePriority="109" RightEdgeStrokePriority="109" TopEdgeStrokePriority="109" BottomEdgeStrokePriority="109">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3atext table">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>3</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u3bfi3e8i9" Name="1:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" VerticalJustification="CenterAlign" LeftEdgeStrokePriority="14" RightEdgeStrokePriority="15" TopEdgeStrokePriority="14" BottomEdgeStrokePriority="18">
+					<Cell Self="u3bfi3e8i9" Name="1:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" FillColor="Swatch/None" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/Black" TopEdgeStrokeColor="Color/Black" RightEdgeStrokeColor="Color/Black" BottomEdgeStrokeColor="Color/Black" VerticalJustification="CenterAlign" LeftEdgeStrokePriority="109" RightEdgeStrokePriority="109" TopEdgeStrokePriority="109" BottomEdgeStrokePriority="109">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3atext table">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Cattle owners</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u3bfi3e8ia" Name="2:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" VerticalJustification="CenterAlign" LeftEdgeStrokePriority="15" RightEdgeStrokePriority="16" TopEdgeStrokePriority="15" BottomEdgeStrokePriority="19">
+					<Cell Self="u3bfi3e8ia" Name="2:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" FillColor="Swatch/None" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/Black" TopEdgeStrokeColor="Color/Black" RightEdgeStrokeColor="Color/Black" BottomEdgeStrokeColor="Color/Black" VerticalJustification="CenterAlign" LeftEdgeStrokePriority="109" RightEdgeStrokePriority="109" TopEdgeStrokePriority="109" BottomEdgeStrokePriority="109">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3atext table">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>7</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u3bfi3e8ib" Name="3:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" VerticalJustification="CenterAlign" LeftEdgeStrokePriority="16" RightEdgeStrokePriority="16" TopEdgeStrokePriority="16" BottomEdgeStrokePriority="20">
+					<Cell Self="u3bfi3e8ib" Name="3:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" FillColor="Swatch/None" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/Black" TopEdgeStrokeColor="Color/Black" RightEdgeStrokeColor="Color/Black" BottomEdgeStrokeColor="Color/Black" VerticalJustification="CenterAlign" LeftEdgeStrokePriority="109" RightEdgeStrokePriority="109" TopEdgeStrokePriority="109" BottomEdgeStrokePriority="109">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3atext table">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Purposive</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u3bfi3e8ic" Name="0:4" RowSpan="4" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" VerticalJustification="CenterAlign" LeftEdgeStrokePriority="58" RightEdgeStrokePriority="58" TopEdgeStrokePriority="58" BottomEdgeStrokePriority="21">
+					<Cell Self="u3bfi3e8ic" Name="0:4" RowSpan="4" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" FillColor="Swatch/None" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/Black" TopEdgeStrokeColor="Color/Black" RightEdgeStrokeColor="Color/Black" BottomEdgeStrokeColor="Color/Black" VerticalJustification="CenterAlign" LeftEdgeStrokePriority="109" RightEdgeStrokePriority="109" TopEdgeStrokePriority="109" BottomEdgeStrokePriority="109">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3atext table">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>4</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u3bfi3e8id" Name="1:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" VerticalJustification="CenterAlign" LeftEdgeStrokePriority="58" RightEdgeStrokePriority="19" TopEdgeStrokePriority="18" BottomEdgeStrokePriority="22">
+					<Cell Self="u3bfi3e8id" Name="1:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" FillColor="Swatch/None" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/Black" TopEdgeStrokeColor="Color/Black" RightEdgeStrokeColor="Color/Black" BottomEdgeStrokeColor="Color/Black" VerticalJustification="CenterAlign" LeftEdgeStrokePriority="109" RightEdgeStrokePriority="109" TopEdgeStrokePriority="109" BottomEdgeStrokePriority="109">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3atext table">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
 								<Content>Herdsmen</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u3bfi3e8ie" Name="2:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" VerticalJustification="CenterAlign" LeftEdgeStrokePriority="19" RightEdgeStrokePriority="20" TopEdgeStrokePriority="19" BottomEdgeStrokePriority="23">
+					<Cell Self="u3bfi3e8ie" Name="2:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" FillColor="Swatch/None" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/Black" TopEdgeStrokeColor="Color/Black" RightEdgeStrokeColor="Color/Black" BottomEdgeStrokeColor="Color/Black" VerticalJustification="CenterAlign" LeftEdgeStrokePriority="109" RightEdgeStrokePriority="109" TopEdgeStrokePriority="109" BottomEdgeStrokePriority="109">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3atext table">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" />
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u3bfi3e8if" Name="3:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" VerticalJustification="CenterAlign" LeftEdgeStrokePriority="20" RightEdgeStrokePriority="20" TopEdgeStrokePriority="20" BottomEdgeStrokePriority="24">
+					<Cell Self="u3bfi3e8if" Name="3:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" FillColor="Swatch/None" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/Black" TopEdgeStrokeColor="Color/Black" RightEdgeStrokeColor="Color/Black" BottomEdgeStrokeColor="Color/Black" VerticalJustification="CenterAlign" LeftEdgeStrokePriority="109" RightEdgeStrokePriority="109" TopEdgeStrokePriority="109" BottomEdgeStrokePriority="109">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3atext table">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" />
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u3bfi3e8i11" Name="1:5" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" VerticalJustification="CenterAlign" LeftEdgeStrokePriority="58" RightEdgeStrokePriority="23" TopEdgeStrokePriority="22" BottomEdgeStrokePriority="26">
+					<Cell Self="u3bfi3e8i11" Name="1:5" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" FillColor="Swatch/None" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/Black" TopEdgeStrokeColor="Color/Black" RightEdgeStrokeColor="Color/Black" BottomEdgeStrokeColor="Color/Black" VerticalJustification="CenterAlign" LeftEdgeStrokePriority="109" RightEdgeStrokePriority="109" TopEdgeStrokePriority="109" BottomEdgeStrokePriority="109">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3atext table">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Settled herdsmen</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u3bfi3e8i12" Name="2:5" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" VerticalJustification="CenterAlign" LeftEdgeStrokePriority="23" RightEdgeStrokePriority="24" TopEdgeStrokePriority="23" BottomEdgeStrokePriority="27">
+					<Cell Self="u3bfi3e8i12" Name="2:5" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" FillColor="Swatch/None" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/Black" TopEdgeStrokeColor="Color/Black" RightEdgeStrokeColor="Color/Black" BottomEdgeStrokeColor="Color/Black" VerticalJustification="CenterAlign" LeftEdgeStrokePriority="109" RightEdgeStrokePriority="109" TopEdgeStrokePriority="109" BottomEdgeStrokePriority="109">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3atext table">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>11</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u3bfi3e8i13" Name="3:5" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" VerticalJustification="CenterAlign" LeftEdgeStrokePriority="24" RightEdgeStrokePriority="24" TopEdgeStrokePriority="24" BottomEdgeStrokePriority="28">
+					<Cell Self="u3bfi3e8i13" Name="3:5" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" FillColor="Swatch/None" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/Black" TopEdgeStrokeColor="Color/Black" RightEdgeStrokeColor="Color/Black" BottomEdgeStrokeColor="Color/Black" VerticalJustification="CenterAlign" LeftEdgeStrokePriority="109" RightEdgeStrokePriority="109" TopEdgeStrokePriority="109" BottomEdgeStrokePriority="109">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3atext table">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Snowball*</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u3bfi3e8i15" Name="1:6" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" VerticalJustification="CenterAlign" LeftEdgeStrokePriority="58" RightEdgeStrokePriority="27" TopEdgeStrokePriority="26" BottomEdgeStrokePriority="30">
+					<Cell Self="u3bfi3e8i15" Name="1:6" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" FillColor="Swatch/None" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/Black" TopEdgeStrokeColor="Color/Black" RightEdgeStrokeColor="Color/Black" BottomEdgeStrokeColor="Color/Black" VerticalJustification="CenterAlign" LeftEdgeStrokePriority="109" RightEdgeStrokePriority="109" TopEdgeStrokePriority="109" BottomEdgeStrokePriority="109">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3atext table">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Nomadic herdsmen</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u3bfi3e8i16" Name="2:6" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" VerticalJustification="CenterAlign" LeftEdgeStrokePriority="27" RightEdgeStrokePriority="28" TopEdgeStrokePriority="27" BottomEdgeStrokePriority="31">
+					<Cell Self="u3bfi3e8i16" Name="2:6" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" FillColor="Swatch/None" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/Black" TopEdgeStrokeColor="Color/Black" RightEdgeStrokeColor="Color/Black" BottomEdgeStrokeColor="Color/Black" VerticalJustification="CenterAlign" LeftEdgeStrokePriority="109" RightEdgeStrokePriority="109" TopEdgeStrokePriority="109" BottomEdgeStrokePriority="109">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3atext table">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>6</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u3bfi3e8i17" Name="3:6" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" VerticalJustification="CenterAlign" LeftEdgeStrokePriority="28" RightEdgeStrokePriority="28" TopEdgeStrokePriority="28" BottomEdgeStrokePriority="32">
+					<Cell Self="u3bfi3e8i17" Name="3:6" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" FillColor="Swatch/None" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/Black" TopEdgeStrokeColor="Color/Black" RightEdgeStrokeColor="Color/Black" BottomEdgeStrokeColor="Color/Black" VerticalJustification="CenterAlign" LeftEdgeStrokePriority="109" RightEdgeStrokePriority="109" TopEdgeStrokePriority="109" BottomEdgeStrokePriority="109">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3atext table">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Snowball</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u3bfi3e8i19" Name="1:7" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" VerticalJustification="CenterAlign" LeftEdgeStrokePriority="58" RightEdgeStrokePriority="31" TopEdgeStrokePriority="30" BottomEdgeStrokePriority="34">
+					<Cell Self="u3bfi3e8i19" Name="1:7" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" FillColor="Swatch/None" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/Black" TopEdgeStrokeColor="Color/Black" RightEdgeStrokeColor="Color/Black" BottomEdgeStrokeColor="Color/Black" VerticalJustification="CenterAlign" LeftEdgeStrokePriority="109" RightEdgeStrokePriority="109" TopEdgeStrokePriority="109" BottomEdgeStrokePriority="109">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3atext table">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Transhumance herdsmen</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u3bfi3e8i1a" Name="2:7" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" VerticalJustification="CenterAlign" LeftEdgeStrokePriority="31" RightEdgeStrokePriority="32" TopEdgeStrokePriority="31" BottomEdgeStrokePriority="35">
+					<Cell Self="u3bfi3e8i1a" Name="2:7" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" FillColor="Swatch/None" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/Black" TopEdgeStrokeColor="Color/Black" RightEdgeStrokeColor="Color/Black" BottomEdgeStrokeColor="Color/Black" VerticalJustification="CenterAlign" LeftEdgeStrokePriority="109" RightEdgeStrokePriority="109" TopEdgeStrokePriority="109" BottomEdgeStrokePriority="109">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3atext table">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>3</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u3bfi3e8i1b" Name="3:7" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" VerticalJustification="CenterAlign" LeftEdgeStrokePriority="32" RightEdgeStrokePriority="32" TopEdgeStrokePriority="32" BottomEdgeStrokePriority="36">
+					<Cell Self="u3bfi3e8i1b" Name="3:7" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" FillColor="Swatch/None" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/Black" TopEdgeStrokeColor="Color/Black" RightEdgeStrokeColor="Color/Black" BottomEdgeStrokeColor="Color/Black" VerticalJustification="CenterAlign" LeftEdgeStrokePriority="109" RightEdgeStrokePriority="109" TopEdgeStrokePriority="109" BottomEdgeStrokePriority="109">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3atext table">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Snowball</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u3bfi3e8i1c" Name="0:8" RowSpan="4" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" VerticalJustification="CenterAlign" LeftEdgeStrokePriority="57" RightEdgeStrokePriority="57" TopEdgeStrokePriority="58" BottomEdgeStrokePriority="37">
+					<Cell Self="u3bfi3e8i1c" Name="0:8" RowSpan="4" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" FillColor="Swatch/None" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/Black" TopEdgeStrokeColor="Color/Black" RightEdgeStrokeColor="Color/Black" BottomEdgeStrokeColor="Color/Black" VerticalJustification="CenterAlign" LeftEdgeStrokePriority="109" RightEdgeStrokePriority="109" TopEdgeStrokePriority="109" BottomEdgeStrokePriority="109">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3atext table">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>5</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u3bfi3e8i1d" Name="1:8" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" VerticalJustification="CenterAlign" LeftEdgeStrokePriority="57" RightEdgeStrokePriority="35" TopEdgeStrokePriority="34" BottomEdgeStrokePriority="38">
+					<Cell Self="u3bfi3e8i1d" Name="1:8" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" FillColor="Swatch/None" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/Black" TopEdgeStrokeColor="Color/Black" RightEdgeStrokeColor="Color/Black" BottomEdgeStrokeColor="Color/Black" VerticalJustification="CenterAlign" LeftEdgeStrokePriority="109" RightEdgeStrokePriority="109" TopEdgeStrokePriority="109" BottomEdgeStrokePriority="109">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3atext table">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
 								<Content>Government</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u3bfi3e8i1e" Name="2:8" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" VerticalJustification="CenterAlign" LeftEdgeStrokePriority="35" RightEdgeStrokePriority="36" TopEdgeStrokePriority="35" BottomEdgeStrokePriority="39">
+					<Cell Self="u3bfi3e8i1e" Name="2:8" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" FillColor="Swatch/None" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/Black" TopEdgeStrokeColor="Color/Black" RightEdgeStrokeColor="Color/Black" BottomEdgeStrokeColor="Color/Black" VerticalJustification="CenterAlign" LeftEdgeStrokePriority="109" RightEdgeStrokePriority="109" TopEdgeStrokePriority="109" BottomEdgeStrokePriority="109">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3atext table">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" />
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u3bfi3e8i1f" Name="3:8" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" VerticalJustification="CenterAlign" LeftEdgeStrokePriority="36" RightEdgeStrokePriority="36" TopEdgeStrokePriority="36" BottomEdgeStrokePriority="40">
+					<Cell Self="u3bfi3e8i1f" Name="3:8" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" FillColor="Swatch/None" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/Black" TopEdgeStrokeColor="Color/Black" RightEdgeStrokeColor="Color/Black" BottomEdgeStrokeColor="Color/Black" VerticalJustification="CenterAlign" LeftEdgeStrokePriority="109" RightEdgeStrokePriority="109" TopEdgeStrokePriority="109" BottomEdgeStrokePriority="109">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3atext table">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" />
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u3bfi3e8i21" Name="1:9" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" VerticalJustification="CenterAlign" LeftEdgeStrokePriority="57" RightEdgeStrokePriority="39" TopEdgeStrokePriority="38" BottomEdgeStrokePriority="42">
+					<Cell Self="u3bfi3e8i21" Name="1:9" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" FillColor="Swatch/None" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/Black" TopEdgeStrokeColor="Color/Black" RightEdgeStrokeColor="Color/Black" BottomEdgeStrokeColor="Color/Black" VerticalJustification="CenterAlign" LeftEdgeStrokePriority="109" RightEdgeStrokePriority="109" TopEdgeStrokePriority="109" BottomEdgeStrokePriority="109">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3atext table">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Cattle ranch staff</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u3bfi3e8i22" Name="2:9" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" VerticalJustification="CenterAlign" LeftEdgeStrokePriority="39" RightEdgeStrokePriority="40" TopEdgeStrokePriority="39" BottomEdgeStrokePriority="43">
+					<Cell Self="u3bfi3e8i22" Name="2:9" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" FillColor="Swatch/None" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/Black" TopEdgeStrokeColor="Color/Black" RightEdgeStrokeColor="Color/Black" BottomEdgeStrokeColor="Color/Black" VerticalJustification="CenterAlign" LeftEdgeStrokePriority="109" RightEdgeStrokePriority="109" TopEdgeStrokePriority="109" BottomEdgeStrokePriority="109">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3atext table">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>1</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u3bfi3e8i23" Name="3:9" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" VerticalJustification="CenterAlign" LeftEdgeStrokePriority="40" RightEdgeStrokePriority="40" TopEdgeStrokePriority="40" BottomEdgeStrokePriority="44">
+					<Cell Self="u3bfi3e8i23" Name="3:9" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" FillColor="Swatch/None" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/Black" TopEdgeStrokeColor="Color/Black" RightEdgeStrokeColor="Color/Black" BottomEdgeStrokeColor="Color/Black" VerticalJustification="CenterAlign" LeftEdgeStrokePriority="109" RightEdgeStrokePriority="109" TopEdgeStrokePriority="109" BottomEdgeStrokePriority="109">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3atext table">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Purposive</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u3bfi3e8i25" Name="1:10" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" VerticalJustification="CenterAlign" LeftEdgeStrokePriority="57" RightEdgeStrokePriority="43" TopEdgeStrokePriority="42" BottomEdgeStrokePriority="46">
+					<Cell Self="u3bfi3e8i25" Name="1:10" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" FillColor="Swatch/None" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/Black" TopEdgeStrokeColor="Color/Black" RightEdgeStrokeColor="Color/Black" BottomEdgeStrokeColor="Color/Black" VerticalJustification="CenterAlign" LeftEdgeStrokePriority="109" RightEdgeStrokePriority="109" TopEdgeStrokePriority="109" BottomEdgeStrokePriority="109">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3atext table">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>District assembly</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u3bfi3e8i26" Name="2:10" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" VerticalJustification="CenterAlign" LeftEdgeStrokePriority="43" RightEdgeStrokePriority="44" TopEdgeStrokePriority="43" BottomEdgeStrokePriority="47">
+					<Cell Self="u3bfi3e8i26" Name="2:10" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" FillColor="Swatch/None" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/Black" TopEdgeStrokeColor="Color/Black" RightEdgeStrokeColor="Color/Black" BottomEdgeStrokeColor="Color/Black" VerticalJustification="CenterAlign" LeftEdgeStrokePriority="109" RightEdgeStrokePriority="109" TopEdgeStrokePriority="109" BottomEdgeStrokePriority="109">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3atext table">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>5</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u3bfi3e8i27" Name="3:10" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" VerticalJustification="CenterAlign" LeftEdgeStrokePriority="44" RightEdgeStrokePriority="44" TopEdgeStrokePriority="44" BottomEdgeStrokePriority="48">
+					<Cell Self="u3bfi3e8i27" Name="3:10" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" FillColor="Swatch/None" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/Black" TopEdgeStrokeColor="Color/Black" RightEdgeStrokeColor="Color/Black" BottomEdgeStrokeColor="Color/Black" VerticalJustification="CenterAlign" LeftEdgeStrokePriority="109" RightEdgeStrokePriority="109" TopEdgeStrokePriority="109" BottomEdgeStrokePriority="109">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3atext table">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Purposive</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u3bfi3e8i29" Name="1:11" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" VerticalJustification="CenterAlign" LeftEdgeStrokePriority="57" RightEdgeStrokePriority="47" TopEdgeStrokePriority="46" BottomEdgeStrokePriority="50">
+					<Cell Self="u3bfi3e8i29" Name="1:11" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" FillColor="Swatch/None" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/Black" TopEdgeStrokeColor="Color/Black" RightEdgeStrokeColor="Color/Black" BottomEdgeStrokeColor="Color/Black" VerticalJustification="CenterAlign" LeftEdgeStrokePriority="109" RightEdgeStrokePriority="109" TopEdgeStrokePriority="109" BottomEdgeStrokePriority="109">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3atext table">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Police service</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u3bfi3e8i2a" Name="2:11" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" VerticalJustification="CenterAlign" LeftEdgeStrokePriority="47" RightEdgeStrokePriority="48" TopEdgeStrokePriority="47" BottomEdgeStrokePriority="51">
+					<Cell Self="u3bfi3e8i2a" Name="2:11" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" FillColor="Swatch/None" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/Black" TopEdgeStrokeColor="Color/Black" RightEdgeStrokeColor="Color/Black" BottomEdgeStrokeColor="Color/Black" VerticalJustification="CenterAlign" LeftEdgeStrokePriority="109" RightEdgeStrokePriority="109" TopEdgeStrokePriority="109" BottomEdgeStrokePriority="109">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3atext table">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>1</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u3bfi3e8i2b" Name="3:11" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" VerticalJustification="CenterAlign" LeftEdgeStrokePriority="48" RightEdgeStrokePriority="48" TopEdgeStrokePriority="48" BottomEdgeStrokePriority="52">
+					<Cell Self="u3bfi3e8i2b" Name="3:11" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" FillColor="Swatch/None" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/Black" TopEdgeStrokeColor="Color/Black" RightEdgeStrokeColor="Color/Black" BottomEdgeStrokeColor="Color/Black" VerticalJustification="CenterAlign" LeftEdgeStrokePriority="109" RightEdgeStrokePriority="109" TopEdgeStrokePriority="109" BottomEdgeStrokePriority="109">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3atext table">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Purposive</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u3bfi3e8i2c" Name="0:12" RowSpan="2" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" VerticalJustification="CenterAlign" LeftEdgeStrokePriority="59" RightEdgeStrokePriority="59" TopEdgeStrokePriority="59" BottomEdgeStrokePriority="53">
+					<Cell Self="u3bfi3e8i2c" Name="0:12" RowSpan="2" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" FillColor="Swatch/None" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/Black" TopEdgeStrokeColor="Color/Black" RightEdgeStrokeColor="Color/Black" BottomEdgeStrokeColor="Color/Black" VerticalJustification="CenterAlign" LeftEdgeStrokePriority="109" RightEdgeStrokePriority="109" TopEdgeStrokePriority="109" BottomEdgeStrokePriority="109">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3atext table">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>6</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u3bfi3e8i2d" Name="1:12" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" VerticalJustification="CenterAlign" LeftEdgeStrokePriority="59" RightEdgeStrokePriority="51" TopEdgeStrokePriority="50" BottomEdgeStrokePriority="54">
+					<Cell Self="u3bfi3e8i2d" Name="1:12" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" FillColor="Swatch/None" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/Black" TopEdgeStrokeColor="Color/Black" RightEdgeStrokeColor="Color/Black" BottomEdgeStrokeColor="Color/Black" VerticalJustification="CenterAlign" LeftEdgeStrokePriority="109" RightEdgeStrokePriority="109" TopEdgeStrokePriority="109" BottomEdgeStrokePriority="109">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3atext table">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
 								<Content>Other key informants</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u3bfi3e8i2e" Name="2:12" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" VerticalJustification="CenterAlign" LeftEdgeStrokePriority="51" RightEdgeStrokePriority="52" TopEdgeStrokePriority="51" BottomEdgeStrokePriority="55">
+					<Cell Self="u3bfi3e8i2e" Name="2:12" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" FillColor="Swatch/None" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/Black" TopEdgeStrokeColor="Color/Black" RightEdgeStrokeColor="Color/Black" BottomEdgeStrokeColor="Color/Black" VerticalJustification="CenterAlign" LeftEdgeStrokePriority="109" RightEdgeStrokePriority="109" TopEdgeStrokePriority="109" BottomEdgeStrokePriority="109">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3atext table">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" />
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u3bfi3e8i2f" Name="3:12" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" VerticalJustification="CenterAlign" LeftEdgeStrokePriority="52" RightEdgeStrokePriority="52" TopEdgeStrokePriority="52" BottomEdgeStrokePriority="56">
+					<Cell Self="u3bfi3e8i2f" Name="3:12" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" FillColor="Swatch/None" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/Black" TopEdgeStrokeColor="Color/Black" RightEdgeStrokeColor="Color/Black" BottomEdgeStrokeColor="Color/Black" VerticalJustification="CenterAlign" LeftEdgeStrokePriority="109" RightEdgeStrokePriority="109" TopEdgeStrokePriority="109" BottomEdgeStrokePriority="109">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3atext table">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" />
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u3bfi3e8i31" Name="1:13" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" VerticalJustification="CenterAlign" LeftEdgeStrokePriority="59" RightEdgeStrokePriority="55" TopEdgeStrokePriority="54" BottomEdgeStrokePriority="54">
+					<Cell Self="u3bfi3e8i31" Name="1:13" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" FillColor="Swatch/None" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/Black" TopEdgeStrokeColor="Color/Black" RightEdgeStrokeColor="Color/Black" BottomEdgeStrokeColor="Color/Black" VerticalJustification="CenterAlign" LeftEdgeStrokePriority="109" RightEdgeStrokePriority="109" TopEdgeStrokePriority="109" BottomEdgeStrokePriority="109">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3atext table">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Village chief, Zongo chief, farmers</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u3bfi3e8i32" Name="2:13" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" VerticalJustification="CenterAlign" LeftEdgeStrokePriority="55" RightEdgeStrokePriority="56" TopEdgeStrokePriority="55" BottomEdgeStrokePriority="55">
+					<Cell Self="u3bfi3e8i32" Name="2:13" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" FillColor="Swatch/None" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/Black" TopEdgeStrokeColor="Color/Black" RightEdgeStrokeColor="Color/Black" BottomEdgeStrokeColor="Color/Black" VerticalJustification="CenterAlign" LeftEdgeStrokePriority="109" RightEdgeStrokePriority="109" TopEdgeStrokePriority="109" BottomEdgeStrokePriority="109">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3atext table">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>7</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u3bfi3e8i33" Name="3:13" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" VerticalJustification="CenterAlign" LeftEdgeStrokePriority="56" RightEdgeStrokePriority="56" TopEdgeStrokePriority="56" BottomEdgeStrokePriority="56">
+					<Cell Self="u3bfi3e8i33" Name="3:13" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" FillColor="Swatch/None" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/Black" TopEdgeStrokeColor="Color/Black" RightEdgeStrokeColor="Color/Black" BottomEdgeStrokeColor="Color/Black" VerticalJustification="CenterAlign" LeftEdgeStrokePriority="109" RightEdgeStrokePriority="109" TopEdgeStrokePriority="109" BottomEdgeStrokePriority="109">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3atext table">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Purposive</Content>
@@ -1312,12 +1317,21 @@
 				<Br />
 				<Content>The distant places where herdsmen keep cattle render their access by researchers a challenge. Being an agrarian country, the majority of rural Ghanaians engage in crop farming as their main livelihood activity. Relatively, few village people add cattle production as their main or alternative livelihood, though city men employ the labour of Fulani herders to look after their cattle. The nature of cattle production where regular feed is needed demands that herdsmen live near savannah areas where there is readily available feed for cattle. Most herdsmen echo that they ‘keep cattle at a distance and away from arable farmers due to the nature of the work which demands caring for cattle close to the bush so we can easily feed the cattle and prevent damage to crops’ (Herdsman 1, 16 February 2023). Transhumance and nomadic herders are normally located at places several kilometres away from villages. Accessing transhumance herders requires hours of travel, usually by motorcycles. Herdsmen hardly keep cattle at a particular location; rather, they are always on the move due to daily struggles to secure adequate feed and water for their livestock. This is the case for both nomadic herders who roam frequently on a particular terrain as well as transhumance herders who migrate on a seasonal basis. One researcher echoed that ‘living in the bushes is their [herdsmen’s] cultural trait’ (Researcher 2, 10 January 2023).</Content>
 				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" ParagraphBreakType="NextPage">
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Lack of footpath and road networks limit possibilities in accessing herder locations in the field. Agricultural lands used for crop farming have footpaths used by farm owners. Footpaths are generally created and maintained by families and individual farmers who use them regularly. Grazing lands do not have footpaths since cattle do not move along cleared paths in the field, but herders can follow animals as they move through bushes. Herdsmen are good at adapting to movement in bushes, but non-herders tend to struggle when walking in bushy areas. Further, the environment where herders keep cattle is dry and hot, and prone to myriad physical and emotional challenges such as wildlife attacks. Such extreme environments are not favourable destinations for most non-herders and deter many researchers from contacting herders in the field.</Content>
 				<Br />
 				<Content>Further, herdsmen do not want people to know their locations and movements in the field for security reasons. It is common for herdsmen to be silent about the places in the field where they keep their cattle and about their movement routes. They do so to maintain the safety of the cattle and of themselves since police services are not present in the secluded places where nomadic and transhumance herders normally keep their cattle. Transhumant and nomadic herders are exposed to various security risks, including human attacks due to poor identification and invasion by thieves. Some herdsmen observed that farmers put false claims on them for atrocities they have not committed: ‘In the bush, we [herdsmen] face several challenges … Sometimes we meet armed robbers and we have to fight back; and at times we go to some villages, and when the farmers are not able to identify particular cattle destroying their crops, they blame us’ (Herdsman 5, 10 January 2023). Generally, researchers noted that ‘sometimes herders are unable to describe their locations in the field because they find it difficult to describe the places since they do not stay in one place, but others also do not want people to know where they keep the cattle’ (Researcher 1, 20 January 2023).</Content>
 				<Br />
-				<Content>Pastoralists’ non-participatory behaviour limits the extent to which researchers obtain data from them. Cattle herders are reluctant </Content>
-				<Content>to speak to researchers, particularly to those who do not seek permission from their leaders, and this makes data collection a challenge. The herdsmen demand researchers and development actors to directly contact the owners of the cattle they are taking care of. Herders posit that the owners make absolute decisions on their cattle and that their leaders are also more capable of delving into conflicts since they often attend skirmish-related meetings and have access to relevant information to enable them to make well-informed contributions. Other pastoralists share the concern that lands they have legally obtained from chiefs and landowners and have occupied for centuries are often contested by individual farmers. One herder narrated, ‘My father paid for the land we feed our cattle on; he paid the big chief and there are documents on that, but you can see how farmers have approached the land’ (Herdsman 3, 10 January 2023).</Content>
+				<Content>Pastoralists’ non-participatory behaviour limits the extent to which researchers obtain data from them. Cattle herders are reluctant</Content>
+				<Content> to speak to researchers, particularly to those who do not seek permission from their leaders, and this makes data collection a challenge. The herdsmen demand researchers and development actors to directly contact the owners of the cattle they are taking care of. Herders posit that the owners make absolute decisions on their cattle and that their leaders are also more capable of delving into conflicts since they often attend skirmish-related meetings and have access to relevant information to enable them to make well-informed contributions. Other pastoralists share the concern that lands they have legally obtained from chiefs and landowners and have occupied for centuries are often contested by individual farmers. One herder narrated, ‘My father paid for the land we feed our cattle on; he paid the big chief and there are documents on that, but you can see how farmers have approached the land’ (Herdsman 3, 10 January 2023).</Content>
 				<Br />
 				<Content>The nomadic and transhumance herders have limited social contact with local villages, and that delays their ability to learn Ghanaian languages. The majority of pastoralists in Ghana, particularly herders, are of foreign origin who have migrated from the Sahel region and speak the Fulbe language and/or other Sahel languages. Some herders settle in farming villages, and others maintain nomadic status by moving across different places to feed cattle. Settled herders are better placed to socially integrate with people in the societies they live in and where they learn local languages. On the other hand, most transhumance and nomadic herders due to their movement do not easily integrate socially with local Ghanaian societies; rather, they live with their families in isolated camps. Occasionally, nomadic and transhumance herders move to cities to sell cow milk and purchase food items and then return to their original locations.</Content>
 				<Br />
@@ -1336,6 +1350,11 @@
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader4 (sub-subtitle)">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" ParagraphBreakType="NextPage">
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader4 (sub-subtitle)">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Strategies Enabling Access to Pastoralists’ Data</Content>
 				<Br />
@@ -1349,8 +1368,8 @@
 				<Br />
 				<Content>Access through social identity and membership in a group, including groupings by ethnicity and religion, shapes access to pastoralists’ data. One researcher narrated how being a Muslim he could easily get access to herders for his study. Another researcher observed that ‘when not one of their own, they do not want to talk. The herders are unable to differentiate people who visit them so one needs to inform them where they are coming from and which institution they belong to’ (Researcher 7, 15 January 2023). Several settled herders live in communities where the dominant religion is Islam and most herders residing in Muslim-dominated communities also observe the religion. Researchers with the same religious background as herders meet and pray together and share similar religious festivities. These shared religious meetings enhance social bonds, causing herders to open up and share information about their livelihood and culture.</Content>
 				<Br />
-				<Content>The social relations and networks existing among herder groups, including having access to authority and relations of friendship, also shape access to data. When a herdsman settles in a particular community, he makes new friends with people in the community who can either be indigenes or persons belonging to his ethnicity; even the nomadic and transhumance herders have close friends in villages and cities. Pastoralists maintain close relations with their family heads and local leaders, even with those who are physically located in distant places. During family occasions and social and religious gatherings, most herdsmen take advantage of meeting their close relations. Researchers employ the contacts of family heads and local leaders to reach out to cattle headers. One researcher explains, ‘You seek approval from cattle owners, and you find a date and someone leads you to the bush to speak with them [herders]’ (Researcher 5, 14 February 2023). For herdsmen who are reluctant to speak, one researcher noted that ‘some were reluctant to answer because they feel researchers have been there several times to talk to them … I relied on key informants to lead me to the Ful</Content>
-				<Content>ani people’ (Researcher 6, 10 January 2023). Making clan leaders call herders to inform them of researchers’ quest to undertake studies makes herdsmen respond positively to calls for interviews.</Content>
+				<Content>The social relations and networks existing among herder groups, including having access to authority and relations of friendship, also shape access to data. When a herdsman settles in a particular community, he makes new friends with people in the community who can either be indigenes or persons belonging to his ethnicity; even the nomadic and transhumance herders have close friends in villages and cities. Pastoralists maintain close relations with their family heads and local leaders, even with those who are physically located in distant places. During family occasions and social and religious gatherings, most herdsmen take advantage of meeting their close relations. Researchers employ the contacts of family heads and local leaders to reach out to cattle headers. One researcher explains, ‘You seek approval from cattle owners, and you find a date and someone leads you to the bush to speak with them [herders]’ (Researcher 5, 14 February 2023). For herdsmen who are reluctant to speak, one researcher noted that ‘some were reluctant to answer because they feel researchers have been there several times to talk to them … I relied on key informants to lead me to the F</Content>
+				<Content>ulani people’ (Researcher 6, 10 January 2023). Making clan leaders call herders to inform them of researchers’ quest to undertake studies makes herdsmen respond positively to calls for interviews.</Content>
 				<Br />
 				<Content>Getting access to labour in the form of translators who speak and understand a herder’s native language to interpret questions and relay responses is a means people use to get access to data. Some herdsmen, particularly nomadic, speak several languages due to their movement across different societies with different ethnic backgrounds. Most herdsmen speak the Hausa language, which is spoken by a majority of people in the West Africa region. Researchers employ the services of local inhabitants who speak herdsmen’s language as interpreters. However, some researchers are lucky to conduct interviews in the English language; one such researcher observed, ‘in cases where I settled on people who could speak my language, I talked to them’ (Researcher 7, 15 January 2023).</Content>
 				<Br />
@@ -1387,6 +1406,11 @@
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader2 (subtitle)">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" ParagraphBreakType="NextPage">
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader2 (subtitle)">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Discussion</Content>
 				<Br />
@@ -1397,8 +1421,8 @@
 				<Content>Our results suggest that access to data from pastoralists is entangled with challenges. The transhumance and nomadic herders keep cattle at field locations that are distant from villages and lack marked footpaths and road networks, rendering transhumance herders the least accessible herder category. Data from transhumance herders are subsequently also the least accessible and incorporated into conflict management protocols. The health and security of cattle and herdsmen are challenging issues in bushes. Motivated by security concerns, herdsmen shield information on their locations and movements from the public. Herders are </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-10">
-				<Content>reserved and display non-participatory behaviour to indicate their reluctance to participate in development studies and programmes. The Herdsmen’s non-engaging behaviour is a means not to open up about cattle labour, but to exclude and delegitimize others by keeping historically acqu</Content>
-				<Content>ired knowledge to themselves. Pastoralist–farmer conflicts are fraught with trauma and intense emotions due to the pain and suffering resulting from the loss of lives, properties, and homes. Hence, experiences shared in such conflicts are entwined with feelings of closeness, affection, and subjectivity. To a large extent, pastoralists’ data are undocumented, unclean, and disorderly kept. In what follows, we discuss (</Content>
+				<Content>reserved and display non-participatory behaviour to indicate their reluctance to participate in development studies and programmes. The Herdsmen’s non-engaging behaviour is a means not to open up about cattle labour, but to exclude and delegitimize others by keeping historically a</Content>
+				<Content>cquired knowledge to themselves. Pastoralist–farmer conflicts are fraught with trauma and intense emotions due to the pain and suffering resulting from the loss of lives, properties, and homes. Hence, experiences shared in such conflicts are entwined with feelings of closeness, affection, and subjectivity. To a large extent, pastoralists’ data are undocumented, unclean, and disorderly kept. In what follows, we discuss (</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" Tracking="-10">
 				<Content>a</Content>
@@ -1435,9 +1459,6 @@
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader4 (sub-subtitle)">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-10" ParagraphBreakType="NextPage">
-				<Br />
-			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-5">
 				<Content>Researcher Neutrality and Trustworthiness</Content>
 				<Br />
@@ -1471,6 +1492,15 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> These are the right to self-determination, the right to use, the right to possess, the right to consent, the right to refuse, and the right to reclaim. Indigenous peoples’ right to self-determination entails the ability to organize and control data about a collective identity. In our case in Ghana, we observe herdsmen realize that by refraining from engaging with ‘outsiders’ on an individual basis. Rather, they recognize the critical role of ethnic and pastoralist leaders in maintaining the production of uniform knowledge and collective identity. Our case shows how herdsmen refuse to engage people they have no social ties with as well as the domination of Fulani ethnicities in cattle herding; these depict the pastoralists’ exhibition of rights to possess, refuse, and retain data that reflect pastoralists’ identities and cultures.</Content>
 				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" ParagraphBreakType="NextPage">
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Our findings also illustrate that pastoralists are reluctant to grant data access to people they share no ethnic or membership relations with. This suggests pastoralist groups consider themselves to be wielding higher status over researchers and activists. It is along claims of religious and identity backgrounds that researchers and practitioners avoid facing discrimination in accessing data from pastoralists. We argue that the inaccessibility of pastoralists and discrimination in the release of data could potentially lead to biases and monopolization of data because only a few known people will have access to important data. The possibility of asking limited and skewed questions might lead to a loss of valuable information that could have been gained by asking other questions. Herders’ selective behaviour might result in the over-representation of certain elements of a dataset and eventually lead to low accuracy, skewed outcomes, and systemic prejudices. Putting pastoralists’ data into domains privilege a few ethnic and religious actors and create barriers to entry into the pastoralism landscape. This monopoly threatens the political economy of pastoral societies and pastoralism. The problems associated with our empirical data access resonate with documented biases and monopolization linked to digital data access.</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Position="Superscript">
@@ -1492,8 +1522,8 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>This study has examined the challenges, strategies, and opportunities researchers employ to gain access to pastoralism-related data. To understand this process, the study relie</Content>
-				<Content>d on data from researchers and NGOs engaged in pastoralism work, cattle owners, herdsmen, and other key informants in the cattle industry. The study suggests that pastoralists operate in a harsh social environment of solitude and are exposed to health and psychological dangers. The adverse environment entangles their relations to other societal groups with conflicts and violent extremism, leading to their passiveness and poor participation in social interventions.</Content>
+				<Content>This study has examined the challenges, strategies, and opportunities researchers employ to gain access to pastoralism-related data. To understand this process, the study re</Content>
+				<Content>lied on data from researchers and NGOs engaged in pastoralism work, cattle owners, herdsmen, and other key informants in the cattle industry. The study suggests that pastoralists operate in a harsh social environment of solitude and are exposed to health and psychological dangers. The adverse environment entangles their relations to other societal groups with conflicts and violent extremism, leading to their passiveness and poor participation in social interventions.</Content>
 				<Br />
 				<Content>First, getting physical access to herdsmen is limited because transhumance and nomadic herders are located in remote places, several kilometres away from villages, and their practice of moving from one place to another to feed their cattle defeats easy identification of and accessibility to their location. The lack of footpaths and road networks to herders’ locations in forested areas also limits the possibilities of accessing herdsmen’s locations in the field. Herdsmen do not disclose their locations and movement routes for security reasons – that is, to avoid being easily found and attacked by conflict actors. Access to herders’ data is compromised by their non-participatory behaviour in conversations and the habit of keeping information restricted to only a few people, often their relations. Conflict victims poorly segregate emotions from the actual conflict experiences they share, and the attachment of emotions to information hampers access to objective data.</Content>
 				<Br />
@@ -1793,10 +1823,10 @@
 	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 287" Name="URL 287" DestinationURL="http://www.theglobeandmail.com/servlet/story/LAC.20070619.NOFLY19/PPVStory?URL_Article_ID=LAC.20070619.NOFLY19&amp;DENIED=1" Hidden="false" DestinationUniqueKey="798" />
 	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 288" Name="URL 288" DestinationURL="http://www.cbc.ca/canada/ottawa/story/2007/06/18/no-fly-list.html" Hidden="false" DestinationUniqueKey="799" />
 	<ColorGroup Self="ColorGroup/[Root Color Group]" Name="[Root Color Group]" IsRootColorGroup="true">
+		<ColorGroupSwatch Self="u12ColorGroupSwatch0" SwatchItemRef="Swatch/None" />
+		<ColorGroupSwatch Self="u12ColorGroupSwatch3" SwatchItemRef="Color/Black" />
 		<ColorGroupSwatch Self="u12ColorGroupSwatchb" SwatchItemRef="Color/R=147 G=44 B=101 2" />
 		<ColorGroupSwatch Self="u12ColorGroupSwatch2" SwatchItemRef="Color/Paper" />
-		<ColorGroupSwatch Self="u12ColorGroupSwatch3" SwatchItemRef="Color/Black" />
-		<ColorGroupSwatch Self="u12ColorGroupSwatch0" SwatchItemRef="Swatch/None" />
 		<ColorGroupSwatch Self="u12ColorGroupSwatcha" SwatchItemRef="Color/R=147 G=44 B=101" />
 	</ColorGroup>
 </Document>

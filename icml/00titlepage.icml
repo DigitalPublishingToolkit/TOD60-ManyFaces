@@ -223,6 +223,14 @@
 		<Font Self="dif6FontnLato (TT) Black" FontFamily="Lato (TT)" Name="Lato (TT) Black" PostScriptName="Lato-Black" Status="NotAvailable" FontStyleName="Black" FontType="TrueType" WritingScript="0" FullName="Lato Black" FullNameNative="Lato Black" FontStyleNameNative="Black" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
 		<Font Self="dif6FontnLato (TT) Black Italic" FontFamily="Lato (TT)" Name="Lato (TT) Black Italic" PostScriptName="Lato-BlackItalic" Status="NotAvailable" FontStyleName="Black Italic" FontType="TrueType" WritingScript="0" FullName="Lato Black Italic" FullNameNative="Lato Black Italic" FontStyleNameNative="Black Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
 	</FontFamily>
+	<FontFamily Self="di3df" Name="Helvetica">
+		<Font Self="di3dfFontnHelvetica Light" FontFamily="Helvetica" Name="Helvetica Light" PostScriptName="Helvetica-Light" Status="Installed" FontStyleName="Light" FontType="TrueType" WritingScript="0" FullName="Helvetica Light" FullNameNative="Helvetica Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="17.0d1e1" TypekitID="$ID/" />
+		<Font Self="di3dfFontnHelvetica Light Oblique" FontFamily="Helvetica" Name="Helvetica Light Oblique" PostScriptName="Helvetica-LightOblique" Status="Installed" FontStyleName="Light Oblique" FontType="TrueType" WritingScript="0" FullName="Helvetica Light Oblique" FullNameNative="Helvetica Light Oblique" FontStyleNameNative="Light Oblique" PlatformName="$ID/" Version="17.0d1e1" TypekitID="$ID/" />
+		<Font Self="di3dfFontnHelvetica Regular" FontFamily="Helvetica" Name="Helvetica Regular" PostScriptName="Helvetica" Status="Installed" FontStyleName="Regular" FontType="TrueType" WritingScript="0" FullName="Helvetica" FullNameNative="Helvetica" FontStyleNameNative="Regular" PlatformName="$ID/" Version="17.0d1e1" TypekitID="$ID/" />
+		<Font Self="di3dfFontnHelvetica Oblique" FontFamily="Helvetica" Name="Helvetica Oblique" PostScriptName="Helvetica-Oblique" Status="Installed" FontStyleName="Oblique" FontType="TrueType" WritingScript="0" FullName="Helvetica Oblique" FullNameNative="Helvetica Oblique" FontStyleNameNative="Oblique" PlatformName="$ID/" Version="17.0d1e1" TypekitID="$ID/" />
+		<Font Self="di3dfFontnHelvetica Bold" FontFamily="Helvetica" Name="Helvetica Bold" PostScriptName="Helvetica-Bold" Status="Installed" FontStyleName="Bold" FontType="TrueType" WritingScript="0" FullName="Helvetica Bold" FullNameNative="Helvetica Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="17.0d1e1" TypekitID="$ID/" />
+		<Font Self="di3dfFontnHelvetica Bold Oblique" FontFamily="Helvetica" Name="Helvetica Bold Oblique" PostScriptName="Helvetica-BoldOblique" Status="Installed" FontStyleName="Bold Oblique" FontType="TrueType" WritingScript="0" FullName="Helvetica Bold Oblique" FullNameNative="Helvetica Bold Oblique" FontStyleNameNative="Bold Oblique" PlatformName="$ID/" Version="17.0d1e1" TypekitID="$ID/" />
+	</FontFamily>
 	<CompositeFont Self="CompositeFont/$ID/[No composite font]" Name="$ID/[No composite font]">
 		<CompositeFontEntry Self="u91" Name="$ID/Kanji" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" Locked="true" ScaleOption="true" BaselineShift="0">
 			<Properties>
@@ -268,7 +276,7 @@
 	<NumberingList Self="NumberingList/$ID/[Default]" Name="$ID/[Default]" ContinueNumbersAcrossStories="false" ContinueNumbersAcrossDocuments="false" />
 	<RootParagraphStyleGroup Self="u79">
 		<ParagraphStyleGroup Self="ParagraphStyleGroup/$ID/Frontispiece" Name="$ID/Frontispiece">
-			<ParagraphStyle Self="ParagraphStyle/Frontispiece%3atitle " Name="Frontispiece:title " Imported="false" NextStyle="ParagraphStyle/$ID/[No paragraph style]" SplitDocument="false" EmitCss="true" StyleUniqueId="7964071d-0845-44a3-bceb-17cdf3586b36" IncludeClass="true" ExtendedKeyboardShortcut="0 0 0" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FontStyle="Bold" PointSize="60" Tracking="20" Capitalization="AllCaps" Hyphenation="false" Justification="RightAlign" GridAlignFirstLineOnly="true" GridAlignment="AlignBaseline" DiacriticPosition="OpentypePosition">
+			<ParagraphStyle Self="ParagraphStyle/Frontispiece%3atitle " Name="Frontispiece:title " Imported="false" NextStyle="ParagraphStyle/$ID/[No paragraph style]" SplitDocument="false" EmitCss="true" StyleUniqueId="ddd92ad7-2d10-4dea-8d9b-6584ce7660dd" IncludeClass="true" ExtendedKeyboardShortcut="0 0 0" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FontStyle="Bold" PointSize="46" Tracking="20" Capitalization="AllCaps" Hyphenation="false" Justification="RightAlign" GridAlignFirstLineOnly="true" GridAlignment="AlignBaseline" DiacriticPosition="OpentypePosition">
 				<Properties>
 					<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
 					<PreviewColor type="enumeration">Nothing</PreviewColor>
@@ -277,12 +285,11 @@
 					<ParagraphShadingColor type="object">Color/R=147 G=44 B=101 2</ParagraphShadingColor>
 				</Properties>
 			</ParagraphStyle>
-			<ParagraphStyle Self="ParagraphStyle/Frontispiece%3asubtitle" Name="Frontispiece:subtitle" Imported="false" NextStyle="ParagraphStyle/$ID/[No paragraph style]" SplitDocument="false" EmitCss="true" StyleUniqueId="8f7bce41-4281-4664-b9ad-3f55bbd20974" IncludeClass="true" ExtendedKeyboardShortcut="0 0 0" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FontStyle="Light" PointSize="28" Tracking="20" Capitalization="AllCaps" Justification="RightAlign" DropcapDetail="0" GridAlignment="AlignBaseline" TreatIdeographicSpaceAsSpace="false" DiacriticPosition="OpentypePosition">
+			<ParagraphStyle Self="ParagraphStyle/Frontispiece%3asubtitle" Name="Frontispiece:subtitle" Imported="false" NextStyle="ParagraphStyle/$ID/[No paragraph style]" SplitDocument="false" EmitCss="true" StyleUniqueId="c51b8964-5308-4435-8535-596a08c6ef43" IncludeClass="true" ExtendedKeyboardShortcut="0 0 0" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FontStyle="Light" PointSize="37" Capitalization="AllCaps" Justification="RightAlign" DropcapDetail="0" GridAlignment="AlignBaseline" TreatIdeographicSpaceAsSpace="false" DiacriticPosition="OpentypePosition">
 				<Properties>
 					<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
 					<PreviewColor type="enumeration">Nothing</PreviewColor>
-					<Leading type="unit">28</Leading>
-					<AppliedFont type="string">Helvetica Neue</AppliedFont>
+					<AppliedFont type="string">Helvetica</AppliedFont>
 				</Properties>
 			</ParagraphStyle>
 		</ParagraphStyleGroup>
@@ -385,15 +392,21 @@
 	<Story Self="u20f" UserText="true" IsEndnoteStory="false" AppliedTOCStyle="n" TrackChanges="false" StoryTitle="" AppliedNamedGrid="n">
 		<StoryPreference OpticalMarginAlignment="true" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
 		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Frontispiece%3atitle " Justification="LeftAlign">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-				<Content>The  Many  Faces of Data Access</Content>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Frontispiece%3atitle ">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Bold">
+				<Properties>
+					<AppliedFont type="string">Helvetica Neue</AppliedFont>
+				</Properties>
+				<Content>The Many  Faces of Data Access</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Frontispiece%3asubtitle" Justification="LeftAlign">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-				<Content>Legal and Policy  implications  for research</Content>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Frontispiece%3asubtitle">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Light">
+				<Properties>
+					<AppliedFont type="string">Helvetica</AppliedFont>
+				</Properties>
+				<Content>Legal and Policy  implications  for research</Content>
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 	</Story>

@@ -548,11 +548,10 @@ projects recognizable as ‘data altruism organisations’ – this would
 prevent chilling effects on data sharing with researchers and allow more
 effective monitoring of (real) data altruism initiatives.
 
-![](imgs/appendix1.png)
+![](imgs/appendix8a.png)
 
-![](imgs/appendix2.png)
+![](imgs/appendix8a-1.png)
 
-![](imgs/appendix3.png)
 
 *Source*: Prepared by the author.
 

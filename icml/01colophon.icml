@@ -223,6 +223,14 @@
 		<Font Self="dif6FontnLato (TT) Black" FontFamily="Lato (TT)" Name="Lato (TT) Black" PostScriptName="Lato-Black" Status="NotAvailable" FontStyleName="Black" FontType="TrueType" WritingScript="0" FullName="Lato Black" FullNameNative="Lato Black" FontStyleNameNative="Black" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
 		<Font Self="dif6FontnLato (TT) Black Italic" FontFamily="Lato (TT)" Name="Lato (TT) Black Italic" PostScriptName="Lato-BlackItalic" Status="NotAvailable" FontStyleName="Black Italic" FontType="TrueType" WritingScript="0" FullName="Lato Black Italic" FullNameNative="Lato Black Italic" FontStyleNameNative="Black Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
 	</FontFamily>
+	<FontFamily Self="di3e5" Name="Helvetica">
+		<Font Self="di3e5FontnHelvetica Light" FontFamily="Helvetica" Name="Helvetica Light" PostScriptName="Helvetica-Light" Status="Installed" FontStyleName="Light" FontType="TrueType" WritingScript="0" FullName="Helvetica Light" FullNameNative="Helvetica Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="17.0d1e1" TypekitID="$ID/" />
+		<Font Self="di3e5FontnHelvetica Light Oblique" FontFamily="Helvetica" Name="Helvetica Light Oblique" PostScriptName="Helvetica-LightOblique" Status="Installed" FontStyleName="Light Oblique" FontType="TrueType" WritingScript="0" FullName="Helvetica Light Oblique" FullNameNative="Helvetica Light Oblique" FontStyleNameNative="Light Oblique" PlatformName="$ID/" Version="17.0d1e1" TypekitID="$ID/" />
+		<Font Self="di3e5FontnHelvetica Regular" FontFamily="Helvetica" Name="Helvetica Regular" PostScriptName="Helvetica" Status="Installed" FontStyleName="Regular" FontType="TrueType" WritingScript="0" FullName="Helvetica" FullNameNative="Helvetica" FontStyleNameNative="Regular" PlatformName="$ID/" Version="17.0d1e1" TypekitID="$ID/" />
+		<Font Self="di3e5FontnHelvetica Oblique" FontFamily="Helvetica" Name="Helvetica Oblique" PostScriptName="Helvetica-Oblique" Status="Installed" FontStyleName="Oblique" FontType="TrueType" WritingScript="0" FullName="Helvetica Oblique" FullNameNative="Helvetica Oblique" FontStyleNameNative="Oblique" PlatformName="$ID/" Version="17.0d1e1" TypekitID="$ID/" />
+		<Font Self="di3e5FontnHelvetica Bold" FontFamily="Helvetica" Name="Helvetica Bold" PostScriptName="Helvetica-Bold" Status="Installed" FontStyleName="Bold" FontType="TrueType" WritingScript="0" FullName="Helvetica Bold" FullNameNative="Helvetica Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="17.0d1e1" TypekitID="$ID/" />
+		<Font Self="di3e5FontnHelvetica Bold Oblique" FontFamily="Helvetica" Name="Helvetica Bold Oblique" PostScriptName="Helvetica-BoldOblique" Status="Installed" FontStyleName="Bold Oblique" FontType="TrueType" WritingScript="0" FullName="Helvetica Bold Oblique" FullNameNative="Helvetica Bold Oblique" FontStyleNameNative="Bold Oblique" PlatformName="$ID/" Version="17.0d1e1" TypekitID="$ID/" />
+	</FontFamily>
 	<CompositeFont Self="CompositeFont/$ID/[No composite font]" Name="$ID/[No composite font]">
 		<CompositeFontEntry Self="u91" Name="$ID/Kanji" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" Locked="true" ScaleOption="true" BaselineShift="0">
 			<Properties>
@@ -260,6 +268,13 @@
 			<Properties>
 				<BasedOn type="string">$ID/[No character style]</BasedOn>
 				<PreviewColor type="enumeration">Nothing</PreviewColor>
+			</Properties>
+		</CharacterStyle>
+		<CharacterStyle Self="CharacterStyle/Italic" Imported="false" SplitDocument="false" EmitCss="true" StyleUniqueId="82af0f78-2ae3-4802-97c4-e6f064e9aba8" IncludeClass="true" ExtendedKeyboardShortcut="0 0 0" KeyboardShortcut="0 0" Name="Italic" FontStyle="Light Italic">
+			<Properties>
+				<BasedOn type="string">$ID/[No character style]</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<AppliedFont type="string">Trade Gothic Next LT Pro</AppliedFont>
 			</Properties>
 		</CharacterStyle>
 		<CharacterStyle Self="CharacterStyle/Bold" Imported="false" SplitDocument="false" EmitCss="true" StyleUniqueId="9dea2593-c473-4cc0-aff2-b14034066ab2" IncludeClass="true" ExtendedKeyboardShortcut="0 0 0" KeyboardShortcut="0 0" Name="Bold" FontStyle="Bold">
@@ -383,21 +398,40 @@
 	<Story Self="u3bf" UserText="true" IsEndnoteStory="false" AppliedTOCStyle="n" TrackChanges="false" StoryTitle="" AppliedNamedGrid="n">
 		<StoryPreference OpticalMarginAlignment="true" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
 		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph" HyphenationZone="35.64356435643565" SpaceAfter="5.613159741170968" RuleAboveLineWeight="0.9900990099009901" RuleBelowLineWeight="0.9900990099009901" SplitColumnInsideGutter="5.9405940594059405" ParagraphBorderTopLeftCornerRadius="0.9900990099009901" ParagraphBorderTopRightCornerRadius="0.9900990099009901" ParagraphBorderBottomLeftCornerRadius="0.9900990099009901" ParagraphBorderBottomRightCornerRadius="0.9900990099009901" ParagraphShadingTopLeftCornerRadius="0.9900990099009901" ParagraphShadingTopRightCornerRadius="0.9900990099009901" ParagraphShadingBottomLeftCornerRadius="0.9900990099009901" ParagraphShadingBottomRightCornerRadius="0.9900990099009901" ParagraphBorderTopLineWeight="0.9900990099009901" ParagraphBorderBottomLineWeight="0.9900990099009901" ParagraphBorderLeftLineWeight="0.9900990099009901" ParagraphBorderRightLineWeight="0.9900990099009901">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph" HyphenationZone="35.64356435643565" SpaceAfter="5.613159741170968" RuleAboveLineWeight="0.9900990099009901" RuleBelowLineWeight="0.9900990099009901" Justification="LeftAlign" SplitColumnInsideGutter="5.9405940594059405" ParagraphBorderTopLeftCornerRadius="0.9900990099009901" ParagraphBorderTopRightCornerRadius="0.9900990099009901" ParagraphBorderBottomLeftCornerRadius="0.9900990099009901" ParagraphBorderBottomRightCornerRadius="0.9900990099009901" ParagraphShadingTopLeftCornerRadius="0.9900990099009901" ParagraphShadingTopRightCornerRadius="0.9900990099009901" ParagraphShadingBottomLeftCornerRadius="0.9900990099009901" ParagraphShadingBottomRightCornerRadius="0.9900990099009901" ParagraphBorderTopLineWeight="0.9900990099009901" ParagraphBorderBottomLineWeight="0.9900990099009901" ParagraphBorderLeftLineWeight="0.9900990099009901" ParagraphBorderRightLineWeight="0.9900990099009901">
 			<Properties>
 				<SameParaStyleSpacing type="unit">-0.9900990099009901</SameParaStyleSpacing>
 			</Properties>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" PointSize="8.910891089108912" StrokeWeight="0.9900990099009901" MiterLimit="3.9603960396039604" RubyFontSize="-0.9900990099009901" KentenFontSize="-0.9900990099009901">
-				<Content>Theory on Demand #61</Content>
-				<Br />
-				<Content>Edited by: Jef Ausloos and Siddharth de Souza</Content>
-				<Br />
-				<Content>Authors: </Content>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" FontStyle="Bold" PointSize="8.910891089108912" StrokeWeight="0.9900990099009901" MiterLimit="3.9603960396039604" RubyFontSize="-0.9900990099009901" KentenFontSize="-0.9900990099009901">
+				<Properties>
+					<Leading type="unit">10.7</Leading>
+				</Properties>
+				<Content>Theory on Demand #61 </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Light">
+				<Properties>
+					<Leading type="unit">10.7</Leading>
+				</Properties>
+				<Content>The Many Faces of Data Access: </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Light">
+				<Properties>
+					<Leading type="unit">10.7</Leading>
+					<AppliedFont type="string">Helvetica</AppliedFont>
+				</Properties>
+				<Content>Legal and Policy Implications for Research </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Properties>
+					<Leading type="unit">10.7</Leading>
+				</Properties>
+				<Content> </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" PointSize="8.910891089108912" StrokeWeight="0.9900990099009901" MiterLimit="3.9603960396039604" RubyFontSize="-0.9900990099009901" KentenFontSize="-0.9900990099009901">
-				<Content>Carolina Aguerre, Frank Kwaku Agyei, Pedro Amaral, Jef Ausloos, Reuben Binns, Lawrence Kwabena Brobbey, Siddharth Peter de Souza, Paul Esselaar, Michalina Kowala, Boateng Kyereh, Matteo Nebbiai, Midas Nouwens, Paul Osei-Tutu, Marcos César M. Pereira, André Ramiro, Jake Stein</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" PointSize="8.910891089108912" StrokeWeight="0.9900990099009901" MiterLimit="3.9603960396039604" RubyFontSize="-0.9900990099009901" KentenFontSize="-0.9900990099009901">
+				<Properties>
+					<Leading type="unit">10.7</Leading>
+				</Properties>
+				<Content>Edited by: Jef Ausloos &amp; Siddharth de Souza</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -406,6 +440,11 @@
 				<SameParaStyleSpacing type="unit">-0.9900990099009901</SameParaStyleSpacing>
 			</Properties>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" PointSize="8.910891089108912" StrokeWeight="0.9900990099009901" MiterLimit="3.9603960396039604" RubyFontSize="-0.9900990099009901" KentenFontSize="-0.9900990099009901">
+				<Properties>
+					<Leading type="unit">10.7</Leading>
+				</Properties>
+				<Content>Authors: Carolina Aguerre, Frank Kwaku Agyei, Pedro Amaral, Jef Ausloos, Reuben Binns, Lawrence Kwabena Brobbey, Siddharth Peter de Souza, Paul Esselaar, Michalina Kowala, Boateng Kyereh, Matteo Nebbiai, Midas Nouwens, Paul Osei-Tutu, Marcos César M. Pereira, André Ramiro, Jake Stein</Content>
+				<Br />
 				<Content>Peer review: All chapters in this book have been subject to two rounds of (single-blind) peer reviews, two rounds of editorial reviews, and a writing workshop</Content>
 				<Br />
 				<Content>Cover Design: Katja van Stiphout </Content>
@@ -418,9 +457,15 @@
 				<Br />
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold" PointSize="8.910891089108912" StrokeWeight="0.9900990099009901" MiterLimit="3.9603960396039604" RubyFontSize="-0.9900990099009901" KentenFontSize="-0.9900990099009901">
+				<Properties>
+					<Leading type="unit">10.7</Leading>
+				</Properties>
 				<Content>Contact</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" PointSize="8.910891089108912" StrokeWeight="0.9900990099009901" MiterLimit="3.9603960396039604" RubyFontSize="-0.9900990099009901" KentenFontSize="-0.9900990099009901">
+				<Properties>
+					<Leading type="unit">10.7</Leading>
+				</Properties>
 				<Content>   Institute of Network Cultures Amsterdam University of Applied Sciences (HvA)  Email: info@networkcultures.org  Web: www.networkcultures.org </Content>
 				<Br />
 				<Content>Order a copy or download this publication for free at: www.networkcultures.org/publications </Content>

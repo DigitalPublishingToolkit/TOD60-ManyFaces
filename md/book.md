@@ -4,11 +4,13 @@
 
 
 
-Theory on Demand #60
+Theory on Demand #61
+
+The Many Faces of Data Access: Legal and Policy Implications for Research
 
 Edited by: Jef Ausloos & Siddharth de Souza
 
-Authors: alphabetical list of all authors?
+Authors: Carolina Aguerre, Frank Kwaku Agyei, Pedro Amaral, Jef Ausloos, Reuben Binns, Lawrence Kwabena Brobbey, Siddharth Peter de Souza, Paul Esselaar, Michalina Kowala, Boateng Kyereh, Matteo Nebbiai, Midas Nouwens, Paul Osei-Tutu, Marcos César M. Pereira, André Ramiro, Jake Stein
 
 
 Peer review: All chapters in this book have been subject to two rounds
@@ -35,6 +37,7 @@ Order a copy or download this publication for free at: www.networkcultures.org/
 This publication is licensed under the Creative Commons Attribution NonCommerical ShareAlike 4.0 Unported (CC BY-NC-SA 4.0). <br/>
 To view a copy of this license, visit www.creativecommons.org/licences/by-nc-sa/4.0./
 
+![](imgs/INC-logoCMYK.png)
 
 
 
@@ -9201,11 +9204,10 @@ projects recognizable as ‘data altruism organisations’ – this would
 prevent chilling effects on data sharing with researchers and allow more
 effective monitoring of (real) data altruism initiatives.
 
-![](imgs/appendix1.png)
+![](imgs/appendix8a.png)
 
-![](imgs/appendix2.png)
+![](imgs/appendix8a-1.png)
 
-![](imgs/appendix3.png)
 
 *Source*: Prepared by the author.
 

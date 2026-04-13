@@ -1607,27 +1607,29 @@
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-20">
 				<Content>Throughout the last decade, concerns have been growing over the (lack of) transparency of digital infrastructures. While these infrastructures have rapidly nested themselves into every part of society – from social and professional contexts to industrial and bureaucratic processes – their inner workings have remained shrouded in secrecy to outside viewers. This fundamentally challenges the ability to observe, and understand, the world around us, whether it be for public scrutiny and accountability purposes or for different kinds of knowledge production more broadly. Indeed, independent researchers – from academia, investigative journalism, and civil society – have decried the many legal, technical, financial, and other obstacles preventing them from observing and scrutinizing the data, algorithms, and general operation of these digital infrastructures.</Content>
 				<Br />
 				<Content>Over the years, a wide variety of measures have been proposed and tested to overcome the obstacles faced. These range from methodological tools developed by the research community (for example, web scraping) to self-regulatory initiatives (for example, data philanthropy) and policy proposals (for example, Article 40 in the European Union’s [EU] Digital Services Act).</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Tracking="-20" Position="Superscript">
 				<Endnote Self="u7aa" EndnoteTextRange="u7ab" />
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-20">
 				<Content> Regulators across the world have recently stepped up, proposing legal frameworks targeting a range of issues raised by digital infrastructures. The EU regulator in particular has put forward a barrage of legislation purported to boost transparency and facilitate data access.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Tracking="-20" Position="Superscript">
 				<Endnote Self="u7b6" EndnoteTextRange="u7b7" />
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-20">
 				<Content> These proposals are primarily conceived in light of internal market goals, often disregarding alternative purposes and interests: from holding different sources of power to account to diverse forms of knowledge production in a digitally intermediated world. Data access for independent research – the central theme in this volume – only features in the margins of these new frameworks, if at all.</Content>
 				<Br />
 				<Content>The explosion of new and proposed legal frameworks can also lead to regulatory inflation, which is the increase in regulatory requirements, overwhelming under-resourced and under-represented interest groups in trying to make sense of transparency and access provisions. More often than not, overambitious legislative action may effectively result in a denial-of-service attack, hijacking the limited resources, capacity, and imaginaries of change of those they purport to empower. As such, while ostensibly aiming to reign in the power of digital infrastructures, these new legal frameworks when combined may further solidify the power of those with the resources to manage the operationalization of the law.</Content>
 				<Br />
 				<Content>This tumultuous landscape of multifarious legislative action along with the political economy of digital infrastructures more broadly also calls for a reappraisal of the need and conditions for independent research in the first place. Transparency and data access for independent researchers may seem laudable goals in the abstract, but to what end? What and whom do these debates obscure? What are, or should be, the goals and interests of (academic) researchers demanding access to digital infrastructures? In short, there is a clear need for critical and global reflection on how new data access rules shape research agendas but also on the positionality of different actors in these debates.</Content>
 				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>This is why, in March 2023, we organized a small-scale workshop at the Institute for Information Law, University of Amsterdam. The explicit goal was to bring together a group of academics from different backgrounds and provide a platform for critically exploring key issues relating to the regulation of access to data for research. Around 30 participants were selected based on a call for participation, with particular attention to geographical, disciplinary, and career-level diversity. To facilitate this, we were lucky enough to secure institutional funding for covering travel expenses of participants from five different continents.</Content>
 				<Br />
 				<Content>Participants were invited to submit draft papers presenting their ideas and provocations on a range of themes and questions. These were circulated beforehand and discussed in depth during the workshop. During these discussions, we debated issues such as the opportunities and challenges of the law as a tool for observing digital infrastructures; how data access regimes may privilege certain geographical and institutional contexts; and how it may affect different kinds of dependencies. We also discussed work that critically looks at academia’s data production, use, and ownership, as well as the political economy of data access for research and the multifarious power dynamics between academia, private/ public sector, and civil society.</Content>
@@ -1637,7 +1639,18 @@
 				<Content>As academics are increasingly demanding for data access to digital infrastructures, and a growing number of data access regimes are seeing the light of day, it is important to keep asking big and critical questions: What is the agenda-setting power afforded by data access regimes? Whom are these regimes for, or whom should they be for in light of the politics of knowledge production? How do they nurture and/or challenge existing structures of power in academia, politics, and industry? While this volume certainly does not purport to answer these vital questions, we hope that it does reveal the richness of the debate, prompt new questions, and inspire to challenge existing paradigms.</Content>
 				<Br />
 				<Content>Before getting to the different contributions, we want to use this introductory chapter to explore – what we consider – a few pivotal concepts in the debate on researcher data access to digital infrastructures. Specifically, we look at the notion of ‘data access’ and its different epistemologies. Building on this, we also consolidate different critical perspectives on researcher data access into the notion of the ‘academic data gaze’. This, finally, will also allow us to uncover some of the underlying power dynamics at play in these issues and debates.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" ParagraphBreakType="NextPage">
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>All in all, we want this chapter to invite the academic community to self-reflect on critical questions brought to the surface in the researcher data access debate. Pluralizing what we understand data to be, data to do, and data access to include; the role of academia as agents to challenge data-driven power; as well as academia’s own complicity in allowing structures of power. Put differently, we cannot be content with taking data access provisions and academic claims to data at face value but need to consider their underlying logics and politics.</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Position="Superscript">
@@ -1650,8 +1663,8 @@
 				<Endnote Self="u7ba" EndnoteTextRange="u7bb" />
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> This volume is therefore an opportunity to unpack tensions that emerge in securing data access for researchers, while also be</Content>
-				<Content>ing conscious that the contexts within which this work is produced, and our conferences are organized, remain places of immense privilege.</Content>
+				<Content> This volume is therefore an opportunity to unpack tensions that emerge in securing data access for researchers, while also b</Content>
+				<Content>eing conscious that the contexts within which this work is produced, and our conferences are organized, remain places of immense privilege.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -1826,8 +1839,8 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> Not engaging through this language therefore limits the agency and autonomy of people, whether individuals or groups, to take actions which are in their interest.</Content>
 				<Br />
-				<Content>A second aspect in relation to data access is to examine who has the capacity to make sense of the data once access is provided. For access to be meaningful, it also requires the technical know-how to be able to make sense of the data. Consequently, we see an emergence of power hierarchies in terms of not only the form of data that is being made available but also the emergence of those that then act as interpreters, interlocutors, and potentially gatekeepers of the knowledge of the data. I</Content>
-				<Content>n this regard, those that have data access become critical in terms of not just holding knowledge but also determining the governance of data.</Content>
+				<Content>A second aspect in relation to data access is to examine who has the capacity to make sense of the data once access is provided. For access to be meaningful, it also requires the technical know-how to be able to make sense of the data. Consequently, we see an emergence of power hierarchies in terms of not only the form of data that is being made available but also the emergence of those that then act as interpreters, interlocutors, and potentially gatekeepers of the knowledge of the data. </Content>
+				<Content>In this regard, those that have data access become critical in terms of not just holding knowledge but also determining the governance of data.</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Position="Superscript">
 				<Endnote Self="u7f7" EndnoteTextRange="u7f8" />
@@ -2057,8 +2070,8 @@
 				<Br />
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>Ironically, the ample critique (often coming from academia) on the public and private sectors’ embrace of data-driven processes and the numerous issues it presents has not prevented many academic disciplines from going down the same path. All too often ‘more data’ is automatically seen as leading to ‘better research outcomes’, without a clear sense of what those outcomes ought to be in the firs</Content>
-				<Content>t place or a reflection on alternative research methodologies.</Content>
+				<Content>Ironically, the ample critique (often coming from academia) on the public and private sectors’ embrace of data-driven processes and the numerous issues it presents has not prevented many academic disciplines from going down the same path. All too often ‘more data’ is automatically seen as leading to ‘better research outcomes’, without a clear sense of what those outcomes ought to be in the fir</Content>
+				<Content>st place or a reflection on alternative research methodologies.</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Position="Superscript">
 				<Endnote Self="u842" EndnoteTextRange="u843" />
@@ -2218,8 +2231,8 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> It is an institutional power because it intrinsically influences how emergency teams will be able to respond, ask for help, and document atrocities being committed. It is also societal power, shaping the ways in which people will know about these crises and how they make sense of their role in such a situation.</Content>
 				<Br />
-				<Content>The criticality of data access is even more apparent in the Palestinian context, when the former president of the United States (US), despite the vast amount of verified images and video material showing shocking amounts of human and material devastation, said, ‘I h</Content>
-				<Content>ave no notion that Palestinians are telling the truth about how many people are killed.’</Content>
+				<Content>The criticality of data access is even more apparent in the Palestinian context, when the former president of the United States (US), despite the vast amount of verified images and video material showing shocking amounts of human and material devastation, said, ‘I </Content>
+				<Content>have no notion that Palestinians are telling the truth about how many people are killed.’</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Position="Superscript">
 				<Endnote Self="u878" EndnoteTextRange="u879" />
@@ -2331,8 +2344,8 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-15">
-				<Content>Critical to our understanding of data access is the reality that just providing such access is insufficient. Access requires an enabling environment where people have the capacity, resources, skills, and time to use such access to achieve desirable outcomes. This part of the volume discusses various challenges both to the EU conceptualization of data access rights and more generally in terms of the challenges of researching digital platforms and infrastructures. It explores across contexts, both jurisdictional as well as domain-wide, how using data access for accountability and transparency requires more than just access rights and instead requires institutional capacity. Such capacity oftentimes is not available in academic and civil society institutions, and the chapters caution us whethe</Content>
-				<Content>r access rights create dependencies on actors who do not have the capacity to be able to make use of the rights.</Content>
+				<Content>Critical to our understanding of data access is the reality that just providing such access is insufficient. Access requires an enabling environment where people have the capacity, resources, skills, and time to use such access to achieve desirable outcomes. This part of the volume discusses various challenges both to the EU conceptualization of data access rights and more generally in terms of the challenges of researching digital platforms and infrastructures. It explores across contexts, both jurisdictional as well as domain-wide, how using data access for accountability and transparency requires more than just access rights and instead requires institutional capacity. Such capacity oftentimes is not available in academic and civil society institutions, and the chapters caution us wheth</Content>
+				<Content>er access rights create dependencies on actors who do not have the capacity to be able to make use of the rights.</Content>
 				<Br />
 				<Content>Chapter 5 looks at transparency and data access in the context of accountability of public authorities, specifically law enforcement and intelligence agencies. André Ramiro, Pedro Amaral, and Marcos César M. Pereira in chapter 5, ‘Keys Thrown Away?’, reflect on their own experience of conducting an empirical research project involving the strategic use of freedom of information laws in Brazil. This self-reflective study exposes important limitations to research into government surveillance infrastructures, through convoluted claims to secrecy. As such, the chapter also shows us the dangers of ‘pretend-transparency’ for democratic oversight.</Content>
 				<Br />

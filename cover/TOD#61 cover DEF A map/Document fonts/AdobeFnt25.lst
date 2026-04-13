@@ -1,0 +1,98 @@
+%!Adobe-FontList 1.25
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Volumes/Katja 1TB 25/Projecten C/netwerkcultuur/Theory on demand/ TOD covers def Folder/TOD#60 cover DEFDEF spine map/Document fonts/AdobeFnt25.lst
+FileLength:2754
+FileModTime:794915260
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTPro-Bd
+FamilyName:Helvetica Neue LT Pro
+StyleName:75 Bold
+MenuName:HelveticaNeueLT Pro 55 Roman
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Helvetica Neue LT Pro 75 Bold
+WritingScript:Roman
+OutlineFileName:/Volumes/Katja 1TB 25/Projecten C/netwerkcultuur/Theory on demand/ TOD covers def Folder/TOD#60 cover DEFDEF spine map/Document fonts/HelveticaNeueLTPro-Bd.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:35688
+FileModTime:719235404
+NameArray:0,Mac,18,HelveticaNeueLT Pro 75 Bd
+NameArray:0,Mac,4,Helvetica Neue LT Pro 75 Bold
+NameArray:0,Win,1,HelveticaNeueLT Pro 55 Roman
+NameArray:0,Win,16,Helvetica Neue LT Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTPro-Lt
+FamilyName:Helvetica Neue LT Pro
+StyleName:45 Light
+MenuName:HelveticaNeueLT Pro 45 Lt
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Helvetica Neue LT Pro 45 Light
+WritingScript:Roman
+OutlineFileName:/Volumes/Katja 1TB 25/Projecten C/netwerkcultuur/Theory on demand/ TOD covers def Folder/TOD#60 cover DEFDEF spine map/Document fonts/HelveticaNeueLTPro-Lt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:43800
+FileModTime:719235407
+NameArray:0,Mac,18,HelveticaNeueLT Pro 45 Lt
+NameArray:0,Mac,4,Helvetica Neue LT Pro 45 Light
+NameArray:0,Win,1,HelveticaNeueLT Pro 45 Lt
+NameArray:0,Win,16,Helvetica Neue LT Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTPro-LtIt
+FamilyName:Helvetica Neue LT Pro
+StyleName:46 Light Italic
+MenuName:HelveticaNeueLT Pro 45 Lt
+StyleBits:1
+WeightClass:300
+WidthClass:5
+AngleClass:1
+FullName:Helvetica Neue LT Pro 46 Light Italic
+WritingScript:Roman
+OutlineFileName:/Volumes/Katja 1TB 25/Projecten C/netwerkcultuur/Theory on demand/ TOD covers def Folder/TOD#60 cover DEFDEF spine map/Document fonts/HelveticaNeueLTPro-LtIt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:39948
+FileModTime:719235404
+NameArray:0,Mac,18,HelveticaNeueLT Pro 46 LtIt
+NameArray:0,Mac,4,Helvetica Neue LT Pro 46 Light Italic
+NameArray:0,Win,1,HelveticaNeueLT Pro 45 Lt
+NameArray:0,Win,16,Helvetica Neue LT Pro
+%EndFont
+
